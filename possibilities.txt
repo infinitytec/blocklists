@@ -2,3 +2,5 @@
 0.0.0.0 ws-afb3a55b-8275-4c1e-aea8-309842798187.sendbird.com
 0.0.0.0 hulu.hb.omtrdc.net
 0.0.0.0 mobilecrashreporting.googleapis.com
+0.0.0.0 config2.mparticle.com
+0.0.0.0 manifest.hulustream.com
