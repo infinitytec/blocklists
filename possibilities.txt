@@ -4,3 +4,4 @@
 0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 manifest.hulustream.com
+0.0.0.0 gate.hockeyapp.net
