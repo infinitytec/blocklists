@@ -4,3 +4,5 @@
 0.0.0.0 surveysonthego.net
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 gimbal.com
+0.0.0.0 adserver.pandora.com
+0.0.0.0 ads-e-darwin.hulustream.com
