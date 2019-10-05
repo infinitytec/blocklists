@@ -7,3 +7,5 @@
 0.0.0.0 adserver.pandora.com
 0.0.0.0 ads-e-darwin.hulustream.com
 0.0.0.0 ads-serve.brave.com
+0.0.0.0 config2.mparticle.com
+0.0.0.0 sdk.ibm.xtify.com
