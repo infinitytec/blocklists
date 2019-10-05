@@ -5,3 +5,10 @@
 0.0.0.0 config2.mparticle.com
 0.0.0.0 manifest.hulustream.com
 0.0.0.0 gate.hockeyapp.net
+0.0.0.0 a151.g.akamai.net
+0.0.0.0 api.intelsa.intel.com
+0.0.0.0 osce11-0-en.url.trendmicro.com
+0.0.0.0 activity.windows.com
+0.0.0.0 clientconfig.akamai.steamstatic.com
+0.0.0.0 log.client.akadns.net
+0.0.0.0 surveysonthego.net
