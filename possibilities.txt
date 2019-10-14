@@ -12,3 +12,4 @@
 0.0.0.0 clientconfig.akamai.steamstatic.com
 0.0.0.0 log.client.akadns.net
 0.0.0.0 surveysonthego.net
+0.0.0.0 mobilecrashreporting.googleapis.com
