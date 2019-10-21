@@ -1,6 +1,8 @@
 # Scams, phishing, and malware sites. Bad places.
 # List maintained by infinitytec.
 # Released under the MIT license.
+# False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+
 
 0.0.0.0 gamestop-promo-blog.blogspot.com
 0.0.0.0 teamppv.jordanappvideoscanpy.us
