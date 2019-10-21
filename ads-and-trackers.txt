@@ -1,3 +1,7 @@
+# Ad domains.
+# List maintained by infinitytec.
+# Released under the MIT license.
+
 0.0.0.0 ads-e-darwin.hulustream.com
 0.0.0.0 ads-serve.brave.com
 0.0.0.0 adserver.pandora.com
