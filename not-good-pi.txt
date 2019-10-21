@@ -1,3 +1,7 @@
+# Sketchy-looking Pi-hole knockoff products.
+# List will no longer be maintained; I am merging it with the scams and phishing list. This one will remain available in case anyone is using it.
+# Released under the MIT license.
+
 0.0.0.0 dnslockbox.com
 0.0.0.0 1coolbox.com
 0.0.0.0 m.dnslockbox.com
