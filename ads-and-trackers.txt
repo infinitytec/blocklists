@@ -1,6 +1,7 @@
 # Ad domains.
 # List maintained by infinitytec.
 # Released under the MIT license.
+# False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
 0.0.0.0 ads-e-darwin.hulustream.com
 0.0.0.0 ads-serve.brave.com
