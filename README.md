@@ -2,14 +2,17 @@
 
 ## Ads and trackers
 Ads and tracking hosts I have seen around the Internet. Some are rare. Some are popular.
+
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/ads-and-trackers.txt)
 
 ## Scams and phishing
 Because they don't deserve your traffic. Blocked include financial schemes, imitation sites, and people trying to take advantage of others.
+
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt)
 
 ## Possibilities
 Domains that may be problematic. If anyone knows anything about these, please let me know. I do not recommend using this on a daily basis, as they may just break things.
+
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/possibilities.txt)
 
 ## Not Good Pi
