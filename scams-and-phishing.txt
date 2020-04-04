@@ -1,12 +1,14 @@
-# Scams, phishing, and malware sites. Bad places.
+# Scams, phishing, and malware sites. Bad places. Also people who want your clicks for nefarious purposes, such as fake news.
 # List maintained by infinitytec.
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+# Last update: Apr. 3 2020
 
 0.0.0.0 1coolbox.com
 0.0.0.0 api.a0ndi.cn
 0.0.0.0 api.xxpxkj.com
 0.0.0.0 app5309.nonamealms11.live
+0.0.0.0 asdasdad.net
 0.0.0.0 best.prizedea2020.info
 0.0.0.0 best.prizedea2030.info
 0.0.0.0 best0686.nonamejhop26.live
@@ -16,17 +18,21 @@
 0.0.0.0 check-windows-forcleaning.life
 0.0.0.0 click4kash.com
 0.0.0.0 competition0384.nonameonln47.live
+0.0.0.0 contentfilled.com
 0.0.0.0 cybereveryday02.space
 0.0.0.0 dash.click4kash.com
 0.0.0.0 dash.moneygenie.co
 0.0.0.0 dash.tap2earn.co
+0.0.0.0 devtechiewebmine.icu
 0.0.0.0 dnslockbox.com
+0.0.0.0 freemineapplicationads.icu
 0.0.0.0 gamestop-promo-blog.blogspot.com
 0.0.0.0 injury-check.com
 0.0.0.0 ios-obaldo-01.blogspot.com
 0.0.0.0 litebucks.com
 0.0.0.0 m.1coolbox.com
 0.0.0.0 m.dnslockbox.com
+0.0.0.0 managemydocuhghes.secpssotel.us
 0.0.0.0 mobapp-center.info
 0.0.0.0 mobapp-center1.info
 0.0.0.0 mobappcenter3.com
@@ -35,6 +41,8 @@
 0.0.0.0 mon-thu101.life
 0.0.0.0 moneygenie.co
 0.0.0.0 mypdftab.co
+0.0.0.0 newsandpromotions.com
+0.0.0.0 nioohaa.com
 0.0.0.0 nonamedvlp59.live
 0.0.0.0 nonameghjd95.live
 0.0.0.0 nonamejhop47.live
@@ -43,6 +51,7 @@
 0.0.0.0 nonamerbon4.live
 0.0.0.0 pkke33.cn
 0.0.0.0 privacy-policy.injury-check.com
+0.0.0.0 privacydevaiapplication.icu
 0.0.0.0 privacypolicy.qualified-case.com
 0.0.0.0 prize2894.nonamerbon4.live
 0.0.0.0 prize7772.nonamedvlp59.live
@@ -54,14 +63,21 @@
 0.0.0.0 refer4me.co
 0.0.0.0 roundup-danger.injury-check.com
 0.0.0.0 roundup-y-linfoma.caso-calificado.com
+0.0.0.0 secpssotel.us
 0.0.0.0 secure.cybereveryday02.space
 0.0.0.0 server1.a0ndi.cn
+0.0.0.0 shoppingstylepros.com
+0.0.0.0 surveyonline.top
 0.0.0.0 sweeps3028.nonamejhop47.live
 0.0.0.0 sweeps5913.nonamerbon15.live
+0.0.0.0 t-online.de
 0.0.0.0 tap2earn.co
 0.0.0.0 teamppv.jordanappvideoscanpy.us
+0.0.0.0 todaysdailyreports.com
 0.0.0.0 tyblk.info
+0.0.0.0 upsaibou.net
 0.0.0.0 videolan-free.com
+0.0.0.0 viralplot.com
 0.0.0.0 viralupdatestoday.com
 0.0.0.0 vlc.media
 0.0.0.0 vlc.onl
@@ -70,17 +86,51 @@
 0.0.0.0 win3.viralupdatestoday.com
 0.0.0.0 win4.viralupdatestoday.com
 0.0.0.0 win5.viralupdatestoday.com
-0.0.0.0 ywnvnalo.vite.pw
-0.0.0.0 secpssotel.us
-0.0.0.0 managemydocuhghes.secpssotel.us
-0 0.0.0 privacydevaiapplication.icu
-0.0.0.0 newsandpromotions.com
-0.0.0.0 asdasdad.net
-0.0.0.0 upsaibou.net
-0.0.0.0 shoppingstylepros.com
-0.0.0.0 todaysdailyreports.com
-0.0.0.0 surveyonline.top
-0.0.0.0 t-online.de
-0.0.0.0 www7.inspireddaily.xyz
-0.0.0.0 nioohaa.com
+0.0.0.0 www.1coolbox.com
+0.0.0.0 www.asdasdad.net
+0.0.0.0 www.boot-upintenselypreciseproduct.icu
+0.0.0.0 www.buycicretofficial.com
+0.0.0.0 www.cash4clickz.com
+0.0.0.0 www.check-windows-forcleaning.life
+0.0.0.0 www.click4kash.com
+0.0.0.0 www.contentfilled.com
+0.0.0.0 www.cybereveryday02.space
+0.0.0.0 www.devtechiewebmine.icu
+0.0.0.0 www.dnslockbox.com
+0.0.0.0 www.freemineapplicationads.icu
+0.0.0.0 www.injury-check.com
+0.0.0.0 www.litebucks.com
+0.0.0.0 www.mobapp-center.info
+0.0.0.0 www.mobapp-center1.info
+0.0.0.0 www.mobappcenter3.com
+0.0.0.0 www.mon-thu101.life
+0.0.0.0 www.moneygenie.co
+0.0.0.0 www.mypdftab.co
+0.0.0.0 www.newsandpromotions.com
 0.0.0.0 www.nioohaa.com
+0.0.0.0 www.nonamedvlp59.live
+0.0.0.0 www.nonameghjd95.live
+0.0.0.0 www.nonamejhop47.live
+0.0.0.0 www.nonameonln47.live
+0.0.0.0 www.nonamerbon15.live
+0.0.0.0 www.nonamerbon4.live
+0.0.0.0 www.pkke33.cn
+0.0.0.0 www.privacydevaiapplication.icu
+0.0.0.0 www.prizedea2030.info
+0.0.0.0 www.qualified-case.com
+0.0.0.0 www.refer4me.co
+0.0.0.0 www.secpssotel.us
+0.0.0.0 www.shoppingstylepros.com
+0.0.0.0 www.surveyonline.top
+0.0.0.0 www.t-online.de
+0.0.0.0 www.tap2earn.co
+0.0.0.0 www.todaysdailyreports.com
+0.0.0.0 www.tyblk.info
+0.0.0.0 www.upsaibou.net
+0.0.0.0 www.videolan-free.com
+0.0.0.0 www.viralplot.com
+0.0.0.0 www.viralupdatestoday.com
+0.0.0.0 www.vlc.media
+0.0.0.0 www.vlc.onl
+0.0.0.0 www7.inspireddaily.xyz
+0.0.0.0 ywnvnalo.vite.pw
