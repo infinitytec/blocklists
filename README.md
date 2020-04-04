@@ -6,7 +6,9 @@ Ads and tracking hosts I have seen around the Internet. Some are rare. Some are 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/ads-and-trackers.txt)
 
 ## Scams and phishing
-Because they don't deserve your traffic. Blocked include financial schemes, imitation sites, and people trying to take advantage of others.
+Because they don't deserve your traffic. Blocked include financial schemes, imitation sites, malware, and people trying to take advantage of others through various things including fake news and misleading information.
+
+This blocklist receives the most updates.
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt)
 
