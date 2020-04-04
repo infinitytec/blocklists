@@ -9,12 +9,16 @@
 0.0.0.0 calytics.ml
 0.0.0.0 config2.mparticle.com
 0.0.0.0 gimbal.com
+0.0.0.0 www.gimbal.com
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 sdk.ibm.xtify.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 surveysonthego.net
+0.0.0.0 www.surveysonthego.net
 0.0.0.0 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 0.0.0.0 best.playlistcurators.club
 0.0.0.0 aii.sh
+0.0.0.0 www.aii.sh
 0.0.0.0 shrink.pe
+0.0.0.0 www.shrink.pe
