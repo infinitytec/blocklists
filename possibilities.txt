@@ -16,4 +16,7 @@
 0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 osce11-0-en.url.trendmicro.com
 0.0.0.0 freescore360.com
-0.0.0.p we.runitbro.com
+0.0.0.0 we.runitbro.com
+
+#possible scam sites
+0.0.0.0 www.evergreenleadmachine.com
