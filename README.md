@@ -12,10 +12,18 @@ This blocklist receives the most updates.
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt)
 
+## Adfilters
+Adfilters in the format used by uBlock Origin and Adblock Plus.
+
+Also receives frequent updates.
+
+[Static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt)
+
 ## Possibilities
 Domains that may be problematic. If anyone knows anything about these, please let me know. I do not recommend using this on a daily basis, as they may just break things.
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/possibilities.txt)
+
 
 ## Not Good Pi
 No longer maintained in favor of the more generic scams and phishing list.
