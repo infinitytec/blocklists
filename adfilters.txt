@@ -1,0 +1,410 @@
+! Advertisement blocking filters by infinitytec.
+! This list is for blocking ads. It is in the format used by uBlock Origin and Adblock Plus.
+! Released under the MIT license.
+abc6onyourside.com##.Display_displayAd__3G6mk
+abc6onyourside.com##.Display_displayAd__FdpK
+abc6onyourside.com##.ddb-container
+abc6onyourside.com##.index_adWrapper__33_S
+abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailBottom__1D0Z.index_panel__2hRY
+abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
+abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailBottom__1D0Z.index_panel__2hRY
+abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
+babylonbee.com##.text-center.sticky-footer-image
+bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
+bongino.com##div:nth-of-type(3) > .ai-attributes > .code-block-label
+boonevilledemocrat.com##.ad-container
+butlercountytimesgazette.com##.ad-container
+cbsaustin.com###interstory_first_ddb_0
+cbsaustin.com###interstory_first_ddb_1
+cbsaustin.com###interstory_second_ddb_0
+cbsaustin.com##div:nth-of-type(1) > .index_adBeforeContent__j4lF
+cbsaustin.com##div:nth-of-type(2) > .index_adBeforeContent__j4lF
+cgtips.org##.xlwXYROtlQoi-bg
+cgtips.org##.xlwXYROtlQoi-default
+coinmarketcap.com##.cmc-details-panel-buy-buttons
+coinmarketcap.com##.draeOX.sc-1bks9yb-0.cmc-sponsored-link > .cmc-link
+columbiadailyherald.com##.ad-container
+cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
+cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
+cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
+devilslakejournal.com##.ad-container
+div.widget:nth-of-type(1)
+div:nth-of-type(1)
+div:nth-of-type(5)
+en.softonic.com###aside-top-app-download-page-desktop-wrapper > .ad-content-wrapper > .adblock-fallback
+en.softonic.com###header-bar-avast-hb
+en.softonic.com###top-leaderboard-app-download-page-desktop-wrapper
+en.softonic.com###top-leaderboard-app-page-desktop-wrapper
+en.softonic.com##.ad-content-wrapper
+etherscan.io###revive-0-0
+etherscan.io##.showcase-banner-spacing
+filehippo.com##.avast-promo
+filehippo.com##.modal-di-ad-guardian-plus
+filehippo.com##.video-player
+futures.tradingcharts.com###mrABMessage_box_85995
+futures.tradingcharts.com###mrABMessage_top_85995
+gadsdentimes.com##.ad-container
+harveycountynow.com##.sidebar
+journaldemocrat.com##.ad-container
+jsfiddle.net###keep-us-running
+linuxmint.com##.ads
+linuxmint.com##.sponsors
+linuxmint.com##h3:nth-of-type(2)
+linuxmint.com##h3:nth-of-type(3)
+m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
+m.aliexpress.com##.download-bar
+m.imdb.com###inline40
+m.imdb.com###inline40_inline_wrapper
+m.imdb.com###inline40_placeholder_wrapper
+m.imdb.com###inline60
+m.imdb.com###inline60_wrapper
+m.imdb.com###placeholderImageLinearGradient
+m.imdb.com###placeholderImageMask
+mediabiasfactcheck.com##.textwidget
+mtshastanews.com##.ad-container
+news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
+newsguardwatch.com##.BCRADUEVWSTX
+newsguardwatch.com##.BCRADUEVWSTX >
+newsguardwatch.com##.FEHACDBGMNOP
+newstribune.info##.ad-container
+ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(3)
+ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(4)
+politics.theonion.com##.dhblvL.sc-1893fh8-0.active.js_slide > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(2) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic > .dciqNP.bxm4mm-3.bxm4mm-1
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(2) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit > .eblHLt.bxm4mm-6
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(2) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic > .iXYVqp.bxm4mm-2.bxm4mm-1
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(3) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(4) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(5) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(6) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(7) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(8) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(9) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+pressargus.com##.ad-container
+prodesigntools.com###southsidebar >
+prodesigntools.com###wpfront-notification-bar
+prodesigntools.com##.content >
+prodesigntools.com##.essb-subscribe-form-inline.essb-subscribe-form-1318057336.essb-subscribe-form
+prodesigntools.com##.essb-subscribe-from-design5.essb-subscribe-form-content
+providencejournal.com##.ad-container
+recyclenation.com##.eri-services-h02.eri-services > [href^="https://eridirect.com/"]
+recyclenation.com##.eri-services-v01.eri-services > [href^="https://eridirect.com/"]
+recyclenation.com##.eri-services-v02.eri-services > [href^="https://eridirect.com/"]
+ridgecrestca.com##.ad-container
+seacoastonline.com##.ad-container
+search.earth911.com##.enhanced-banner
+siskiyoudaily.com##.ad-container
+smile.amazon.com###pdagSparkleAdFeedback
+sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(3)
+sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(4)
+sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(5)
+sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(6)
+sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(7)
+sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(8)
+sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(9)
+sweeps3028.nonamejhop47.live
+taftmidwaydriller.com##.ad-container
+thehill.com###block-block-3 > p
+thehill.com###dfp-ad-mos_1
+thehill.com###dfp-ad-mos_2
+thehill.com###dfp-ad-mos_3
+thehill.com###dfp-ad-mos_4
+tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
+tuscaloosanews.com##.ad-container
+walletinvestor.com###bio_ep_bg
+walletinvestor.com###bio_ep_close
+walletinvestor.com##.bit-image
+walletinvestor.com##.header-image
+walletinvestor.com##.noticer-wrapper
+wcfcourier.com##.ad-col
+wcfcourier.com##.item-ad
+weebly.com##.footer-published-ab-powered-by
+work.chron.com###top-300
+work.chron.com##.leaderboard
+www-1.kansas.com###cnx-adUnit-overlay
+www-1.kansas.com###hpphmf_bet_jgsbnf_\/7675\/XDI\.wfoeps-bqpnbzb_lbotbt\/Ofxt\/Obujpobm\/HpwuQpmjujdt_2__dpoubjofs__
+www-1.kansas.com###hpphmf_bet_jgsbnf_\/7675\/XDI\.wfoeps-bqpnbzb_lbotbt\/Ofxt\/Obujpobm\/HpwuQpmjujdt_7
+www-1.kansas.com###hpphmf_bet_jgsbnf_\/7675\/XDI\.wfoeps-bqpnbzb_lbotbt\/Ofxt\/Obujpobm\/HpwuQpmjujdt_7__dpoubjofs__
+www-1.kansas.com###mn-gpt-1
+www-1.kansas.com###mn-gpt-10
+www-1.kansas.com###mn-gpt-11
+www-1.kansas.com###mn-gpt-12
+www-1.kansas.com###mn-gpt-13
+www-1.kansas.com###mn-gpt-14
+www-1.kansas.com###mn-gpt-15
+www-1.kansas.com###mn-gpt-2
+www-1.kansas.com###mn-gpt-3
+www-1.kansas.com###mn-gpt-4
+www-1.kansas.com###mn-gpt-5
+www-1.kansas.com###mn-gpt-6
+www-1.kansas.com###mn-gpt-7
+www-1.kansas.com###mn-gpt-8
+www-1.kansas.com###mn-gpt-9
+www-1.kansas.com###trending-stories > .connatix
+www-1.kansas.com##.be-xjehfu
+www-1.kansas.com##.nativo-placeholder
+www-1.kansas.com##.ntv-hp
+www-1.kansas.com##.ntvAdChoicesLink
+www-1.kansas.com##.px-0
+www-1.kansas.com##.weathermedia
+www-1.kansas.com##.zone-el
+www.azcentral.com##.taboola-sidebar
+www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
+www.citefast.com###banner2content
+www.citefast.com###myleftad
+www.cnx-software.com###custom_html-2
+www.cyberciti.biz###blocker7a1003a
+www.dailymail.co.uk###stickyBanner
+www.dailywire.com##.e1rizci20
+www.dailywire.com##.e1rizci20.css-aaga2i
+www.dailywire.com##.ehgqkai0.css-5fqhws > div:nth-of-type(1)
+www.dailywire.com##.enc9ux60.css-sabs64.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(1)
+www.dailywire.com##.enc9ux60.css-sabs64.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(1) > div
+www.dailywire.com##.enc9ux60.css-sabs64.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(2)
+www.dailywire.com##.enc9ux60.css-sabs64.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(3)
+www.dailywire.com##.enc9ux60.css-sabs64.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(4)
+www.dailywire.com##.enc9ux60.css-swsruc.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(1) > div
+www.dailywire.com##.enc9ux60.css-swsruc.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(2)
+www.dailywire.com##.enc9ux60.css-swsruc.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(3)
+www.dailywire.com##.enc9ux60.css-swsruc.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(4)
+www.dailywire.com##.text-ad
+www.dailywire.com##.text-ads
+www.dailywire.com##.textAd
+www.dailywire.com##.text_ad
+www.dailywire.com##.text_ads
+www.dictionary.com###dcomMobileSERPDisplayTopAd-300x250
+www.digminecraft.com###pre_header
+www.digminecraft.com###sabl
+www.digminecraft.com##.bottom_slot
+www.digminecraft.com##.left_slot
+www.duplichecker.com##.aadd_box1586235171
+www.duplichecker.com##.dpn
+www.duplichecker.com##.search-panel-sec
+www.duplichecker.com##.search_bar_area.container-fluid
+www.duplichecker.com##.tool_bg.col-md-12 > .text-center.aadd_box1586235442
+www.duplichecker.com##.w768.container > .col-md-12 > .text-center.aadd_box1586235171
+www.duplichecker.com##div.text-center.aadd_box1586235442:nth-of-type(3)
+www.duplichecker.com##div.text-center.aadd_box1586235442:nth-of-type(7)
+www.economist.com###HomepageAd1
+www.economist.com###HomepageAd2
+www.economist.com###HomepageAd3
+www.economist.com###gpt-ad-slot-regwall
+www.foxbusiness.com###ad-desktop*
+www.foxbusiness.com###ad-desktop-970x250-970x66-728x90
+www.foxbusiness.com##.9e50yzmdbhl2
+www.foxbusiness.com##.ad
+www.foxbusiness.com##.ad-container.desktop
+www.foxbusiness.com##.ad-container.snapshot
+www.foxbusiness.com##.ad.gpt
+www.foxbusiness.com##.advert
+www.foxbusiness.com##.advert-txt
+www.foxbusiness.com##.af7wwk4mck4h
+www.foxbusiness.com##.agzflsdpp5rg
+www.foxbusiness.com##.cxowxdgj09e8
+www.foxbusiness.com##.desktop.ad-container > .advert-txt
+www.foxbusiness.com##.dlo0c1aws1gr
+www.foxbusiness.com##.ga46xowsn8yf
+www.foxbusiness.com##.hl3in5oi7nl4
+www.foxbusiness.com##.kc1ni2887owq
+www.foxbusiness.com##.msee5jrsibqp
+www.foxbusiness.com##.n20yejusk4xp
+www.foxbusiness.com##.notification-banner
+www.foxbusiness.com##.pre-content > .desktop.ad-container
+www.foxbusiness.com##.r4hn728tepnf
+www.foxbusiness.com##.t03nb4wbdhx3
+www.foxbusiness.com##.uokmic236xqp
+www.foxbusiness.com##.wbwlbca97u5p
+www.foxbusiness.com##div.advert:nth-of-type(1) > .desktop.ad-container > .advert-txt
+www.foxbusiness.com##div.advert:nth-of-type(2) > .desktop.ad-container > .advert-txt
+www.foxnews.com###ad-desktop*
+www.foxnews.com##.2dljboeuvesj
+www.foxnews.com##.3h9asdhrft74
+www.foxnews.com##.40743aacrnbk
+www.foxnews.com##.4hrvwbx3om6t
+www.foxnews.com##.5y5jzryx9rt3
+www.foxnews.com##.7x82swmagu49
+www.foxnews.com##.ad-container.desktop
+www.foxnews.com##.ad.gpt
+www.foxnews.com##.advert-txt
+www.foxnews.com##.asds2soryc6r
+www.foxnews.com##.d7rmnl6qp7c
+www.foxnews.com##.desktop.ad-container
+www.foxnews.com##.g286pa76zk3h
+www.foxnews.com##.gpt.ad
+www.foxnews.com##.h8vywy5d7n7k
+www.foxnews.com##.jb5ysm1z4ct7
+www.foxnews.com##.liqyu5rvkz9a
+www.foxnews.com##.op8r6fbsvhd9
+www.foxnews.com##.pre-content > .desktop.ad-container
+www.foxnews.com##.q1a1cv3blvhr
+www.foxnews.com##.u4at1esyyrov
+www.foxnews.com##.wiozj5oweqbx
+www.foxnews.com##.wt4toz5rex6e
+www.foxnews.com##.x91mxkf5whlx
+www.foxnews.com##.xb61t03qi8aa
+www.foxnews.com##.yodbo6qjndtf
+www.foxnews.com##^.pre-content
+www.foxnews.com##div.desktop.ad-container:nth-of-type(4) > .advert-txt
+www.foxnews.com##span.advert-txt
+www.instructables.com###gpt-ad-m-inline
+www.instructables.com###gpt-ad-m-rect
+www.instructables.com###gpt-bottom1_m
+www.instructables.com###gpt-step1-m
+www.kake.com###WNAd101
+www.kake.com###WNAd103
+www.kake.com###WNAd106
+www.kake.com###WNAd107
+www.kake.com##.iframely-responsive
+www.kansas.com###main-content > section:nth-child(7) > div:nth-child(1) > div:nth-child(2)
+www.kansas.com##.zone-el
+www.kansas.com##div.rail:nth-child(1)
+www.kbb.com###kbbAdsMainCenterAd
+www.kbb.com###kbbAdsMedRec
+www.kbb.com###kbbAdsMedRec2
+www.kbb.com###kbbAdsMedRecShowcase
+www.kbb.com###kbbAdsStm
+www.kbb.com###toolbarAdLabel
+www.kbb.com##.css-1sivlbc-kbbAdsFct
+www.kbb.com##.css-wdm52e-kbbAdsFct-fctTop
+www.learningmultipleintelligence.com###btm_banner
+www.learningmultipleintelligence.com###g207
+www.learningmultipleintelligence.com##a.imgLink:nth-of-type(1)
+www.learningmultipleintelligence.com##a.imgLink:nth-of-type(10)
+www.learningmultipleintelligence.com##a.imgLink:nth-of-type(12)
+www.learningmultipleintelligence.com##a.imgLink:nth-of-type(14)
+www.learningmultipleintelligence.com##a.imgLink:nth-of-type(3)
+www.learningmultipleintelligence.com##a.imgLink:nth-of-type(8)
+www.learningmultipleintelligence.com##a.imgLink:nth-of-type(9)
+www.manualslib.com###banner_1700584cc7a5
+www.manualslib.com###banner_73440275702
+www.manualslib.com###manualban
+www.manualslib.com##.manualban-bot.manualban
+www.manualslib.com##div.searchitem:nth-of-type(2) > .row > .pr_adv_ban > .abp_adv_b
+www.manualslib.com##div.searchitem:nth-of-type(5) > .row > .pr_adv_ban > .abp_adv_b
+www.mcclatchydc.com###vendor-stories-content > .h5
+www.monoprice.com##.ad-container > .global-adsense
+www.monoprice.com##.prod-fold.global-adsense
+www.morningsun.net##.ad-container
+www.nbcnews.com##.global
+www.nbcnews.com##.js-global-nav-insert.global-insert
+www.ndtv.com##.content > .add-section > .add__wrp
+www.ndtv.com##body > .add-section > .add__wrp
+www.pandora.com##.DisplayAdController
+www.pandora.com##.DisplayAdController__rightRail--active.DisplayAdController__rightRail--displayBlock.DisplayAdController__rightRail
+www.paperrater.com###g-subform-bottom
+www.paperrater.com###gramBannerHome1
+www.paperrater.com###gramBannerIntext
+www.paperrater.com###gramBannerPol
+www.paperrater.com###gramBannerSubFormTop
+www.paperrater.com##.ginger_attr_1
+www.paperrater.com##.ginger_btn_sprite.ginger_btn_up
+www.project-syndicate.org##.asize--c.asize.special.inlay.listing
+www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.track-event
+www.public-domain-poetry.com##tr:nth-of-type(3) > td > table
+www.publish0x.com##.brave-top-header
+www.realcleardefense.com##.gcwp-advertisement-label
+www.realcleardefense.com##.ndn_article_body_title
+www.realclearpolitics.com##.gcwp-advertisement-label
+www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B22783112.257357113;dc_trk_aid=453243820;dc_trk_cid=116875239;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
+www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B23204197.258210862;dc_trk_aid=453457458;dc_trk_cid=122321621;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
+www.shopgoodwill.com###listings-sidebar > div
+www.tax-rates.org###promoLink
+www.techwalla.com##.component-header-sticky-ad
+www.theaaronloy.com###custom_html-2
+www.theaaronloy.com###custom_html-3
+www.thekansan.com##.ad-container
+www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_10_77c.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_10_77c.td-g-rec-id-custom_ad_2.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_13_5a1.td-g-rec-id-custom_ad_3.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_13_5a1.td-g-rec-id-custom_ad_3.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_13_813.td-g-rec-id-custom_ad_3.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_13_813.td-g-rec-id-custom_ad_3.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_14_536.td-g-rec-id-sidebar.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_14_536.td-g-rec-id-sidebar.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_15_1c5.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_15_1c5.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_18_515.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_18_515.td-g-rec-id-custom_ad_2.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_21_236.td-g-rec-id-custom_ad_3.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_21_236.td-g-rec-id-custom_ad_3.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_2_10c.td-g-rec-id-content_bottom.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_2_10c.td-g-rec-id-content_bottom.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_2_5e2.td-g-rec-id-content_bottom.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_2_5e2.td-g-rec-id-content_bottom.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_31_750.td-g-rec-id-sidebar.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_31_750.td-g-rec-id-sidebar.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_33_555.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_33_555.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_35_d76.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_35_d76.td-g-rec-id-custom_ad_2.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_38_e51.td-g-rec-id-custom_ad_3.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_38_e51.td-g-rec-id-custom_ad_3.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_6_1cc.td-g-rec-id-sidebar.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_6_1cc.td-g-rec-id-sidebar.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_6_731.td-g-rec-id-sidebar.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_6_731.td-g-rec-id-sidebar.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_7_13b.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_7_13b.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
+www.upcycledzine.com##.td_block_template_1.tdi_7_1e1.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
+www.upcycledzine.com##.td_block_template_1.tdi_7_1e1.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
+www.wibw.com###outbrainHome5
+www.wibw.com##.evie-widget-ad
+www.wildernessarena.com###text-10 > .widget-title
+www.wildernessarena.com###text-3 > .widget-title
+www.wildernessarena.com###text-8 > .widget-title
+www.wildernessarena.com###wilde-1332718173 > .wilde-adlabel
+www.wildernessarena.com###wilde-1844073107 > .wilde-adlabel
+www.wildernessarena.com###wilde-402483038 > .wilde-adlabel
+www.wildernessarena.com###wilde-517995593 > .wilde-adlabel
+www.wildernessarena.com###wilde-797736475 > .wilde-adlabel
+www.wildernessarena.com##.cfmonitor > div > .adsbygoogle
+www.wildernessarena.com##.pf-content > p:nth-of-type(1)
+www.woculus.com###wocul-104518175
+www.woculus.com##.custom-html-widget.textwidget
+www.woculus.com##.wocul-adlabel
+||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
+||cdn.iframe.ly/kTgKxV9?v=1&app=1$subdocument
+||digitalasset.intuit.com/IMAGE/A9tN3RxOp/default.jpg$image
+||i.imgur.com/Yefyjlu.gif$image
+||i0.wp.com/www.wildernessarena.com/wp-content/uploads/2018/07/Wilderness-Arena-IAP-ad.png?*0&ssl=1$image
+||i1.wp.com/mediabiasfactcheck.com/wp-content/uploads/2019/09/adfreebanner.png?resize=300%2C175&ssl=1$image
+||images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/images/creative/amazon/A4-894-PresidentsDay_ILM_MOB_640x90_V01._CB424076638_.jpg$image
+||images.worldnow.com/images/static/container-e/ad43_header.gif$image
+||linuxmint.com/img/sponsor/logos/216.gif$image
+||lowendstock.com/data/$subdocument
+||newsguardwatch.com/images/Bioscarf-1-UAB.jpg$image
+||newsguardwatch.com/images/Groovy-Bee-Collagen-Peptides-MCT-Prebiotic-Fiber-MR.jpg$image
+||newsguardwatch.com/images/Organic-Freeze-Dried-Aloe-Vera-Extract-Powder-1-UAB.jpg$image
+||pi.lbbcdn.com/wp-content/uploads/2019/11/go-ad-free-sidebarv2.jpg$image
+||prodesigntools.com/wp-content/uploads/2014/05/adobe-student-and-teacher-editions-discount*.jpg$image
+||prodesigntools.com/wp-content/uploads/2016/01/adobe-cc-photoshop-lightroom-make-it-shine*.jpg$image
+||prodesigntools.com/wp-content/uploads/2018/02/adobe-stock-free-images-backpacker*.jpg$image
+||prodesigntools.com/wp-content/uploads/2018/11/download-new-adobe-cc.png$image
+||prodesigntools.com/wp-content/uploads/2018/12/get-ten-free-adobe-stock-images*.jpg$image
+||prodesigntools.com/wp-content/uploads/2018/12/make-it-with-adobe-stock-free-trial*.jpg$image
+||prodesigntools.com/wp-content/uploads/2019/02/kinsta-managed-wordpress-hosting.png$image
+||prodesigntools.com/wp-content/uploads/2019/09/adobe-stock-get-free-trial.jpg$image
+||prodesigntools.com/wp-content/uploads/2019/09/free-trial-adobe-stock*.jpg$image
+||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-1-turbo-tax.jpg$image
+||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-2-turbo-tax.jpg$image
+||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-3-turbo-tax.jpg$image
+||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-4-turbo-tax.jpg$image
+||res.cloudinary.com/diprdpm/image/upload/v1577984160/08027/Artboard-5-turbo-tax.jpg$image
+||res.cloudinary.com/diprdpm/image/upload/v1578410820/08027/472x80-bahamas.jpg$image
+||res.cloudinary.com/diprdpm/image/upload/v1580824499/08027/Artboard-4OB.jpg$image
+||s3.reutersmedia.net/resources/r/?m=02&d=20151117&t=2&i=9308725039&w=760&fh=&fw=&ll=&pl=&sq=&r=1489LYNXMPGOS8788$image
+||s3.reutersmedia.net/resources/r/?m=02&d=20160405&t=2&i=6524429309&w=380&fh=&fw=&ll=&pl=&sq=&r=1489LYNXMPGYV8788$image
+||static.redditgifts.com/img-optim/ss-2019/google-store.png$image
+||static.redditgifts.com/img-optim/ss-2019/stadia-4.png$image
+||view.vzaar.com/4640298/player$subdocument
+||walletinvestor.com/static/frontend/images/cryptorocket/cryptorocket_970x90_opt.gif$image
+||walletinvestor.com/static/frontend/images/kucoin/Walletinvestor-300-250-2.gif$image
+||walletinvestor.com/static/frontend/images/kucoin/Walletinvestor-970-90-2.gif$image
+||walletinvestor.com/static/frontend/images/perpetual/prp970x90.jpg$image
+||www-1.kansas.com/?load=aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL3NhZmVmcmFtZS8xLTAtMzYvaHRtbC9jb250YWluZXIuaHRtbA&doc=1$subdocument
+||www.citefast.com/images/grammarcheck.png$image
+||www.paperrater.com/images/ginger_btn_sprite.png$image
+||www.publish0x.com/images/brave/Brave_Banner_*x90$image
+||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
