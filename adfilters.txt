@@ -47,6 +47,12 @@ gadsdentimes.com##.ad-container
 harveycountynow.com##.sidebar
 journaldemocrat.com##.ad-container
 jsfiddle.net###keep-us-running
+lifehacker.com##.knWSpc.sc-1auy74q-5.sc-1auy74q-3
+lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
+lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(10) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
+lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(12) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
+lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(8) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
+lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(9) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
 linuxmint.com##.ads
 linuxmint.com##.sponsors
 linuxmint.com##h3:nth-of-type(2)
@@ -153,6 +159,8 @@ www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
 www.citefast.com###banner2content
 www.citefast.com###myleftad
 www.cnx-software.com###custom_html-2
+www.cryptlife.com##article > div:nth-of-type(3)
+www.cryptlife.com##div:nth-of-type(2) > font > center
 www.cyberciti.biz###blocker7a1003a
 www.dailymail.co.uk###stickyBanner
 www.dailywire.com##.e1rizci20
