@@ -163,6 +163,9 @@ www.cryptlife.com##article > div:nth-of-type(3)
 www.cryptlife.com##div:nth-of-type(2) > font > center
 www.cyberciti.biz###blocker7a1003a
 www.dailymail.co.uk###stickyBanner
+www.dailywire.com###csci-da522ee51914-5fb1eb20-d24e0c7d-03a07fc3-59126ea72df55f4b
+www.dailywire.com##.csci-breakout
+www.dailywire.com##.e1iy79x60.css-mdwnd2
 www.dailywire.com##.e1rizci20
 www.dailywire.com##.e1rizci20.css-aaga2i
 www.dailywire.com##.ehgqkai0.css-5fqhws > div:nth-of-type(1)
@@ -180,6 +183,7 @@ www.dailywire.com##.text-ads
 www.dailywire.com##.textAd
 www.dailywire.com##.text_ad
 www.dailywire.com##.text_ads
+www.dailywire.com##p:nth-of-type(13)
 www.dictionary.com###dcomMobileSERPDisplayTopAd-300x250
 www.digminecraft.com###pre_header
 www.digminecraft.com###sabl
@@ -262,6 +266,8 @@ www.kake.com###WNAd101
 www.kake.com###WNAd103
 www.kake.com###WNAd106
 www.kake.com###WNAd107
+www.kake.com###WNAd107-1
+www.kake.com###WNAd107-2-1
 www.kake.com##.iframely-responsive
 www.kansas.com###main-content > section:nth-child(7) > div:nth-child(1) > div:nth-child(2)
 www.kansas.com##.zone-el
