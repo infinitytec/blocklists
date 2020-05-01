@@ -64,6 +64,7 @@ m.imdb.com###inline40_inline_wrapper
 m.imdb.com###inline40_placeholder_wrapper
 m.imdb.com###inline60
 m.imdb.com###inline60_wrapper
+m.imdb.com###inlinebottom_sponsored
 m.imdb.com###placeholderImageLinearGradient
 m.imdb.com###placeholderImageMask
 mediabiasfactcheck.com##.textwidget
