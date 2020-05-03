@@ -202,6 +202,14 @@ www.economist.com###HomepageAd1
 www.economist.com###HomepageAd2
 www.economist.com###HomepageAd3
 www.economist.com###gpt-ad-slot-regwall
+www.forbes.com###article-0-ad-1
+www.forbes.com###article-0-ad-2
+www.forbes.com###article-1-ad-1
+www.forbes.com###article-1-ad-2
+www.forbes.com###article-2-ad-1
+www.forbes.com###article-2-ad-2
+www.forbes.com###inline-article-0-ad-1
+www.forbes.com###inline-article-0-ad-2
 www.foxbusiness.com###ad-desktop*
 www.foxbusiness.com###ad-desktop-970x250-970x66-728x90
 www.foxbusiness.com##.9e50yzmdbhl2
@@ -247,6 +255,7 @@ www.foxnews.com##.gpt.ad
 www.foxnews.com##.h8vywy5d7n7k
 www.foxnews.com##.jb5ysm1z4ct7
 www.foxnews.com##.liqyu5rvkz9a
+www.foxnews.com##.mobile.sidebar-columns > .has-load-more.collection-radar.collection-multi.collection
 www.foxnews.com##.op8r6fbsvhd9
 www.foxnews.com##.pre-content > .desktop.ad-container
 www.foxnews.com##.q1a1cv3blvhr
@@ -364,6 +373,8 @@ www.upcycledzine.com##.td_block_template_1.tdi_7_13b.td-g-rec-id-custom_ad_1.td-
 www.upcycledzine.com##.td_block_template_1.tdi_7_13b.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
 www.upcycledzine.com##.td_block_template_1.tdi_7_1e1.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
 www.upcycledzine.com##.td_block_template_1.tdi_7_1e1.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
+www.websleuths.com###widget-17
+www.websleuths.com###widget-18
 www.wibw.com###outbrainHome5
 www.wibw.com##.evie-widget-ad
 www.wildernessarena.com###text-10 > .widget-title
@@ -422,4 +433,5 @@ www.woculus.com##.wocul-adlabel
 ||www.citefast.com/images/grammarcheck.png$image
 ||www.paperrater.com/images/ginger_btn_sprite.png$image
 ||www.publish0x.com/images/brave/Brave_Banner_*x90$image
+||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
