@@ -341,6 +341,7 @@ www.manualslib.com##div.searchitem:nth-of-type(2) > .row > .pr_adv_ban > .abp_ad
 www.manualslib.com##div.searchitem:nth-of-type(5) > .row > .pr_adv_ban > .abp_adv_b
 www.mcclatchydc.com###vendor-stories-content > .h5
 www.monoprice.com##.ad-container > .global-adsense
+www.monoprice.com##.global-adsense
 www.monoprice.com##.prod-fold.global-adsense
 www.morningsun.net##.ad-container
 www.nbcnews.com##.global
@@ -424,6 +425,9 @@ www.wildernessarena.com##.pf-content > p:nth-of-type(1)
 www.woculus.com###wocul-104518175
 www.woculus.com##.custom-html-widget.textwidget
 www.woculus.com##.wocul-adlabel
+www.worldatlas.com###adStickyAside
+www.worldatlas.com##.asideStickyAd
+www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
 ||cdn.iframe.ly/kTgKxV9?v=1&app=1$subdocument
 ||digitalasset.intuit.com/IMAGE/A9tN3RxOp/default.jpg$image
