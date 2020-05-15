@@ -53,6 +53,7 @@ lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.j
 lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(12) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
 lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(8) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
 lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(9) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
+linuxize.com##.sticky-affiliate.sideblock
 linuxmint.com##.ads
 linuxmint.com##.sponsors
 linuxmint.com##h3:nth-of-type(2)
@@ -117,6 +118,8 @@ thehill.com###dfp-ad-mos_2
 thehill.com###dfp-ad-mos_3
 thehill.com###dfp-ad-mos_4
 tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
+trendingpolitics.com##.inner > center
+trendingpolitics.com##div.content-below-ad
 tuscaloosanews.com##.ad-container
 walletinvestor.com###bio_ep_bg
 walletinvestor.com###bio_ep_close
@@ -157,6 +160,9 @@ www-1.kansas.com##.weathermedia
 www-1.kansas.com##.zone-el
 www.azcentral.com##.taboola-sidebar
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
+www.citationmachine.net##.elrDHH.Messages__EmptyContainer-sc-1n74m55-0
+www.citationmachine.net##.top.adds-wrapper
+www.citationmachine.net##.top.adds.adds-wrapper
 www.citefast.com###banner2content
 www.citefast.com###myleftad
 www.cnx-software.com###custom_html-2
@@ -302,6 +308,7 @@ www.foxnews.com##.yodbo6qjndtf
 www.foxnews.com##^.pre-content
 www.foxnews.com##div.desktop.ad-container:nth-of-type(4) > .advert-txt
 www.foxnews.com##span.advert-txt
+www.hungred.com###content > .banner
 www.instructables.com###gpt-ad-m-inline
 www.instructables.com###gpt-ad-m-rect
 www.instructables.com###gpt-bottom1_m
@@ -324,6 +331,7 @@ www.kbb.com###kbbAdsStm
 www.kbb.com###toolbarAdLabel
 www.kbb.com##.css-1sivlbc-kbbAdsFct
 www.kbb.com##.css-wdm52e-kbbAdsFct-fctTop
+www.kwqc.com##.visible-lg-block.visible-md-block.visible-sm-block.hidden-xs > div.row:nth-of-type(1)
 www.learningmultipleintelligence.com###btm_banner
 www.learningmultipleintelligence.com###g207
 www.learningmultipleintelligence.com##a.imgLink:nth-of-type(1)
@@ -408,6 +416,7 @@ www.upcycledzine.com##.td_block_template_1.tdi_7_13b.td-g-rec-id-custom_ad_1.td-
 www.upcycledzine.com##.td_block_template_1.tdi_7_13b.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
 www.upcycledzine.com##.td_block_template_1.tdi_7_1e1.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
 www.upcycledzine.com##.td_block_template_1.tdi_7_1e1.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
+www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
 www.websleuths.com###widget-17
 www.websleuths.com###widget-18
 www.wibw.com###outbrainHome5
@@ -438,6 +447,7 @@ www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
 ||images.worldnow.com/images/static/container-e/ad43_header.gif$image
 ||linuxmint.com/img/sponsor/logos/216.gif$image
 ||lowendstock.com/data/$subdocument
+||media.graytvinc.com/images/KWQC_18779_300x50.jpg$image
 ||newsguardwatch.com/images/Bioscarf-1-UAB.jpg$image
 ||newsguardwatch.com/images/Groovy-Bee-Collagen-Peptides-MCT-Prebiotic-Fiber-MR.jpg$image
 ||newsguardwatch.com/images/Organic-Freeze-Dried-Aloe-Vera-Extract-Powder-1-UAB.jpg$image
