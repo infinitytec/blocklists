@@ -182,3 +182,13 @@
 0.0.0.0 www.fitnessrant.com
 0.0.0.0 fitnessrant.com
 0.0.0.0 results.fitnessrant.com
+0.0.0.0 virus-covid-19.com
+0.0.0.0 www.virus-covid-19.com
+0.0.0.0 eaweb-dev3.ch
+0.0.0.0 www.eaweb-dev3.ch
+0.0.0.0 eaweb-dev.ch
+0.0.0.0 www.eaweb-dev.ch
+0.0.0.0 digitalive.world
+0.0.0.0 www.digitalive.world
+0.0.0.0 otherfeeds.com
+0.0.0.0 www.otherfeeds.com
