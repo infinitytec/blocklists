@@ -3,7 +3,6 @@
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
-0.0.0.0 a151.g.akamai.net
 0.0.0.0 activity.windows.com
 0.0.0.0 api.intelsa.intel.com
 0.0.0.0 clientconfig.akamai.steamstatic.com
