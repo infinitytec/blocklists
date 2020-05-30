@@ -9,6 +9,13 @@ abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWr
 abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailBottom__1D0Z.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
+apnews.com##.Component-dfp-0-2-56
+apnews.com##.RightRail > div:nth-of-type(1)
+apnews.com##.RightRail > div:nth-of-type(1) > .Component-adTitle-0-2-13
+apnews.com##.RightRail > div:nth-of-type(1) > .Component-rectanglePlaceholderWrapper-0-2-17.Component-placeholderWrapper-0-2-16
+apnews.com##.bellow-article
+apnews.com##.persistent-ad > div > .Component-adTitle-0-2-13
+apnews.com##.persistent-ad > div > .Component-rectanglePlaceholderWrapper-0-2-17.Component-placeholderWrapper-0-2-16
 babylonbee.com##.text-center.sticky-footer-image
 bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
 bongino.com##div:nth-of-type(3) > .ai-attributes > .code-block-label
@@ -45,6 +52,7 @@ futures.tradingcharts.com###mrABMessage_box_85995
 futures.tradingcharts.com###mrABMessage_top_85995
 gadsdentimes.com##.ad-container
 harveycountynow.com##.sidebar
+imgur.com###cta-container
 journaldemocrat.com##.ad-container
 jsfiddle.net###keep-us-running
 lifehacker.com##.knWSpc.sc-1auy74q-5.sc-1auy74q-3
@@ -128,6 +136,8 @@ walletinvestor.com##.header-image
 walletinvestor.com##.noticer-wrapper
 wcfcourier.com##.ad-col
 wcfcourier.com##.item-ad
+weather.com###MW_Position2weather.com##div:nth-of-type(2) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
+weather.com##div:nth-of-type(3) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 weebly.com##.footer-published-ab-powered-by
 work.chron.com###top-300
 work.chron.com##.leaderboard
@@ -158,6 +168,8 @@ www-1.kansas.com##.ntvAdChoicesLink
 www-1.kansas.com##.px-0
 www-1.kansas.com##.weathermedia
 www-1.kansas.com##.zone-el
+www.accuweather.com##.full-responsive-width.zerg-net
+www.accuweather.com##.glacier-ad
 www.azcentral.com##.taboola-sidebar
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
 www.citationmachine.net##.elrDHH.Messages__EmptyContainer-sc-1n74m55-0
@@ -196,6 +208,7 @@ www.digminecraft.com###pre_header
 www.digminecraft.com###sabl
 www.digminecraft.com##.bottom_slot
 www.digminecraft.com##.left_slot
+www.dummies.com##.ads
 www.duplichecker.com##.aadd_box1586235171
 www.duplichecker.com##.dpn
 www.duplichecker.com##.search-panel-sec
@@ -208,6 +221,8 @@ www.economist.com###HomepageAd1
 www.economist.com###HomepageAd2
 www.economist.com###HomepageAd3
 www.economist.com###gpt-ad-slot-regwall
+www.fileerrors.com###myModal
+www.fileerrors.com##.in.fade.modal-backdrop
 www.forbes.com###article-0-ad-0
 www.forbes.com###article-0-ad-1
 www.forbes.com###article-0-ad-2
@@ -348,6 +363,9 @@ www.manualslib.com##.manualban-bot.manualban
 www.manualslib.com##div.searchitem:nth-of-type(2) > .row > .pr_adv_ban > .abp_adv_b
 www.manualslib.com##div.searchitem:nth-of-type(5) > .row > .pr_adv_ban > .abp_adv_b
 www.mcclatchydc.com###vendor-stories-content > .h5
+www.minecraftforum.net##.ad-container-footer.ad-container
+www.minecraftforum.net##.footer-ad-medRect.xt-main-med-rect-footer.xt-placement
+www.minecraftforum.net##.server-forum-after-comment-ad.p-comments-b.p-comments > .ad-container
 www.monoprice.com##.ad-container > .global-adsense
 www.monoprice.com##.global-adsense
 www.monoprice.com##.prod-fold.global-adsense
@@ -365,6 +383,7 @@ www.paperrater.com###gramBannerPol
 www.paperrater.com###gramBannerSubFormTop
 www.paperrater.com##.ginger_attr_1
 www.paperrater.com##.ginger_btn_sprite.ginger_btn_up
+www.popularmechanics.com##.transporter-ad.leaderboard-ad
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.track-event
 www.public-domain-poetry.com##tr:nth-of-type(3) > td > table
@@ -374,12 +393,15 @@ www.realcleardefense.com##.ndn_article_body_title
 www.realclearpolitics.com##.gcwp-advertisement-label
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B22783112.257357113;dc_trk_aid=453243820;dc_trk_cid=116875239;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B23204197.258210862;dc_trk_aid=453457458;dc_trk_cid=122321621;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
+www.sevenforums.com##.chillad.media400
 www.shopgoodwill.com###listings-sidebar > div
 www.tax-rates.org###promoLink
 www.techwalla.com##.component-header-sticky-ad
 www.theaaronloy.com###custom_html-2
 www.theaaronloy.com###custom_html-3
 www.thekansan.com##.ad-container
+www.tutorialspoint.com##.google-bottom-ads
+www.tutorialspoint.com##.top-ad-heading
 www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
 www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .td-adspot-title
 www.upcycledzine.com##.td_block_template_1.tdi_10_77c.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
@@ -416,6 +438,10 @@ www.upcycledzine.com##.td_block_template_1.tdi_7_13b.td-g-rec-id-custom_ad_1.td-
 www.upcycledzine.com##.td_block_template_1.tdi_7_13b.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
 www.upcycledzine.com##.td_block_template_1.tdi_7_1e1.td-g-rec-id-custom_ad_1.td-g-rec > .adsbygoogle
 www.upcycledzine.com##.td_block_template_1.tdi_7_1e1.td-g-rec-id-custom_ad_1.td-g-rec > .td-adspot-title
+www.upi.com##.inread_mobi.ad_slot.story-offset
+www.upi.com##.padded.widget-advertisement
+www.upi.com##.reading > .ad_slot
+www.upi.com##div.widget-advertisement:nth-of-type(2)
 www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
 www.websleuths.com###widget-17
 www.websleuths.com###widget-18
