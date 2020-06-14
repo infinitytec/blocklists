@@ -9,6 +9,7 @@ abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWr
 abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailBottom__1D0Z.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
+apnews.com##.Component-dfp-0-2-42
 apnews.com##.Component-dfp-0-2-56
 apnews.com##.RightRail > div:nth-of-type(1)
 apnews.com##.RightRail > div:nth-of-type(1) > .Component-adTitle-0-2-13
@@ -16,6 +17,7 @@ apnews.com##.RightRail > div:nth-of-type(1) > .Component-rectanglePlaceholderWra
 apnews.com##.bellow-article
 apnews.com##.persistent-ad > div > .Component-adTitle-0-2-13
 apnews.com##.persistent-ad > div > .Component-rectanglePlaceholderWrapper-0-2-17.Component-placeholderWrapper-0-2-16
+apnews.com##div.Component-dfp-0-2-181
 babylonbee.com##.text-center.sticky-footer-image
 bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
 bongino.com##div:nth-of-type(3) > .ai-attributes > .code-block-label
@@ -26,8 +28,13 @@ cbsaustin.com###interstory_first_ddb_1
 cbsaustin.com###interstory_second_ddb_0
 cbsaustin.com##div:nth-of-type(1) > .index_adBeforeContent__j4lF
 cbsaustin.com##div:nth-of-type(2) > .index_adBeforeContent__j4lF
+ccm.net##.ccm_pugoo__sponso
 cgtips.org##.xlwXYROtlQoi-bg
 cgtips.org##.xlwXYROtlQoi-default
+cheezburger.com##.nw-stream-min-250.ad-container.js-ad-container
+cheezburger.com##li.ad-list-item
+cheezburger.com##li.ad-list-item:nth-of-type(2) > .ad-container-list.js-ad-container
+coinfomania.com##.thecontent > p:nth-of-type(2)
 coinmarketcap.com##.cmc-details-panel-buy-buttons
 coinmarketcap.com##.draeOX.sc-1bks9yb-0.cmc-sponsored-link > .cmc-link
 columbiadailyherald.com##.ad-container
@@ -52,6 +59,7 @@ futures.tradingcharts.com###mrABMessage_box_85995
 futures.tradingcharts.com###mrABMessage_top_85995
 gadsdentimes.com##.ad-container
 harveycountynow.com##.sidebar
+heavens-above.com##.adslot_header.adsbygoogle
 imgur.com###cta-container
 journaldemocrat.com##.ad-container
 jsfiddle.net###keep-us-running
@@ -76,6 +84,7 @@ m.imdb.com###inline60_wrapper
 m.imdb.com###inlinebottom_sponsored
 m.imdb.com###placeholderImageLinearGradient
 m.imdb.com###placeholderImageMask
+mashable.com##.inline-video-seealso
 mediabiasfactcheck.com##.textwidget
 mtshastanews.com##.ad-container
 news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
@@ -85,6 +94,16 @@ newsguardwatch.com##.FEHACDBGMNOP
 newstribune.info##.ad-container
 ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(3)
 ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(4)
+pjmedia.com###div-gpt-300x250_1
+pjmedia.com###div-gpt-300x250_10
+pjmedia.com###div-gpt-300x250_4
+pjmedia.com###div-gpt-300x250_5
+pjmedia.com###div-gpt-300x250_6
+pjmedia.com###div-gpt-300x250_7
+pjmedia.com###div-gpt-300x250_8
+pjmedia.com###div-gpt-300x250_9
+pjmedia.com###div-gpt-320x50_1
+pjmedia.com##.d-md-none.footer-ad
 politics.theonion.com##.dhblvL.sc-1893fh8-0.active.js_slide > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
 politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(2) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic > .dciqNP.bxm4mm-3.bxm4mm-1
 politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(2) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit > .eblHLt.bxm4mm-6
@@ -107,6 +126,7 @@ recyclenation.com##.eri-services-h02.eri-services > [href^="https://eridirect.co
 recyclenation.com##.eri-services-v01.eri-services > [href^="https://eridirect.com/"]
 recyclenation.com##.eri-services-v02.eri-services > [href^="https://eridirect.com/"]
 ridgecrestca.com##.ad-container
+roll20.net##.bna
 seacoastonline.com##.ad-container
 search.earth911.com##.enhanced-banner
 siskiyoudaily.com##.ad-container
@@ -125,6 +145,9 @@ thehill.com###dfp-ad-mos_1
 thehill.com###dfp-ad-mos_2
 thehill.com###dfp-ad-mos_3
 thehill.com###dfp-ad-mos_4
+theweek.com###article_first_intext_ad-mobile-5
+theweek.com###article_second_intext_ad-mobile-6
+theweek.com##.show-for-small-only.article-body-bottom-mob-ad
 tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
 trendingpolitics.com##.inner > center
 trendingpolitics.com##div.content-below-ad
@@ -170,6 +193,7 @@ www-1.kansas.com##.weathermedia
 www-1.kansas.com##.zone-el
 www.accuweather.com##.full-responsive-width.zerg-net
 www.accuweather.com##.glacier-ad
+www.androidpolice.com##.adslot_ap2_trending_posts.adslot.adsbygoogle
 www.azcentral.com##.taboola-sidebar
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
 www.citationmachine.net##.elrDHH.Messages__EmptyContainer-sc-1n74m55-0
@@ -181,9 +205,11 @@ www.cnx-software.com###custom_html-2
 www.cryptlife.com##article > div:nth-of-type(3)
 www.cryptlife.com##div:nth-of-type(2) > font > center
 www.cyberciti.biz###blocker7a1003a
+www.cyberciti.biz##center
 www.dailymail.co.uk###stickyBanner
 www.dailywire.com###csci-da522ee51914-5fb1eb20-d24e0c7d-03a07fc3-59126ea72df55f4b
 www.dailywire.com##.csci-breakout
+www.dailywire.com##.css-xcwzjc
 www.dailywire.com##.e1iy79x60.css-mdwnd2
 www.dailywire.com##.e1rizci20
 www.dailywire.com##.e1rizci20.css-aaga2i
@@ -202,6 +228,9 @@ www.dailywire.com##.text-ads
 www.dailywire.com##.textAd
 www.dailywire.com##.text_ad
 www.dailywire.com##.text_ads
+www.dailywire.com##div.css-1cscg1p
+www.dailywire.com##div.css-1cscg1p:nth-of-type(2)
+www.dailywire.com##footer > .e76nlzd0.css-1vk30r0 header
 www.dailywire.com##p:nth-of-type(13)
 www.dictionary.com###dcomMobileSERPDisplayTopAd-300x250
 www.digminecraft.com###pre_header
@@ -324,6 +353,21 @@ www.foxnews.com##^.pre-content
 www.foxnews.com##div.desktop.ad-container:nth-of-type(4) > .advert-txt
 www.foxnews.com##span.advert-txt
 www.hungred.com###content > .banner
+www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-1
+www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-2
+www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-3
+www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-4
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-1
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-10
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-11
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-2
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-3
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-4
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-5
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-6
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-7
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-8
+www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-9
 www.instructables.com###gpt-ad-m-inline
 www.instructables.com###gpt-ad-m-rect
 www.instructables.com###gpt-bottom1_m
@@ -374,6 +418,18 @@ www.nbcnews.com##.global
 www.nbcnews.com##.js-global-nav-insert.global-insert
 www.ndtv.com##.content > .add-section > .add__wrp
 www.ndtv.com##body > .add-section > .add__wrp
+www.newsweek.com###dfp-ad-bottom-wrapper
+www.newsweek.com###dfp-ad-lazyads10-wrapper
+www.newsweek.com###dfp-ad-lazyads5-wrapper
+www.newsweek.com###dfp-ad-lazyads6-wrapper
+www.newsweek.com###dfp-ad-lazyads7-wrapper
+www.newsweek.com###dfp-ad-lazyads8-wrapper
+www.newsweek.com###dfp-ad-lazyads9-wrapper
+www.newsweek.com###dfp-ad-right1-wrapper
+www.newsweek.com###dfp-ad-right2-wrapper
+www.newsweek.com###dfp-ad-right3-wrapper
+www.newsweek.com###dfp-ad-right4-wrapper
+www.newsweek.com###dfp-ad-top-wrapper
 www.pandora.com##.DisplayAdController
 www.pandora.com##.DisplayAdController__rightRail--active.DisplayAdController__rightRail--displayBlock.DisplayAdController__rightRail
 www.paperrater.com###g-subform-bottom
@@ -383,6 +439,7 @@ www.paperrater.com###gramBannerPol
 www.paperrater.com###gramBannerSubFormTop
 www.paperrater.com##.ginger_attr_1
 www.paperrater.com##.ginger_btn_sprite.ginger_btn_up
+www.pcsuggest.com##.aprime_link
 www.popularmechanics.com##.transporter-ad.leaderboard-ad
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.track-event
@@ -457,6 +514,9 @@ www.wildernessarena.com###wilde-517995593 > .wilde-adlabel
 www.wildernessarena.com###wilde-797736475 > .wilde-adlabel
 www.wildernessarena.com##.cfmonitor > div > .adsbygoogle
 www.wildernessarena.com##.pf-content > p:nth-of-type(1)
+www.wintips.org##div:nth-of-type(2) > center > .adsbygoogle
+www.wintips.org##div:nth-of-type(5) > center > .adsbygoogle
+www.wintips.org##div:nth-of-type(6) > center > .adsbygoogle
 www.woculus.com###wocul-104518175
 www.woculus.com##.custom-html-widget.textwidget
 www.woculus.com##.wocul-adlabel
@@ -465,6 +525,9 @@ www.worldatlas.com##.asideStickyAd
 www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
 ||cdn.iframe.ly/kTgKxV9?v=1&app=1$subdocument
+||coinfomania.com/wp-content/uploads/728_90-en.gif$image
+||coinfomania.com/wp-content/uploads/NordFX-1.gif$image
+||d.stockcharts.com/img/freead4.gif$image
 ||digitalasset.intuit.com/IMAGE/A9tN3RxOp/default.jpg$image
 ||i.imgur.com/Yefyjlu.gif$image
 ||i0.wp.com/www.wildernessarena.com/wp-content/uploads/2018/07/Wilderness-Arena-IAP-ad.png?*0&ssl=1$image
