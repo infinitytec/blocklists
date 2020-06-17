@@ -9,6 +9,7 @@
 0.0.0.0 meehanmd.com
 0.0.0.0 nofakenews.net
 0.0.0.0 soundofheart.org
+0.0.0.0 virus-covid-19.com
 0.0.0.0 wakeup-world.com
 0.0.0.0 wakingtimes.com
 0.0.0.0 www.childrenshealthdefense.org
@@ -21,3 +22,4 @@
 0.0.0.0 www.soundofheart.org
 0.0.0.0 www.wakeup-world.com
 0.0.0.0 www.wakingtimes.com
+0.0.0.0 www.virus-covid-19.com
