@@ -1,0 +1,23 @@
+# A list to block medical pseudoscience (such as antivax sites).
+# This is a new list and still under construction.
+# Made by infinitytec and released under the MIT license.
+0.0.0.0 childrenshealthdefense.org
+0.0.0.0 greenmedinfo.com
+0.0.0.0 jbhandleyblog.com
+0.0.0.0 jennifermargulis.net
+0.0.0.0 meehanmd.com
+0.0.0.0 meehanmd.com
+0.0.0.0 nofakenews.net
+0.0.0.0 soundofheart.org
+0.0.0.0 wakeup-world.com
+0.0.0.0 wakingtimes.com
+0.0.0.0 www.childrenshealthdefense.org
+0.0.0.0 www.greenmedinfo.com
+0.0.0.0 www.jbhandleyblog.com
+0.0.0.0 www.jennifermargulis.net
+0.0.0.0 www.meehanmd.com
+0.0.0.0 www.meehanmd.com
+0.0.0.0 www.nofakenews.net
+0.0.0.0 www.soundofheart.org
+0.0.0.0 www.wakeup-world.com
+0.0.0.0 www.wakingtimes.com
