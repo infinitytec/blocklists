@@ -38,9 +38,14 @@ coinfomania.com##.thecontent > p:nth-of-type(2)
 coinmarketcap.com##.cmc-details-panel-buy-buttons
 coinmarketcap.com##.draeOX.sc-1bks9yb-0.cmc-sponsored-link > .cmc-link
 columbiadailyherald.com##.ad-container
+contactform7.com##.count-2.cf7com-adsense
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
+deadspin.com##.ad-left-top.dfp-slot-LEFT_TOP.dfp.ad-container
+deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(2) > .fHVkyq.sav3un-4 > .CjFXp.sav3un-7
+deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .fHVkyq.sav3un-4 > .CjFXp.sav3un-7
+deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .js_link.hgyrqL.sav3un-1.hMndXN.sc-1out364-0
 devilslakejournal.com##.ad-container
 div.widget:nth-of-type(1)
 div:nth-of-type(1)
@@ -86,6 +91,13 @@ m.imdb.com###placeholderImageLinearGradient
 m.imdb.com###placeholderImageMask
 mashable.com##.inline-video-seealso
 mediabiasfactcheck.com##.textwidget
+minecraft-mp.com###adbox_leaderboard
+minecraft-mp.com###bottom-adsense > div
+minecraft-server-list.com##.annonceBundServer1
+minecraft-server-list.com##.annonceMidtServer1
+minecraft-server-list.com##.annonceTopServer1
+minecraft-server-list.com##.col2Two
+minecraft-server-list.com##.col2Two > div
 mtshastanews.com##.ad-container
 news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
 newsguardwatch.com##.BCRADUEVWSTX
@@ -400,6 +412,30 @@ www.learningmultipleintelligence.com##a.imgLink:nth-of-type(14)
 www.learningmultipleintelligence.com##a.imgLink:nth-of-type(3)
 www.learningmultipleintelligence.com##a.imgLink:nth-of-type(8)
 www.learningmultipleintelligence.com##a.imgLink:nth-of-type(9)
+www.lifenews.com###advertisement-bottom
+www.lifenews.com###advertisement-top
+www.lifenews.com###cta1
+www.lifenews.com###cta2
+www.lifenews.com###google_ad_slot
+www.lifenews.com###uds-ads--1
+www.lifenews.com###uds-ads-10
+www.lifenews.com###uds-ads-22
+www.lifenews.com###uds-ads-43
+www.lifenews.com###uds-ads-49
+www.lifenews.com###uds-ads-52
+www.lifenews.com###uds-ads-56
+www.lifenews.com###uds-ads-62
+www.lifenews.com###uds-ads-65
+www.lifenews.com###uds-ads-66
+www.lifenews.com##.box-frame.widget-even.widget-2 > p > .more-2
+www.lifenews.com##.box-frame.widget-even.widget-4 > p > .more-2
+www.lifenews.com##.box-frame.widget-even.widget-6 > p > .more-2
+www.lifenews.com##.box-frame.widget-odd.widget-3 > p > .more-2
+www.lifenews.com##.box-frame.widget-odd.widget-5 > p > .more-2
+www.lifenews.com##.box-frame.widget-odd.widget-first.widget-1 > p > .more-2
+www.lifenews.com##.box-frame.widget-odd.widget-last.widget-7 > p > .more-2
+www.lifenews.com##.even.uds-ad.uds-ads-728
+www.lifenews.com##.widget_uds-ads
 www.manualslib.com###banner_1700584cc7a5
 www.manualslib.com###banner_73440275702
 www.manualslib.com###manualban
@@ -430,6 +466,11 @@ www.newsweek.com###dfp-ad-right2-wrapper
 www.newsweek.com###dfp-ad-right3-wrapper
 www.newsweek.com###dfp-ad-right4-wrapper
 www.newsweek.com###dfp-ad-top-wrapper
+www.onhealth.com###ad
+www.onhealth.com###ads2-pos-2026-1-1
+www.onhealth.com##.AD_300x250
+www.onhealth.com##.header-ad
+www.onhealth.com##section.article-section:nth-of-type(1) > .article-section-content > .right-rail > .AD_300x250
 www.pandora.com##.DisplayAdController
 www.pandora.com##.DisplayAdController__rightRail--active.DisplayAdController__rightRail--displayBlock.DisplayAdController__rightRail
 www.paperrater.com###g-subform-bottom
@@ -452,6 +493,8 @@ www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.13
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B23204197.258210862;dc_trk_aid=453457458;dc_trk_cid=122321621;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
 www.sevenforums.com##.chillad.media400
 www.shopgoodwill.com###listings-sidebar > div
+www.shopgoodwill.com##.purchase-desktop > div
+www.shoppok.com##.adblocka
 www.tax-rates.org###promoLink
 www.techwalla.com##.component-header-sticky-ad
 www.theaaronloy.com###custom_html-2
@@ -499,6 +542,7 @@ www.upi.com##.inread_mobi.ad_slot.story-offset
 www.upi.com##.padded.widget-advertisement
 www.upi.com##.reading > .ad_slot
 www.upi.com##div.widget-advertisement:nth-of-type(2)
+www.webmd.com##.ad_label
 www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
 www.websleuths.com###widget-17
 www.websleuths.com###widget-18
@@ -550,6 +594,7 @@ www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
 ||prodesigntools.com/wp-content/uploads/2019/02/kinsta-managed-wordpress-hosting.png$image
 ||prodesigntools.com/wp-content/uploads/2019/09/adobe-stock-get-free-trial.jpg$image
 ||prodesigntools.com/wp-content/uploads/2019/09/free-trial-adobe-stock*.jpg$image
+||referoo.co/creatives/13/asset.png$image
 ||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-1-turbo-tax.jpg$image
 ||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-2-turbo-tax.jpg$image
 ||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-3-turbo-tax.jpg$image
