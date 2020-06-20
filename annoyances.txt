@@ -1,0 +1,97 @@
+! Annoyance blocking filters by infinitytec.
+! This list is for annoying things that are not ads, such as newsletter popups and cookie notices. Quite subjective.
+! For use with plugin-based adblockers, such as uBlock Origin.
+! Released under the MIT license. 
+askubuntu.com###js-gdpr-consent-banner
+babylonbee.com##.mb-4.p-3.h-100.article-cta-box
+boonevilledemocrat.com###dialog-message
+butlercountytimesgazette.com###dialog-message
+cgtips.org##.xlwXYROtlQoi-bg
+cgtips.org##.xlwXYROtlQoi-default
+columbiadailyherald.com###dialog-message
+cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
+cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
+cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
+devilslakejournal.com###dialog-message
+en.softonic.com##.popup-newsletter
+en.wikipedia.org###siteNotice
+everymac.com##.prompt-bg
+everymac.com##.prompt-content-container
+gadsdentimes.com###dialog-message
+gamestop-promo-blog.blogspot.com
+journaldemocrat.com###dialog-message
+m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
+m.aliexpress.com##.download-bar
+m.imdb.com###regWallModal
+m.imdb.com##.reg-wall__modal
+m.imdb.com##.reg-wall__screen
+mashable.com##.inline-video-seealso
+mtshastanews.com###dialog-message
+newstribune.info###dialog-message
+pbcommercial.com###dialog-message
+pressargus.com###dialog-message
+providencejournal.com###dialog-message
+recordnet.com###dialog-message
+ridgecrestca.com###dialog-message
+seacoastonline.com###dialog-message
+siskiyoudaily.com###dialog-message
+sourceforge.net###newsletter-floating
+swtimes.com###dialog-message
+taftmidwaydriller.com###dialog-message
+thehill.com###lightbox-63d68459-6221-4d67-9e2a-bcf7b46e5648-1579319402544
+tuscaloosanews.com###dialog-message
+weather.com##.BWCJrC2JGHQqtfFwURJ0V
+weather.com##.TktQ2DUFBzNyej09iWmMG
+weather.com##.styles-KJsoQumW__app-download-text__1KbjY
+weather.com##.visible.flag.sb
+www-1.kansas.com###ConnatixVideoAd
+www-1.kansas.com##.impact.banner-promo-link
+www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
+www.britannica.com##.pl-70.p-15
+www.cnx-software.com###custom_html-2
+www.dell.com##.alert-warning.alert
+www.foxnews.com##.notification-banner
+www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
+www.hackster.io###hello-world
+www.hackster.io##.project_count_banner__container__1m4vf
+www.insidehook.com##.sticky.signup
+www.insidehook.com##.tp-modal
+www.investing.com###PromoteSignUpPopUp
+www.investing.com##.right
+www.kansas.com###main-content > section:nth-of-type(1)
+www.kansas.com###onetrust-banner-sdk
+www.khou.com##.notifications
+www.mcclatchydc.com###subscription-cta-container
+www.morningsun.net###dialog-message
+www.npr.org##.callout--health.callout--newsletter.callout
+www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
+www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
+www.paypal.com##.cw_tile__floatingPromo-contentContainer
+www.publish0x.com###registerModal
+www.rawstory.com###kindest-frame
+www.rawstory.com###lightbox-615e24a7-d389-47c5-ac69-fc12d2586760-1581041934165
+www.rawstory.com###lightbox-iframe-615e24a7-d389-47c5-ac69-fc12d2586760
+www.rawstory.com###sidebar-overlay-lightbox-615e24a7-d389-47c5-ac69-fc12d2586760-1581041934165
+www.rawstory.com##.below-content-appeal
+www.rawstory.com##.desktop
+www.rawstory.com##.story_page_incontent_ig.story_page_incontent_instagram_container > div
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.techwalla.com###jwplayer-section
+www.techwalla.com##.component-article-jwplayer
+www.thedailybeast.com###view-offer
+www.thedailybeast.com##.ribbon.ng-scope
+www.thekansan.com###dialog-message
+www.washingtonpost.com###leaderboard-overlay
+www.washingtonpost.com##.bb.b-ns.b-none
+www.washingtontimes.com###teaser-cdf955ca-7a66-40fa-b125-cb9750d610f6
+www.youtube.com##.style-scope ytd-popup-container
+yourbusiness.azcentral.com###jwplayer-section
+||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
+||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23bottom_ribbon&templateId=OTZ4C629BH2D&offerId=OFMI2KGAF0G5&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXS1F7IRJLF7&iframeId=offer-0-HtwD6&url=https%3A%2F%2Fwww.thedailybeast.com%2F&parentDualScreenLeft=-8&parentDualScreenTop=-8&parentWidth=1920&parentHeight=571&parentOuterHeight=1066&aid=SrmTGdXwNo&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_annoyed%22%3A%221%22%7D&hasLoginRequiredCallback=true&width=1920&_qh=310046664$subdocument
+||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23bottom_ribbon&templateId=OTZ4C629BH2D&offerId=OFMI2KGAF0G5&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXS1F7IRJLF7&iframeId=offer-0-Xz5NE&url=https%3A%2F%2Fwww.thedailybeast.com%2F&parentDualScreenLeft=-8&parentDualScreenTop=-8&parentWidth=1920&parentHeight=976&parentOuterHeight=1066&aid=SrmTGdXwNo&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_annoyed%22%3A%221%22%7D&hasLoginRequiredCallback=true&width=1920&_qh=2917759204$subdocument
+||buy.tinypass.com/checkout/template/show?displayMode=inline&containerSelector=.piano-fixed-footer-one&templateId=OTL6YI0EAEKH&templateVariantId=OTVPV3YIVFEKV&offerId=fakeOfferId&showCloseButton=false&trackingId=%7Bjcx%7DH4sIAAAAAAAAAI2Qy27CMBBF_8VrjPzIexfRIBBQUBsS0p2bDMQ0mBA7gFT13xsobYXURWc3c-4dzdx3JGSBAlTWpTUNs3bgoB6qxQYSCafxhTDCCCYUUxczim2OKcMWd_FOtA9bNaep1uaQrgCv88L2uOu8AsmLXPg58cFjvCh8izuOx7rFcK6hkaByuK6OVot0FvPH5YjbdzQ6Q94auVdXGfWIZ7aEgMakK9aYXc0c9SYZHMleE1JabHPnD_Mfsy73pxh2dSUMzJbPNJuG86fZYtS91VlKob8hCkzTQg-ZW391z-Opk41JFEaTEfpliWikUOYmSRYJz8bJMJoknSYXu1rIjdIoUG1V9dBRavklPeK_w_Swn2ZNvB8s2PCFVCo9_CdMWV-ycbw-tfw-o06fu9201dCEG1Cmg8VpfTnaVCigtutbxPZ96-MTH4NwnvMBAAA&experienceId=EXPWMT3NUH35&activeMeters=%5B%7B%22meterName%22%3A%22twt_meter_subs%22%2C%22views%22%3A1%2C%22viewsLeft%22%3A5%2C%22maxViews%22%3A6%2C%22totalViews%22%3A1%7D%5D&tbc=%7Bjzx%7DoniGMPS_EJvIpbnraPMD-2Ul0l-_z6AGNpppsT8ARueGIicrrzFo7_aINMcTOJrf5-Xs_tfjvbe9QW5MBLiy5fV5XTISfApWK2GucujkmjeiA64Xc0PwXnIsUZ_X6PUl60VreX0zQ7Qgm9ptgy9X_w&ifr$subdocument
+||ir.ebaystatic.com/cr/v/c1/189400_041720_CHR_RRCharity_Doodle_150x30_FINAL.gif$image
+||safe.britannica.com/safeimages/BFP_marketing_ads_300x90_C.jpg$image
+||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2019_american_patriots_2.jpg$image
+||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2020_American_Arenas.jpg$image
+||www.rawstory.com/wp-content/uploads/2020/01/Bill-Barr-poll-large.gif$image
