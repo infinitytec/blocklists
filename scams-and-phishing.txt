@@ -2,18 +2,19 @@
 # List maintained by infinitytec.
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
-# Last update: Apr. 3 2020
 
 0.0.0.0 1coolbox.com
 0.0.0.0 api.a0ndi.cn
 0.0.0.0 api.xxpxkj.com
 0.0.0.0 app5309.nonamealms11.live
+0.0.0.0 appstrk.com
 0.0.0.0 asdasdad.net
 0.0.0.0 beneguy.com
 0.0.0.0 beonixom.com
 0.0.0.0 best.prizedea2020.info
 0.0.0.0 best.prizedea2030.info
 0.0.0.0 best0686.nonamejhop26.live
+0.0.0.0 bestprize-places-here1.life
 0.0.0.0 binom.napoletoss.ru
 0.0.0.0 boot-upintenselypreciseproduct.icu
 0.0.0.0 buycicretofficial.com
@@ -31,6 +32,7 @@
 0.0.0.0 dash.click4kash.com
 0.0.0.0 dash.moneygenie.co
 0.0.0.0 dash.tap2earn.co
+0.0.0.0 deliverynotforme.best
 0.0.0.0 devtechiewebmine.icu
 0.0.0.0 digitalive.world
 0.0.0.0 dnslockbox.com
@@ -40,10 +42,13 @@
 0.0.0.0 free.content-center.club
 0.0.0.0 freemineapplicationads.icu
 0.0.0.0 gamestop-promo-blog.blogspot.com
+0.0.0.0 hyvee-get-limited.todayoonly.uk.com
+0.0.0.0 imgvieweriri.com
 0.0.0.0 injury-check.com
 0.0.0.0 ios-obaldo-01.blogspot.com
 0.0.0.0 joblifestyles.com
 0.0.0.0 johnstyles365.com
+0.0.0.0 jstcarnaval15.live
 0.0.0.0 litebucks.com
 0.0.0.0 m.1coolbox.com
 0.0.0.0 m.dnslockbox.com
@@ -52,6 +57,7 @@
 0.0.0.0 mobapp-center.info
 0.0.0.0 mobapp-center1.info
 0.0.0.0 mobappcenter3.com
+0.0.0.0 mobile-app-market-here5.life
 0.0.0.0 mobile8578.mon-thu101.life
 0.0.0.0 mobile8981.nonameghjd95.live
 0.0.0.0 mobilevpn.download
@@ -98,8 +104,11 @@
 0.0.0.0 tac5237iop.com
 0.0.0.0 tap2earn.co
 0.0.0.0 teamppv.jordanappvideoscanpy.us
+0.0.0.0 telecomservation.com
 0.0.0.0 theantivirusguy.com
+0.0.0.0 todayoonly.uk.com
 0.0.0.0 todaysdailyreports.com
+0.0.0.0 togetherforwine.com
 0.0.0.0 trahes.site
 0.0.0.0 tyblk.info
 0.0.0.0 upsaibou.net
@@ -117,9 +126,11 @@
 0.0.0.0 win4.viralupdatestoday.com
 0.0.0.0 win5.viralupdatestoday.com
 0.0.0.0 www.1coolbox.com
+0.0.0.0 www.appstrk.com
 0.0.0.0 www.asdasdad.net
 0.0.0.0 www.beneguy.com
 0.0.0.0 www.beonixom.com
+0.0.0.0 www.bestprize-places-here1.life
 0.0.0.0 www.binom.napoletoss.ru
 0.0.0.0 www.boot-upintenselypreciseproduct.icu
 0.0.0.0 www.buycicretofficial.com
@@ -133,6 +144,7 @@
 0.0.0.0 www.contentfilled.com
 0.0.0.0 www.cybereveryday02.space
 0.0.0.0 www.daryrecibir.club
+0.0.0.0 www.deliverynotforme.best
 0.0.0.0 www.devtechiewebmine.icu
 0.0.0.0 www.digitalive.world
 0.0.0.0 www.dnslockbox.com
@@ -141,14 +153,18 @@
 0.0.0.0 www.fitnessrant.com
 0.0.0.0 www.free.content-center.club
 0.0.0.0 www.freemineapplicationads.icu
+0.0.0.0 www.hyvee-get-limited.todayoonly.uk.com
+0.0.0.0 www.imgvieweriri.com
 0.0.0.0 www.injury-check.com
 0.0.0.0 www.joblifestyles.com
 0.0.0.0 www.johnstyles365.com
+0.0.0.0 www.jstcarnaval15.live
 0.0.0.0 www.litebucks.com
 0.0.0.0 www.millionmoney.dtrabajos.com
 0.0.0.0 www.mobapp-center.info
 0.0.0.0 www.mobapp-center1.info
 0.0.0.0 www.mobappcenter3.com
+0.0.0.0 www.mobile-app-market-here5.life
 0.0.0.0 www.mobilevpn.download
 0.0.0.0 www.mon-thu101.life
 0.0.0.0 www.money.net-web.news
@@ -177,8 +193,11 @@
 0.0.0.0 www.t.affiliclk.org
 0.0.0.0 www.tac5237iop.com
 0.0.0.0 www.tap2earn.co
+0.0.0.0 www.telecomservation.com
 0.0.0.0 www.theantivirusguy.com
+0.0.0.0 www.todayoonly.uk.com
 0.0.0.0 www.todaysdailyreports.com
+0.0.0.0 www.togetherforwine.com
 0.0.0.0 www.trahes.site
 0.0.0.0 www.tyblk.info
 0.0.0.0 www.upsaibou.net
@@ -192,5 +211,3 @@
 0.0.0.0 www.vlc.onl
 0.0.0.0 www7.inspireddaily.xyz
 0.0.0.0 ywnvnalo.vite.pw
-0.0.0.0 imgvieweriri.com
-0.0.0.0 www.imgvieweriri.com
