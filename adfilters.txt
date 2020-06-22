@@ -9,6 +9,7 @@ abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWr
 abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailBottom__1D0Z.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
+android.gadgethacks.com##aside.whtaph-300.whtaph-rightbox
 apnews.com##.Component-dfp-0-2-42
 apnews.com##.Component-dfp-0-2-56
 apnews.com##.RightRail > div:nth-of-type(1)
@@ -47,9 +48,6 @@ deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(2) > .fHVkyq.sav3un-4 > .CjFXp.sav
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .fHVkyq.sav3un-4 > .CjFXp.sav3un-7
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .js_link.hgyrqL.sav3un-1.hMndXN.sc-1out364-0
 devilslakejournal.com##.ad-container
-div.widget:nth-of-type(1)
-div:nth-of-type(1)
-div:nth-of-type(5)
 en.softonic.com###aside-top-app-download-page-desktop-wrapper > .ad-content-wrapper > .adblock-fallback
 en.softonic.com###header-bar-avast-hb
 en.softonic.com###top-leaderboard-app-download-page-desktop-wrapper
@@ -98,6 +96,12 @@ minecraft-server-list.com##.annonceMidtServer1
 minecraft-server-list.com##.annonceTopServer1
 minecraft-server-list.com##.col2Two
 minecraft-server-list.com##.col2Two > div
+mods-n-hacks.gadgethacks.com##.centered-article-content.clearfix.article-container > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
+mods-n-hacks.gadgethacks.com##aside.whtaph-300.whtaph-rightbox:nth-of-type(5)
+mods-n-hacks.gadgethacks.com##aside.whtaph-300.whtaph-rightbox:nth-of-type(7)
+mods-n-hacks.gadgethacks.com##section:nth-of-type(3) > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
+mods-n-hacks.gadgethacks.com##section:nth-of-type(4) > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
+mods-n-hacks.gadgethacks.com##section:nth-of-type(9) > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
 mtshastanews.com##.ad-container
 news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
 newsguardwatch.com##.BCRADUEVWSTX
@@ -205,6 +209,9 @@ www-1.kansas.com##.weathermedia
 www-1.kansas.com##.zone-el
 www.accuweather.com##.full-responsive-width.zerg-net
 www.accuweather.com##.glacier-ad
+www.allrecipes.com###div-gpt-mob-adhesive-banner-fixed
+www.allrecipes.com##.recipe-main-ad
+www.allrecipes.com##.tablet-ad
 www.androidpolice.com##.adslot_ap2_trending_posts.adslot.adsbygoogle
 www.azcentral.com##.taboola-sidebar
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
@@ -364,6 +371,10 @@ www.foxnews.com##.yodbo6qjndtf
 www.foxnews.com##^.pre-content
 www.foxnews.com##div.desktop.ad-container:nth-of-type(4) > .advert-txt
 www.foxnews.com##span.advert-txt
+www.gadgethacks.com##.article-list-mode4.article-list > aside.whtaph-600.whtaph-rightbox:nth-of-type(1) > .rightbox.whtaph
+www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox
+www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox:nth-of-type(3) > .rightbox.whtaph
+www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox:nth-of-type(5) > .rightbox.whtaph
 www.hungred.com###content > .banner
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-1
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-2
@@ -442,6 +453,12 @@ www.manualslib.com###manualban
 www.manualslib.com##.manualban-bot.manualban
 www.manualslib.com##div.searchitem:nth-of-type(2) > .row > .pr_adv_ban > .abp_adv_b
 www.manualslib.com##div.searchitem:nth-of-type(5) > .row > .pr_adv_ban > .abp_adv_b
+www.marthastewart.com###div-gpt-mob-adhesive-banner-fixed
+www.marthastewart.com###js-site-nav-ad-wrap
+www.marthastewart.com##.mobile-ad.ad-title
+www.marthastewart.com##.mslo-ad
+www.marthastewart.com##.mslo-ad-holder
+www.marthastewart.com##.recipe-main-ad.full-width.recipe-ad-wrapper
 www.mcclatchydc.com###vendor-stories-content > .h5
 www.minecraftforum.net##.ad-container-footer.ad-container
 www.minecraftforum.net##.footer-ad-medRect.xt-main-med-rect-footer.xt-placement
