@@ -4,17 +4,22 @@
 
 0.0.0.0 ahrp.org
 0.0.0.0 articles.mercola.com
+0.0.0.0 baaghitv.com
 0.0.0.0 blog.nomorefakenews.com
+0.0.0.0 cetv.one
 0.0.0.0 childrenshealthdefense.org
 0.0.0.0 christopherbunch.org
+0.0.0.0 collective-evolution.com
 0.0.0.0 coreysdigs.com
 0.0.0.0 drannacabeca.com
 0.0.0.0 drjudymikovits.com
 0.0.0.0 drnorthrup.com
 0.0.0.0 drtenpenny.com
+0.0.0.0 en.baaghitv.com
 0.0.0.0 go.thetruthaboutvaccines.com
 0.0.0.0 greenmedinfo.com
 0.0.0.0 healthimpactnews.com
+0.0.0.0 icandecide.org
 0.0.0.0 jbhandleyblog.com
 0.0.0.0 jennifermargulis.net
 0.0.0.0 jeremyrhammond.com
@@ -26,6 +31,7 @@
 0.0.0.0 plandemic.tv
 0.0.0.0 plandemicmovie.com
 0.0.0.0 plandemicvideo.com
+0.0.0.0 signup.cetv.one
 0.0.0.0 soundofheart.org
 0.0.0.0 the5gsummit.com
 0.0.0.0 thetruthaboutvaccines.com
@@ -40,8 +46,11 @@
 0.0.0.0 wakeup-world.com
 0.0.0.0 wakingtimes.com
 0.0.0.0 www.ahrp.org
+0.0.0.0 www.baaghitv.com
+0.0.0.0 www.cetv.one
 0.0.0.0 www.childrenshealthdefense.org
 0.0.0.0 www.christopherbunch.org
+0.0.0.0 www.collective-evolution.com
 0.0.0.0 www.coreysdigs.com
 0.0.0.0 www.drannacabeca.com
 0.0.0.0 www.drjudymikovits.com
@@ -49,6 +58,7 @@
 0.0.0.0 www.drtenpenny.com
 0.0.0.0 www.greenmedinfo.com
 0.0.0.0 www.healthimpactnews.com
+0.0.0.0 www.icandecide.org
 0.0.0.0 www.jbhandleyblog.com
 0.0.0.0 www.jennifermargulis.net
 0.0.0.0 www.jeremyrhammond.com
