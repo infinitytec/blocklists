@@ -14,3 +14,9 @@
 #possible scam sites
 0.0.0.0 www.evergreenleadmachine.com
 0.0.0.0 freescore360.com
+0.0.0.0 downloadplayerz.com
+0.0.0.0 www.downloadplayerz.com
+0.0.0.0 signup.digicover.net
+0.0.0.0 digicover.net
+0.0.0.0 www.digicover.net
+0.0.0.0 www2.digicover.net
