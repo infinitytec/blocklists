@@ -2,6 +2,10 @@
 # This is a new list and still under construction, but should be usable.
 # Made by infinitytec and released under the MIT license.
 
+0.0.0.0 7thchakrafilms.com
+0.0.0.0 VaXism.com
+0.0.0.0 actualactivists.com
+0.0.0.0 ageofautism.com
 0.0.0.0 ahrp.org
 0.0.0.0 articles.mercola.com
 0.0.0.0 baaghitv.com
@@ -9,13 +13,19 @@
 0.0.0.0 cetv.one
 0.0.0.0 childrenshealthdefense.org
 0.0.0.0 christopherbunch.org
+0.0.0.0 cohealthchoice.org
 0.0.0.0 collective-evolution.com
 0.0.0.0 coreysdigs.com
 0.0.0.0 drannacabeca.com
+0.0.0.0 draxe.com
 0.0.0.0 drjudymikovits.com
 0.0.0.0 drnorthrup.com
 0.0.0.0 drtenpenny.com
+0.0.0.0 ehtrust.org
+0.0.0.0 emfacademy.com
+0.0.0.0 emfsafetynetwork.org
 0.0.0.0 en.baaghitv.com
+0.0.0.0 frankenskiesthemovie.com
 0.0.0.0 go.thetruthaboutvaccines.com
 0.0.0.0 greenmedinfo.com
 0.0.0.0 healthimpactnews.com
@@ -32,7 +42,10 @@
 0.0.0.0 plandemicmovie.com
 0.0.0.0 plandemicvideo.com
 0.0.0.0 signup.cetv.one
+0.0.0.0 smartmetercovers.com
 0.0.0.0 soundofheart.org
+0.0.0.0 speroprotectionclothing.com
+0.0.0.0 stopsmartmeters.org
 0.0.0.0 the5gsummit.com
 0.0.0.0 thetruthaboutvaccines.com
 0.0.0.0 thevaccinereaction.org
@@ -45,17 +58,27 @@
 0.0.0.0 virus-covid-19.com
 0.0.0.0 wakeup-world.com
 0.0.0.0 wakingtimes.com
+0.0.0.0 www.7thchakrafilms.com
+0.0.0.0 www.VaXism.com
+0.0.0.0 www.actualactivists.com
+0.0.0.0 www.ageofautism.com
 0.0.0.0 www.ahrp.org
 0.0.0.0 www.baaghitv.com
 0.0.0.0 www.cetv.one
 0.0.0.0 www.childrenshealthdefense.org
 0.0.0.0 www.christopherbunch.org
+0.0.0.0 www.cohealthchoice.org
 0.0.0.0 www.collective-evolution.com
 0.0.0.0 www.coreysdigs.com
 0.0.0.0 www.drannacabeca.com
+0.0.0.0 www.draxe.com
 0.0.0.0 www.drjudymikovits.com
 0.0.0.0 www.drnorthrup.com
 0.0.0.0 www.drtenpenny.com
+0.0.0.0 www.ehtrust.org
+0.0.0.0 www.emfacademy.com
+0.0.0.0 www.emfsafetynetwork.org
+0.0.0.0 www.frankenskiesthemovie.com
 0.0.0.0 www.greenmedinfo.com
 0.0.0.0 www.healthimpactnews.com
 0.0.0.0 www.icandecide.org
@@ -70,7 +93,10 @@
 0.0.0.0 www.plandemic.tv
 0.0.0.0 www.plandemicmovie.com
 0.0.0.0 www.plandemicvideo.com
+0.0.0.0 www.smartmetercovers.com
 0.0.0.0 www.soundofheart.org
+0.0.0.0 www.speroprotectionclothing.com
+0.0.0.0 www.stopsmartmeters.org
 0.0.0.0 www.the5gsummit.com
 0.0.0.0 www.thetruthaboutvaccines.com
 0.0.0.0 www.thevaccinereaction.org
