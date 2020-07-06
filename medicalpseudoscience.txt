@@ -16,6 +16,7 @@
 0.0.0.0 cohealthchoice.org
 0.0.0.0 collective-evolution.com
 0.0.0.0 coreysdigs.com
+0.0.0.0 daraberger.com
 0.0.0.0 drannacabeca.com
 0.0.0.0 draxe.com
 0.0.0.0 drjudymikovits.com
@@ -29,6 +30,7 @@
 0.0.0.0 go.thetruthaboutvaccines.com
 0.0.0.0 greenmedinfo.com
 0.0.0.0 healthimpactnews.com
+0.0.0.0 howtopreventautism.org
 0.0.0.0 icandecide.org
 0.0.0.0 jbhandleyblog.com
 0.0.0.0 jennifermargulis.net
@@ -49,6 +51,7 @@
 0.0.0.0 the5gsummit.com
 0.0.0.0 thetruthaboutvaccines.com
 0.0.0.0 thevaccinereaction.org
+0.0.0.0 thewilddoc.com
 0.0.0.0 thinkingmomsrevolution.com
 0.0.0.0 vaccineimpact.com
 0.0.0.0 vaccineriskawareness.com
@@ -70,6 +73,7 @@
 0.0.0.0 www.cohealthchoice.org
 0.0.0.0 www.collective-evolution.com
 0.0.0.0 www.coreysdigs.com
+0.0.0.0 www.daraberger.com
 0.0.0.0 www.drannacabeca.com
 0.0.0.0 www.draxe.com
 0.0.0.0 www.drjudymikovits.com
@@ -81,6 +85,7 @@
 0.0.0.0 www.frankenskiesthemovie.com
 0.0.0.0 www.greenmedinfo.com
 0.0.0.0 www.healthimpactnews.com
+0.0.0.0 www.howtopreventautism.org
 0.0.0.0 www.icandecide.org
 0.0.0.0 www.jbhandleyblog.com
 0.0.0.0 www.jennifermargulis.net
@@ -100,6 +105,7 @@
 0.0.0.0 www.the5gsummit.com
 0.0.0.0 www.thetruthaboutvaccines.com
 0.0.0.0 www.thevaccinereaction.org
+0.0.0.0 www.thewilddoc.com
 0.0.0.0 www.thinkingmomsrevolution.com
 0.0.0.0 www.vaccineimpact.com
 0.0.0.0 www.vaccineriskawareness.com
