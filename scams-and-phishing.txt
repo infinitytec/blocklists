@@ -4,6 +4,7 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
 0.0.0.0 1coolbox.com
+0.0.0.0 aliexpres.com
 0.0.0.0 api.a0ndi.cn
 0.0.0.0 api.xxpxkj.com
 0.0.0.0 app5309.nonamealms11.live
@@ -129,6 +130,7 @@
 0.0.0.0 win4.viralupdatestoday.com
 0.0.0.0 win5.viralupdatestoday.com
 0.0.0.0 www.1coolbox.com
+0.0.0.0 www.aliexpres.com
 0.0.0.0 www.appstrk.com
 0.0.0.0 www.asdasdad.net
 0.0.0.0 www.beneguy.com
