@@ -48,6 +48,8 @@ deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(2) > .fHVkyq.sav3un-4 > .CjFXp.sav
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .fHVkyq.sav3un-4 > .CjFXp.sav3un-7
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .js_link.hgyrqL.sav3un-1.hMndXN.sc-1out364-0
 devilslakejournal.com##.ad-container
+didyouknowfacts.com##.ad-box
+didyouknowfacts.com##.header-ad
 en.softonic.com###aside-top-app-download-page-desktop-wrapper > .ad-content-wrapper > .adblock-fallback
 en.softonic.com###header-bar-avast-hb
 en.softonic.com###top-leaderboard-app-download-page-desktop-wrapper
@@ -477,6 +479,7 @@ www.lifenews.com##.box-frame.widget-odd.widget-first.widget-1 > p > .more-2
 www.lifenews.com##.box-frame.widget-odd.widget-last.widget-7 > p > .more-2
 www.lifenews.com##.even.uds-ad.uds-ads-728
 www.lifenews.com##.widget_uds-ads
+www.lifesavvy.com##.adfullwrap.amp-ad-wrapper
 www.manualslib.com###banner_1700584cc7a5
 www.manualslib.com###banner_73440275702
 www.manualslib.com###manualban
@@ -560,6 +563,8 @@ www.thewindowsclub.com##.adtester-container-877.adtester-container.banner-1.ezoi
 www.thewindowsclub.com##.ez-report-ad-button
 www.thewindowsclub.com##.ezoic-ad
 www.thewindowsclub.com##.ezoic-ad-adaptive.adtester-container-104.adtester-container.banner-2.ezoic-ad
+www.timeanddate.com###ad-wrap
+www.timeanddate.com###ad300
 www.tutorialspoint.com##.google-bottom-ads
 www.tutorialspoint.com##.top-ad-heading
 www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
