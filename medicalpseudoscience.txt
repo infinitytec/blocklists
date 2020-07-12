@@ -1,6 +1,7 @@
 # A list to block medical pseudoscience (such as antivax sites).
 # This is a new list and still under construction, but should be usable.
 # Made by infinitytec and released under the MIT license.
+# False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
 0.0.0.0 7thchakrafilms.com
 0.0.0.0 VaXism.com
@@ -11,6 +12,7 @@
 0.0.0.0 avoiceforchoice.org
 0.0.0.0 baaghitv.com
 0.0.0.0 blog.nomorefakenews.com
+0.0.0.0 c4st.org
 0.0.0.0 cetv.one
 0.0.0.0 childrenshealthdefense.org
 0.0.0.0 christopherbunch.org
@@ -28,6 +30,7 @@
 0.0.0.0 emfacademy.com
 0.0.0.0 emfsafetynetwork.org
 0.0.0.0 en.baaghitv.com
+0.0.0.0 escuelasinwifi.org
 0.0.0.0 frankenskiesthemovie.com
 0.0.0.0 fromrome.info
 0.0.0.0 go.thetruthaboutvaccines.com
@@ -43,10 +46,12 @@
 0.0.0.0 mercola.com
 0.0.0.0 nofakenews.net
 0.0.0.0 nvic.org
+0.0.0.0 parentsforsafetechnology.org
 0.0.0.0 physiciansforinformedconsent.org
 0.0.0.0 plandemic.tv
 0.0.0.0 plandemicmovie.com
 0.0.0.0 plandemicvideo.com
+0.0.0.0 saferemr.com
 0.0.0.0 scientists4wiredtech.com
 0.0.0.0 signup.cetv.one
 0.0.0.0 smartmetercovers.com
@@ -56,6 +61,7 @@
 0.0.0.0 technocracy.news
 0.0.0.0 technocracy.studio
 0.0.0.0 the5gsummit.com
+0.0.0.0 thefullertoninformer.com
 0.0.0.0 thetruthaboutvaccines.com
 0.0.0.0 thevaccinereaction.org
 0.0.0.0 thewilddoc.com
@@ -70,6 +76,10 @@
 0.0.0.0 virus-covid-19.com
 0.0.0.0 wakeup-world.com
 0.0.0.0 wakingtimes.com
+0.0.0.0 wifi-in-schools-australia.org
+0.0.0.0 wifidangers.com
+0.0.0.0 wifiinschools.com
+0.0.0.0 wifiinschools.org.uk
 0.0.0.0 www.7thchakrafilms.com
 0.0.0.0 www.VaXism.com
 0.0.0.0 www.actualactivists.com
@@ -77,6 +87,7 @@
 0.0.0.0 www.ahrp.org
 0.0.0.0 www.avoiceforchoice.org
 0.0.0.0 www.baaghitv.com
+0.0.0.0 www.c4st.org
 0.0.0.0 www.cetv.one
 0.0.0.0 www.childrenshealthdefense.org
 0.0.0.0 www.christopherbunch.org
@@ -93,6 +104,7 @@
 0.0.0.0 www.ehtrust.org
 0.0.0.0 www.emfacademy.com
 0.0.0.0 www.emfsafetynetwork.org
+0.0.0.0 www.escuelasinwifi.org
 0.0.0.0 www.frankenskiesthemovie.com
 0.0.0.0 www.fromrome.info
 0.0.0.0 www.greenmedinfo.com
@@ -107,10 +119,12 @@
 0.0.0.0 www.mercola.com
 0.0.0.0 www.nofakenews.net
 0.0.0.0 www.nvic.org
+0.0.0.0 www.parentsforsafetechnology.org
 0.0.0.0 www.physiciansforinformedconsent.org
 0.0.0.0 www.plandemic.tv
 0.0.0.0 www.plandemicmovie.com
 0.0.0.0 www.plandemicvideo.com
+0.0.0.0 www.saferemr.com
 0.0.0.0 www.scientists4wiredtech.com
 0.0.0.0 www.smartmetercovers.com
 0.0.0.0 www.soundofheart.org
@@ -119,6 +133,7 @@
 0.0.0.0 www.technocracy.news
 0.0.0.0 www.technocracy.studio
 0.0.0.0 www.the5gsummit.com
+0.0.0.0 www.thefullertoninformer.com
 0.0.0.0 www.thetruthaboutvaccines.com
 0.0.0.0 www.thevaccinereaction.org
 0.0.0.0 www.thewilddoc.com
@@ -133,21 +148,7 @@
 0.0.0.0 www.virus-covid-19.com
 0.0.0.0 www.wakeup-world.com
 0.0.0.0 www.wakingtimes.com
-0.0.0.0 thefullertoninformer.com
-0.0.0.0 www.thefullertoninformer.com
-0.0.0.0 wifidangers.com
-0.0.0.0 www.wifidangers.com
-0.0.0.0 wifiinschools.com
-0.0.0.0 www.wifiinschools.com
-0.0.0.0 www.parentsforsafetechnology.org
-0.0.0.0 parentsforsafetechnology.org
-0.0.0.0 www.escuelasinwifi.org
-0.0.0.0 escuelasinwifi.org
-0.0.0.0 www.wifiinschools.org.uk
-0.0.0.0 wifiinschools.org.uk
 0.0.0.0 www.wifi-in-schools-australia.org
-0.0.0.0 wifi-in-schools-australia.org
-0.0.0.0 c4st.org
-0.0.0.0 www.c4st.org
-0.0.0.0 www.saferemr.com
-0.0.0.0 saferemr.com
+0.0.0.0 www.wifidangers.com
+0.0.0.0 www.wifiinschools.com
+0.0.0.0 www.wifiinschools.org.uk
