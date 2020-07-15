@@ -153,3 +153,7 @@
 0.0.0.0 www.wifidangers.com
 0.0.0.0 www.wifiinschools.com
 0.0.0.0 www.wifiinschools.org.uk
+0.0.0.0 wellaware1.com
+0.0.0.0 www.wellaware1.com
+0.0.0.0 off-guardian.org
+0.0.0.0 www.off-guardian.org
