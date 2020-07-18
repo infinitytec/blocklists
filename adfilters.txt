@@ -50,6 +50,8 @@ deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .js_link.hgyrqL.sav3un-1.hMnd
 devilslakejournal.com##.ad-container
 didyouknowfacts.com##.ad-box
 didyouknowfacts.com##.header-ad
+doctor.webmd.com##.basicMobileTopAd
+doctor.webmd.com##div#profilebottomad
 en.softonic.com###aside-top-app-download-page-desktop-wrapper > .ad-content-wrapper > .adblock-fallback
 en.softonic.com###header-bar-avast-hb
 en.softonic.com###top-leaderboard-app-download-page-desktop-wrapper
@@ -63,9 +65,16 @@ filehippo.com##.video-player
 futures.tradingcharts.com###mrABMessage_box_85995
 futures.tradingcharts.com###mrABMessage_top_85995
 gadsdentimes.com##.ad-container
+gizmodo.com##.ad-container
+gizmodo.com##.hQyEYS
+gizmodo.com##.hZzjjd.sc-1bxrryq-0
+gizmodo.com##.kzUztX.sc-1to1lfh-1
+gizmodo.com##div.movable-ad
 harveycountynow.com##.sidebar
 heavens-above.com##.adslot_header.adsbygoogle
 historydaily.org##.adwrapper
+hothardware.com##.ad-top-billboard-init.hide-mobile.ad-top-billboard
+hothardware.com##.hide-mobile.ad-top-billboard
 imgur.com###cta-container
 journaldemocrat.com##.ad-container
 jsfiddle.net###keep-us-running
@@ -90,6 +99,7 @@ linuxmint.com##.ads
 linuxmint.com##.sponsors
 linuxmint.com##h3:nth-of-type(2)
 linuxmint.com##h3:nth-of-type(3)
+lmgtfy.com##div:nth-of-type(1) > iframe
 m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
 m.aliexpress.com##.download-bar
 m.imdb.com###inline40
@@ -100,6 +110,8 @@ m.imdb.com###inline60_wrapper
 m.imdb.com###inlinebottom_sponsored
 m.imdb.com###placeholderImageLinearGradient
 m.imdb.com###placeholderImageMask
+m.yelp.com###BottomAdStandard
+m.yelp.com###TopAdStandard
 mashable.com##.inline-video-seealso
 mediabiasfactcheck.com##.textwidget
 minecraft-mp.com###adbox_leaderboard
@@ -179,6 +191,7 @@ strawpoll.com##.adsbygoogle
 strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsbygoogle
 sweeps3028.nonamejhop47.live
 taftmidwaydriller.com##.ad-container
+thefederalist.com##[id^="div-gpt-ad-"]
 thehill.com###block-block-3 > p
 thehill.com###dfp-ad-mos_1
 thehill.com###dfp-ad-mos_2
@@ -244,6 +257,7 @@ www.beliefnet.com##.ad-container
 www.beliefnet.com##.visible-xs-block.ad-container.ad.score-component.Mob_MidList_1
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_NonPrem_Bottom
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_Prem1_Top
+www.cbr.com##.ad-zone-container
 www.christianitytoday.com##div.clearfix.spacer-bottom-15
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
 www.citationmachine.net##.elrDHH.Messages__EmptyContainer-sc-1n74m55-0
@@ -445,6 +459,8 @@ www.kbb.com###kbbAdsStm
 www.kbb.com###toolbarAdLabel
 www.kbb.com##.css-1sivlbc-kbbAdsFct
 www.kbb.com##.css-wdm52e-kbbAdsFct-fctTop
+www.kwch.com##.ad-type-cube
+www.kwch.com##.ad-type-flex-leaderboard
 www.kwqc.com##.visible-lg-block.visible-md-block.visible-sm-block.hidden-xs > div.row:nth-of-type(1)
 www.learningmultipleintelligence.com###btm_banner
 www.learningmultipleintelligence.com###g207
@@ -545,6 +561,8 @@ www.sevenforums.com##.chillad.media400
 www.shopgoodwill.com###listings-sidebar > div
 www.shopgoodwill.com##.purchase-desktop > div
 www.shoppok.com##.adblocka
+www.steamboatpilot.com##.ad-top-wrapper
+www.steamboatpilot.com##.module-ad
 www.tax-rates.org###promoLink
 www.techwalla.com##.component-header-sticky-ad
 www.theaaronloy.com###custom_html-2
@@ -632,11 +650,14 @@ www.woculus.com##.wocul-adlabel
 www.worldatlas.com###adStickyAside
 www.worldatlas.com##.asideStickyAd
 www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
+www.wthr.com###taboola-mobile-below-article-0
+www.wthr.com##.ad
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
 ||cdn.iframe.ly/kTgKxV9?v=1&app=1$subdocument
 ||coinfomania.com/wp-content/uploads/728_90-en.gif$image
 ||coinfomania.com/wp-content/uploads/NordFX-1.gif$image
 ||d.stockcharts.com/img/freead4.gif$image
+||danielengberg.com/wp-content/uploads/2019/04/Altaro190412-250x250.jpg$image
 ||digitalasset.intuit.com/IMAGE/A9tN3RxOp/default.jpg$image
 ||i.imgur.com/Yefyjlu.gif$image
 ||i0.wp.com/www.wildernessarena.com/wp-content/uploads/2018/07/Wilderness-Arena-IAP-ad.png?*0&ssl=1$image
@@ -682,4 +703,5 @@ www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
 ||www.paperrater.com/images/ginger_btn_sprite.png$image
 ||www.publish0x.com/images/brave/Brave_Banner_*x90$image
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
+||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
