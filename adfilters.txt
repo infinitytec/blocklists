@@ -38,6 +38,8 @@ cheezburger.com##li.ad-list-item:nth-of-type(2) > .ad-container-list.js-ad-conta
 coinfomania.com##.thecontent > p:nth-of-type(2)
 coinmarketcap.com##.cmc-details-panel-buy-buttons
 coinmarketcap.com##.draeOX.sc-1bks9yb-0.cmc-sponsored-link > .cmc-link
+colorado.hometownlocator.com###div-gpt-ad-hometownlocator_com-box-2-0
+colorado.hometownlocator.com##.ezoic-ad
 columbiadailyherald.com##.ad-container
 contactform7.com##.count-2.cf7com-adsense
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
@@ -62,6 +64,7 @@ etherscan.io##.showcase-banner-spacing
 filehippo.com##.avast-promo
 filehippo.com##.modal-di-ad-guardian-plus
 filehippo.com##.video-player
+funtranslations.com##.adsbygoogle
 futures.tradingcharts.com###mrABMessage_box_85995
 futures.tradingcharts.com###mrABMessage_top_85995
 gadsdentimes.com##.ad-container
@@ -251,12 +254,14 @@ www.allrecipes.com###div-gpt-mob-adhesive-banner-fixed
 www.allrecipes.com##.recipe-main-ad
 www.allrecipes.com##.tablet-ad
 www.androidpolice.com##.adslot_ap2_trending_posts.adslot.adsbygoogle
+www.att.com##.advertisementpanel
 www.azcentral.com##.taboola-sidebar
 www.beliefnet.com###div-gpt-ad-125166773-0
 www.beliefnet.com##.ad-container
 www.beliefnet.com##.visible-xs-block.ad-container.ad.score-component.Mob_MidList_1
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_NonPrem_Bottom
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_Prem1_Top
+www.businessinsider.com###taboola-below-article
 www.cbr.com##.ad-zone-container
 www.christianitytoday.com##div.clearfix.spacer-bottom-15
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
@@ -421,6 +426,13 @@ www.gadgethacks.com##.article-list-mode4.article-list > aside.whtaph-600.whtaph-
 www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox
 www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox:nth-of-type(3) > .rightbox.whtaph
 www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox:nth-of-type(5) > .rightbox.whtaph
+www.gjsentinel.com###ad-553958
+www.gjsentinel.com###ad-615378
+www.gjsentinel.com###ad-615670
+www.gjsentinel.com###ad-616240
+www.gjsentinel.com###ad-678643
+www.gjsentinel.com###block-647893
+www.gjsentinel.com###tncms-region-global-container-top
 www.hungred.com###content > .banner
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-1
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-2
@@ -520,6 +532,9 @@ www.nbcnews.com##.global
 www.nbcnews.com##.js-global-nav-insert.global-insert
 www.ndtv.com##.content > .add-section > .add__wrp
 www.ndtv.com##body > .add-section > .add__wrp
+www.news-medical.net###div-gpt-mobile-bottom-mrec
+www.news-medical.net###div-gpt-mobile-middle-mrec
+www.news-medical.net###div-gpt-mobile-top-leaderboard
 www.newsweek.com###dfp-ad-bottom-wrapper
 www.newsweek.com###dfp-ad-lazyads10-wrapper
 www.newsweek.com###dfp-ad-lazyads5-wrapper
@@ -547,6 +562,9 @@ www.paperrater.com###gramBannerSubFormTop
 www.paperrater.com##.ginger_attr_1
 www.paperrater.com##.ginger_btn_sprite.ginger_btn_up
 www.pcsuggest.com##.aprime_link
+www.phonescoop.com###admid
+www.phonescoop.com##.adinner
+www.phonescoop.com##.admore
 www.popularmechanics.com##.transporter-ad.leaderboard-ad
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.track-event
@@ -561,6 +579,7 @@ www.sevenforums.com##.chillad.media400
 www.shopgoodwill.com###listings-sidebar > div
 www.shopgoodwill.com##.purchase-desktop > div
 www.shoppok.com##.adblocka
+www.snopes.com##.smg-zone-widget-ads-placement
 www.steamboatpilot.com##.ad-top-wrapper
 www.steamboatpilot.com##.module-ad
 www.tax-rates.org###promoLink
@@ -583,6 +602,8 @@ www.thewindowsclub.com##.ezoic-ad
 www.thewindowsclub.com##.ezoic-ad-adaptive.adtester-container-104.adtester-container.banner-2.ezoic-ad
 www.timeanddate.com###ad-wrap
 www.timeanddate.com###ad300
+www.translator.eu###sponsored2_mobil
+www.translator.eu##.adsbygoogle
 www.tutorialspoint.com##.google-bottom-ads
 www.tutorialspoint.com##.top-ad-heading
 www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
@@ -625,6 +646,7 @@ www.upi.com##.inread_mobi.ad_slot.story-offset
 www.upi.com##.padded.widget-advertisement
 www.upi.com##.reading > .ad_slot
 www.upi.com##div.widget-advertisement:nth-of-type(2)
+www.walmart.com##.prod-marketingFlex
 www.webmd.com##.ad_label
 www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
 www.websleuths.com###widget-17
@@ -698,9 +720,14 @@ www.wthr.com##.ad
 ||walletinvestor.com/static/frontend/images/kucoin/Walletinvestor-300-250-2.gif$image
 ||walletinvestor.com/static/frontend/images/kucoin/Walletinvestor-970-90-2.gif$image
 ||walletinvestor.com/static/frontend/images/perpetual/prp970x90.jpg$image
+||webcamtests.com/MyShowroom/view.php?medium=noslot&size=385x0$subdocument
+||webcamtests.com/MyShowroom/view.php?medium=noslot&size=500x0$subdocument
 ||www-1.kansas.com/?load=aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL3NhZmVmcmFtZS8xLTAtMzYvaHRtbC9jb250YWluZXIuaHRtbA&doc=1$subdocument
 ||www.citefast.com/images/grammarcheck.png$image
+||www.gjsentinel.com/tncms/block/646820/?disableTNStatsTracker=1$subdocument
+||www.gjsentinel.com/tncms/block/646820/?disableTNStatsTracker=1$subdocument
 ||www.paperrater.com/images/ginger_btn_sprite.png$image
+||www.phonescoop.com/img/l/a_mc_bg.gif$image
 ||www.publish0x.com/images/brave/Brave_Banner_*x90$image
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
 ||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
