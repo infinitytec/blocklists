@@ -250,6 +250,11 @@ www-1.kansas.com##.weathermedia
 www-1.kansas.com##.zone-el
 www.accuweather.com##.full-responsive-width.zerg-net
 www.accuweather.com##.glacier-ad
+www.acronymfinder.com###xs1
+www.acronymfinder.com###xs3
+www.acronymfinder.com###xs4
+www.allacronyms.com##.ad_list_container
+www.allacronyms.com##.ad_top.ad_list_container.adsbygoogle
 www.allrecipes.com###div-gpt-mob-adhesive-banner-fixed
 www.allrecipes.com##.recipe-main-ad
 www.allrecipes.com##.tablet-ad
@@ -261,6 +266,8 @@ www.beliefnet.com##.ad-container
 www.beliefnet.com##.visible-xs-block.ad-container.ad.score-component.Mob_MidList_1
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_NonPrem_Bottom
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_Prem1_Top
+www.britannica.com##.video-ad-container-content
+www.britannica.com##.video-ad-container.ora-tv-container
 www.businessinsider.com###taboola-below-article
 www.cbr.com##.ad-zone-container
 www.christianitytoday.com##div.clearfix.spacer-bottom-15
@@ -270,6 +277,11 @@ www.citationmachine.net##.top.adds-wrapper
 www.citationmachine.net##.top.adds.adds-wrapper
 www.citefast.com###banner2content
 www.citefast.com###myleftad
+www.cnet.com###mobile-mpu-native
+www.cnet.com###mobile-mpu-native-2
+www.cnet.com###mobile-mpu-native-3
+www.cnet.com###mobile-mpu-native-4
+www.cnn.com###sponsored-outbrain-1
 www.cnx-software.com###custom_html-2
 www.cryptlife.com##article > div:nth-of-type(3)
 www.cryptlife.com##div:nth-of-type(2) > font > center
@@ -528,6 +540,9 @@ www.monoprice.com##.ad-container > .global-adsense
 www.monoprice.com##.global-adsense
 www.monoprice.com##.prod-fold.global-adsense
 www.morningsun.net##.ad-container
+www.nationalgeographic.com###photography_ancestor_photography_article_infinitefeed_03-auto-gen-id-11
+www.nationalgeographic.com##.adSlotDynamic-slot
+www.nationalgeographic.com##.adunit
 www.nbcnews.com##.global
 www.nbcnews.com##.js-global-nav-insert.global-insert
 www.ndtv.com##.content > .add-section > .add__wrp
@@ -600,6 +615,20 @@ www.thewindowsclub.com##.adtester-container-877.adtester-container.banner-1.ezoi
 www.thewindowsclub.com##.ez-report-ad-button
 www.thewindowsclub.com##.ezoic-ad
 www.thewindowsclub.com##.ezoic-ad-adaptive.adtester-container-104.adtester-container.banner-2.ezoic-ad
+www.thoughtco.com###billboard-footer_1-0
+www.thoughtco.com###billboard1_1-0
+www.thoughtco.com###billboard2-dynamic_2-0
+www.thoughtco.com###continue-label_1-0
+www.thoughtco.com###continue-label_1-0-1
+www.thoughtco.com###continue-label_1-0-2
+www.thoughtco.com###continue-label_1-0-3
+www.thoughtco.com###continue-label_1-0-4
+www.thoughtco.com###continue-label_1-0-5
+www.thoughtco.com###dynamic-inline_2-0
+www.thoughtco.com###dynamic-inline_3-0
+www.thoughtco.com###dynamic-inline_3-0-1
+www.thoughtco.com###dynamic-inline_3-0-2
+www.thoughtco.com###mntl-adhesive-ad_1-0
 www.timeanddate.com###ad-wrap
 www.timeanddate.com###ad300
 www.translator.eu###sponsored2_mobil
@@ -671,9 +700,11 @@ www.woculus.com##.custom-html-widget.textwidget
 www.woculus.com##.wocul-adlabel
 www.worldatlas.com###adStickyAside
 www.worldatlas.com##.asideStickyAd
+www.worldatlas.com##.mod_ad_container
 www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
 www.wthr.com###taboola-mobile-below-article-0
 www.wthr.com##.ad
+www1.cbn.com##.header-ad
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
 ||cdn.iframe.ly/kTgKxV9?v=1&app=1$subdocument
 ||coinfomania.com/wp-content/uploads/728_90-en.gif$image
