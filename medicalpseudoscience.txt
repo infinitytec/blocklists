@@ -175,3 +175,9 @@
 0.0.0.0 www.wifiinschools.com
 0.0.0.0 www.wifiinschools.org.uk
 0.0.0.0 www.worldhealth.net
+0.0.0.0 theemfguy.com
+0.0.0.0 www.theemfguy.com
+0.0.0.0 questioningcovid.com
+0.0.0.0 www.questioningcovid.com
+0.0.0.0 americasfrontlinedoctorsummit.com
+0.0.0.0 www.americasfrontlinedoctorsummit.com
