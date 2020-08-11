@@ -763,3 +763,7 @@ www1.cbn.com##.header-ad
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
 ||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
+www.dailydot.com##.taboola-in-plug-wrap
+www.dailydot.com##.text-center.footer-in-plug.in-plug-holder
+www.bestbuy.com##.digital-ad-wrapper
+www.bestbuy.com##.add-sponsored-border.sku-item.appContainer
