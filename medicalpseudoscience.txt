@@ -10,9 +10,12 @@
 0.0.0.0 ahrp.org
 0.0.0.0 aimintegrativemedicine.com
 0.0.0.0 americasfrontlinedoctors.com
+0.0.0.0 americasfrontlinedoctorsummit.com
 0.0.0.0 articles.mercola.com
 0.0.0.0 avoiceforchoice.org
 0.0.0.0 baaghitv.com
+0.0.0.0 betweenrockandhardplace.files.wordpress.com
+0.0.0.0 betweenrockandhardplace.wordpress.com
 0.0.0.0 blog.nomorefakenews.com
 0.0.0.0 c4st.org
 0.0.0.0 cetv.one
@@ -29,6 +32,7 @@
 0.0.0.0 drnorthrup.com
 0.0.0.0 drtenpenny.com
 0.0.0.0 ehtrust.org
+0.0.0.0 electricsense.com
 0.0.0.0 emfacademy.com
 0.0.0.0 emfsafetynetwork.org
 0.0.0.0 en.baaghitv.com
@@ -58,8 +62,10 @@
 0.0.0.0 plandemic.tv
 0.0.0.0 plandemicmovie.com
 0.0.0.0 plandemicvideo.com
+0.0.0.0 questioningcovid.com
 0.0.0.0 repub.li
 0.0.0.0 saferemr.com
+0.0.0.0 salmartingano.com
 0.0.0.0 scientists4wiredtech.com
 0.0.0.0 signup.cetv.one
 0.0.0.0 smartmetercovers.com
@@ -69,6 +75,7 @@
 0.0.0.0 technocracy.news
 0.0.0.0 technocracy.studio
 0.0.0.0 the5gsummit.com
+0.0.0.0 theemfguy.com
 0.0.0.0 thefullertoninformer.com
 0.0.0.0 thegoldopinion.com
 0.0.0.0 thehighwire.com
@@ -99,6 +106,7 @@
 0.0.0.0 www.ahrp.org
 0.0.0.0 www.aimintegrativemedicine.com
 0.0.0.0 www.americasfrontlinedoctors.com
+0.0.0.0 www.americasfrontlinedoctorsummit.com
 0.0.0.0 www.avoiceforchoice.org
 0.0.0.0 www.baaghitv.com
 0.0.0.0 www.c4st.org
@@ -116,6 +124,7 @@
 0.0.0.0 www.drnorthrup.com
 0.0.0.0 www.drtenpenny.com
 0.0.0.0 www.ehtrust.org
+0.0.0.0 www.electricsense.com
 0.0.0.0 www.emfacademy.com
 0.0.0.0 www.emfsafetynetwork.org
 0.0.0.0 www.escuelasinwifi.org
@@ -142,8 +151,10 @@
 0.0.0.0 www.plandemic.tv
 0.0.0.0 www.plandemicmovie.com
 0.0.0.0 www.plandemicvideo.com
+0.0.0.0 www.questioningcovid.com
 0.0.0.0 www.repub.li
 0.0.0.0 www.saferemr.com
+0.0.0.0 www.salmartingano.com
 0.0.0.0 www.scientists4wiredtech.com
 0.0.0.0 www.smartmetercovers.com
 0.0.0.0 www.soundofheart.org
@@ -152,6 +163,7 @@
 0.0.0.0 www.technocracy.news
 0.0.0.0 www.technocracy.studio
 0.0.0.0 www.the5gsummit.com
+0.0.0.0 www.theemfguy.com
 0.0.0.0 www.thefullertoninformer.com
 0.0.0.0 www.thegoldopinion.com
 0.0.0.0 www.thehighwire.com
@@ -175,9 +187,3 @@
 0.0.0.0 www.wifiinschools.com
 0.0.0.0 www.wifiinschools.org.uk
 0.0.0.0 www.worldhealth.net
-0.0.0.0 theemfguy.com
-0.0.0.0 www.theemfguy.com
-0.0.0.0 questioningcovid.com
-0.0.0.0 www.questioningcovid.com
-0.0.0.0 americasfrontlinedoctorsummit.com
-0.0.0.0 www.americasfrontlinedoctorsummit.com
