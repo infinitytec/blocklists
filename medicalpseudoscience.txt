@@ -1,5 +1,4 @@
 # A list to block medical pseudoscience (such as antivax sites).
-# This is a new list and still under construction, but should be usable.
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
