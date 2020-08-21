@@ -19,6 +19,7 @@ apnews.com##.bellow-article
 apnews.com##.persistent-ad > div > .Component-adTitle-0-2-13
 apnews.com##.persistent-ad > div > .Component-rectanglePlaceholderWrapper-0-2-17.Component-placeholderWrapper-0-2-16
 apnews.com##div.Component-dfp-0-2-181
+babylonbee.com###div-gpt-ad-1560348589511-0
 babylonbee.com##.text-center.sticky-footer-image
 bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
 bongino.com##div:nth-of-type(3) > .ai-attributes > .code-block-label
@@ -109,7 +110,9 @@ m.imdb.com###inline40
 m.imdb.com###inline40_inline_wrapper
 m.imdb.com###inline40_placeholder_wrapper
 m.imdb.com###inline60
+m.imdb.com###inline60_inline_wrapper
 m.imdb.com###inline60_wrapper
+m.imdb.com###inlinebottom_inline_wrapper
 m.imdb.com###inlinebottom_sponsored
 m.imdb.com###placeholderImageLinearGradient
 m.imdb.com###placeholderImageMask
@@ -266,6 +269,8 @@ www.beliefnet.com##.ad-container
 www.beliefnet.com##.visible-xs-block.ad-container.ad.score-component.Mob_MidList_1
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_NonPrem_Bottom
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_Prem1_Top
+www.bestbuy.com##.add-sponsored-border.sku-item.appContainer
+www.bestbuy.com##.digital-ad-wrapper
 www.britannica.com##.video-ad-container-content
 www.britannica.com##.video-ad-container.ora-tv-container
 www.businessinsider.com###taboola-below-article
@@ -287,6 +292,8 @@ www.cryptlife.com##article > div:nth-of-type(3)
 www.cryptlife.com##div:nth-of-type(2) > font > center
 www.cyberciti.biz###blocker7a1003a
 www.cyberciti.biz##center
+www.dailydot.com##.taboola-in-plug-wrap
+www.dailydot.com##.text-center.footer-in-plug.in-plug-holder
 www.dailymail.co.uk###stickyBanner
 www.dailywire.com###csci-da522ee51914-5fb1eb20-d24e0c7d-03a07fc3-59126ea72df55f4b
 www.dailywire.com##.csci-breakout
@@ -533,6 +540,7 @@ www.marthastewart.com##.mslo-ad
 www.marthastewart.com##.mslo-ad-holder
 www.marthastewart.com##.recipe-main-ad.full-width.recipe-ad-wrapper
 www.mcclatchydc.com###vendor-stories-content > .h5
+www.mercurynews.com##div.landing-three-one:nth-of-type(2)
 www.minecraftforum.net##.ad-container-footer.ad-container
 www.minecraftforum.net##.footer-ad-medRect.xt-main-med-rect-footer.xt-placement
 www.minecraftforum.net##.server-forum-after-comment-ad.p-comments-b.p-comments > .ad-container
@@ -587,7 +595,11 @@ www.public-domain-poetry.com##tr:nth-of-type(3) > td > table
 www.publish0x.com##.brave-top-header
 www.realcleardefense.com##.gcwp-advertisement-label
 www.realcleardefense.com##.ndn_article_body_title
+www.realclearpolitics.com##.RC-AD
+www.realclearpolitics.com##.RC-AD-BOX-TOP.RC-AD
+www.realclearpolitics.com##.ad_wrapper_box
 www.realclearpolitics.com##.gcwp-advertisement-label
+www.realclearpolitics.com##div.inline-rc-ad-middle
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B22783112.257357113;dc_trk_aid=453243820;dc_trk_cid=116875239;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B23204197.258210862;dc_trk_aid=453457458;dc_trk_cid=122321621;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
 www.sevenforums.com##.chillad.media400
@@ -675,6 +687,7 @@ www.upi.com##.inread_mobi.ad_slot.story-offset
 www.upi.com##.padded.widget-advertisement
 www.upi.com##.reading > .ad_slot
 www.upi.com##div.widget-advertisement:nth-of-type(2)
+www.walmart.com##.buy-box-container
 www.walmart.com##.prod-marketingFlex
 www.webmd.com##.ad_label
 www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
@@ -763,7 +776,3 @@ www1.cbn.com##.header-ad
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
 ||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
-www.dailydot.com##.taboola-in-plug-wrap
-www.dailydot.com##.text-center.footer-in-plug.in-plug-holder
-www.bestbuy.com##.digital-ad-wrapper
-www.bestbuy.com##.add-sponsored-border.sku-item.appContainer
