@@ -92,6 +92,10 @@ knowyourmeme.com##.content-unit-refresh-wrapper
 knowyourmeme.com##.extra-bottom.hr-text
 knowyourmeme.com##hr.hr-text:nth-of-type(5)
 knowyourmeme.com##hr.hr-text:nth-of-type(6)
+kotaku.com##.ad-commerce
+kotaku.com##.ad-mobile
+kotaku.com##.movable-ad
+kotaku.com##div.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic.gamHXh.bxm4mm-11:nth-of-type(4) > .dQlBGJ.bxm4mm-9.bxm4mm-8
 lifehacker.com##.knWSpc.sc-1auy74q-5.sc-1auy74q-3
 lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
 lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(10) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
@@ -182,6 +186,8 @@ recyclenation.com##.eri-services-v01.eri-services > [href^="https://eridirect.co
 recyclenation.com##.eri-services-v02.eri-services > [href^="https://eridirect.com/"]
 ridgecrestca.com##.ad-container
 roll20.net##.bna
+screenrant.com##.ad-zone-container
+screenrant.com##.width320.ad-zone-container-footer-sticky-footer.ad-zone-container
 seacoastonline.com##.ad-container
 search.earth911.com##.enhanced-banner
 siskiyoudaily.com##.ad-container
@@ -210,6 +216,10 @@ tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
 trendingpolitics.com##.inner > center
 trendingpolitics.com##div.content-below-ad
 tuscaloosanews.com##.ad-container
+videocardz.com###vc-maincontainer-ad
+videocardz.com###vc-maincontainer-midad
+videocardz.com##.google-main-ad.adsbygoogle
+videocardz.com##.google-mid-ad.adsbygoogle
 walletinvestor.com###bio_ep_bg
 walletinvestor.com###bio_ep_close
 walletinvestor.com##.bit-image
@@ -320,6 +330,9 @@ www.dailywire.com##div.css-1cscg1p
 www.dailywire.com##div.css-1cscg1p:nth-of-type(2)
 www.dailywire.com##footer > .e76nlzd0.css-1vk30r0 header
 www.dailywire.com##p:nth-of-type(13)
+www.delish.com##.banner-wrapper
+www.delish.com##.embed-wrapper
+www.delish.com##.transporter-ad.leaderboard-ad
 www.dictionary.com###dcomMobileSERPDisplayTopAd-300x250
 www.digminecraft.com###pre_header
 www.digminecraft.com###sabl
@@ -768,7 +781,6 @@ www1.cbn.com##.header-ad
 ||webcamtests.com/MyShowroom/view.php?medium=noslot&size=500x0$subdocument
 ||www-1.kansas.com/?load=aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL3NhZmVmcmFtZS8xLTAtMzYvaHRtbC9jb250YWluZXIuaHRtbA&doc=1$subdocument
 ||www.citefast.com/images/grammarcheck.png$image
-||www.gjsentinel.com/tncms/block/646820/?disableTNStatsTracker=1$subdocument
 ||www.gjsentinel.com/tncms/block/646820/?disableTNStatsTracker=1$subdocument
 ||www.paperrater.com/images/ginger_btn_sprite.png$image
 ||www.phonescoop.com/img/l/a_mc_bg.gif$image
