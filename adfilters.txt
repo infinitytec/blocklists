@@ -36,6 +36,11 @@ cgtips.org##.xlwXYROtlQoi-default
 cheezburger.com##.nw-stream-min-250.ad-container.js-ad-container
 cheezburger.com##li.ad-list-item
 cheezburger.com##li.ad-list-item:nth-of-type(2) > .ad-container-list.js-ad-container
+clark.com##.code-block-17.code-block > .in-content-ad-container > .in-content-ad
+clark.com##.full-ad
+clark.com##.full-ad__wrap
+clark.com##.in-content-ad
+clark.com##.in-content-ad-container
 coinfomania.com##.thecontent > p:nth-of-type(2)
 coinmarketcap.com##.cmc-details-panel-buy-buttons
 coinmarketcap.com##.draeOX.sc-1bks9yb-0.cmc-sponsored-link > .cmc-link
@@ -75,6 +80,7 @@ gizmodo.com##.hZzjjd.sc-1bxrryq-0
 gizmodo.com##.kzUztX.sc-1to1lfh-1
 gizmodo.com##div.movable-ad
 harveycountynow.com##.sidebar
+health.usnews.com##.krSlIm.Ad__Container-sc-1ah7c5n-0
 heavens-above.com##.adslot_header.adsbygoogle
 historydaily.org##.adwrapper
 hothardware.com##.ad-top-billboard-init.hide-mobile.ad-top-billboard
@@ -82,6 +88,10 @@ hothardware.com##.hide-mobile.ad-top-billboard
 imgur.com###cta-container
 journaldemocrat.com##.ad-container
 jsfiddle.net###keep-us-running
+katu.com###js-Sponsored-Container
+katu.com##div[id^="interstory_first_ddb"]
+katu.com##div[id^="interstory_second_ddb"]
+katu.com##div[id^="js-Taboola-Container-"]
 knowyourmeme.com###entry-body > .complex-ad-wrapper.content-unit-wrapper
 knowyourmeme.com###entry-body > hr.hr-text:nth-of-type(1)
 knowyourmeme.com###entry-body > hr.hr-text:nth-of-type(2)
@@ -232,6 +242,8 @@ wcfcourier.com##.item-ad
 weather.com###MW_Position2weather.com##div:nth-of-type(2) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 weather.com##div:nth-of-type(3) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 weebly.com##.footer-published-ab-powered-by
+win10supports.com##.entry-content > div:nth-of-type(1) > p
+win10supports.com##.entry-content > div:nth-of-type(2) > p
 work.chron.com###top-300
 work.chron.com##.leaderboard
 www-1.kansas.com###cnx-adUnit-overlay
@@ -281,6 +293,8 @@ www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-compone
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_Prem1_Top
 www.bestbuy.com##.add-sponsored-border.sku-item.appContainer
 www.bestbuy.com##.digital-ad-wrapper
+www.bhphotovideo.com##.banner_3HOrQrsk6Nc61JoQwYly6K
+www.bhphotovideo.com##.hero_2kKCAvNWYgOkze-1eQtgVx > div > .banner_3HOrQrsk6Nc61JoQwYly6K
 www.britannica.com##.video-ad-container-content
 www.britannica.com##.video-ad-container.ora-tv-container
 www.businessinsider.com###taboola-below-article
@@ -458,6 +472,11 @@ www.gadgethacks.com##.article-list-mode4.article-list > aside.whtaph-600.whtaph-
 www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox
 www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox:nth-of-type(3) > .rightbox.whtaph
 www.gadgethacks.com##aside.whtaph-600.whtaph-rightbox:nth-of-type(5) > .rightbox.whtaph
+www.geeksforgeeks.org###AP_G4GR_1
+www.geeksforgeeks.org###AP_G4GR_2
+www.geeksforgeeks.org###AP_G4GR_5
+www.geeksforgeeks.org###AP_G4GR_6
+www.geeksforgeeks.org###text-16 > .textwidget
 www.gjsentinel.com###ad-553958
 www.gjsentinel.com###ad-615378
 www.gjsentinel.com###ad-615670
@@ -561,6 +580,7 @@ www.monoprice.com##.ad-container > .global-adsense
 www.monoprice.com##.global-adsense
 www.monoprice.com##.prod-fold.global-adsense
 www.morningsun.net##.ad-container
+www.msn.com##.poll.nativead a
 www.nationalgeographic.com###photography_ancestor_photography_article_infinitefeed_03-auto-gen-id-11
 www.nationalgeographic.com##.adSlotDynamic-slot
 www.nationalgeographic.com##.adunit
@@ -588,6 +608,9 @@ www.onhealth.com###ads2-pos-2026-1-1
 www.onhealth.com##.AD_300x250
 www.onhealth.com##.header-ad
 www.onhealth.com##section.article-section:nth-of-type(1) > .article-section-content > .right-rail > .AD_300x250
+www.online-convert.com##.float-left.float-lg-left.float-md-left.float-sm-none.m-0.responsive_ad_top
+www.online-convert.com##.responsive_ad_top
+www.overtheairdigitaltv.com##.adsbygoogle
 www.pandora.com##.DisplayAdController
 www.pandora.com##.DisplayAdController__rightRail--active.DisplayAdController__rightRail--displayBlock.DisplayAdController__rightRail
 www.paperrater.com###g-subform-bottom
@@ -624,8 +647,11 @@ www.steamboatpilot.com##.ad-top-wrapper
 www.steamboatpilot.com##.module-ad
 www.tax-rates.org###promoLink
 www.techwalla.com##.component-header-sticky-ad
+www.techyuga.com##.dialog-lightbox-message.dialog-message
+www.techyuga.com##.elementor-top-column.elementor-col-50.elementor-column
 www.theaaronloy.com###custom_html-2
 www.theaaronloy.com###custom_html-3
+www.theguardian.com##.css-9aekbr
 www.thekansan.com##.ad-container
 www.thewindowsclub.com###div-gpt-ad-thewindowsclub_com-banner-1-0
 www.thewindowsclub.com###div-gpt-ad-thewindowsclub_com-banner-2-0
@@ -654,12 +680,17 @@ www.thoughtco.com###dynamic-inline_3-0
 www.thoughtco.com###dynamic-inline_3-0-1
 www.thoughtco.com###dynamic-inline_3-0-2
 www.thoughtco.com###mntl-adhesive-ad_1-0
+www.thrillist.com##.ad-wrapper
+www.thrillist.com##.inline-ad-wrapper
+www.thrillist.com##.jfdtns.NodeArticlestyles__InlineAdWrapper-sc-1dhoc8d-2
 www.timeanddate.com###ad-wrap
 www.timeanddate.com###ad300
 www.translator.eu###sponsored2_mobil
 www.translator.eu##.adsbygoogle
+www.tutorialspoint.com###google-bottom-ads
 www.tutorialspoint.com##.google-bottom-ads
 www.tutorialspoint.com##.top-ad-heading
+www.ubackup.com##[href^="/landing/resume-work-sale.html"]
 www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
 www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .td-adspot-title
 www.upcycledzine.com##.td_block_template_1.tdi_10_77c.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
@@ -700,8 +731,12 @@ www.upi.com##.inread_mobi.ad_slot.story-offset
 www.upi.com##.padded.widget-advertisement
 www.upi.com##.reading > .ad_slot
 www.upi.com##div.widget-advertisement:nth-of-type(2)
+www.walmart.com##.Grid--gutters.grid
 www.walmart.com##.buy-box-container
+www.walmart.com##.pbb-container-link-img.pbb-content
 www.walmart.com##.prod-marketingFlex
+www.walmart.com##.slide-contents
+www.walmart.com##.theme-dark-grey.text-center.premium-brand-banner
 www.webmd.com##.ad_label
 www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
 www.websleuths.com###widget-17
@@ -732,6 +767,7 @@ www.wthr.com###taboola-mobile-below-article-0
 www.wthr.com##.ad
 www1.cbn.com##.header-ad
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
+||cdn-node.diskpart.com/file/amtcstatic/1/rukow/close1.png$image
 ||cdn.iframe.ly/kTgKxV9?v=1&app=1$subdocument
 ||coinfomania.com/wp-content/uploads/728_90-en.gif$image
 ||coinfomania.com/wp-content/uploads/NordFX-1.gif$image
@@ -788,3 +824,4 @@ www1.cbn.com##.header-ad
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
 ||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
+​
