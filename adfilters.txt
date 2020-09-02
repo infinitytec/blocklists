@@ -92,6 +92,7 @@ katu.com###js-Sponsored-Container
 katu.com##div[id^="interstory_first_ddb"]
 katu.com##div[id^="interstory_second_ddb"]
 katu.com##div[id^="js-Taboola-Container-"]
+kittyexpert.com##.main-header > .container
 knowyourmeme.com###entry-body > .complex-ad-wrapper.content-unit-wrapper
 knowyourmeme.com###entry-body > hr.hr-text:nth-of-type(1)
 knowyourmeme.com###entry-body > hr.hr-text:nth-of-type(2)
@@ -741,6 +742,10 @@ www.webmd.com##.ad_label
 www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
 www.websleuths.com###widget-17
 www.websleuths.com###widget-18
+www.wfmynews2.com###taboola-below-article-thumbnails-2nd-0
+www.wfmynews2.com###taboola-below-article-thumbnails-2nd-2
+www.wfmynews2.com##.grid__module-sizer_name_taboola.grid__module-sizer
+www.wfmynews2.com##div.grid__section:nth-of-type(1) > .grid__content_full-width_false.grid__content > .grid__main_full-width_false.grid__main_sticky_right.grid__main > .grid__cell_columns_2.grid__cell > div.grid__module_loaded_true.grid__module:nth-of-type(2) > .grid__module-sizer_name_taboola.grid__module-sizer
 www.wibw.com###outbrainHome5
 www.wibw.com##.evie-widget-ad
 www.wildernessarena.com###text-10 > .widget-title
@@ -779,6 +784,7 @@ www1.cbn.com##.header-ad
 ||i1.wp.com/mediabiasfactcheck.com/wp-content/uploads/2019/09/adfreebanner.png?resize=300%2C175&ssl=1$image
 ||images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/images/creative/amazon/A4-894-PresidentsDay_ILM_MOB_640x90_V01._CB424076638_.jpg$image
 ||images.worldnow.com/images/static/container-e/ad43_header.gif$image
+||kittyexpert.com/wp-content/uploads/2020/04/KittyExpert-5*.png$image
 ||linuxmint.com/img/sponsor/logos/216.gif$image
 ||lowendstock.com/data/$subdocument
 ||media.graytvinc.com/images/KWQC_18779_300x50.jpg$image
@@ -822,6 +828,6 @@ www1.cbn.com##.header-ad
 ||www.phonescoop.com/img/l/a_mc_bg.gif$image
 ||www.publish0x.com/images/brave/Brave_Banner_*x90$image
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
+||www.wfmynews2.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
-​
