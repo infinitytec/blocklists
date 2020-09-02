@@ -80,6 +80,7 @@ www.rawstory.com##.below-content-appeal
 www.rawstory.com##.desktop
 www.rawstory.com##.story_page_incontent_ig.story_page_incontent_instagram_container > div
 www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.rightwingwatch.org###visible-banner > .dropdown-banner
 www.techwalla.com###jwplayer-section
 www.techwalla.com##.component-article-jwplayer
 www.thedailybeast.com###view-offer
@@ -88,6 +89,7 @@ www.thekansan.com###dialog-message
 www.washingtonpost.com###leaderboard-overlay
 www.washingtonpost.com##.bb.b-ns.b-none
 www.washingtontimes.com###teaser-cdf955ca-7a66-40fa-b125-cb9750d610f6
+www.wfmynews2.com##.notifications
 www.youtube.com##.style-scope ytd-popup-container
 yourbusiness.azcentral.com###jwplayer-section
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
