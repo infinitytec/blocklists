@@ -1,6 +1,7 @@
 ! Advertisement blocking filters by infinitytec.
 ! This list is for blocking ads. It is in the format used by uBlock Origin and Adblock Plus.
 ! Released under the MIT license.
+
 abc6onyourside.com##.Display_displayAd__3G6mk
 abc6onyourside.com##.Display_displayAd__FdpK
 abc6onyourside.com##.ddb-container
@@ -58,6 +59,8 @@ deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .js_link.hgyrqL.sav3un-1.hMnd
 devilslakejournal.com##.ad-container
 didyouknowfacts.com##.ad-box
 didyouknowfacts.com##.header-ad
+djhjmedia.com##.elementor-widget-jnews_element_ads_elementor
+djhjmedia.com##.elementor-widget-jnews_element_ads_elementor.elementor-widget.vc_custom_1497951330965.elementor-element-ktYe5sC.elementor-element
 doctor.webmd.com##.basicMobileTopAd
 doctor.webmd.com##div#profilebottomad
 en.softonic.com###aside-top-app-download-page-desktop-wrapper > .ad-content-wrapper > .adblock-fallback
@@ -74,6 +77,9 @@ funtranslations.com##.adsbygoogle
 futures.tradingcharts.com###mrABMessage_box_85995
 futures.tradingcharts.com###mrABMessage_top_85995
 gadsdentimes.com##.ad-container
+geekflare.com###geekf-2090923135
+geekflare.com##.alignfull.bg-lgray.w-resources
+geekflare.com##.page-advertisement
 gizmodo.com##.ad-container
 gizmodo.com##.hQyEYS
 gizmodo.com##.hZzjjd.sc-1bxrryq-0
@@ -647,6 +653,8 @@ www.snopes.com##.smg-zone-widget-ads-placement
 www.steamboatpilot.com##.ad-top-wrapper
 www.steamboatpilot.com##.module-ad
 www.tax-rates.org###promoLink
+www.techpowerup.com##.mnmuzjsddc
+www.techpowerup.com##.nkuztfvdswe
 www.techwalla.com##.component-header-sticky-ad
 www.techyuga.com##.dialog-lightbox-message.dialog-message
 www.techyuga.com##.elementor-top-column.elementor-col-50.elementor-column
@@ -684,6 +692,7 @@ www.thoughtco.com###mntl-adhesive-ad_1-0
 www.thrillist.com##.ad-wrapper
 www.thrillist.com##.inline-ad-wrapper
 www.thrillist.com##.jfdtns.NodeArticlestyles__InlineAdWrapper-sc-1dhoc8d-2
+www.thv11.com##div[id^="taboola-mobile-below-article-"]
 www.timeanddate.com###ad-wrap
 www.timeanddate.com###ad300
 www.translator.eu###sponsored2_mobil
@@ -827,6 +836,7 @@ www1.cbn.com##.header-ad
 ||www.paperrater.com/images/ginger_btn_sprite.png$image
 ||www.phonescoop.com/img/l/a_mc_bg.gif$image
 ||www.publish0x.com/images/brave/Brave_Banner_*x90$image
+||www.thv11.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
 ||www.wfmynews2.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
