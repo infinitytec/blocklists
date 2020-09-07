@@ -10,12 +10,12 @@
 0.0.0.0 log.client.akadns.net
 0.0.0.0 manifest.hulustream.com
 0.0.0.0 we.runitbro.com
+0.0.0.0 acs.aliexpress.ru
 
 #possible scam sites
-0.0.0.0 www.evergreenleadmachine.com
-0.0.0.0 freescore360.com
-0.0.0.0 downloadplayerz.com
-0.0.0.0 www.downloadplayerz.com
+
+0.0.0.0 gearbest.com
+0.0.0.0 www.gearbest.com
 0.0.0.0 signup.digicover.net
 0.0.0.0 digicover.net
 0.0.0.0 www.digicover.net
