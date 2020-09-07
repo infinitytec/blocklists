@@ -51,14 +51,19 @@
 0.0.0.0 digitalive.world
 0.0.0.0 dnslockbox.com
 0.0.0.0 download.criticaldownload.site
+0.0.0.0 downloadplayerz.com
 0.0.0.0 eaweb-dev.ch
 0.0.0.0 eaweb-dev3.ch
+0.0.0.0 evergreenleadmachine.com
+0.0.0.0 evergreenleadmachines.com
 0.0.0.0 fitnessrant.com
 0.0.0.0 free.content-center.club
 0.0.0.0 freemineapplicationads.icu
+0.0.0.0 freescore360.com
 0.0.0.0 fudtroll.com
 0.0.0.0 gamestop-promo-blog.blogspot.com
 0.0.0.0 get.popplunder.com
+0.0.0.0 groupme.wintoday.ml
 0.0.0.0 hw-connection.com
 0.0.0.0 hyvee-get-limited.todayoonly.uk.com
 0.0.0.0 imgvieweriri.com
@@ -78,6 +83,7 @@
 0.0.0.0 m.1coolbox.com
 0.0.0.0 m.dnslockbox.com
 0.0.0.0 mac.criticaldownload.site
+0.0.0.0 mail.com-com-mobi.com
 0.0.0.0 managemydocuhghes.secpssotel.us
 0.0.0.0 millionmoney.dtrabajos.com
 0.0.0.0 mobapp-center.info
@@ -97,6 +103,7 @@
 0.0.0.0 nioohaa.com
 0.0.0.0 nonamedvlp59.live
 0.0.0.0 nonameghjd95.live
+0.0.0.0 nonamejhop1.live
 0.0.0.0 nonamejhop47.live
 0.0.0.0 nonameonln47.live
 0.0.0.0 nonamerbon15.live
@@ -176,6 +183,7 @@
 0.0.0.0 win4.viralupdatestoday.com
 0.0.0.0 win5.viralupdatestoday.com
 0.0.0.0 windows.criticaldownload.site
+0.0.0.0 wintoday.ml
 0.0.0.0 www.1coolbox.com
 0.0.0.0 www.alert.com-com-mobi.com
 0.0.0.0 www.aliexpres.com
@@ -211,11 +219,15 @@
 0.0.0.0 www.devtechiewebmine.icu
 0.0.0.0 www.digitalive.world
 0.0.0.0 www.dnslockbox.com
+0.0.0.0 www.downloadplayerz.com
 0.0.0.0 www.eaweb-dev.ch
 0.0.0.0 www.eaweb-dev3.ch
+0.0.0.0 www.evergreenleadmachine.com
+0.0.0.0 www.evergreenleadmachines.com
 0.0.0.0 www.fitnessrant.com
 0.0.0.0 www.free.content-center.club
 0.0.0.0 www.freemineapplicationads.icu
+0.0.0.0 www.freescore360.com
 0.0.0.0 www.fudtroll.com
 0.0.0.0 www.hw-connection.com
 0.0.0.0 www.hyvee-get-limited.todayoonly.uk.com
@@ -245,6 +257,7 @@
 0.0.0.0 www.nioohaa.com
 0.0.0.0 www.nonamedvlp59.live
 0.0.0.0 www.nonameghjd95.live
+0.0.0.0 www.nonamejhop1.live
 0.0.0.0 www.nonamejhop47.live
 0.0.0.0 www.nonameonln47.live
 0.0.0.0 www.nonamerbon15.live
@@ -295,6 +308,7 @@
 0.0.0.0 www.virus-covid-19.com
 0.0.0.0 www.vlc.media
 0.0.0.0 www.vlc.onl
+0.0.0.0 www.wintoday.ml
 0.0.0.0 www.zeustrk.com
 0.0.0.0 www7.inspireddaily.xyz
 0.0.0.0 ytzphn.uk.com
