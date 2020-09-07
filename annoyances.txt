@@ -2,6 +2,7 @@
 ! This list is for annoying things that are not ads, such as newsletter popups and cookie notices. Quite subjective.
 ! For use with plugin-based adblockers, such as uBlock Origin.
 ! Released under the MIT license. 
+
 askubuntu.com###js-gdpr-consent-banner
 babylonbee.com##.mb-4.p-3.h-100.article-cta-box
 boonevilledemocrat.com###dialog-message
@@ -51,6 +52,7 @@ weather.com##.visible.flag.sb
 www-1.kansas.com###ConnatixVideoAd
 www-1.kansas.com##.impact.banner-promo-link
 www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
+www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 www.britannica.com##.pl-70.p-15
 www.cnx-software.com###custom_html-2
 www.dell.com##.alert-warning.alert
@@ -80,15 +82,23 @@ www.rawstory.com##.below-content-appeal
 www.rawstory.com##.desktop
 www.rawstory.com##.story_page_incontent_ig.story_page_incontent_instagram_container > div
 www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.reuters.com##div.RightRail_sticky.Sticky_track:nth-of-type(2)
 www.rightwingwatch.org###visible-banner > .dropdown-banner
 www.techwalla.com###jwplayer-section
 www.techwalla.com##.component-article-jwplayer
 www.thedailybeast.com###view-offer
 www.thedailybeast.com##.ribbon.ng-scope
 www.thekansan.com###dialog-message
+www.thewindowsclub.com###text-422067543
+www.thewindowsclub.com###text-422067543 > .textwidget > center
+www.ubackup.com##div.side-item:nth-of-type(1)
+www.w3schools.com###skyscraper
+www.walmart.com##.EmailCapture--bringToFront.EmailCapture--footerShadow.EmailCapture--footerContainer.EmailCapture
+www.walmart.com##.InspirationalEmailSubscriber-contentBlock.text-center.InspirationalEmailSubscriber
 www.washingtonpost.com###leaderboard-overlay
 www.washingtonpost.com##.bb.b-ns.b-none
 www.washingtontimes.com###teaser-cdf955ca-7a66-40fa-b125-cb9750d610f6
+www.webmd.com###ContentPane40
 www.wfmynews2.com##.notifications
 www.youtube.com##.style-scope ytd-popup-container
 yourbusiness.azcentral.com###jwplayer-section
@@ -98,7 +108,10 @@ yourbusiness.azcentral.com###jwplayer-section
 ||buy.tinypass.com/checkout/template/show?displayMode=inline&containerSelector=.piano-fixed-footer-one&templateId=OTL6YI0EAEKH&templateVariantId=OTVPV3YIVFEKV&offerId=fakeOfferId&showCloseButton=false&trackingId=%7Bjcx%7DH4sIAAAAAAAAAI2Qy27CMBBF_8VrjPzIexfRIBBQUBsS0p2bDMQ0mBA7gFT13xsobYXURWc3c-4dzdx3JGSBAlTWpTUNs3bgoB6qxQYSCafxhTDCCCYUUxczim2OKcMWd_FOtA9bNaep1uaQrgCv88L2uOu8AsmLXPg58cFjvCh8izuOx7rFcK6hkaByuK6OVot0FvPH5YjbdzQ6Q94auVdXGfWIZ7aEgMakK9aYXc0c9SYZHMleE1JabHPnD_Mfsy73pxh2dSUMzJbPNJuG86fZYtS91VlKob8hCkzTQg-ZW391z-Opk41JFEaTEfpliWikUOYmSRYJz8bJMJoknSYXu1rIjdIoUG1V9dBRavklPeK_w_Swn2ZNvB8s2PCFVCo9_CdMWV-ycbw-tfw-o06fu9201dCEG1Cmg8VpfTnaVCigtutbxPZ96-MTH4NwnvMBAAA&experienceId=EXPWMT3NUH35&activeMeters=%5B%7B%22meterName%22%3A%22twt_meter_subs%22%2C%22views%22%3A1%2C%22viewsLeft%22%3A5%2C%22maxViews%22%3A6%2C%22totalViews%22%3A1%7D%5D&tbc=%7Bjzx%7DoniGMPS_EJvIpbnraPMD-2Ul0l-_z6AGNpppsT8ARueGIicrrzFo7_aINMcTOJrf5-Xs_tfjvbe9QW5MBLiy5fV5XTISfApWK2GucujkmjeiA64Xc0PwXnIsUZ_X6PUl60VreX0zQ7Qgm9ptgy9X_w&ifr$subdocument
 ||ir.ebaystatic.com/cr/v/c1/189400_041720_CHR_RRCharity_Doodle_150x30_FINAL.gif$image
 ||kinja-vh.akamaihd.net/i/prod/186641/186641_,240p,480p,720p,1080p,.mp4.csmil/master.m3u8$media
+||media.geeksforgeeks.org/wp-content/cdn-uploads/20200604102104/GFG-FSRNL-Article-2.png$image
+||media.geeksforgeeks.org/wp-content/cdn-uploads/20200812115607/GFG-RT-DSA-SP-Viral1.png$image
 ||safe.britannica.com/safeimages/BFP_marketing_ads_300x90_C.jpg$image
+||static.businessinsider.com/image/5dc428a57eece546b8629657$image
 ||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2019_american_patriots_2.jpg$image
 ||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2020_American_Arenas.jpg$image
 ||www.rawstory.com/wp-content/uploads/2020/01/Bill-Barr-poll-large.gif$image
