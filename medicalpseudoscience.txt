@@ -37,6 +37,7 @@
 0.0.0.0 emfsafetynetwork.org
 0.0.0.0 en.baaghitv.com
 0.0.0.0 escuelasinwifi.org
+0.0.0.0 fort-russ.com
 0.0.0.0 frankenskiesthemovie.com
 0.0.0.0 fromrome.info
 0.0.0.0 globalskywatch.com
@@ -57,6 +58,8 @@
 0.0.0.0 meehanmd.com
 0.0.0.0 mercola.com
 0.0.0.0 michiganunitedforliberty.com
+0.0.0.0 nationalfile.com
+0.0.0.0 naturalblaze.com
 0.0.0.0 nexusnewsfeed.com
 0.0.0.0 nofakenews.net
 0.0.0.0 nvic.org
@@ -137,6 +140,7 @@
 0.0.0.0 www.emfacademy.com
 0.0.0.0 www.emfsafetynetwork.org
 0.0.0.0 www.escuelasinwifi.org
+0.0.0.0 www.fort-russ.com
 0.0.0.0 www.frankenskiesthemovie.com
 0.0.0.0 www.fromrome.info
 0.0.0.0 www.globalskywatch.com
@@ -155,6 +159,8 @@
 0.0.0.0 www.meehanmd.com
 0.0.0.0 www.mercola.com
 0.0.0.0 www.michiganunitedforliberty.com
+0.0.0.0 www.nationalfile.com
+0.0.0.0 www.naturalblaze.com
 0.0.0.0 www.nexusnewsfeed.com
 0.0.0.0 www.nofakenews.net
 0.0.0.0 www.nvic.org
