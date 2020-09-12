@@ -6,6 +6,7 @@
 0.0.0.0 VaXism.com
 0.0.0.0 actualactivists.com
 0.0.0.0 ageofautism.com
+0.0.0.0 ageoftruth.tv
 0.0.0.0 ahrp.org
 0.0.0.0 aimintegrativemedicine.com
 0.0.0.0 americasfrontlinedoctors.com
@@ -114,6 +115,7 @@
 0.0.0.0 www.VaXism.com
 0.0.0.0 www.actualactivists.com
 0.0.0.0 www.ageofautism.com
+0.0.0.0 www.ageoftruth.tv
 0.0.0.0 www.ahrp.org
 0.0.0.0 www.aimintegrativemedicine.com
 0.0.0.0 www.americasfrontlinedoctors.com
