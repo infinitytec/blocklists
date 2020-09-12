@@ -4,11 +4,13 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
 0.0.0.0 1coolbox.com
+0.0.0.0 advertisers.ogads.com
 0.0.0.0 alert.com-com-mobi.com
 0.0.0.0 aliexpres.com
 0.0.0.0 alspearowa.com
 0.0.0.0 amarktflow.com
 0.0.0.0 android.criticaldownload.site
+0.0.0.0 angrybirdscheats.xyz
 0.0.0.0 api.a0ndi.cn
 0.0.0.0 api.xxpxkj.com
 0.0.0.0 app5309.nonamealms11.live
@@ -22,7 +24,9 @@
 0.0.0.0 bestcelebsupdates.com
 0.0.0.0 bestprize-places-here1.life
 0.0.0.0 binom.napoletoss.ru
+0.0.0.0 boostertelechargementfortnite.blogspot.com
 0.0.0.0 boot-upintenselypreciseproduct.icu
+0.0.0.0 bucket.cpabuild.com
 0.0.0.0 buycicretofficial.com
 0.0.0.0 buyketonow.com
 0.0.0.0 cash4clickz.com
@@ -30,15 +34,18 @@
 0.0.0.0 check-windows-forcleaning.life
 0.0.0.0 claimyourtoprize2020.blogspot.com
 0.0.0.0 claimyourtoprizewinregistrasi-2020.launchaco.com
+0.0.0.0 cldoffers.net
 0.0.0.0 clevereconomy.com
 0.0.0.0 click.theantivirusguy.com
 0.0.0.0 click4kash.com
 0.0.0.0 clickbookface.com
+0.0.0.0 cloud.cpabuild.com
 0.0.0.0 com-com-mobi.com
 0.0.0.0 competition0384.nonameonln47.live
 0.0.0.0 contact.rzuhelpcenter.com
 0.0.0.0 content-center.club
 0.0.0.0 contentfilled.com
+0.0.0.0 cpabuild.com
 0.0.0.0 criticaldownload.site
 0.0.0.0 cybereveryday02.space
 0.0.0.0 daisyes.com
@@ -57,6 +64,7 @@
 0.0.0.0 evergreenleadmachine.com
 0.0.0.0 evergreenleadmachines.com
 0.0.0.0 fitnessrant.com
+0.0.0.0 fortnitehackers.club
 0.0.0.0 free.content-center.club
 0.0.0.0 freemineapplicationads.icu
 0.0.0.0 freescore360.com
@@ -84,8 +92,13 @@
 0.0.0.0 m.dnslockbox.com
 0.0.0.0 mac.criticaldownload.site
 0.0.0.0 mail.com-com-mobi.com
+0.0.0.0 mail.v-bucks.fr
 0.0.0.0 managemydocuhghes.secpssotel.us
+0.0.0.0 marketing-rhino.com
+0.0.0.0 members.cpabuild.com
+0.0.0.0 members.ogads.com
 0.0.0.0 millionmoney.dtrabajos.com
+0.0.0.0 mirrors.cpabuild.com
 0.0.0.0 mobapp-center.info
 0.0.0.0 mobapp-center1.info
 0.0.0.0 mobappcenter3.com
@@ -110,9 +123,11 @@
 0.0.0.0 nonamerbon4.live
 0.0.0.0 noticedispense.club
 0.0.0.0 ns1.com-com-mobi.com
+0.0.0.0 ns1.v-bucks.fr
 0.0.0.0 ns2.com-com-mobi.com
 0.0.0.0 occules-storsary.com
 0.0.0.0 oculustrack.com
+0.0.0.0 ogads.con
 0.0.0.0 otherfeeds.com
 0.0.0.0 pkke33.cn
 0.0.0.0 popplunder.com
@@ -141,6 +156,8 @@
 0.0.0.0 shoppingstylepros.com
 0.0.0.0 ss.buyketofastnow.com
 0.0.0.0 ss.buyketonow.com
+0.0.0.0 staff.ogads.com
+0.0.0.0 staging.members.ogads.com
 0.0.0.0 surveyonline.top
 0.0.0.0 surveys2cash.com
 0.0.0.0 surveysandpromoonline.com
@@ -154,6 +171,7 @@
 0.0.0.0 teamppv.jordanappvideoscanpy.us
 0.0.0.0 telecomservation.com
 0.0.0.0 tesgity.com
+0.0.0.0 test.ogads.com
 0.0.0.0 theantivirusguy.com
 0.0.0.0 thepowerbend.com
 0.0.0.0 thewowfeed.com
@@ -167,6 +185,7 @@
 0.0.0.0 tyblk.info
 0.0.0.0 ultrasonicrepeller.com
 0.0.0.0 upsaibou.net
+0.0.0.0 v-bucks.fr
 0.0.0.0 videolan-free.com
 0.0.0.0 videopal.io
 0.0.0.0 videopal.me
@@ -175,6 +194,7 @@
 0.0.0.0 virus-covid-19.com
 0.0.0.0 vlc.media
 0.0.0.0 vlc.onl
+0.0.0.0 wealthyhustler.com
 0.0.0.0 webdisk.com-com-mobi.com
 0.0.0.0 webmail.com-com-mobi.com
 0.0.0.0 win1.viralupdatestoday.com
@@ -189,6 +209,7 @@
 0.0.0.0 www.aliexpres.com
 0.0.0.0 www.alspearowa.com
 0.0.0.0 www.amarktflow.com
+0.0.0.0 www.angrybirdscheats.xyz
 0.0.0.0 www.appstrk.com
 0.0.0.0 www.asdasdad.net
 0.0.0.0 www.beneguy.com
@@ -196,6 +217,7 @@
 0.0.0.0 www.bestcelebsupdates.com
 0.0.0.0 www.bestprize-places-here1.life
 0.0.0.0 www.binom.napoletoss.ru
+0.0.0.0 www.boostertelechargementfortnite.blogspot.com
 0.0.0.0 www.boot-upintenselypreciseproduct.icu
 0.0.0.0 www.buycicretofficial.com
 0.0.0.0 www.buyketofastnow.com
@@ -203,6 +225,7 @@
 0.0.0.0 www.cash4clickz.com
 0.0.0.0 www.cctrx2.com
 0.0.0.0 www.check-windows-forcleaning.life
+0.0.0.0 www.cldoffers.net
 0.0.0.0 www.clevereconomy.com
 0.0.0.0 www.click.theantivirusguy.com
 0.0.0.0 www.click4kash.com
@@ -211,6 +234,7 @@
 0.0.0.0 www.contact.rzuhelpcenter.com
 0.0.0.0 www.content-center.club
 0.0.0.0 www.contentfilled.com
+0.0.0.0 www.cpabuild.com
 0.0.0.0 www.criticaldownload.site
 0.0.0.0 www.cybereveryday02.space
 0.0.0.0 www.daisyes.com
@@ -225,6 +249,7 @@
 0.0.0.0 www.evergreenleadmachine.com
 0.0.0.0 www.evergreenleadmachines.com
 0.0.0.0 www.fitnessrant.com
+0.0.0.0 www.fortnitehackers.club
 0.0.0.0 www.free.content-center.club
 0.0.0.0 www.freemineapplicationads.icu
 0.0.0.0 www.freescore360.com
@@ -242,6 +267,7 @@
 0.0.0.0 www.ketofit.support
 0.0.0.0 www.kitchensouffle.com
 0.0.0.0 www.litebucks.com
+0.0.0.0 www.marketing-rhino.com
 0.0.0.0 www.millionmoney.dtrabajos.com
 0.0.0.0 www.mobapp-center.info
 0.0.0.0 www.mobapp-center1.info
@@ -265,6 +291,7 @@
 0.0.0.0 www.noticedispense.club
 0.0.0.0 www.occules-storsary.com
 0.0.0.0 www.oculustrack.com
+0.0.0.0 www.ogads.con
 0.0.0.0 www.otherfeeds.com
 0.0.0.0 www.pkke33.cn
 0.0.0.0 www.popplunder.com
@@ -300,6 +327,7 @@
 0.0.0.0 www.tyblk.info
 0.0.0.0 www.ultrasonicrepeller.com
 0.0.0.0 www.upsaibou.net
+0.0.0.0 www.v-bucks.fr
 0.0.0.0 www.videolan-free.com
 0.0.0.0 www.videopal.io
 0.0.0.0 www.videopal.me
@@ -308,6 +336,7 @@
 0.0.0.0 www.virus-covid-19.com
 0.0.0.0 www.vlc.media
 0.0.0.0 www.vlc.onl
+0.0.0.0 www.wealthyhustler.com
 0.0.0.0 www.wintoday.ml
 0.0.0.0 www.zeustrk.com
 0.0.0.0 www7.inspireddaily.xyz
