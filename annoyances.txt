@@ -9,10 +9,13 @@ boonevilledemocrat.com###dialog-message
 butlercountytimesgazette.com###dialog-message
 cgtips.org##.xlwXYROtlQoi-bg
 cgtips.org##.xlwXYROtlQoi-default
+classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10)
+classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10) > .cta_inner
 columbiadailyherald.com###dialog-message
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
+decider.com##.nyp-sitewide-notice
 devilslakejournal.com###dialog-message
 en.softonic.com##.popup-newsletter
 en.wikipedia.org###siteNotice
@@ -25,6 +28,7 @@ gizmodo.com###vjs_video_3
 gizmodo.com##.js_video-sticky__hide
 gizmodo.com##.js_video-sticky__label
 journaldemocrat.com###dialog-message
+legacy.pressdemocrat.com##.cph-ccpa_banner
 m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
 m.aliexpress.com##.download-bar
 m.imdb.com###regWallModal
@@ -56,10 +60,12 @@ www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 www.britannica.com##.pl-70.p-15
 www.cnx-software.com###custom_html-2
 www.dell.com##.alert-warning.alert
+www.dummies.com##.dummies-newsletter
 www.foxnews.com##.notification-banner
 www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
 www.hackster.io###hello-world
 www.hackster.io##.project_count_banner__container__1m4vf
+www.healthysimulation.com###cliSettingsPopup
 www.insidehook.com##.sticky.signup
 www.insidehook.com##.tp-modal
 www.investing.com###PromoteSignUpPopUp
@@ -67,13 +73,19 @@ www.investing.com##.right
 www.kansas.com###main-content > section:nth-of-type(1)
 www.kansas.com###onetrust-banner-sdk
 www.khou.com##.notifications
+www.lifenews.com###blockModalPopupDiv
+www.lifenews.com###innerModalPopupDiv
 www.mcclatchydc.com###subscription-cta-container
 www.morningsun.net###dialog-message
+www.msn.com###vjs_video_2_html5_api
+www.msn.com##.animate.shrunk.loaded.player-wrapper.videojs
+www.msn.com##.player-placeholder
 www.npr.org##.callout--health.callout--newsletter.callout
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
 www.paypal.com##.cw_tile__floatingPromo-contentContainer
 www.publish0x.com###registerModal
+www.qs1.com###popmake-2751
 www.rawstory.com###kindest-frame
 www.rawstory.com###lightbox-615e24a7-d389-47c5-ac69-fc12d2586760-1581041934165
 www.rawstory.com###lightbox-iframe-615e24a7-d389-47c5-ac69-fc12d2586760
@@ -84,6 +96,8 @@ www.rawstory.com##.story_page_incontent_ig.story_page_incontent_instagram_contai
 www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 www.reuters.com##div.RightRail_sticky.Sticky_track:nth-of-type(2)
 www.rightwingwatch.org###visible-banner > .dropdown-banner
+www.techopedia.com##.aae7b662c59641bfa43e91a5d7a53ef8.subscribers-modal-overlay
+www.techopedia.com##.subscribers-modal-top-center.aae7b662c59641bfa43e91a5d7a53ef8.subscribers-modal
 www.techwalla.com###jwplayer-section
 www.techwalla.com##.component-article-jwplayer
 www.thedailybeast.com###view-offer
@@ -91,6 +105,7 @@ www.thedailybeast.com##.ribbon.ng-scope
 www.thekansan.com###dialog-message
 www.thewindowsclub.com###text-422067543
 www.thewindowsclub.com###text-422067543 > .textwidget > center
+www.truthinadvertising.org###pb-newsletter_sign_up
 www.ubackup.com##div.side-item:nth-of-type(1)
 www.w3schools.com###skyscraper
 www.walmart.com##.EmailCapture--bringToFront.EmailCapture--footerShadow.EmailCapture--footerContainer.EmailCapture
@@ -100,6 +115,7 @@ www.washingtonpost.com##.bb.b-ns.b-none
 www.washingtontimes.com###teaser-cdf955ca-7a66-40fa-b125-cb9750d610f6
 www.webmd.com###ContentPane40
 www.wfmynews2.com##.notifications
+www.wired.com###failsafe-clickthrough
 www.youtube.com##.style-scope ytd-popup-container
 yourbusiness.azcentral.com###jwplayer-section
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
