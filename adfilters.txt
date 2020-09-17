@@ -109,6 +109,7 @@ hothardware.com##.ad-top-billboard-init.hide-mobile.ad-top-billboard
 hothardware.com##.hide-mobile.ad-top-billboard
 imgur.com###cta-container
 jalopnik.com##div.movable-ad
+jezebel.com##.js_movable_ad_slot
 journaldemocrat.com##.ad-container
 jsfiddle.net###keep-us-running
 katu.com###js-Sponsored-Container
@@ -133,12 +134,11 @@ kotaku.com##.ad-mobile
 kotaku.com##.movable-ad
 kotaku.com##div.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic.gamHXh.bxm4mm-11:nth-of-type(4) > .dQlBGJ.bxm4mm-9.bxm4mm-8
 lifehacker.com##.ad-container
-lifehacker.com##.knWSpc.sc-1auy74q-5.sc-1auy74q-3
-lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
-lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(10) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
-lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(12) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
-lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(8) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
-lifehacker.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(9) > .eZvXLs.bxm4mm-5.ad-mobile.ad-unit
+lifehacker.com##.ad-mobile
+lifehacker.com##.ad-mobile-dynamic
+lifehacker.com##.js_ad-dynamic
+lifehacker.com##.js_ad-mobile-dynamic
+lifehacker.com##.movable-ad
 linuxize.com##.sticky-affiliate.sideblock
 linuxmint.com##.ads
 linuxmint.com##.sponsors
@@ -557,6 +557,7 @@ www.healthysimulation.com##div[class*="5f6"]
 www.healthysimulation.com##div[class*="f61"]
 www.healthysimulation.com##div[class*="f610"]
 www.healthysimulation.com##div[class*="ffd"]
+www.howtogeek.com##div[id^="purch_"]
 www.hungred.com###content > .banner
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-1
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-2
@@ -761,6 +762,8 @@ www.tutorialspoint.com###google-bottom-ads
 www.tutorialspoint.com##.google-bottom-ads
 www.tutorialspoint.com##.top-ad-heading
 www.ubackup.com##[href^="/landing/resume-work-sale.html"]
+www.upcycledzine.com##.adsbygoogle
+www.upcycledzine.com##.td-adspot-title
 www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
 www.upcycledzine.com##.td_block_template_1.tdi_10_322.td-g-rec-id-custom_ad_2.td-g-rec > .td-adspot-title
 www.upcycledzine.com##.td_block_template_1.tdi_10_77c.td-g-rec-id-custom_ad_2.td-g-rec > .adsbygoogle
