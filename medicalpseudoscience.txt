@@ -2,6 +2,9 @@
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
+0.0.0.0 www.lessemf.com
+0.0.0.0 5gappeal.eu
+0.0.0.0 5gawareness.com
 0.0.0.0 7thchakrafilms.com
 0.0.0.0 VaXism.com
 0.0.0.0 actualactivists.com
@@ -18,6 +21,7 @@
 0.0.0.0 betweenrockandhardplace.wordpress.com
 0.0.0.0 blog.nomorefakenews.com
 0.0.0.0 c4st.org
+0.0.0.0 cairnsnews.org
 0.0.0.0 canalisations-marie.blogspot.com
 0.0.0.0 cetv.one
 0.0.0.0 childrenshealthdefense.org
@@ -25,7 +29,9 @@
 0.0.0.0 cohealthchoice.org
 0.0.0.0 collective-evolution.com
 0.0.0.0 coreysdigs.com
+0.0.0.0 createhealthyhomes.com
 0.0.0.0 daraberger.com
+0.0.0.0 deeprootsathome.com
 0.0.0.0 drannacabeca.com
 0.0.0.0 draxe.com
 0.0.0.0 drjudymikovits.com
@@ -33,15 +39,21 @@
 0.0.0.0 drnorthrup.com
 0.0.0.0 drtenpenny.com
 0.0.0.0 ehtrust.org
+0.0.0.0 electricalpollution.com
 0.0.0.0 electricsense.com
+0.0.0.0 electromagnetichealth.org
 0.0.0.0 emfacademy.com
+0.0.0.0 emfhelpcenter.com
 0.0.0.0 emfsafetynetwork.org
+0.0.0.0 emfscientist.org
 0.0.0.0 en.baaghitv.com
 0.0.0.0 escuelasinwifi.org
 0.0.0.0 fort-russ.com
 0.0.0.0 frankenskiesthemovie.com
 0.0.0.0 fromrome.info
+0.0.0.0 globalfreedommovement.org
 0.0.0.0 globalskywatch.com
+0.0.0.0 go.thetruthaboutcancer.com
 0.0.0.0 go.thetruthaboutvaccines.com
 0.0.0.0 go2.thetruthaboutvaccines.com
 0.0.0.0 greenmedinfo.com
@@ -53,7 +65,10 @@
 0.0.0.0 jchristoff.com
 0.0.0.0 jennifermargulis.net
 0.0.0.0 jeremyrhammond.com
+0.0.0.0 jrseco.com
+0.0.0.0 lessemf.com
 0.0.0.0 londonreal.tv
+0.0.0.0 magdahavas.com
 0.0.0.0 mediaverite.blogspot.com
 0.0.0.0 medicalkidnap.com
 0.0.0.0 meehanmd.com
@@ -61,8 +76,10 @@
 0.0.0.0 michiganunitedforliberty.com
 0.0.0.0 nationalfile.com
 0.0.0.0 naturalblaze.com
+0.0.0.0 needtoknow.news
 0.0.0.0 nexusnewsfeed.com
 0.0.0.0 nofakenews.net
+0.0.0.0 norad4u.com
 0.0.0.0 nvic.org
 0.0.0.0 off-guardian.org
 0.0.0.0 parentsforsafetechnology.org
@@ -70,7 +87,9 @@
 0.0.0.0 plandemic.tv
 0.0.0.0 plandemicmovie.com
 0.0.0.0 plandemicvideo.com
+0.0.0.0 protonicbalancer.com
 0.0.0.0 questioningcovid.com
+0.0.0.0 radmeters.com
 0.0.0.0 realnewsaustralia.com
 0.0.0.0 repub.li
 0.0.0.0 saferemr.com
@@ -81,6 +100,7 @@
 0.0.0.0 soundofheart.org
 0.0.0.0 speroprotectionclothing.com
 0.0.0.0 stopsmartmeters.org
+0.0.0.0 takebackyourpower.net
 0.0.0.0 technocracy.news
 0.0.0.0 technocracy.studio
 0.0.0.0 the5gsummit.com
@@ -88,6 +108,7 @@
 0.0.0.0 thefullertoninformer.com
 0.0.0.0 thegoldopinion.com
 0.0.0.0 thehighwire.com
+0.0.0.0 thetruthaboutcancer.com
 0.0.0.0 thetruthaboutvaccines.com
 0.0.0.0 thevaccinereaction.org
 0.0.0.0 thewilddoc.com
@@ -111,6 +132,8 @@
 0.0.0.0 wifiinschools.com
 0.0.0.0 wifiinschools.org.uk
 0.0.0.0 worldhealth.net
+0.0.0.0 www.5gappeal.eu
+0.0.0.0 www.5gawareness.com
 0.0.0.0 www.7thchakrafilms.com
 0.0.0.0 www.VaXism.com
 0.0.0.0 www.actualactivists.com
@@ -123,6 +146,7 @@
 0.0.0.0 www.avoiceforchoice.org
 0.0.0.0 www.baaghitv.com
 0.0.0.0 www.c4st.org
+0.0.0.0 www.cairnsnews.org
 0.0.0.0 www.canalisations-marie.blogspot.com
 0.0.0.0 www.cetv.one
 0.0.0.0 www.childrenshealthdefense.org
@@ -130,7 +154,9 @@
 0.0.0.0 www.cohealthchoice.org
 0.0.0.0 www.collective-evolution.com
 0.0.0.0 www.coreysdigs.com
+0.0.0.0 www.createhealthyhomes.com
 0.0.0.0 www.daraberger.com
+0.0.0.0 www.deeprootsathome.com
 0.0.0.0 www.drannacabeca.com
 0.0.0.0 www.draxe.com
 0.0.0.0 www.drjudymikovits.com
@@ -138,13 +164,18 @@
 0.0.0.0 www.drnorthrup.com
 0.0.0.0 www.drtenpenny.com
 0.0.0.0 www.ehtrust.org
+0.0.0.0 www.electricalpollution.com
 0.0.0.0 www.electricsense.com
+0.0.0.0 www.electromagnetichealth.org
 0.0.0.0 www.emfacademy.com
+0.0.0.0 www.emfhelpcenter.com
 0.0.0.0 www.emfsafetynetwork.org
+0.0.0.0 www.emfscientist.org
 0.0.0.0 www.escuelasinwifi.org
 0.0.0.0 www.fort-russ.com
 0.0.0.0 www.frankenskiesthemovie.com
 0.0.0.0 www.fromrome.info
+0.0.0.0 www.globalfreedommovement.org
 0.0.0.0 www.globalskywatch.com
 0.0.0.0 www.greenmedinfo.com
 0.0.0.0 www.healthimpactnews.com
@@ -155,7 +186,9 @@
 0.0.0.0 www.jchristoff.com
 0.0.0.0 www.jennifermargulis.net
 0.0.0.0 www.jeremyrhammond.com
+0.0.0.0 www.jrseco.com
 0.0.0.0 www.londonreal.tv
+0.0.0.0 www.magdahavas.com
 0.0.0.0 www.mediaverite.blogspot.com
 0.0.0.0 www.medicalkidnap.com
 0.0.0.0 www.meehanmd.com
@@ -163,8 +196,10 @@
 0.0.0.0 www.michiganunitedforliberty.com
 0.0.0.0 www.nationalfile.com
 0.0.0.0 www.naturalblaze.com
+0.0.0.0 www.needtoknow.news
 0.0.0.0 www.nexusnewsfeed.com
 0.0.0.0 www.nofakenews.net
+0.0.0.0 www.norad4u.com
 0.0.0.0 www.nvic.org
 0.0.0.0 www.off-guardian.org
 0.0.0.0 www.parentsforsafetechnology.org
@@ -172,7 +207,9 @@
 0.0.0.0 www.plandemic.tv
 0.0.0.0 www.plandemicmovie.com
 0.0.0.0 www.plandemicvideo.com
+0.0.0.0 www.protonicbalancer.com
 0.0.0.0 www.questioningcovid.com
+0.0.0.0 www.radmeters.com
 0.0.0.0 www.realnewsaustralia.com
 0.0.0.0 www.repub.li
 0.0.0.0 www.saferemr.com
@@ -182,6 +219,7 @@
 0.0.0.0 www.soundofheart.org
 0.0.0.0 www.speroprotectionclothing.com
 0.0.0.0 www.stopsmartmeters.org
+0.0.0.0 www.takebackyourpower.net
 0.0.0.0 www.technocracy.news
 0.0.0.0 www.technocracy.studio
 0.0.0.0 www.the5gsummit.com
@@ -189,6 +227,7 @@
 0.0.0.0 www.thefullertoninformer.com
 0.0.0.0 www.thegoldopinion.com
 0.0.0.0 www.thehighwire.com
+0.0.0.0 www.thetruthaboutcancer.com
 0.0.0.0 www.thetruthaboutvaccines.com
 0.0.0.0 www.thevaccinereaction.org
 0.0.0.0 www.thewilddoc.com
