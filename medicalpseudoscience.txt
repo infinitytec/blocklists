@@ -2,7 +2,6 @@
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
-0.0.0.0 www.lessemf.com
 0.0.0.0 5gappeal.eu
 0.0.0.0 5gawareness.com
 0.0.0.0 7thchakrafilms.com
@@ -20,6 +19,7 @@
 0.0.0.0 betweenrockandhardplace.files.wordpress.com
 0.0.0.0 betweenrockandhardplace.wordpress.com
 0.0.0.0 blog.nomorefakenews.com
+0.0.0.0 bluntforcetruth.com
 0.0.0.0 c4st.org
 0.0.0.0 cairnsnews.org
 0.0.0.0 canalisations-marie.blogspot.com
@@ -46,11 +46,13 @@
 0.0.0.0 emfhelpcenter.com
 0.0.0.0 emfsafetynetwork.org
 0.0.0.0 emfscientist.org
+0.0.0.0 en-volve.com
 0.0.0.0 en.baaghitv.com
 0.0.0.0 escuelasinwifi.org
 0.0.0.0 fort-russ.com
 0.0.0.0 frankenskiesthemovie.com
 0.0.0.0 fromrome.info
+0.0.0.0 genesgreenbook.com
 0.0.0.0 globalfreedommovement.org
 0.0.0.0 globalskywatch.com
 0.0.0.0 go.thetruthaboutcancer.com
@@ -100,7 +102,9 @@
 0.0.0.0 soundofheart.org
 0.0.0.0 speroprotectionclothing.com
 0.0.0.0 stopsmartmeters.org
+0.0.0.0 tacanowblog.com
 0.0.0.0 takebackyourpower.net
+0.0.0.0 tcanow.org
 0.0.0.0 technocracy.news
 0.0.0.0 technocracy.studio
 0.0.0.0 the5gsummit.com
@@ -145,6 +149,7 @@
 0.0.0.0 www.americasfrontlinedoctorsummit.com
 0.0.0.0 www.avoiceforchoice.org
 0.0.0.0 www.baaghitv.com
+0.0.0.0 www.bluntforcetruth.com
 0.0.0.0 www.c4st.org
 0.0.0.0 www.cairnsnews.org
 0.0.0.0 www.canalisations-marie.blogspot.com
@@ -171,10 +176,12 @@
 0.0.0.0 www.emfhelpcenter.com
 0.0.0.0 www.emfsafetynetwork.org
 0.0.0.0 www.emfscientist.org
+0.0.0.0 www.en-volve.com
 0.0.0.0 www.escuelasinwifi.org
 0.0.0.0 www.fort-russ.com
 0.0.0.0 www.frankenskiesthemovie.com
 0.0.0.0 www.fromrome.info
+0.0.0.0 www.genesgreenbook.com
 0.0.0.0 www.globalfreedommovement.org
 0.0.0.0 www.globalskywatch.com
 0.0.0.0 www.greenmedinfo.com
@@ -187,6 +194,7 @@
 0.0.0.0 www.jennifermargulis.net
 0.0.0.0 www.jeremyrhammond.com
 0.0.0.0 www.jrseco.com
+0.0.0.0 www.lessemf.com
 0.0.0.0 www.londonreal.tv
 0.0.0.0 www.magdahavas.com
 0.0.0.0 www.mediaverite.blogspot.com
@@ -219,7 +227,9 @@
 0.0.0.0 www.soundofheart.org
 0.0.0.0 www.speroprotectionclothing.com
 0.0.0.0 www.stopsmartmeters.org
+0.0.0.0 www.tacanowblog.com
 0.0.0.0 www.takebackyourpower.net
+0.0.0.0 www.tcanow.org
 0.0.0.0 www.technocracy.news
 0.0.0.0 www.technocracy.studio
 0.0.0.0 www.the5gsummit.com
