@@ -3,10 +3,15 @@
 ! For use with plugin-based adblockers, such as uBlock Origin.
 ! Released under the MIT license. 
 
+adwareremoval.info##.closed
+adwareremoval.info##.coupon-box-wrap
 askubuntu.com###js-gdpr-consent-banner
 babylonbee.com##.mb-4.p-3.h-100.article-cta-box
 boonevilledemocrat.com###dialog-message
 butlercountytimesgazette.com###dialog-message
+campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container
+campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container > .smb-dialog-mask
+campaign.aliexpress.com###smb-ui-banner-id > .smb-banner__main
 cgtips.org##.xlwXYROtlQoi-bg
 cgtips.org##.xlwXYROtlQoi-default
 classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10)
@@ -27,8 +32,10 @@ gizmodo.com###\31 86641
 gizmodo.com###vjs_video_3
 gizmodo.com##.js_video-sticky__hide
 gizmodo.com##.js_video-sticky__label
+image.online-convert.com##.show.extension-browser.toast
 journaldemocrat.com###dialog-message
 legacy.pressdemocrat.com##.cph-ccpa_banner
+m.aliexpress.com###smb-ui-banner-id > .smb-banner__main
 m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
 m.aliexpress.com##.download-bar
 m.imdb.com###regWallModal
@@ -56,10 +63,13 @@ weather.com##.visible.flag.sb
 www-1.kansas.com###ConnatixVideoAd
 www-1.kansas.com##.impact.banner-promo-link
 www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
+www.apple.com##.typography-caption.ribbon-content-wrapper
 www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 www.britannica.com##.pl-70.p-15
 www.cnx-software.com###custom_html-2
 www.dell.com##.alert-warning.alert
+www.drugs.com###ddc-toast
+www.drugs.com##.ddc-social-share
 www.dummies.com##.dummies-newsletter
 www.foxnews.com##.notification-banner
 www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
@@ -80,6 +90,7 @@ www.morningsun.net###dialog-message
 www.msn.com###vjs_video_2_html5_api
 www.msn.com##.animate.shrunk.loaded.player-wrapper.videojs
 www.msn.com##.player-placeholder
+www.niallbrady.com###cookies
 www.npr.org##.callout--health.callout--newsletter.callout
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
@@ -96,6 +107,7 @@ www.rawstory.com##.story_page_incontent_ig.story_page_incontent_instagram_contai
 www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 www.reuters.com##div.RightRail_sticky.Sticky_track:nth-of-type(2)
 www.rightwingwatch.org###visible-banner > .dropdown-banner
+www.startech.com###tracking-consent-header-container
 www.techopedia.com##.aae7b662c59641bfa43e91a5d7a53ef8.subscribers-modal-overlay
 www.techopedia.com##.subscribers-modal-top-center.aae7b662c59641bfa43e91a5d7a53ef8.subscribers-modal
 www.techwalla.com###jwplayer-section
@@ -107,6 +119,8 @@ www.thewindowsclub.com###text-422067543
 www.thewindowsclub.com###text-422067543 > .textwidget > center
 www.truthinadvertising.org###pb-newsletter_sign_up
 www.ubackup.com##div.side-item:nth-of-type(1)
+www.valuewalk.com###spu-bg-2260102
+www.valuewalk.com##.spu-container
 www.w3schools.com###skyscraper
 www.walmart.com##.EmailCapture--bringToFront.EmailCapture--footerShadow.EmailCapture--footerContainer.EmailCapture
 www.walmart.com##.InspirationalEmailSubscriber-contentBlock.text-center.InspirationalEmailSubscriber
@@ -118,6 +132,7 @@ www.wfmynews2.com##.notifications
 www.wired.com###failsafe-clickthrough
 www.youtube.com##.style-scope ytd-popup-container
 yourbusiness.azcentral.com###jwplayer-section
+||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
 ||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23bottom_ribbon&templateId=OTZ4C629BH2D&offerId=OFMI2KGAF0G5&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXS1F7IRJLF7&iframeId=offer-0-HtwD6&url=https%3A%2F%2Fwww.thedailybeast.com%2F&parentDualScreenLeft=-8&parentDualScreenTop=-8&parentWidth=1920&parentHeight=571&parentOuterHeight=1066&aid=SrmTGdXwNo&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_annoyed%22%3A%221%22%7D&hasLoginRequiredCallback=true&width=1920&_qh=310046664$subdocument
 ||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23bottom_ribbon&templateId=OTZ4C629BH2D&offerId=OFMI2KGAF0G5&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXS1F7IRJLF7&iframeId=offer-0-Xz5NE&url=https%3A%2F%2Fwww.thedailybeast.com%2F&parentDualScreenLeft=-8&parentDualScreenTop=-8&parentWidth=1920&parentHeight=976&parentOuterHeight=1066&aid=SrmTGdXwNo&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_annoyed%22%3A%221%22%7D&hasLoginRequiredCallback=true&width=1920&_qh=2917759204$subdocument
