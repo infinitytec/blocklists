@@ -1,7 +1,8 @@
-! Annoyance blocking filters by infinitytec.
-! This list is for annoying things that are not ads, such as newsletter popups and cookie notices. Quite subjective.
+! Title: Annoyance blocking filters by infinitytec.
+! Description: This list is for annoying things that are not ads, such as newsletter popups and cookie notices. Quite subjective.
 ! For use with plugin-based adblockers, such as uBlock Origin.
 ! Released under the MIT license. 
+! Expires: 4 days
 
 adwareremoval.info##.closed
 adwareremoval.info##.coupon-box-wrap
