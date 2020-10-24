@@ -1,6 +1,7 @@
-! Advertisement blocking filters by infinitytec.
-! This list is for blocking ads. It is in the format used by uBlock Origin and Adblock Plus.
+! Title: Advertisement blocking filters by infinitytec.
+! Description: This list is for blocking ads. It is in the format used by uBlock Origin and Adblock Plus.
 ! Released under the MIT license.
+! Expires: 4 days
 
 abc6onyourside.com##.Display_displayAd__3G6mk
 abc6onyourside.com##.Display_displayAd__FdpK
