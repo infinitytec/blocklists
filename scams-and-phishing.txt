@@ -3,6 +3,7 @@
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
+0.0.0.0 10-finger-schreiben.net
 0.0.0.0 10besttrendy.com
 0.0.0.0 10bestwalletsformen.com
 0.0.0.0 123hpcomenvy5055.blogspot.com
@@ -13,6 +14,7 @@
 0.0.0.0 185868.com.cn
 0.0.0.0 18pus.info
 0.0.0.0 1coolbox.com
+0.0.0.0 1siteforall.in
 0.0.0.0 20bestpicks.com
 0.0.0.0 247printersupportnumber.com
 0.0.0.0 247printersupportnumber.com.com
@@ -82,6 +84,7 @@
 0.0.0.0 africandrifter.com
 0.0.0.0 afrugalpitch.com
 0.0.0.0 afyonhirdavat.com
+0.0.0.0 agario.space
 0.0.0.0 agasthiyamahasivathuliyanaadijothidam.com
 0.0.0.0 agbgames.in
 0.0.0.0 agearsofwar4.com
@@ -94,6 +97,7 @@
 0.0.0.0 ahediaz.com.co
 0.0.0.0 ahsentemizlik.com
 0.0.0.0 aipa.co
+0.0.0.0 airestech.com
 0.0.0.0 airshop.co
 0.0.0.0 ajeyprintingworld.com
 0.0.0.0 akhetgaming.com
@@ -117,6 +121,7 @@
 0.0.0.0 androided.in
 0.0.0.0 androidtvapks.com
 0.0.0.0 angrybirdscheats.xyz
+0.0.0.0 antifastore.com
 0.0.0.0 antivirusbaba.com
 0.0.0.0 antiviruskey.org
 0.0.0.0 api.a0ndi.cn
@@ -234,6 +239,7 @@
 0.0.0.0 bestwirelesscharger.org
 0.0.0.0 bestworkoutvids.com
 0.0.0.0 betagiveaways.com
+0.0.0.0 bf5.es
 0.0.0.0 bigbooty.online
 0.0.0.0 bigbutt.online
 0.0.0.0 binom.napoletoss.ru
@@ -358,6 +364,7 @@
 0.0.0.0 forgiveaways.com
 0.0.0.0 fortnitebro.com
 0.0.0.0 fortnitehackers.club
+0.0.0.0 fpkdz.com
 0.0.0.0 free.content-center.club
 0.0.0.0 freebetbaru88.space
 0.0.0.0 freedownloadmusicmp3songs.com
@@ -436,6 +443,8 @@
 0.0.0.0 grz0.info
 0.0.0.0 gsm237.com
 0.0.0.0 gsmspecification.com
+0.0.0.0 gsx650f.net
+0.0.0.0 gtdls.de
 0.0.0.0 h4ck.us
 0.0.0.0 hackersbot.net
 0.0.0.0 hackgames.us
@@ -484,6 +493,7 @@
 0.0.0.0 lootsnow.com
 0.0.0.0 m.1coolbox.com
 0.0.0.0 m.dnslockbox.com
+0.0.0.0 m04388.com
 0.0.0.0 mac.criticaldownload.site
 0.0.0.0 mail.com-com-mobi.com
 0.0.0.0 mail.v-bucks.fr
@@ -576,6 +586,7 @@
 0.0.0.0 quickbooksupport365.com
 0.0.0.0 quickensupporthelpnumber.com
 0.0.0.0 ravpower.acemlnc.com
+0.0.0.0 redmiphone.in
 0.0.0.0 ref.litebucks.com
 0.0.0.0 refer.click4kash.com
 0.0.0.0 refer4me.co
@@ -732,6 +743,7 @@
 0.0.0.0 wp-thetechreviewer.com
 0.0.0.0 wp1738.com
 0.0.0.0 wpthemesforsale.com
+0.0.0.0 www.10-finger-schreiben.net
 0.0.0.0 www.10besttrendy.com
 0.0.0.0 www.10bestwalletsformen.com
 0.0.0.0 www.123hpcomenvy5055.blogspot.com
@@ -742,6 +754,7 @@
 0.0.0.0 www.185868.com.cn
 0.0.0.0 www.18pus.info
 0.0.0.0 www.1coolbox.com
+0.0.0.0 www.1siteforall.in
 0.0.0.0 www.20bestpicks.com
 0.0.0.0 www.247printersupportnumber.com
 0.0.0.0 www.247printersupportnumber.com.com
@@ -810,6 +823,7 @@
 0.0.0.0 www.africandrifter.com
 0.0.0.0 www.afrugalpitch.com
 0.0.0.0 www.afyonhirdavat.com
+0.0.0.0 www.agario.space
 0.0.0.0 www.agasthiyamahasivathuliyanaadijothidam.com
 0.0.0.0 www.agbgames.in
 0.0.0.0 www.agearsofwar4.com
@@ -822,6 +836,7 @@
 0.0.0.0 www.ahediaz.com.co
 0.0.0.0 www.ahsentemizlik.com
 0.0.0.0 www.aipa.co
+0.0.0.0 www.airestech.com
 0.0.0.0 www.airshop.co
 0.0.0.0 www.ajeyprintingworld.com
 0.0.0.0 www.akhetgaming.com
@@ -844,6 +859,7 @@
 0.0.0.0 www.androided.in
 0.0.0.0 www.androidtvapks.com
 0.0.0.0 www.angrybirdscheats.xyz
+0.0.0.0 www.antifastore.com
 0.0.0.0 www.antivirusbaba.com
 0.0.0.0 www.antiviruskey.org
 0.0.0.0 www.apkdynasty.com
@@ -955,6 +971,7 @@
 0.0.0.0 www.bestwirelesscharger.org
 0.0.0.0 www.bestworkoutvids.com
 0.0.0.0 www.betagiveaways.com
+0.0.0.0 www.bf5.es
 0.0.0.0 www.bigbooty.online
 0.0.0.0 www.bigbutt.online
 0.0.0.0 www.binom.napoletoss.ru
@@ -1071,6 +1088,7 @@
 0.0.0.0 www.forgiveaways.com
 0.0.0.0 www.fortnitebro.com
 0.0.0.0 www.fortnitehackers.club
+0.0.0.0 www.fpkdz.com
 0.0.0.0 www.free.content-center.club
 0.0.0.0 www.freebetbaru88.space
 0.0.0.0 www.freedownloadmusicmp3songs.com
@@ -1146,6 +1164,8 @@
 0.0.0.0 www.grz0.info
 0.0.0.0 www.gsm237.com
 0.0.0.0 www.gsmspecification.com
+0.0.0.0 www.gsx650f.net
+0.0.0.0 www.gtdls.de
 0.0.0.0 www.h4ck.us
 0.0.0.0 www.hackersbot.net
 0.0.0.0 www.hackgames.us
@@ -1189,6 +1209,7 @@
 0.0.0.0 www.litebucks.com
 0.0.0.0 www.lootcoupons.com
 0.0.0.0 www.lootsnow.com
+0.0.0.0 www.m04388.com
 0.0.0.0 www.makemoneyfromcpa.com
 0.0.0.0 www.makemoneywithcpa.com
 0.0.0.0 www.marketing-rhino.com
@@ -1262,6 +1283,7 @@
 0.0.0.0 www.qualified-case.com
 0.0.0.0 www.quickbooksupport365.com
 0.0.0.0 www.quickensupporthelpnumber.com
+0.0.0.0 www.redmiphone.in
 0.0.0.0 www.refer4me.co
 0.0.0.0 www.regiveaways.com
 0.0.0.0 www.rrbrecruitmenthelp.co.in
