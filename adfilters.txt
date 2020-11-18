@@ -450,6 +450,7 @@ www.allacronyms.com##.ad_top.ad_list_container.adsbygoogle
 www.allrecipes.com###div-gpt-mob-adhesive-banner-fixed
 www.allrecipes.com##.recipe-main-ad
 www.allrecipes.com##.tablet-ad
+www.amazon.com##div.aw-campaigns
 www.ancient-origins.net###block-block-59 > .block-inner > .content
 www.ancient-origins.net###page > .container_12.page-inner > .page-inner-inner > .clearfix.header-wrapper > .grid_12.header-wrapper-inner > header > .header_inner_area > .clearfix.top-add-block-wrapper
 www.ancient-origins.net##.OUTBRAIN
@@ -475,6 +476,7 @@ www.britannica.com##.video-ad-container.ora-tv-container
 www.businessinsider.com###taboola-below-article
 www.c-sharpcorner.com###NewsArticleAdBox
 www.cbr.com##.ad-zone-container
+www.chicagotribune.com##div.trb_ar_cont
 www.christianitytoday.com##div.clearfix.spacer-bottom-15
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
 www.citationmachine.net##.elrDHH.Messages__EmptyContainer-sc-1n74m55-0
@@ -702,6 +704,7 @@ www.howtogeek.com##.overlay-inner
 www.howtogeek.com##div[id^="purch_"]
 www.hpprintersupportservice.com
 www.hungred.com###content > .banner
+www.independent.co.uk##.above-article-prompt-donations
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-1
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-2
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-3
@@ -841,6 +844,8 @@ www.performcb.com
 www.phonescoop.com###admid
 www.phonescoop.com##.adinner
 www.phonescoop.com##.admore
+www.politico.com##.election-ad
+www.politico.com##.slim.election-ad
 www.popplunder.com
 www.popularmechanics.com##.transporter-ad.leaderboard-ad
 www.printersupports.online
@@ -855,6 +860,7 @@ www.realclearpolitics.com##.RC-AD-BOX-TOP.RC-AD
 www.realclearpolitics.com##.ad_wrapper_box
 www.realclearpolitics.com##.gcwp-advertisement-label
 www.realclearpolitics.com##div.inline-rc-ad-middle
+www.redditgifts.com##[src="https://static.redditgifts.com/img-optim/exchanges/energizer.png"]
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B22783112.257357113;dc_trk_aid=453243820;dc_trk_cid=116875239;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B23204197.258210862;dc_trk_aid=453457458;dc_trk_cid=122321621;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
 www.registerednursing.org##.sponsoredads
@@ -878,6 +884,7 @@ www.techyuga.com##.dialog-lightbox-message.dialog-message
 www.techyuga.com##.elementor-top-column.elementor-col-50.elementor-column
 www.telecomservation.com
 www.telegraphherald.com##.subscriber-premium.asset-content > .hidden-print.tncms-region
+www.telluridenews.com##.automatic-ad
 www.theaaronloy.com###custom_html-2
 www.theaaronloy.com###custom_html-3
 www.theguardian.com##.css-9aekbr
@@ -1064,6 +1071,7 @@ zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 ||s3.reutersmedia.net/resources/r/?m=02&d=20151117&t=2&i=9308725039&w=760&fh=&fw=&ll=&pl=&sq=&r=1489LYNXMPGOS8788$image
 ||s3.reutersmedia.net/resources/r/?m=02&d=20160405&t=2&i=6524429309&w=380&fh=&fw=&ll=&pl=&sq=&r=1489LYNXMPGYV8788$image
 ||safe.britannica.com/safeimages/BFP_marketing_ads_300x90_C.jpg$image
+||static.redditgifts.com/img-optim/exchanges/energizer.png$image
 ||static.redditgifts.com/img-optim/ss-2019/google-store.png$image
 ||static.redditgifts.com/img-optim/ss-2019/stadia-4.png$image
 ||view.vzaar.com/4640298/player$subdocument
