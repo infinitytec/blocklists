@@ -383,3 +383,11 @@
 0.0.0.0 www.www.newstarget.com
 0.0.0.0 www.zachbushmd.com
 0.0.0.0 zachbushmd.com
+0.0.0.0 dr-lobisco.com
+0.0.0.0 lockdownsceptics.org
+0.0.0.0 corsination.com
+0.0.0.0 www.dr-lobisco.com
+0.0.0.0 www.lockdownsceptics.org
+0.0.0.0 www.corsination.com
+0.0.0.0 goldenageofgaia.com
+0.0.0.0 www.goldenageofgaia.com
