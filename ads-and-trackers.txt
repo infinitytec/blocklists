@@ -3,6 +3,7 @@
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
+0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
 0.0.0.0 adbutler.com
 0.0.0.0 admin-api.adbutler.com
 0.0.0.0 admin.adbutler.com
@@ -51,6 +52,7 @@
 0.0.0.0 grf.clickbooth.com
 0.0.0.0 hpprintersupportservice.com
 0.0.0.0 iluv.clickbooth.com
+0.0.0.0 in.getclicky.com
 0.0.0.0 intermediate.datspush.com
 0.0.0.0 jut7866.info
 0.0.0.0 kb.anstrex.com
