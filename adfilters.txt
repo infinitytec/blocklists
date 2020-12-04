@@ -3,6 +3,8 @@
 ! Released under the MIT license.
 ! Expires: 4 days
 
+3dprint.com##.btn--sponsor
+3dprint.com##.lap-block-items
 abc6onyourside.com##.Display_displayAd__3G6mk
 abc6onyourside.com##.Display_displayAd__FdpK
 abc6onyourside.com##.ddb-container
@@ -864,6 +866,8 @@ www.redditgifts.com##[src="https://static.redditgifts.com/img-optim/exchanges/en
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B22783112.257357113;dc_trk_aid=453243820;dc_trk_cid=116875239;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
 www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.131843.REDDIT.COM/B23204197.258210862;dc_trk_aid=453457458;dc_trk_cid=122321621;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua="]
 www.registerednursing.org##.sponsoredads
+www.rockpapershotgun.com###mobile-ads
+www.rockpapershotgun.com##.collapsible.mpu
 www.sciencenews.org##.ad-block-leaderboard__adspeed___1Iopl
 www.sciencenews.org##.from-nature-index__wrapper___2E2Z9
 www.sevenforums.com##.chillad.media400
