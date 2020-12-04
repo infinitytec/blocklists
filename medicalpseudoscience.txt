@@ -2,7 +2,9 @@
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
+
 0.0.0.0 1986theact.com
+0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
 0.0.0.0 5gappeal.eu
 0.0.0.0 5gawareness.com
 0.0.0.0 5gdangers.com
@@ -23,12 +25,15 @@
 0.0.0.0 articles.mercola.com
 0.0.0.0 avoiceforchoice.org
 0.0.0.0 baaghitv.com
+0.0.0.0 beforeitsnews.com
 0.0.0.0 betweenrockandhardplace.files.wordpress.com
 0.0.0.0 betweenrockandhardplace.wordpress.com
 0.0.0.0 bioinitiative.org
 0.0.0.0 blog.nomorefakenews.com
+0.0.0.0 bluecat.live
 0.0.0.0 bluntforcetruth.com
 0.0.0.0 bmentored.com
+0.0.0.0 braintuner.com
 0.0.0.0 brittneykara.com
 0.0.0.0 brittneykara.kartra.com
 0.0.0.0 brutalproof.net
@@ -41,12 +46,16 @@
 0.0.0.0 christopherbunch.org
 0.0.0.0 cohealthchoice.org
 0.0.0.0 collective-evolution.com
+0.0.0.0 conem.org
 0.0.0.0 coreysdigs.com
+0.0.0.0 corsination.com
 0.0.0.0 crazzfiles.com
 0.0.0.0 createhealthyhomes.com
 0.0.0.0 daraberger.com
+0.0.0.0 dawnofpeace.org
 0.0.0.0 dcdirtylaundry.com
 0.0.0.0 deeprootsathome.com
+0.0.0.0 dr-lobisco.com
 0.0.0.0 drannacabeca.com
 0.0.0.0 draxe.com
 0.0.0.0 drjudymikovits.com
@@ -73,11 +82,13 @@
 0.0.0.0 freedomplatform.tv
 0.0.0.0 fromrome.info
 0.0.0.0 genesgreenbook.com
+0.0.0.0 getproven.net
 0.0.0.0 globalfreedommovement.org
 0.0.0.0 globalskywatch.com
 0.0.0.0 go.thetruthaboutcancer.com
 0.0.0.0 go.thetruthaboutvaccines.com
 0.0.0.0 go2.thetruthaboutvaccines.com
+0.0.0.0 goldenageofgaia.com
 0.0.0.0 greenmedinfo.com
 0.0.0.0 greensmoothiegirl.com
 0.0.0.0 hahnemannlabs.com
@@ -86,7 +97,9 @@
 0.0.0.0 healingthebody.ca
 0.0.0.0 healthimpactnews.com
 0.0.0.0 healthyhomeopathy.com
+0.0.0.0 herbanomic.com
 0.0.0.0 hipegalaxy.com
+0.0.0.0 home.solari.com
 0.0.0.0 howtopreventautism.org
 0.0.0.0 icandecide.org
 0.0.0.0 immunizationalternatives.com
@@ -104,7 +117,9 @@
 0.0.0.0 korenwellness.com
 0.0.0.0 lcaction.org
 0.0.0.0 lessemf.com
+0.0.0.0 lockdownsceptics.org
 0.0.0.0 londonreal.tv
+0.0.0.0 m.beforeitsnews.com
 0.0.0.0 magdahavas.com
 0.0.0.0 mediaverite.blogspot.com
 0.0.0.0 medicalkidnap.com
@@ -112,6 +127,7 @@
 0.0.0.0 meehanmd.com
 0.0.0.0 mercola.com
 0.0.0.0 michiganunitedforliberty.com
+0.0.0.0 mitocopper.com
 0.0.0.0 nationalfile.com
 0.0.0.0 naturalblaze.com
 0.0.0.0 naturalsociety.com
@@ -129,6 +145,8 @@
 0.0.0.0 plandemicmovie.com
 0.0.0.0 plandemicseries.com
 0.0.0.0 plandemicvideo.com
+0.0.0.0 polaraidhealth.com
+0.0.0.0 prager.academia.edu
 0.0.0.0 protonicbalancer.com
 0.0.0.0 questioningcovid.com
 0.0.0.0 radiationdangers.com
@@ -142,6 +160,8 @@
 0.0.0.0 scientists4wiredtech.com
 0.0.0.0 signup.cetv.one
 0.0.0.0 smartmetercovers.com
+0.0.0.0 soberaniaysalud.com
+0.0.0.0 solari.com
 0.0.0.0 soundchoice.org
 0.0.0.0 soundofheart.org
 0.0.0.0 speroprotectionclothing.com
@@ -149,6 +169,7 @@
 0.0.0.0 stopsmartmeters.org
 0.0.0.0 stopworldcontrol.com
 0.0.0.0 superbugs.news
+0.0.0.0 swprs.org
 0.0.0.0 tacanowblog.com
 0.0.0.0 takebackyourpower.net
 0.0.0.0 tcanow.org
@@ -194,6 +215,7 @@
 0.0.0.0 wifiinschools.com
 0.0.0.0 wifiinschools.org.uk
 0.0.0.0 worldhealth.net
+0.0.0.0 worldtruthvideos.org
 0.0.0.0 www.1986theact.com
 0.0.0.0 www.5gappeal.eu
 0.0.0.0 www.5gawareness.com
@@ -215,9 +237,12 @@
 0.0.0.0 www.arizonahomeopathic.org
 0.0.0.0 www.avoiceforchoice.org
 0.0.0.0 www.baaghitv.com
+0.0.0.0 www.beforeitsnews.com
 0.0.0.0 www.bioinitiative.org
+0.0.0.0 www.bluecat.live
 0.0.0.0 www.bluntforcetruth.com
 0.0.0.0 www.bmentored.com
+0.0.0.0 www.braintuner.com
 0.0.0.0 www.brittneykara.com
 0.0.0.0 www.brittneykara.kartra.com
 0.0.0.0 www.brutalproof.net
@@ -230,12 +255,16 @@
 0.0.0.0 www.christopherbunch.org
 0.0.0.0 www.cohealthchoice.org
 0.0.0.0 www.collective-evolution.com
+0.0.0.0 www.conem.org
 0.0.0.0 www.coreysdigs.com
+0.0.0.0 www.corsination.com
 0.0.0.0 www.crazzfiles.com
 0.0.0.0 www.createhealthyhomes.com
 0.0.0.0 www.daraberger.com
+0.0.0.0 www.dawnofpeace.org
 0.0.0.0 www.dcdirtylaundry.com
 0.0.0.0 www.deeprootsathome.com
+0.0.0.0 www.dr-lobisco.com
 0.0.0.0 www.drannacabeca.com
 0.0.0.0 www.draxe.com
 0.0.0.0 www.drjudymikovits.com
@@ -261,8 +290,10 @@
 0.0.0.0 www.freedomplatform.tv
 0.0.0.0 www.fromrome.info
 0.0.0.0 www.genesgreenbook.com
+0.0.0.0 www.getproven.net
 0.0.0.0 www.globalfreedommovement.org
 0.0.0.0 www.globalskywatch.com
+0.0.0.0 www.goldenageofgaia.com
 0.0.0.0 www.greenmedinfo.com
 0.0.0.0 www.greensmoothiegirl.com
 0.0.0.0 www.hahnemannlabs.com
@@ -271,6 +302,7 @@
 0.0.0.0 www.healingthebody.ca
 0.0.0.0 www.healthimpactnews.com
 0.0.0.0 www.healthyhomeopathy.com
+0.0.0.0 www.herbanomic.com
 0.0.0.0 www.hipegalaxy.com
 0.0.0.0 www.howtopreventautism.org
 0.0.0.0 www.icandecide.org
@@ -289,6 +321,7 @@
 0.0.0.0 www.korenwellness.com
 0.0.0.0 www.lcaction.org
 0.0.0.0 www.lessemf.com
+0.0.0.0 www.lockdownsceptics.org
 0.0.0.0 www.londonreal.tv
 0.0.0.0 www.magdahavas.com
 0.0.0.0 www.mediaverite.blogspot.com
@@ -297,6 +330,7 @@
 0.0.0.0 www.meehanmd.com
 0.0.0.0 www.mercola.com
 0.0.0.0 www.michiganunitedforliberty.com
+0.0.0.0 www.mitocopper.com
 0.0.0.0 www.nationalfile.com
 0.0.0.0 www.naturalblaze.com
 0.0.0.0 www.naturalsociety.com
@@ -315,6 +349,7 @@
 0.0.0.0 www.plandemicmovie.com
 0.0.0.0 www.plandemicseries.com
 0.0.0.0 www.plandemicvideo.com
+0.0.0.0 www.polaraidhealth.com
 0.0.0.0 www.protonicbalancer.com
 0.0.0.0 www.questioningcovid.com
 0.0.0.0 www.radiationdangers.com
@@ -327,6 +362,8 @@
 0.0.0.0 www.sammilham.com
 0.0.0.0 www.scientists4wiredtech.com
 0.0.0.0 www.smartmetercovers.com
+0.0.0.0 www.soberaniaysalud.com
+0.0.0.0 www.solari.com
 0.0.0.0 www.soundchoice.org
 0.0.0.0 www.soundofheart.org
 0.0.0.0 www.speroprotectionclothing.com
@@ -334,6 +371,7 @@
 0.0.0.0 www.stopsmartmeters.org
 0.0.0.0 www.stopworldcontrol.com
 0.0.0.0 www.superbugs.news
+0.0.0.0 www.swprs.org
 0.0.0.0 www.tacanowblog.com
 0.0.0.0 www.takebackyourpower.net
 0.0.0.0 www.tcanow.org
@@ -379,15 +417,10 @@
 0.0.0.0 www.wifiinschools.com
 0.0.0.0 www.wifiinschools.org.uk
 0.0.0.0 www.worldhealth.net
+0.0.0.0 www.worldtruthvideos.org
 0.0.0.0 www.www.airestech.com
 0.0.0.0 www.www.newstarget.com
+0.0.0.0 www.z3news.com
 0.0.0.0 www.zachbushmd.com
+0.0.0.0 z3news.com
 0.0.0.0 zachbushmd.com
-0.0.0.0 dr-lobisco.com
-0.0.0.0 lockdownsceptics.org
-0.0.0.0 corsination.com
-0.0.0.0 www.dr-lobisco.com
-0.0.0.0 www.lockdownsceptics.org
-0.0.0.0 www.corsination.com
-0.0.0.0 goldenageofgaia.com
-0.0.0.0 www.goldenageofgaia.com
