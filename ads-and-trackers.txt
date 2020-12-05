@@ -10,6 +10,8 @@
 0.0.0.0 ads-e-darwin.hulustream.com
 0.0.0.0 ads-serve.brave.com
 0.0.0.0 adserver.pandora.com
+0.0.0.0 adserver1.realtracker.com
+0.0.0.0 adserver2.realtracker.com
 0.0.0.0 advertisers.ogads.com
 0.0.0.0 affiliates.anstrex.com
 0.0.0.0 affiliates.clickbooth.com
@@ -23,6 +25,7 @@
 0.0.0.0 best.playlistcurators.club
 0.0.0.0 blog.adbutler.com
 0.0.0.0 blog.clickbooth.com
+0.0.0.0 business.realtracker.com
 0.0.0.0 calytics.ml
 0.0.0.0 cdn.intermediate.datspush.com
 0.0.0.0 cdn.qa.datspush.com
@@ -33,6 +36,7 @@
 0.0.0.0 connect.clickbooth.com
 0.0.0.0 connect.performcb.com
 0.0.0.0 contactaolhelp.com
+0.0.0.0 cpagold.net
 0.0.0.0 cpc.clickbooth.com
 0.0.0.0 datspush.com
 0.0.0.0 deliverynotforme.best
@@ -82,6 +86,7 @@
 0.0.0.0 publishers.clickbooth.com
 0.0.0.0 push.anstrex.com
 0.0.0.0 qa.datspush.com
+0.0.0.0 realtracker.com
 0.0.0.0 results.fitnessrant.com
 0.0.0.0 rewards.clickbooth.com
 0.0.0.0 sdk.ibm.xtify.com
@@ -100,6 +105,7 @@
 0.0.0.0 togetherforwine.com
 0.0.0.0 tomtomgopre.online
 0.0.0.0 track.clickbooth.com
+0.0.0.0 web4.realtracker.com
 0.0.0.0 wifiextenderhelp.com
 0.0.0.0 wiki.clickbooth.com
 0.0.0.0 www.adbutler.com
@@ -110,6 +116,7 @@
 0.0.0.0 www.cldoffers.net
 0.0.0.0 www.clickbooth.com
 0.0.0.0 www.contactaolhelp.com
+0.0.0.0 www.cpagold.net
 0.0.0.0 www.datspush.com
 0.0.0.0 www.deliverynotforme.best
 0.0.0.0 www.galaksion.com
@@ -125,6 +132,7 @@
 0.0.0.0 www.performcb.com
 0.0.0.0 www.popplunder.com
 0.0.0.0 www.printersupports.online
+0.0.0.0 www.realtracker.com
 0.0.0.0 www.shrink.pe
 0.0.0.0 www.surveysonthego.net
 0.0.0.0 www.telecomservation.com
