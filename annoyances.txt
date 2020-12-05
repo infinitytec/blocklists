@@ -7,6 +7,7 @@
 adwareremoval.info##.closed
 adwareremoval.info##.coupon-box-wrap
 askubuntu.com###js-gdpr-consent-banner
+babylonbee.com##.mb-2.article-content > .d-sm-block.d-none
 babylonbee.com##.mb-4.p-3.h-100.article-cta-box
 boonevilledemocrat.com###dialog-message
 butlercountytimesgazette.com###dialog-message
@@ -23,6 +24,7 @@ cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
 decider.com##.nyp-sitewide-notice
 devilslakejournal.com###dialog-message
+ecofriend.com##df-messenger
 en.softonic.com##.popup-newsletter
 en.wikipedia.org###siteNotice
 everymac.com##.prompt-bg
@@ -83,6 +85,8 @@ www.investing.com###PromoteSignUpPopUp
 www.investing.com##.right
 www.kansas.com###main-content > section:nth-of-type(1)
 www.kansas.com###onetrust-banner-sdk
+www.kbb.com##.css-nsnnj-StyledToolbar-default
+www.kbb.com##.has-shadow.animated.show.offset-top-0.bottom.padding-horizontal-2.justify-content-center.display-flex.sticky-container
 www.khou.com##.notifications
 www.lifenews.com###blockModalPopupDiv
 www.lifenews.com###innerModalPopupDiv
@@ -90,12 +94,16 @@ www.mcclatchydc.com###subscription-cta-container
 www.morningsun.net###dialog-message
 www.msn.com###vjs_video_2_html5_api
 www.msn.com##.animate.shrunk.loaded.player-wrapper.videojs
+www.msn.com##.autosNonResearch.floatleft.start-stripe.autos_rlc1
 www.msn.com##.player-placeholder
+www.msn.com##.rcc.rc.recommendedSearch
 www.niallbrady.com###cookies
 www.npr.org##.callout--health.callout--newsletter.callout
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
 www.paypal.com##.cw_tile__floatingPromo-contentContainer
+www.politico.com##.has-borders.bump-in.story-enhancement
+www.politico.com##.type--center-well.first-party-data-form
 www.publish0x.com###registerModal
 www.qs1.com###popmake-2751
 www.rawstory.com###kindest-frame
@@ -108,6 +116,7 @@ www.rawstory.com##.story_page_incontent_ig.story_page_incontent_instagram_contai
 www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 www.reuters.com##div.RightRail_sticky.Sticky_track:nth-of-type(2)
 www.rightwingwatch.org###visible-banner > .dropdown-banner
+www.sammobile.com##.alert
 www.startech.com###tracking-consent-header-container
 www.techopedia.com##.aae7b662c59641bfa43e91a5d7a53ef8.subscribers-modal-overlay
 www.techopedia.com##.subscribers-modal-top-center.aae7b662c59641bfa43e91a5d7a53ef8.subscribers-modal
@@ -138,6 +147,7 @@ yourbusiness.azcentral.com###jwplayer-section
 ||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23bottom_ribbon&templateId=OTZ4C629BH2D&offerId=OFMI2KGAF0G5&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXS1F7IRJLF7&iframeId=offer-0-HtwD6&url=https%3A%2F%2Fwww.thedailybeast.com%2F&parentDualScreenLeft=-8&parentDualScreenTop=-8&parentWidth=1920&parentHeight=571&parentOuterHeight=1066&aid=SrmTGdXwNo&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_annoyed%22%3A%221%22%7D&hasLoginRequiredCallback=true&width=1920&_qh=310046664$subdocument
 ||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23bottom_ribbon&templateId=OTZ4C629BH2D&offerId=OFMI2KGAF0G5&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXS1F7IRJLF7&iframeId=offer-0-Xz5NE&url=https%3A%2F%2Fwww.thedailybeast.com%2F&parentDualScreenLeft=-8&parentDualScreenTop=-8&parentWidth=1920&parentHeight=976&parentOuterHeight=1066&aid=SrmTGdXwNo&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_annoyed%22%3A%221%22%7D&hasLoginRequiredCallback=true&width=1920&_qh=2917759204$subdocument
 ||buy.tinypass.com/checkout/template/show?displayMode=inline&containerSelector=.piano-fixed-footer-one&templateId=OTL6YI0EAEKH&templateVariantId=OTVPV3YIVFEKV&offerId=fakeOfferId&showCloseButton=false&trackingId=%7Bjcx%7DH4sIAAAAAAAAAI2Qy27CMBBF_8VrjPzIexfRIBBQUBsS0p2bDMQ0mBA7gFT13xsobYXURWc3c-4dzdx3JGSBAlTWpTUNs3bgoB6qxQYSCafxhTDCCCYUUxczim2OKcMWd_FOtA9bNaep1uaQrgCv88L2uOu8AsmLXPg58cFjvCh8izuOx7rFcK6hkaByuK6OVot0FvPH5YjbdzQ6Q94auVdXGfWIZ7aEgMakK9aYXc0c9SYZHMleE1JabHPnD_Mfsy73pxh2dSUMzJbPNJuG86fZYtS91VlKob8hCkzTQg-ZW391z-Opk41JFEaTEfpliWikUOYmSRYJz8bJMJoknSYXu1rIjdIoUG1V9dBRavklPeK_w_Swn2ZNvB8s2PCFVCo9_CdMWV-ycbw-tfw-o06fu9201dCEG1Cmg8VpfTnaVCigtutbxPZ96-MTH4NwnvMBAAA&experienceId=EXPWMT3NUH35&activeMeters=%5B%7B%22meterName%22%3A%22twt_meter_subs%22%2C%22views%22%3A1%2C%22viewsLeft%22%3A5%2C%22maxViews%22%3A6%2C%22totalViews%22%3A1%7D%5D&tbc=%7Bjzx%7DoniGMPS_EJvIpbnraPMD-2Ul0l-_z6AGNpppsT8ARueGIicrrzFo7_aINMcTOJrf5-Xs_tfjvbe9QW5MBLiy5fV5XTISfApWK2GucujkmjeiA64Xc0PwXnIsUZ_X6PUl60VreX0zQ7Qgm9ptgy9X_w&ifr$subdocument
+||ecofriend.com/wp-content/themes/soledad/images/no-image.jpg$image
 ||ir.ebaystatic.com/cr/v/c1/189400_041720_CHR_RRCharity_Doodle_150x30_FINAL.gif$image
 ||kinja-vh.akamaihd.net/i/prod/186641/186641_,240p,480p,720p,1080p,.mp4.csmil/master.m3u8$media
 ||media.geeksforgeeks.org/wp-content/cdn-uploads/20200604102104/GFG-FSRNL-Article-2.png$image
@@ -146,4 +156,5 @@ yourbusiness.azcentral.com###jwplayer-section
 ||static.businessinsider.com/image/5dc428a57eece546b8629657$image
 ||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2019_american_patriots_2.jpg$image
 ||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2020_American_Arenas.jpg$image
+||systemcenterdudes.com/Banner/index.html$subdocument
 ||www.rawstory.com/wp-content/uploads/2020/01/Bill-Barr-poll-large.gif$image
