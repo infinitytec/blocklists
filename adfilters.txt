@@ -49,6 +49,9 @@ arstechnica.com##div.instream-wrap
 babylonbee.com###div-gpt-ad-1560348589511-0
 babylonbee.com##.text-center.sticky-footer-image
 best.playlistcurators.club
+bgr.com##.amazon-product-callout
+bgr.com##.bgr-style-_default.no-image.channel-tech.tag-snapdragon-888.tag-galaxy-s21.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-5889368 > div.content-section.row > .columns.main-content > .page-content > .row > .columns > .entry-content > h2
+bgr.com##.entry-content > h2
 blog.adbutler.com
 blog.clickbooth.com
 bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
@@ -59,6 +62,8 @@ calytics.ml
 campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container
 campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container > .smb-dialog-mask
 campaign.aliexpress.com###smb-ui-banner-id > .smb-banner__main
+carbuzz.com##.ad-slot
+cars.usnews.com##.ad-container
 cbsaustin.com###interstory_first_ddb_0
 cbsaustin.com###interstory_first_ddb_1
 cbsaustin.com###interstory_second_ddb_0
@@ -379,6 +384,7 @@ thehill.com###dfp-ad-mos_4
 theweek.com###article_first_intext_ad-mobile-5
 theweek.com###article_second_intext_ad-mobile-6
 theweek.com##.show-for-small-only.article-body-bottom-mob-ad
+tineye.com##.text-center.col-lg-4.col-md-5
 togetherforwine.com
 tomtomgopre.online
 tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
@@ -477,6 +483,7 @@ www.britannica.com##.video-ad-container-content
 www.britannica.com##.video-ad-container.ora-tv-container
 www.businessinsider.com###taboola-below-article
 www.c-sharpcorner.com###NewsArticleAdBox
+www.cars.com##.ads-finance-bottom.ads
 www.cbr.com##.ad-zone-container
 www.chicagotribune.com##div.trb_ar_cont
 www.christianitytoday.com##div.clearfix.spacer-bottom-15
@@ -488,12 +495,15 @@ www.citefast.com###banner2content
 www.citefast.com###myleftad
 www.cldoffers.net
 www.clickbooth.com
+www.cnbc.com##.BoxRail-styles-makeit-ad--1rgf0.BoxRail-styles-makeit-container-right--3SfNY
+www.cnbc.com##[class^="BoxRail-styles-makeit-ad-"]
 www.cnet.com###mobile-mpu-native
 www.cnet.com###mobile-mpu-native-2
 www.cnet.com###mobile-mpu-native-3
 www.cnet.com###mobile-mpu-native-4
 www.cnn.com###sponsored-outbrain-1
 www.cnx-software.com###custom_html-2
+www.cnx-software.com##.garduin
 www.codeproject.com###ctl00_ctl00_MC_NavRight > div.padded-top:nth-of-type(2)
 www.contactaolhelp.com
 www.cryptlife.com##article > div:nth-of-type(3)
@@ -596,6 +606,7 @@ www.forbes.com###article-4-ad-2
 www.forbes.com###article-4-ad-3
 www.forbes.com###inline-article-0-ad-1
 www.forbes.com###inline-article-0-ad-2
+www.forbes.com##.ad-rail
 www.forbes.com##div[id^="article-0-ad-"]
 www.forbes.com##div[id^="article-1-ad-"]
 www.forbes.com##div[id^="article-2-ad-"]
@@ -706,6 +717,8 @@ www.howtogeek.com##.overlay-inner
 www.howtogeek.com##div[id^="purch_"]
 www.hpprintersupportservice.com
 www.hungred.com###content > .banner
+www.i-dont-care-about-cookies.eu###partners
+www.i-dont-care-about-cookies.eu##.px-0.text-center.col-lg-12 > div
 www.independent.co.uk##.above-article-prompt-donations
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-1
 www.insider.com###gpt-post-food-mobile_in_post_ad-mobile-2
@@ -737,6 +750,10 @@ www.kake.com##.iframely-responsive
 www.kansas.com###main-content > section:nth-child(7) > div:nth-child(1) > div:nth-child(2)
 www.kansas.com##.zone-el
 www.kansas.com##div.rail:nth-child(1)
+www.kbb.com###div-gpt-ad-kbbAdsClassfiedsInlineOEM-container
+www.kbb.com###div-gpt-ad-kbbAdsClassfiedsInlineOEM2-container
+www.kbb.com###div-gpt-ad-kbbAdsLeaderboard-container
+www.kbb.com###div-gpt-ad-kbbLeaderboardAdVDP-container
 www.kbb.com###kbbAdsMainCenterAd
 www.kbb.com###kbbAdsMedRec
 www.kbb.com###kbbAdsMedRec2
@@ -787,6 +804,8 @@ www.mercurynews.com##div.landing-three-one:nth-of-type(2)
 www.minecraftforum.net##.ad-container-footer.ad-container
 www.minecraftforum.net##.footer-ad-medRect.xt-main-med-rect-footer.xt-placement
 www.minecraftforum.net##.server-forum-after-comment-ad.p-comments-b.p-comments > .ad-container
+www.minitool.com##.black-friday-bottom-banner
+www.minitool.com##.bottom-banner-wrapper.full-width
 www.monoprice.com##.ad-container > .global-adsense
 www.monoprice.com##.global-adsense
 www.monoprice.com##.prod-fold.global-adsense
@@ -843,9 +862,11 @@ www.paperrater.com##.ginger_attr_1
 www.paperrater.com##.ginger_btn_sprite.ginger_btn_up
 www.pcsuggest.com##.aprime_link
 www.performcb.com
+www.petervanderwoude.nl###text-9
 www.phonescoop.com###admid
 www.phonescoop.com##.adinner
 www.phonescoop.com##.admore
+www.politico.com##.PibAd-container
 www.politico.com##.election-ad
 www.politico.com##.slim.election-ad
 www.popplunder.com
@@ -876,6 +897,7 @@ www.shopgoodwill.com##.purchase-desktop > div
 www.shoppok.com##.adblocka
 www.shrink.pe
 www.slate.com##div.tablet-ad
+www.slaw.ca###header-boxes
 www.snopes.com##.smg-zone-widget-ads-placement
 www.steamboatpilot.com##.ad-top-wrapper
 www.steamboatpilot.com##.module-ad
@@ -1036,6 +1058,7 @@ zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
 ||cdn-node.diskpart.com/file/amtcstatic/1/rukow/close1.png$image
 ||cdn.iframe.ly/kTgKxV9?v=1&app=1$subdocument
+||classthink.com/teams-for-dummies-ad$image
 ||coinfomania.com/wp-content/uploads/728_90-en.gif$image
 ||coinfomania.com/wp-content/uploads/NordFX-1.gif$image
 ||d.stockcharts.com/img/freead4.gif$image
@@ -1090,6 +1113,7 @@ zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 ||www.gjsentinel.com/tncms/block/646820/?disableTNStatsTracker=1$subdocument
 ||www.healthysimulation.com/wp-content/uploads/2017/08/looking-for-vendors.png$image
 ||www.isomedia.com/banner/3-Play-1.gif$image
+||www.minitool.com/promotions/images/2020-black-friday/black-friday-bottom-banner.png$image
 ||www.paperrater.com/images/ginger_btn_sprite.png$image
 ||www.phonescoop.com/img/l/a_mc_bg.gif$image
 ||www.publish0x.com/images/brave/Brave_Banner_*x90$image
