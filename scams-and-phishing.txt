@@ -295,6 +295,7 @@
 0.0.0.0 couponoffer.org
 0.0.0.0 cpabuild.com
 0.0.0.0 cpacowboy.wordpress.com
+0.0.0.0 cpagold.net
 0.0.0.0 cpamarketinggenius.com
 0.0.0.0 cpamarketinggroup.com
 0.0.0.0 creditunionlogin.yolasite.com
@@ -384,9 +385,11 @@
 0.0.0.0 gamehacktown.com
 0.0.0.0 gamestop-promo-blog.blogspot.com
 0.0.0.0 gbwhatsappplus.com
+0.0.0.0 gclouddrive.online
 0.0.0.0 gearsofwar4hack.com
 0.0.0.0 gearverge.com
 0.0.0.0 geek5auce.com
+0.0.0.0 geekblooging.com
 0.0.0.0 geekhunk.com
 0.0.0.0 geeklyguru.com
 0.0.0.0 geekrator.com
@@ -487,6 +490,7 @@
 0.0.0.0 king-sizedcomforters.com
 0.0.0.0 kitchensouffle.com
 0.0.0.0 knowinghomes.com
+0.0.0.0 kudosinteractive.zaxaa.com
 0.0.0.0 letestpowerbank.xyz
 0.0.0.0 litebucks.com
 0.0.0.0 lootcoupons.com
@@ -557,6 +561,7 @@
 0.0.0.0 oculustrack.com
 0.0.0.0 officeoffiicecom.com
 0.0.0.0 ogads.con
+0.0.0.0 oneclickwebpro.com
 0.0.0.0 ongiveaways.com
 0.0.0.0 onlinepcfix.net
 0.0.0.0 oswaltdeals.us
@@ -1023,6 +1028,7 @@
 0.0.0.0 www.couponoffer.org
 0.0.0.0 www.cpabuild.com
 0.0.0.0 www.cpacowboy.wordpress.com
+0.0.0.0 www.cpagold.net
 0.0.0.0 www.cpamarketinggenius.com
 0.0.0.0 www.cpamarketinggroup.com
 0.0.0.0 www.creditunionlogin.yolasite.com
@@ -1107,9 +1113,11 @@
 0.0.0.0 www.gamehacksector.com
 0.0.0.0 www.gamehacktown.com
 0.0.0.0 www.gbwhatsappplus.com
+0.0.0.0 www.gclouddrive.online
 0.0.0.0 www.gearsofwar4hack.com
 0.0.0.0 www.gearverge.com
 0.0.0.0 www.geek5auce.com
+0.0.0.0 www.geekblooging.com
 0.0.0.0 www.geekhunk.com
 0.0.0.0 www.geeklyguru.com
 0.0.0.0 www.geekrator.com
@@ -1205,6 +1213,7 @@
 0.0.0.0 www.king-sizedcomforters.com
 0.0.0.0 www.kitchensouffle.com
 0.0.0.0 www.knowinghomes.com
+0.0.0.0 www.kudosinteractive.zaxaa.com
 0.0.0.0 www.letestpowerbank.xyz
 0.0.0.0 www.litebucks.com
 0.0.0.0 www.lootcoupons.com
@@ -1260,6 +1269,7 @@
 0.0.0.0 www.oculustrack.com
 0.0.0.0 www.officeoffiicecom.com
 0.0.0.0 www.ogads.con
+0.0.0.0 www.oneclickwebpro.com
 0.0.0.0 www.ongiveaways.com
 0.0.0.0 www.onlinepcfix.net
 0.0.0.0 www.oswaltdeals.us
@@ -1441,5 +1451,3 @@
 0.0.0.0 yugster.com
 0.0.0.0 ywnvnalo.vite.pw
 0.0.0.0 zeustrk.com
-0.0.0.0 oneclickwebpro.com
-0.0.0.0 www.oneclickwebpro.com
