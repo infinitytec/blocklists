@@ -2,7 +2,6 @@
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
-
 0.0.0.0 1986theact.com
 0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
 0.0.0.0 5gappeal.eu
@@ -10,9 +9,11 @@
 0.0.0.0 5gdangers.com
 0.0.0.0 7thchakrafilms.com
 0.0.0.0 Barefoothealing.com.au
+0.0.0.0 LewRockwell.com
 0.0.0.0 MatrixMothersCommunity.com
 0.0.0.0 VaXism.com
 0.0.0.0 aapsonline.org
+0.0.0.0 activistpost.com
 0.0.0.0 actualactivists.com
 0.0.0.0 ageofautism.com
 0.0.0.0 ageoftruth.tv
@@ -21,7 +22,9 @@
 0.0.0.0 americasfrontlinedoctors.com
 0.0.0.0 americasfrontlinedoctorsummit.com
 0.0.0.0 andrewkaufmanmd.com
+0.0.0.0 aplanetruth.info
 0.0.0.0 arizonahomeopathic.org
+0.0.0.0 armstrongeconomics.com
 0.0.0.0 articles.mercola.com
 0.0.0.0 avoiceforchoice.org
 0.0.0.0 baaghitv.com
@@ -47,10 +50,12 @@
 0.0.0.0 cohealthchoice.org
 0.0.0.0 collective-evolution.com
 0.0.0.0 conem.org
+0.0.0.0 corbettreport.com
 0.0.0.0 coreysdigs.com
 0.0.0.0 corsination.com
 0.0.0.0 crazzfiles.com
 0.0.0.0 createhealthyhomes.com
+0.0.0.0 dallasforsaferwater.com
 0.0.0.0 daraberger.com
 0.0.0.0 dawnofpeace.org
 0.0.0.0 dcdirtylaundry.com
@@ -62,7 +67,9 @@
 0.0.0.0 drkelley.info
 0.0.0.0 drnorthrup.com
 0.0.0.0 drtenpenny.com
+0.0.0.0 drtomcowan.com
 0.0.0.0 earthing.com
+0.0.0.0 economicprism.com
 0.0.0.0 ehtrust.org
 0.0.0.0 electricalpollution.com
 0.0.0.0 electricsense.com
@@ -74,13 +81,17 @@
 0.0.0.0 en-volve.com
 0.0.0.0 en.baaghitv.com
 0.0.0.0 energetichealthinstitute.org
+0.0.0.0 ericdubay.wordpress.com
 0.0.0.0 escuelasinwifi.org
+0.0.0.0 faim.org
 0.0.0.0 fdbecc2aa5.nxcli.net
 0.0.0.0 fort-russ.com
+0.0.0.0 fourfoldhealing.com
 0.0.0.0 frankenskiesthemovie.com
 0.0.0.0 freeandhealthychildren.org
 0.0.0.0 freedomplatform.tv
 0.0.0.0 fromrome.info
+0.0.0.0 fullcirclewellnesstools.com
 0.0.0.0 genesgreenbook.com
 0.0.0.0 getproven.net
 0.0.0.0 globalfreedommovement.org
@@ -95,12 +106,14 @@
 0.0.0.0 harvoa-med.blogspot.com
 0.0.0.0 harvoa.org
 0.0.0.0 healingthebody.ca
+0.0.0.0 healthandmoneynews.wordpress.com
 0.0.0.0 healthimpactnews.com
 0.0.0.0 healthyhomeopathy.com
 0.0.0.0 herbanomic.com
 0.0.0.0 hipegalaxy.com
 0.0.0.0 home.solari.com
 0.0.0.0 howtopreventautism.org
+0.0.0.0 iamcallingyounow.blogspot.com
 0.0.0.0 icandecide.org
 0.0.0.0 immunizationalternatives.com
 0.0.0.0 interetpourtous2.blogspot.com
@@ -139,6 +152,7 @@
 0.0.0.0 nvic.org
 0.0.0.0 off-guardian.org
 0.0.0.0 ohioamf.org
+0.0.0.0 oneradionetwork.com
 0.0.0.0 parentsforsafetechnology.org
 0.0.0.0 physiciansforinformedconsent.org
 0.0.0.0 plandemic.tv
@@ -158,6 +172,8 @@
 0.0.0.0 salmartingano.com
 0.0.0.0 sammilham.com
 0.0.0.0 scientists4wiredtech.com
+0.0.0.0 sgtreport.tv
+0.0.0.0 shamanicpractice.org
 0.0.0.0 signup.cetv.one
 0.0.0.0 smartmetercovers.com
 0.0.0.0 soberaniaysalud.com
@@ -185,9 +201,11 @@
 0.0.0.0 thehealthyamerican.org
 0.0.0.0 thehighwire.com
 0.0.0.0 theinfectiousmyth.com
+0.0.0.0 thelastamericanvagabond.com
 0.0.0.0 themclinic.com
 0.0.0.0 themostimportantnews.com
 0.0.0.0 thenaturalguide.com
+0.0.0.0 thepeoplesinitiativefoundation.salsalabs.org
 0.0.0.0 thetollonline.com
 0.0.0.0 thetruthaboutcancer.com
 0.0.0.0 thetruthaboutvaccines.com
@@ -196,7 +214,10 @@
 0.0.0.0 thinkingmomsrevolution.com
 0.0.0.0 tottnews.com
 0.0.0.0 truthwiki.org
+0.0.0.0 unlimitedhangout.com
+0.0.0.0 vaccinationinformationnetwork.com
 0.0.0.0 vaccinechoicecanada.com
+0.0.0.0 vaccinefromhell.com
 0.0.0.0 vaccineimpact.com
 0.0.0.0 vaccineriskawareness.com
 0.0.0.0 vaxxed2.com
@@ -216,15 +237,18 @@
 0.0.0.0 wifiinschools.org.uk
 0.0.0.0 worldhealth.net
 0.0.0.0 worldtruthvideos.org
+0.0.0.0 wp.riverdrum.com
 0.0.0.0 www.1986theact.com
 0.0.0.0 www.5gappeal.eu
 0.0.0.0 www.5gawareness.com
 0.0.0.0 www.5gdangers.com
 0.0.0.0 www.7thchakrafilms.com
 0.0.0.0 www.Barefoothealing.com.au
+0.0.0.0 www.LewRockwell.com
 0.0.0.0 www.MatrixMothersCommunity.com
 0.0.0.0 www.VaXism.com
 0.0.0.0 www.aapsonline.org
+0.0.0.0 www.activistpost.com
 0.0.0.0 www.actualactivists.com
 0.0.0.0 www.ageofautism.com
 0.0.0.0 www.ageoftruth.tv
@@ -234,7 +258,9 @@
 0.0.0.0 www.americasfrontlinedoctors.com
 0.0.0.0 www.americasfrontlinedoctorsummit.com
 0.0.0.0 www.andrewkaufmanmd.com
+0.0.0.0 www.aplanetruth.info
 0.0.0.0 www.arizonahomeopathic.org
+0.0.0.0 www.armstrongeconomics.com
 0.0.0.0 www.avoiceforchoice.org
 0.0.0.0 www.baaghitv.com
 0.0.0.0 www.beforeitsnews.com
@@ -256,10 +282,12 @@
 0.0.0.0 www.cohealthchoice.org
 0.0.0.0 www.collective-evolution.com
 0.0.0.0 www.conem.org
+0.0.0.0 www.corbettreport.com
 0.0.0.0 www.coreysdigs.com
 0.0.0.0 www.corsination.com
 0.0.0.0 www.crazzfiles.com
 0.0.0.0 www.createhealthyhomes.com
+0.0.0.0 www.dallasforsaferwater.com
 0.0.0.0 www.daraberger.com
 0.0.0.0 www.dawnofpeace.org
 0.0.0.0 www.dcdirtylaundry.com
@@ -271,7 +299,9 @@
 0.0.0.0 www.drkelley.info
 0.0.0.0 www.drnorthrup.com
 0.0.0.0 www.drtenpenny.com
+0.0.0.0 www.drtomcowan.com
 0.0.0.0 www.earthing.com
+0.0.0.0 www.economicprism.com
 0.0.0.0 www.ehtrust.org
 0.0.0.0 www.electricalpollution.com
 0.0.0.0 www.electricsense.com
@@ -282,13 +312,17 @@
 0.0.0.0 www.emfscientist.org
 0.0.0.0 www.en-volve.com
 0.0.0.0 www.energetichealthinstitute.org
+0.0.0.0 www.ericdubay.wordpress.com
 0.0.0.0 www.escuelasinwifi.org
+0.0.0.0 www.faim.org
 0.0.0.0 www.fdbecc2aa5.nxcli.net
 0.0.0.0 www.fort-russ.com
+0.0.0.0 www.fourfoldhealing.com
 0.0.0.0 www.frankenskiesthemovie.com
 0.0.0.0 www.freeandhealthychildren.org
 0.0.0.0 www.freedomplatform.tv
 0.0.0.0 www.fromrome.info
+0.0.0.0 www.fullcirclewellnesstools.com
 0.0.0.0 www.genesgreenbook.com
 0.0.0.0 www.getproven.net
 0.0.0.0 www.globalfreedommovement.org
@@ -300,11 +334,13 @@
 0.0.0.0 www.harvoa-med.blogspot.com
 0.0.0.0 www.harvoa.org
 0.0.0.0 www.healingthebody.ca
+0.0.0.0 www.healthandmoneynews.wordpress.com
 0.0.0.0 www.healthimpactnews.com
 0.0.0.0 www.healthyhomeopathy.com
 0.0.0.0 www.herbanomic.com
 0.0.0.0 www.hipegalaxy.com
 0.0.0.0 www.howtopreventautism.org
+0.0.0.0 www.iamcallingyounow.blogspot.com
 0.0.0.0 www.icandecide.org
 0.0.0.0 www.immunizationalternatives.com
 0.0.0.0 www.interetpourtous2.blogspot.com
@@ -343,6 +379,7 @@
 0.0.0.0 www.nvic.org
 0.0.0.0 www.off-guardian.org
 0.0.0.0 www.ohioamf.org
+0.0.0.0 www.oneradionetwork.com
 0.0.0.0 www.parentsforsafetechnology.org
 0.0.0.0 www.physiciansforinformedconsent.org
 0.0.0.0 www.plandemic.tv
@@ -361,6 +398,8 @@
 0.0.0.0 www.salmartingano.com
 0.0.0.0 www.sammilham.com
 0.0.0.0 www.scientists4wiredtech.com
+0.0.0.0 www.sgtreport.tv
+0.0.0.0 www.shamanicpractice.org
 0.0.0.0 www.smartmetercovers.com
 0.0.0.0 www.soberaniaysalud.com
 0.0.0.0 www.solari.com
@@ -387,9 +426,11 @@
 0.0.0.0 www.thehealthyamerican.org
 0.0.0.0 www.thehighwire.com
 0.0.0.0 www.theinfectiousmyth.com
+0.0.0.0 www.thelastamericanvagabond.com
 0.0.0.0 www.themclinic.com
 0.0.0.0 www.themostimportantnews.com
 0.0.0.0 www.thenaturalguide.com
+0.0.0.0 www.thepeoplesinitiativefoundation.salsalabs.org
 0.0.0.0 www.thetollonline.com
 0.0.0.0 www.thetruthaboutcancer.com
 0.0.0.0 www.thetruthaboutvaccines.com
@@ -398,7 +439,10 @@
 0.0.0.0 www.thinkingmomsrevolution.com
 0.0.0.0 www.tottnews.com
 0.0.0.0 www.truthwiki.org
+0.0.0.0 www.unlimitedhangout.com
+0.0.0.0 www.vaccinationinformationnetwork.com
 0.0.0.0 www.vaccinechoicecanada.com
+0.0.0.0 www.vaccinefromhell.com
 0.0.0.0 www.vaccineimpact.com
 0.0.0.0 www.vaccineriskawareness.com
 0.0.0.0 www.vaxxed2.com
@@ -418,6 +462,7 @@
 0.0.0.0 www.wifiinschools.org.uk
 0.0.0.0 www.worldhealth.net
 0.0.0.0 www.worldtruthvideos.org
+0.0.0.0 www.wp.riverdrum.com
 0.0.0.0 www.www.airestech.com
 0.0.0.0 www.www.newstarget.com
 0.0.0.0 www.z3news.com
