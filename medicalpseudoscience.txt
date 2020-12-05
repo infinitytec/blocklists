@@ -3,6 +3,7 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
 0.0.0.0 1986theact.com
+0.0.0.0 2020news.de
 0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
 0.0.0.0 5gappeal.eu
 0.0.0.0 5gawareness.com
@@ -45,6 +46,7 @@
 0.0.0.0 canalisations-marie.blogspot.com
 0.0.0.0 cellsafe.com.au
 0.0.0.0 cetv.one
+0.0.0.0 checktheevidence.com
 0.0.0.0 childrenshealthdefense.org
 0.0.0.0 christopherbunch.org
 0.0.0.0 cohealthchoice.org
@@ -65,6 +67,7 @@
 0.0.0.0 draxe.com
 0.0.0.0 drjudymikovits.com
 0.0.0.0 drkelley.info
+0.0.0.0 drmalcolmkendrick.org
 0.0.0.0 drnorthrup.com
 0.0.0.0 drtenpenny.com
 0.0.0.0 drtomcowan.com
@@ -141,6 +144,8 @@
 0.0.0.0 mercola.com
 0.0.0.0 michiganunitedforliberty.com
 0.0.0.0 mitocopper.com
+0.0.0.0 muchadoaboutcorona.ca
+0.0.0.0 nataliekeshing.com
 0.0.0.0 nationalfile.com
 0.0.0.0 naturalblaze.com
 0.0.0.0 naturalsociety.com
@@ -192,6 +197,8 @@
 0.0.0.0 technocracy.news
 0.0.0.0 technocracy.studio
 0.0.0.0 tenpennyimc.com
+0.0.0.0 texansforvaccinechoice.com
+0.0.0.0 texasvaccinechoice.com
 0.0.0.0 the5gsummit.com
 0.0.0.0 theburningplatform.com
 0.0.0.0 theemfguy.com
@@ -239,6 +246,7 @@
 0.0.0.0 worldtruthvideos.org
 0.0.0.0 wp.riverdrum.com
 0.0.0.0 www.1986theact.com
+0.0.0.0 www.2020news.de
 0.0.0.0 www.5gappeal.eu
 0.0.0.0 www.5gawareness.com
 0.0.0.0 www.5gdangers.com
@@ -277,6 +285,7 @@
 0.0.0.0 www.canalisations-marie.blogspot.com
 0.0.0.0 www.cellsafe.com.au
 0.0.0.0 www.cetv.one
+0.0.0.0 www.checktheevidence.com
 0.0.0.0 www.childrenshealthdefense.org
 0.0.0.0 www.christopherbunch.org
 0.0.0.0 www.cohealthchoice.org
@@ -297,6 +306,7 @@
 0.0.0.0 www.draxe.com
 0.0.0.0 www.drjudymikovits.com
 0.0.0.0 www.drkelley.info
+0.0.0.0 www.drmalcolmkendrick.org
 0.0.0.0 www.drnorthrup.com
 0.0.0.0 www.drtenpenny.com
 0.0.0.0 www.drtomcowan.com
@@ -367,6 +377,8 @@
 0.0.0.0 www.mercola.com
 0.0.0.0 www.michiganunitedforliberty.com
 0.0.0.0 www.mitocopper.com
+0.0.0.0 www.muchadoaboutcorona.ca
+0.0.0.0 www.nataliekeshing.com
 0.0.0.0 www.nationalfile.com
 0.0.0.0 www.naturalblaze.com
 0.0.0.0 www.naturalsociety.com
@@ -417,6 +429,8 @@
 0.0.0.0 www.technocracy.news
 0.0.0.0 www.technocracy.studio
 0.0.0.0 www.tenpennyimc.com
+0.0.0.0 www.texansforvaccinechoice.com
+0.0.0.0 www.texasvaccinechoice.com
 0.0.0.0 www.the5gsummit.com
 0.0.0.0 www.theburningplatform.com
 0.0.0.0 www.theemfguy.com
