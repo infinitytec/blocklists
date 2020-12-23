@@ -52,6 +52,7 @@ best.playlistcurators.club
 bgr.com##.amazon-product-callout
 bgr.com##.bgr-style-_default.no-image.channel-tech.tag-snapdragon-888.tag-galaxy-s21.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-5889368 > div.content-section.row > .columns.main-content > .page-content > .row > .columns > .entry-content > h2
 bgr.com##.entry-content > h2
+blockonomi.com##.cf.the-post-foot > center
 blog.adbutler.com
 blog.clickbooth.com
 bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
@@ -739,6 +740,7 @@ www.instructables.com###gpt-ad-m-inline
 www.instructables.com###gpt-ad-m-rect
 www.instructables.com###gpt-bottom1_m
 www.instructables.com###gpt-step1-m
+www.jewishpress.com##.td-a-rec
 www.jut7866.info
 www.kake.com###WNAd101
 www.kake.com###WNAd103
