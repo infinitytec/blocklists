@@ -42,9 +42,13 @@
 0.0.0.0 baaghitv.com
 0.0.0.0 beforeitsnews.com
 0.0.0.0 bensmyson.wordpress.com
+0.0.0.0 berrygoodlife.co
+0.0.0.0 berrygoodlifecbd.com
 0.0.0.0 betweenrockandhardplace.files.wordpress.com
 0.0.0.0 betweenrockandhardplace.wordpress.com
 0.0.0.0 bioinitiative.org
+0.0.0.0 blackoxygenorganics.com
+0.0.0.0 blazingcatfur.ca
 0.0.0.0 blog.nomorefakenews.com
 0.0.0.0 blog.plan99.net
 0.0.0.0 bluecat.live
@@ -69,12 +73,14 @@
 0.0.0.0 childhoodshots.com
 0.0.0.0 childrenshealthdefense.org
 0.0.0.0 christopherbunch.org
+0.0.0.0 cienciaysaludnatural.com
 0.0.0.0 ciin.org
 0.0.0.0 cloutnow.org
 0.0.0.0 cmsri.org
 0.0.0.0 cohealthchoice.org
 0.0.0.0 collective-evolution.com
 0.0.0.0 conem.org
+0.0.0.0 consensualenslavement.com
 0.0.0.0 corbettreport.com
 0.0.0.0 coreysdigs.com
 0.0.0.0 corsination.com
@@ -106,6 +112,7 @@
 0.0.0.0 drtenpenny.com
 0.0.0.0 drtomcowan.com
 0.0.0.0 earthing.com
+0.0.0.0 earthley.com
 0.0.0.0 economicprism.com
 0.0.0.0 edhca.org
 0.0.0.0 educate4theinjured.org
@@ -206,6 +213,8 @@
 0.0.0.0 learn-the-risk.square.site
 0.0.0.0 learntherisk.org
 0.0.0.0 lessemf.com
+0.0.0.0 lifesitenews.com
+0.0.0.0 lifewave.com
 0.0.0.0 litethelight.bigcartel.com
 0.0.0.0 littlelightsky.blogspot.com
 0.0.0.0 livingwhole.org
@@ -228,6 +237,7 @@
 0.0.0.0 millionmamasmovement.org
 0.0.0.0 mitocopper.com
 0.0.0.0 muchadoaboutcorona.ca
+0.0.0.0 mydailychoice.com
 0.0.0.0 nataliekeshing.com
 0.0.0.0 national-health-federation.rallycongress.net
 0.0.0.0 nationalfile.com
@@ -236,6 +246,7 @@
 0.0.0.0 naturalblaze.com
 0.0.0.0 naturalsociety.com
 0.0.0.0 needtoknow.news
+0.0.0.0 nepute.chiroconnect.com
 0.0.0.0 newrightnetwork.com
 0.0.0.0 nexusnewsfeed.com
 0.0.0.0 nodeception.org
@@ -274,6 +285,7 @@
 0.0.0.0 regardingcaroline.com
 0.0.0.0 repub.li
 0.0.0.0 richardalanmiller.com
+0.0.0.0 richardsonpost.com
 0.0.0.0 robertscottbell.com
 0.0.0.0 robindestoits.org
 0.0.0.0 safeminds.org
@@ -282,6 +294,7 @@
 0.0.0.0 salmartingano.com
 0.0.0.0 sammilham.com
 0.0.0.0 sanevax.org
+0.0.0.0 sciencewithdrdoug.com
 0.0.0.0 scientists4wiredtech.com
 0.0.0.0 sentinelksmo.org
 0.0.0.0 sgtreport.tv
@@ -447,7 +460,11 @@
 0.0.0.0 www.baaghitv.com
 0.0.0.0 www.beforeitsnews.com
 0.0.0.0 www.bensmyson.wordpress.com
+0.0.0.0 www.berrygoodlife.co
+0.0.0.0 www.berrygoodlifecbd.com
 0.0.0.0 www.bioinitiative.org
+0.0.0.0 www.blackoxygenorganics.com
+0.0.0.0 www.blazingcatfur.ca
 0.0.0.0 www.blog.plan99.net
 0.0.0.0 www.bluecat.live
 0.0.0.0 www.bluntforcetruth.com
@@ -471,12 +488,14 @@
 0.0.0.0 www.childhoodshots.com
 0.0.0.0 www.childrenshealthdefense.org
 0.0.0.0 www.christopherbunch.org
+0.0.0.0 www.cienciaysaludnatural.com
 0.0.0.0 www.ciin.org
 0.0.0.0 www.cloutnow.org
 0.0.0.0 www.cmsri.org
 0.0.0.0 www.cohealthchoice.org
 0.0.0.0 www.collective-evolution.com
 0.0.0.0 www.conem.org
+0.0.0.0 www.consensualenslavement.com
 0.0.0.0 www.corbettreport.com
 0.0.0.0 www.coreysdigs.com
 0.0.0.0 www.corsination.com
@@ -508,6 +527,7 @@
 0.0.0.0 www.drtenpenny.com
 0.0.0.0 www.drtomcowan.com
 0.0.0.0 www.earthing.com
+0.0.0.0 www.earthley.com
 0.0.0.0 www.economicprism.com
 0.0.0.0 www.edhca.org
 0.0.0.0 www.educate4theinjured.org
@@ -603,6 +623,8 @@
 0.0.0.0 www.learn-the-risk.square.site
 0.0.0.0 www.learntherisk.org
 0.0.0.0 www.lessemf.com
+0.0.0.0 www.lifesitenews.com
+0.0.0.0 www.lifewave.com
 0.0.0.0 www.litethelight.bigcartel.com
 0.0.0.0 www.littlelightsky.blogspot.com
 0.0.0.0 www.livingwhole.org
@@ -624,6 +646,7 @@
 0.0.0.0 www.millionmamasmovement.org
 0.0.0.0 www.mitocopper.com
 0.0.0.0 www.muchadoaboutcorona.ca
+0.0.0.0 www.mydailychoice.com
 0.0.0.0 www.nataliekeshing.com
 0.0.0.0 www.national-health-federation.rallycongress.net
 0.0.0.0 www.nationalfile.com
@@ -632,6 +655,7 @@
 0.0.0.0 www.naturalblaze.com
 0.0.0.0 www.naturalsociety.com
 0.0.0.0 www.needtoknow.news
+0.0.0.0 www.nepute.chiroconnect.com
 0.0.0.0 www.newrightnetwork.com
 0.0.0.0 www.newstarget.com
 0.0.0.0 www.nexusnewsfeed.com
@@ -670,6 +694,7 @@
 0.0.0.0 www.regardingcaroline.com
 0.0.0.0 www.repub.li
 0.0.0.0 www.richardalanmiller.com
+0.0.0.0 www.richardsonpost.com
 0.0.0.0 www.robertscottbell.com
 0.0.0.0 www.robindestoits.org
 0.0.0.0 www.safeminds.org
@@ -678,6 +703,7 @@
 0.0.0.0 www.salmartingano.com
 0.0.0.0 www.sammilham.com
 0.0.0.0 www.sanevax.org
+0.0.0.0 www.sciencewithdrdoug.com
 0.0.0.0 www.scientists4wiredtech.com
 0.0.0.0 www.sentinelksmo.org
 0.0.0.0 www.sgtreport.tv
