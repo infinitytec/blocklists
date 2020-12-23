@@ -293,8 +293,10 @@
 0.0.0.0 couponandoffers.com
 0.0.0.0 couponfromchina.com
 0.0.0.0 couponoffer.org
+0.0.0.0 cpabld.co
 0.0.0.0 cpabuild.com
 0.0.0.0 cpacowboy.wordpress.com
+0.0.0.0 cpaelites.com
 0.0.0.0 cpagold.net
 0.0.0.0 cpamarketinggenius.com
 0.0.0.0 cpamarketinggroup.com
@@ -334,6 +336,7 @@
 0.0.0.0 downloadthelatest.com
 0.0.0.0 downloadunogamefree.blogspot.com
 0.0.0.0 driverprinterdownloads.wordpress.com
+0.0.0.0 dwnlds.com
 0.0.0.0 dwnloads.co
 0.0.0.0 eaweb-dev.ch
 0.0.0.0 eaweb-dev3.ch
@@ -383,6 +386,7 @@
 0.0.0.0 gamecoderspro.us
 0.0.0.0 gamehacksector.com
 0.0.0.0 gamehacktown.com
+0.0.0.0 gamersunite.com
 0.0.0.0 gamestop-promo-blog.blogspot.com
 0.0.0.0 gbwhatsappplus.com
 0.0.0.0 gclouddrive.online
@@ -541,7 +545,9 @@
 0.0.0.0 mypdftab.co
 0.0.0.0 ncseculogin.wordpress.com
 0.0.0.0 net-web.news
+0.0.0.0 news.junkie
 0.0.0.0 newsandpromotions.com
+0.0.0.0 newsbtc.com
 0.0.0.0 nioohaa.com
 0.0.0.0 nonamedvlp59.live
 0.0.0.0 nonameghjd95.live
@@ -590,6 +596,7 @@
 0.0.0.0 qualified-case.com
 0.0.0.0 quickbooksupport365.com
 0.0.0.0 quickensupporthelpnumber.com
+0.0.0.0 quicksilver.me
 0.0.0.0 ravpower.acemlnc.com
 0.0.0.0 redmiphone.in
 0.0.0.0 ref.litebucks.com
@@ -628,6 +635,7 @@
 0.0.0.0 staff.ogads.com
 0.0.0.0 staging.members.ogads.com
 0.0.0.0 stealdeals4u.com
+0.0.0.0 stellar.org.mu
 0.0.0.0 stellarholidaydeals.com
 0.0.0.0 superhacktool.com
 0.0.0.0 supporttv.net
@@ -1025,8 +1033,10 @@
 0.0.0.0 www.couponandoffers.com
 0.0.0.0 www.couponfromchina.com
 0.0.0.0 www.couponoffer.org
+0.0.0.0 www.cpabld.co
 0.0.0.0 www.cpabuild.com
 0.0.0.0 www.cpacowboy.wordpress.com
+0.0.0.0 www.cpaelites.com
 0.0.0.0 www.cpagold.net
 0.0.0.0 www.cpamarketinggenius.com
 0.0.0.0 www.cpamarketinggroup.com
@@ -1062,6 +1072,7 @@
 0.0.0.0 www.downloadthelatest.com
 0.0.0.0 www.downloadunogamefree.blogspot.com
 0.0.0.0 www.driverprinterdownloads.wordpress.com
+0.0.0.0 www.dwnlds.com
 0.0.0.0 www.dwnloads.co
 0.0.0.0 www.eaweb-dev.ch
 0.0.0.0 www.eaweb-dev3.ch
@@ -1111,6 +1122,7 @@
 0.0.0.0 www.gamecoderspro.us
 0.0.0.0 www.gamehacksector.com
 0.0.0.0 www.gamehacktown.com
+0.0.0.0 www.gamersunite.com
 0.0.0.0 www.gbwhatsappplus.com
 0.0.0.0 www.gclouddrive.online
 0.0.0.0 www.gearsofwar4hack.com
@@ -1251,7 +1263,9 @@
 0.0.0.0 www.mypdftab.co
 0.0.0.0 www.ncseculogin.wordpress.com
 0.0.0.0 www.net-web.news
+0.0.0.0 www.news.junkie
 0.0.0.0 www.newsandpromotions.com
+0.0.0.0 www.newsbtc.com
 0.0.0.0 www.nioohaa.com
 0.0.0.0 www.nonamedvlp59.live
 0.0.0.0 www.nonameghjd95.live
@@ -1292,6 +1306,7 @@
 0.0.0.0 www.qualified-case.com
 0.0.0.0 www.quickbooksupport365.com
 0.0.0.0 www.quickensupporthelpnumber.com
+0.0.0.0 www.quicksilver.me
 0.0.0.0 www.redmiphone.in
 0.0.0.0 www.refer4me.co
 0.0.0.0 www.regiveaways.com
@@ -1318,6 +1333,7 @@
 0.0.0.0 www.softdriverz.com
 0.0.0.0 www.softoniccrack.com
 0.0.0.0 www.stealdeals4u.com
+0.0.0.0 www.stellar.org.mu
 0.0.0.0 www.stellarholidaydeals.com
 0.0.0.0 www.superhacktool.com
 0.0.0.0 www.supporttv.net
@@ -1449,7 +1465,3 @@
 0.0.0.0 yugster.com
 0.0.0.0 ywnvnalo.vite.pw
 0.0.0.0 zeustrk.com
-0.0.0.0 quicksilver.me
-0.0.0.0 stellar.org.mu
-0.0.0.0 www.quicksilver.me
-0.0.0.0 www.stellar.org.mu
