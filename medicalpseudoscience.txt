@@ -20,6 +20,7 @@
 0.0.0.0 MatrixMothersCommunity.com
 0.0.0.0 VaXism.com
 0.0.0.0 aapsonline.org
+0.0.0.0 abcnow.cc
 0.0.0.0 abruptearthchanges.com
 0.0.0.0 activistpost.com
 0.0.0.0 actualactivists.com
@@ -27,6 +28,7 @@
 0.0.0.0 ageoftruth.tv
 0.0.0.0 ahrp.org
 0.0.0.0 aimintegrativemedicine.com
+0.0.0.0 alternative-cancer-care.com
 0.0.0.0 americasfrontlinedoctors.com
 0.0.0.0 americasfrontlinedoctorsummit.com
 0.0.0.0 andrewkaufmanmd.com
@@ -66,6 +68,7 @@
 0.0.0.0 cchrint.org
 0.0.0.0 cellphonetaskforce.org
 0.0.0.0 cellsafe.com.au
+0.0.0.0 centipedenation.com
 0.0.0.0 cetv.one
 0.0.0.0 checktheevidence.com
 0.0.0.0 chelseagreen.com
@@ -111,8 +114,10 @@
 0.0.0.0 drsuzanne.net
 0.0.0.0 drtenpenny.com
 0.0.0.0 drtomcowan.com
+0.0.0.0 earthclinic.com
 0.0.0.0 earthing.com
 0.0.0.0 earthley.com
+0.0.0.0 eat4body.com
 0.0.0.0 economicprism.com
 0.0.0.0 edhca.org
 0.0.0.0 educate4theinjured.org
@@ -175,6 +180,7 @@
 0.0.0.0 healthimpactnews.com
 0.0.0.0 healthnutnews.com
 0.0.0.0 healthranger.com
+0.0.0.0 healthy-action.com
 0.0.0.0 healthyhomeopathy.com
 0.0.0.0 herbanomic.com
 0.0.0.0 herniaremediation.org
@@ -191,6 +197,7 @@
 0.0.0.0 informedchoicewa.org
 0.0.0.0 integrative.metagenics.com
 0.0.0.0 integrativepediatricsonline.com
+0.0.0.0 intellectualtakeout.org
 0.0.0.0 interetpourtous2.blogspot.com
 0.0.0.0 invertedalchemy.com
 0.0.0.0 ipakfocus.com
@@ -202,6 +209,7 @@
 0.0.0.0 jchristoff.com
 0.0.0.0 jennifermargulis.net
 0.0.0.0 jeremyrhammond.com
+0.0.0.0 jimhumble.co
 0.0.0.0 jordanschachtel.substack.com
 0.0.0.0 journeyboost.com
 0.0.0.0 jprager9.wixsite.com
@@ -212,6 +220,7 @@
 0.0.0.0 lcaction.org
 0.0.0.0 learn-the-risk.square.site
 0.0.0.0 learntherisk.org
+0.0.0.0 leelaq.com
 0.0.0.0 lessemf.com
 0.0.0.0 lifesitenews.com
 0.0.0.0 lifewave.com
@@ -236,6 +245,9 @@
 0.0.0.0 microwavenews.com
 0.0.0.0 millionmamasmovement.org
 0.0.0.0 mitocopper.com
+0.0.0.0 mms-supplement.com
+0.0.0.0 mmshealthy4life.com
+0.0.0.0 mmshealthyforlife.com
 0.0.0.0 muchadoaboutcorona.ca
 0.0.0.0 mydailychoice.com
 0.0.0.0 nataliekeshing.com
@@ -248,6 +260,7 @@
 0.0.0.0 needtoknow.news
 0.0.0.0 nepute.chiroconnect.com
 0.0.0.0 newrightnetwork.com
+0.0.0.0 newsbtc.com
 0.0.0.0 nexusnewsfeed.com
 0.0.0.0 nodeception.org
 0.0.0.0 nofakenews.net
@@ -348,6 +361,7 @@
 0.0.0.0 themostimportantnews.com
 0.0.0.0 thenaturalguide.com
 0.0.0.0 thenhf.com
+0.0.0.0 theoneshotketo.com
 0.0.0.0 thepatrioticcanadian.com
 0.0.0.0 thepeoplesinitiativefoundation.salsalabs.org
 0.0.0.0 thepetesantillishow.com
@@ -438,6 +452,7 @@
 0.0.0.0 www.MatrixMothersCommunity.com
 0.0.0.0 www.VaXism.com
 0.0.0.0 www.aapsonline.org
+0.0.0.0 www.abcnow.cc
 0.0.0.0 www.abruptearthchanges.com
 0.0.0.0 www.activistpost.com
 0.0.0.0 www.actualactivists.com
@@ -446,6 +461,7 @@
 0.0.0.0 www.ahrp.org
 0.0.0.0 www.aimintegrativemedicine.com
 0.0.0.0 www.airestech.com
+0.0.0.0 www.alternative-cancer-care.com
 0.0.0.0 www.americasfrontlinedoctors.com
 0.0.0.0 www.americasfrontlinedoctorsummit.com
 0.0.0.0 www.andrewkaufmanmd.com
@@ -481,6 +497,7 @@
 0.0.0.0 www.cchrint.org
 0.0.0.0 www.cellphonetaskforce.org
 0.0.0.0 www.cellsafe.com.au
+0.0.0.0 www.centipedenation.com
 0.0.0.0 www.cetv.one
 0.0.0.0 www.checktheevidence.com
 0.0.0.0 www.chelseagreen.com
@@ -526,8 +543,10 @@
 0.0.0.0 www.drsuzanne.net
 0.0.0.0 www.drtenpenny.com
 0.0.0.0 www.drtomcowan.com
+0.0.0.0 www.earthclinic.com
 0.0.0.0 www.earthing.com
 0.0.0.0 www.earthley.com
+0.0.0.0 www.eat4body.com
 0.0.0.0 www.economicprism.com
 0.0.0.0 www.edhca.org
 0.0.0.0 www.educate4theinjured.org
@@ -586,6 +605,7 @@
 0.0.0.0 www.healthimpactnews.com
 0.0.0.0 www.healthnutnews.com
 0.0.0.0 www.healthranger.com
+0.0.0.0 www.healthy-action.com
 0.0.0.0 www.healthyhomeopathy.com
 0.0.0.0 www.herbanomic.com
 0.0.0.0 www.herniaremediation.org
@@ -601,6 +621,7 @@
 0.0.0.0 www.informedchoicewa.org
 0.0.0.0 www.integrative.metagenics.com
 0.0.0.0 www.integrativepediatricsonline.com
+0.0.0.0 www.intellectualtakeout.org
 0.0.0.0 www.interetpourtous2.blogspot.com
 0.0.0.0 www.invertedalchemy.com
 0.0.0.0 www.ipakfocus.com
@@ -612,6 +633,7 @@
 0.0.0.0 www.jchristoff.com
 0.0.0.0 www.jennifermargulis.net
 0.0.0.0 www.jeremyrhammond.com
+0.0.0.0 www.jimhumble.co
 0.0.0.0 www.jordanschachtel.substack.com
 0.0.0.0 www.journeyboost.com
 0.0.0.0 www.jprager9.wixsite.com
@@ -622,6 +644,7 @@
 0.0.0.0 www.lcaction.org
 0.0.0.0 www.learn-the-risk.square.site
 0.0.0.0 www.learntherisk.org
+0.0.0.0 www.leelaq.com
 0.0.0.0 www.lessemf.com
 0.0.0.0 www.lifesitenews.com
 0.0.0.0 www.lifewave.com
@@ -645,6 +668,9 @@
 0.0.0.0 www.microwavenews.com
 0.0.0.0 www.millionmamasmovement.org
 0.0.0.0 www.mitocopper.com
+0.0.0.0 www.mms-supplement.com
+0.0.0.0 www.mmshealthy4life.com
+0.0.0.0 www.mmshealthyforlife.com
 0.0.0.0 www.muchadoaboutcorona.ca
 0.0.0.0 www.mydailychoice.com
 0.0.0.0 www.nataliekeshing.com
@@ -657,6 +683,7 @@
 0.0.0.0 www.needtoknow.news
 0.0.0.0 www.nepute.chiroconnect.com
 0.0.0.0 www.newrightnetwork.com
+0.0.0.0 www.newsbtc.com
 0.0.0.0 www.newstarget.com
 0.0.0.0 www.nexusnewsfeed.com
 0.0.0.0 www.nodeception.org
@@ -756,6 +783,7 @@
 0.0.0.0 www.themostimportantnews.com
 0.0.0.0 www.thenaturalguide.com
 0.0.0.0 www.thenhf.com
+0.0.0.0 www.theoneshotketo.com
 0.0.0.0 www.thepatrioticcanadian.com
 0.0.0.0 www.thepeoplesinitiativefoundation.salsalabs.org
 0.0.0.0 www.thepetesantillishow.com
@@ -832,8 +860,10 @@
 0.0.0.0 www.www.airestech.com
 0.0.0.0 www.www.newstarget.com
 0.0.0.0 www.wyntersway.com
+0.0.0.0 www.x22report.com
 0.0.0.0 www.z3news.com
 0.0.0.0 www.zachbushmd.com
 0.0.0.0 wyntersway.com
+0.0.0.0 x22report.com
 0.0.0.0 z3news.com
 0.0.0.0 zachbushmd.com
