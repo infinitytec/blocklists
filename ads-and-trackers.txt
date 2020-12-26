@@ -61,6 +61,7 @@
 0.0.0.0 jut7866.info
 0.0.0.0 kb.anstrex.com
 0.0.0.0 links.performcb.com
+0.0.0.0 litemethod-revenue.life
 0.0.0.0 login.clickbooth.com
 0.0.0.0 login.performcb.com
 0.0.0.0 m.clickbooth.com
@@ -68,6 +69,7 @@
 0.0.0.0 mapinfosolutions.com
 0.0.0.0 marketplace.adbutler.com
 0.0.0.0 members.ogads.com
+0.0.0.0 millionaire-crypto.com
 0.0.0.0 mobilecrashreporting.googleapis.com
 0.0.0.0 mongo-db.clickbooth.com
 0.0.0.0 my.clickbooth.com
@@ -124,7 +126,9 @@
 0.0.0.0 www.gimbal.com
 0.0.0.0 www.hpprintersupportservice.com
 0.0.0.0 www.jut7866.info
+0.0.0.0 www.litemethod-revenue.life
 0.0.0.0 www.mapinfosolutions.com
+0.0.0.0 www.millionaire-crypto.com
 0.0.0.0 www.navman-gpsupdate.online
 0.0.0.0 www.navmanupdate.online
 0.0.0.0 www.navmanupdates.com
