@@ -30,6 +30,7 @@
 0.0.0.0 aim4truth.org
 0.0.0.0 aimintegrativemedicine.com
 0.0.0.0 alternative-cancer-care.com
+0.0.0.0 amazingpolly.net
 0.0.0.0 americans4innovation.blogspot.com
 0.0.0.0 americasfrontlinedoctors.com
 0.0.0.0 americasfrontlinedoctorsummit.com
@@ -117,6 +118,7 @@
 0.0.0.0 dr-lobisco.com
 0.0.0.0 drannacabeca.com
 0.0.0.0 draxe.com
+0.0.0.0 drdiane.com
 0.0.0.0 drgreenmom.com
 0.0.0.0 drjudymikovits.com
 0.0.0.0 drkelley.info
@@ -270,10 +272,12 @@
 0.0.0.0 nationalfile.com
 0.0.0.0 nationalhealthfreedom.org
 0.0.0.0 nationandstate.com
+0.0.0.0 natural-hacks.com
 0.0.0.0 naturalblaze.com
 0.0.0.0 naturalsociety.com
 0.0.0.0 needtoknow.news
 0.0.0.0 nepute.chiroconnect.com
+0.0.0.0 neurobiologix.com
 0.0.0.0 newrightnetwork.com
 0.0.0.0 newsbtc.com
 0.0.0.0 nexusnewsfeed.com
@@ -312,9 +316,11 @@
 0.0.0.0 radiationdangers.com
 0.0.0.0 radiationresearch.org
 0.0.0.0 radmeters.com
+0.0.0.0 realfarmacy.com
 0.0.0.0 realnewsaustralia.com
 0.0.0.0 regardingcaroline.com
 0.0.0.0 repub.li
+0.0.0.0 returntonow.net
 0.0.0.0 richardalanmiller.com
 0.0.0.0 richardsonpost.com
 0.0.0.0 robertscottbell.com
@@ -484,6 +490,7 @@
 0.0.0.0 www.aimintegrativemedicine.com
 0.0.0.0 www.airestech.com
 0.0.0.0 www.alternative-cancer-care.com
+0.0.0.0 www.amazingpolly.net
 0.0.0.0 www.americans4innovation.blogspot.com
 0.0.0.0 www.americasfrontlinedoctors.com
 0.0.0.0 www.americasfrontlinedoctorsummit.com
@@ -567,6 +574,7 @@
 0.0.0.0 www.dr-lobisco.com
 0.0.0.0 www.drannacabeca.com
 0.0.0.0 www.draxe.com
+0.0.0.0 www.drdiane.com
 0.0.0.0 www.drgreenmom.com
 0.0.0.0 www.drjudymikovits.com
 0.0.0.0 www.drkelley.info
@@ -714,10 +722,12 @@
 0.0.0.0 www.nationalfile.com
 0.0.0.0 www.nationalhealthfreedom.org
 0.0.0.0 www.nationandstate.com
+0.0.0.0 www.natural-hacks.com
 0.0.0.0 www.naturalblaze.com
 0.0.0.0 www.naturalsociety.com
 0.0.0.0 www.needtoknow.news
 0.0.0.0 www.nepute.chiroconnect.com
+0.0.0.0 www.neurobiologix.com
 0.0.0.0 www.newrightnetwork.com
 0.0.0.0 www.newsbtc.com
 0.0.0.0 www.newstarget.com
@@ -756,9 +766,11 @@
 0.0.0.0 www.radiationdangers.com
 0.0.0.0 www.radiationresearch.org
 0.0.0.0 www.radmeters.com
+0.0.0.0 www.realfarmacy.com
 0.0.0.0 www.realnewsaustralia.com
 0.0.0.0 www.regardingcaroline.com
 0.0.0.0 www.repub.li
+0.0.0.0 www.returntonow.net
 0.0.0.0 www.richardalanmiller.com
 0.0.0.0 www.richardsonpost.com
 0.0.0.0 www.robertscottbell.com
