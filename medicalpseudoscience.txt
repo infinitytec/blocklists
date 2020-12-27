@@ -35,6 +35,7 @@
 0.0.0.0 alternative-cancer-care.com
 0.0.0.0 amazingpolly.net
 0.0.0.0 americans4innovation.blogspot.com
+0.0.0.0 americaoutloud.com
 0.0.0.0 americasfrontlinedoctors.com
 0.0.0.0 americasfrontlinedoctorsummit.com
 0.0.0.0 aminutetomidnite.com
@@ -88,6 +89,7 @@
 0.0.0.0 childrenshealthdefense.org
 0.0.0.0 childrenshealthdefense.salsalabs.org
 0.0.0.0 chinarising.puntopress.com
+0.0.0.0 christiansfortruth.com
 0.0.0.0 christopherbunch.org
 0.0.0.0 cienciaysaludnatural.com
 0.0.0.0 ciin.org
@@ -106,6 +108,7 @@
 0.0.0.0 corvelva.it
 0.0.0.0 cosevatrs.com
 0.0.0.0 counterinformation.wordpress.com
+0.0.0.0 covexit.com
 0.0.0.0 covidcalltohumanity.org
 0.0.0.0 covidtruth.info
 0.0.0.0 crazzfiles.com
@@ -168,6 +171,8 @@
 0.0.0.0 ericdubay.wordpress.com
 0.0.0.0 ericpetersautos.com
 0.0.0.0 escuelasinwifi.org
+0.0.0.0 everydayconcerned.net
+0.0.0.0 evidencenotfear.com
 0.0.0.0 faim.org
 0.0.0.0 fbcoverup.com
 0.0.0.0 fdbecc2aa5.nxcli.net
@@ -346,6 +351,7 @@
 0.0.0.0 radiationdangers.com
 0.0.0.0 radiationresearch.org
 0.0.0.0 radmeters.com
+0.0.0.0 ratical.org
 0.0.0.0 realfarmacy.com
 0.0.0.0 realnewsaustralia.com
 0.0.0.0 regardingcaroline.com
@@ -364,6 +370,7 @@
 0.0.0.0 sanevax.org
 0.0.0.0 sciencewithdrdoug.com
 0.0.0.0 scientists4wiredtech.com
+0.0.0.0 sebastianrushworth.com
 0.0.0.0 sentinelksmo.org
 0.0.0.0 sgtreport.tv
 0.0.0.0 shamanicpractice.org
@@ -381,6 +388,7 @@
 0.0.0.0 soundchoice.org
 0.0.0.0 soundofheart.org
 0.0.0.0 speroprotectionclothing.com
+0.0.0.0 spiked-online.com
 0.0.0.0 stateofthenation.co
 0.0.0.0 stopmandatoryvaccination.com
 0.0.0.0 stoppfizer.org
@@ -400,6 +408,7 @@
 0.0.0.0 texasvaccinechoice.com
 0.0.0.0 the5gsummit.com
 0.0.0.0 theaiorganization.com
+0.0.0.0 theamericanconservative.com
 0.0.0.0 theburningplatform.com
 0.0.0.0 thechaoscat.wordpress.com
 0.0.0.0 thechaoscat71.blogspot.com
@@ -530,6 +539,7 @@
 0.0.0.0 www.alternative-cancer-care.com
 0.0.0.0 www.amazingpolly.net
 0.0.0.0 www.americans4innovation.blogspot.com
+0.0.0.0 www.americaoutloud.com
 0.0.0.0 www.americasfrontlinedoctors.com
 0.0.0.0 www.americasfrontlinedoctorsummit.com
 0.0.0.0 www.aminutetomidnite.com
@@ -579,6 +589,7 @@
 0.0.0.0 www.childrenshealthdefense.org
 0.0.0.0 www.childrenshealthdefense.salsalabs.org
 0.0.0.0 www.chinarising.puntopress.com
+0.0.0.0 www.christiansfortruth.com
 0.0.0.0 www.christopherbunch.org
 0.0.0.0 www.cienciaysaludnatural.com
 0.0.0.0 www.ciin.org
@@ -597,6 +608,7 @@
 0.0.0.0 www.corvelva.it
 0.0.0.0 www.cosevatrs.com
 0.0.0.0 www.counterinformation.wordpress.com
+0.0.0.0 www.covexit.com
 0.0.0.0 www.covidcalltohumanity.org
 0.0.0.0 www.covidtruth.info
 0.0.0.0 www.crazzfiles.com
@@ -658,6 +670,8 @@
 0.0.0.0 www.ericdubay.wordpress.com
 0.0.0.0 www.ericpetersautos.com
 0.0.0.0 www.escuelasinwifi.org
+0.0.0.0 www.everydayconcerned.net
+0.0.0.0 www.evidencenotfear.com
 0.0.0.0 www.faim.org
 0.0.0.0 www.fbcoverup.com
 0.0.0.0 www.fdbecc2aa5.nxcli.net
@@ -831,6 +845,7 @@
 0.0.0.0 www.radiationdangers.com
 0.0.0.0 www.radiationresearch.org
 0.0.0.0 www.radmeters.com
+0.0.0.0 www.ratical.org
 0.0.0.0 www.realfarmacy.com
 0.0.0.0 www.realnewsaustralia.com
 0.0.0.0 www.regardingcaroline.com
@@ -849,6 +864,7 @@
 0.0.0.0 www.sanevax.org
 0.0.0.0 www.sciencewithdrdoug.com
 0.0.0.0 www.scientists4wiredtech.com
+0.0.0.0 www.sebastianrushworth.com
 0.0.0.0 www.sentinelksmo.org
 0.0.0.0 www.sgtreport.tv
 0.0.0.0 www.shamanicpractice.org
@@ -865,6 +881,7 @@
 0.0.0.0 www.soundchoice.org
 0.0.0.0 www.soundofheart.org
 0.0.0.0 www.speroprotectionclothing.com
+0.0.0.0 www.spiked-online.com
 0.0.0.0 www.stateofthenation.co
 0.0.0.0 www.stopmandatoryvaccination.com
 0.0.0.0 www.stoppfizer.org
@@ -884,6 +901,7 @@
 0.0.0.0 www.texasvaccinechoice.com
 0.0.0.0 www.the5gsummit.com
 0.0.0.0 www.theaiorganization.com
+0.0.0.0 www.theamericanconservative.com
 0.0.0.0 www.theburningplatform.com
 0.0.0.0 www.thechaoscat.wordpress.com
 0.0.0.0 www.thechaoscat71.blogspot.com
