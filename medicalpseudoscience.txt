@@ -207,6 +207,7 @@
 0.0.0.0 contribute.healthimpactnews.com
 0.0.0.0 corbettreport.com
 0.0.0.0 coreysdigs.com
+0.0.0.0 coronavirus.anthropiatry.com
 0.0.0.0 corsination.com
 0.0.0.0 corvelva.it
 0.0.0.0 cosevatrs.com
@@ -216,6 +217,7 @@
 0.0.0.0 covidcalltohumanity.org
 0.0.0.0 covidtruth.info
 0.0.0.0 cpanel.americandigest.org
+0.0.0.0 cpanel.bd.brandnewtube.com
 0.0.0.0 cpanel.childrenshealthdefense.org
 0.0.0.0 cpanel.drpaulapproved.com
 0.0.0.0 cpanel.grassrootsliberty.com
@@ -295,6 +297,7 @@
 0.0.0.0 drsuzanne.net
 0.0.0.0 drtenpenny.com
 0.0.0.0 drtomcowan.com
+0.0.0.0 dryburgh.com
 0.0.0.0 e.westernjournal.com
 0.0.0.0 earthclinic.com
 0.0.0.0 earthing.com
@@ -539,6 +542,7 @@
 0.0.0.0 magnesiummalate.naturalnews.com
 0.0.0.0 magnesiumoilspray.healthrangerstore.com
 0.0.0.0 mail.2020news.de
+0.0.0.0 mail.brandnewtube.com
 0.0.0.0 mail.childrenshealthdefense.org
 0.0.0.0 mail.goodgopher.com
 0.0.0.0 mail.grassrootsliberty.com
@@ -722,6 +726,7 @@
 0.0.0.0 paulrevere.infowars.com
 0.0.0.0 paulthomasmd.com
 0.0.0.0 paulthomasmd.drpaulapproved.com
+0.0.0.0 peckford42.wordpress.com
 0.0.0.0 pediatricurgentcareonline.drpaulapproved.com
 0.0.0.0 pennsylvania.tenthamendmentcenter.com
 0.0.0.0 pensacola.tenthamendmentcenter.com
@@ -768,6 +773,7 @@
 0.0.0.0 realnewsaustralia.com
 0.0.0.0 realvideo.healthrangerstore.com
 0.0.0.0 regardingcaroline.com
+0.0.0.0 remnant-tv.com
 0.0.0.0 remote.tenpennyimc.com
 0.0.0.0 repub.li
 0.0.0.0 rest1.magento.infowars.com
@@ -1178,6 +1184,7 @@
 0.0.0.0 www.consumerwellness.org
 0.0.0.0 www.corbettreport.com
 0.0.0.0 www.coreysdigs.com
+0.0.0.0 www.coronavirus.anthropiatry.com
 0.0.0.0 www.corsination.com
 0.0.0.0 www.corvelva.it
 0.0.0.0 www.cosevatrs.com
@@ -1224,6 +1231,7 @@
 0.0.0.0 www.drtenpenny.com
 0.0.0.0 www.drthomasblog.drpaulapproved.com
 0.0.0.0 www.drtomcowan.com
+0.0.0.0 www.dryburgh.com
 0.0.0.0 www.earthclinic.com
 0.0.0.0 www.earthing.com
 0.0.0.0 www.earthley.com
@@ -1435,6 +1443,7 @@
 0.0.0.0 www.patriots4truth.org
 0.0.0.0 www.paulthomasmd.com
 0.0.0.0 www.paulthomasmd.drpaulapproved.com
+0.0.0.0 www.peckford42.wordpress.com
 0.0.0.0 www.pediatricurgentcareonline.drpaulapproved.com
 0.0.0.0 www.phmiracleproducts.com
 0.0.0.0 www.physiciansforinformedconsent.org
@@ -1460,6 +1469,7 @@
 0.0.0.0 www.realfarmacy.com
 0.0.0.0 www.realnewsaustralia.com
 0.0.0.0 www.regardingcaroline.com
+0.0.0.0 www.remnant-tv.com
 0.0.0.0 www.repub.li
 0.0.0.0 www.returntonow.net
 0.0.0.0 www.richardalanmiller.com
