@@ -101,6 +101,7 @@
 0.0.0.0 axisworldnews.com
 0.0.0.0 baaghitv.com
 0.0.0.0 badblue.bitnamiapp.com
+0.0.0.0 balanceoflifeclinic.com
 0.0.0.0 beforeitsnews.com
 0.0.0.0 bencarson.fetch.news
 0.0.0.0 bensmyson.wordpress.com
@@ -320,10 +321,12 @@
 0.0.0.0 drdiane.com
 0.0.0.0 drevalairpurifier.naturalnews.com
 0.0.0.0 drevalairpurifierberkeywaterfilter.naturalnews.com
+0.0.0.0 drfostersessentials.com
 0.0.0.0 drgreenmom.com
 0.0.0.0 drjudymikovits.com
 0.0.0.0 drkelley.info
 0.0.0.0 drmalcolmkendrick.org
+0.0.0.0 drmomma.org
 0.0.0.0 drnorthrup.com
 0.0.0.0 drpaul.drpaulapproved.com
 0.0.0.0 drpaulapproved.com
@@ -471,6 +474,7 @@
 0.0.0.0 health101.org
 0.0.0.0 healthandhabitat.org
 0.0.0.0 healthandmoneynews.wordpress.com
+0.0.0.0 healthchoice.org
 0.0.0.0 healthchoicevt.com
 0.0.0.0 healthimpactnews.com
 0.0.0.0 healthnutnews.com
@@ -1094,6 +1098,7 @@
 0.0.0.0 vaccination.inoz.com
 0.0.0.0 vaccinationdecisions.net
 0.0.0.0 vaccinationinformationnetwork.com
+0.0.0.0 vaccine-choice-store.myshopify.com
 0.0.0.0 vaccine-injury.info
 0.0.0.0 vaccine.guide
 0.0.0.0 vaccinechoicecanada.com
@@ -1261,6 +1266,7 @@
 0.0.0.0 www.axisworldnews.com
 0.0.0.0 www.baaghitv.com
 0.0.0.0 www.badblue.bitnamiapp.com
+0.0.0.0 www.balanceoflifeclinic.com
 0.0.0.0 www.beforeitsnews.com
 0.0.0.0 www.bensmyson.wordpress.com
 0.0.0.0 www.berrygoodlife.co
@@ -1362,10 +1368,12 @@
 0.0.0.0 www.drannacabeca.com
 0.0.0.0 www.draxe.com
 0.0.0.0 www.drdiane.com
+0.0.0.0 www.drfostersessentials.com
 0.0.0.0 www.drgreenmom.com
 0.0.0.0 www.drjudymikovits.com
 0.0.0.0 www.drkelley.info
 0.0.0.0 www.drmalcolmkendrick.org
+0.0.0.0 www.drmomma.org
 0.0.0.0 www.drnorthrup.com
 0.0.0.0 www.drpaul.drpaulapproved.com
 0.0.0.0 www.drpaulapproved.com
@@ -1464,6 +1472,7 @@
 0.0.0.0 www.health101.org
 0.0.0.0 www.healthandhabitat.org
 0.0.0.0 www.healthandmoneynews.wordpress.com
+0.0.0.0 www.healthchoice.org
 0.0.0.0 www.healthchoicevt.com
 0.0.0.0 www.healthimpactnews.com
 0.0.0.0 www.healthnutnews.com
@@ -1769,6 +1778,7 @@
 0.0.0.0 www.vaccination.inoz.com
 0.0.0.0 www.vaccinationdecisions.net
 0.0.0.0 www.vaccinationinformationnetwork.com
+0.0.0.0 www.vaccine-choice-store.myshopify.com
 0.0.0.0 www.vaccine-injury.info
 0.0.0.0 www.vaccine.guide
 0.0.0.0 www.vaccinechoicecanada.com
