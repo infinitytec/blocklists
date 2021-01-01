@@ -25,7 +25,7 @@ Just some things (like cookie banners) I find annoying.
 [Static filters](https://github.com/infinitytec/blocklists/raw/master/annoyances.txt)
 
 ## Medical Pseudoscience
-Blocks sites such as antivax sites and misleading medical information and "snake oil." Note that I am not a doctor; consult a medical professional for any medical advice.
+Blocks sites such as antivax sites and misleading medical information and "snake oil." Note that I am not a doctor; consult a medical professional for any medical advice. I also may have a few general conspiracy theory sites in there as well.
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt)
 
