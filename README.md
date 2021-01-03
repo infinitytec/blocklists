@@ -47,4 +47,10 @@ Please, create an issue to let me know, or [Contact me](https://infinitytec.gith
 
 # Is your site on a list and you think it should not be?
 Create an issue letting me know. If you make a good case for why I should remove it, I will remove it from the list.
+You don't need to argue too hard about it though. I don't bite and want to remove as many false positives possible.
+
+# A note on bias/selection criteria:
+I am a conservative and try to look at possible misinformation sites from a objective and scientific point of view. Due to my beliefs I may not see eye-to-eye on some topics however.
+In an effort to maintain balance and not get too many people mad at me, I refrain from placing any mainstream media sites (including Fox and CNN for example) on any blocklists (I am still open to filtering ads and tracking from these sites still, including blocking domains and subdomains from them). Any news sites that are on my lists in entirety seem to me to be fringe and/or smaller sites that have good reason to be on them.
+If you feel I have incorrectly blocked a site, please do let me know and I will look into it. 
 
