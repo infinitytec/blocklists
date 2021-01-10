@@ -171,6 +171,7 @@ gizmodo.com##.hZzjjd.sc-1bxrryq-0
 gizmodo.com##.kzUztX.sc-1to1lfh-1
 gizmodo.com##div.movable-ad
 gpu.userbenchmark.com##.be-caption
+graphicscardhub.com##.ai_widget.widget
 grf.clickbooth.com
 harveycountynow.com##.sidebar
 health.usnews.com##.krSlIm.Ad__Container-sc-1ah7c5n-0
@@ -354,6 +355,9 @@ shrink.pe
 siskiyoudaily.com##.ad-container
 smile.amazon.com###pdagSparkleAdFeedback
 spa-intermediate.datspush.com
+spaceweather.com##body > div:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2)
+spaceweather.com##div:nth-of-type(2) > table > tbody > tr > td:nth-of-type(2) > table:nth-of-type(1) > tbody > tr > td
+spaceweather.com##td > table > tbody > tr:nth-of-type(2) > td:nth-of-type(4) > div
 sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(3)
 sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(4)
 sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(5)
@@ -816,6 +820,9 @@ www.msn.com###Smart_Link_banner_ENUS_lightbluebg2_logo_v1
 www.msn.com##.civic-ad
 www.msn.com##.csw-ae-sponsor
 www.msn.com##.poll.nativead a
+www.nasaspaceflight.com###custom_html-3 > .custom-html-widget.textwidget > div
+www.nasaspaceflight.com###custom_html-4 > .custom-html-widget.textwidget > div
+www.nasaspaceflight.com###custom_html-5 > .custom-html-widget.textwidget > div
 www.nationalgeographic.com###photography_ancestor_photography_article_infinitefeed_03-auto-gen-id-11
 www.nationalgeographic.com##.adSlotDynamic-slot
 www.nationalgeographic.com##.adunit
