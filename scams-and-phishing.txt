@@ -130,6 +130,7 @@
 0.0.0.0 antivirusbaba.com
 0.0.0.0 antiviruskey.org
 0.0.0.0 api.a0ndi.cn
+0.0.0.0 api.prizepub.com
 0.0.0.0 api.xxpxkj.com
 0.0.0.0 apkdynasty.com
 0.0.0.0 apkmabbu.com
@@ -187,6 +188,7 @@
 0.0.0.0 bestdailydeals.in
 0.0.0.0 bestdailydiscounts.com
 0.0.0.0 bestdartstobuy.com
+0.0.0.0 bestdayeversweeps.com
 0.0.0.0 bestdeals.work
 0.0.0.0 bestdiwaliwishes.com
 0.0.0.0 bestdogtrainingtips.net
@@ -253,6 +255,7 @@
 0.0.0.0 bestwheelchair4u.com
 0.0.0.0 bestwirelesscharger.org
 0.0.0.0 bestworkoutvids.com
+0.0.0.0 beta.stylesforless.com
 0.0.0.0 betagiveaways.com
 0.0.0.0 bf5.es
 0.0.0.0 bigbooty.online
@@ -261,6 +264,7 @@
 0.0.0.0 bitgiveaways.com
 0.0.0.0 bizreview-online.com
 0.0.0.0 blackhatworld.com
+0.0.0.0 blankenburg-buero.de
 0.0.0.0 bonusclub-forme.life
 0.0.0.0 booking4free.com
 0.0.0.0 boostertelechargementfortnite.blogspot.com
@@ -299,6 +303,7 @@
 0.0.0.0 clevereconomy.com
 0.0.0.0 click.theantivirusguy.com
 0.0.0.0 click4kash.com
+0.0.0.0 click4riches.com
 0.0.0.0 clickbookface.com
 0.0.0.0 cloud.cpabuild.com
 0.0.0.0 cnewcomer.com
@@ -364,8 +369,10 @@
 0.0.0.0 downloadunogamefree.blogspot.com
 0.0.0.0 dr-med-feustel.de
 0.0.0.0 driverprinterdownloads.wordpress.com
+0.0.0.0 drivezone.cz
 0.0.0.0 dwnlds.com
 0.0.0.0 dwnloads.co
+0.0.0.0 dynamic-newsletter.stylesforless.com
 0.0.0.0 e.promotionsonlineusa.com
 0.0.0.0 eaweb-dev.ch
 0.0.0.0 eaweb-dev3.ch
@@ -379,6 +386,7 @@
 0.0.0.0 eloginmantra.com
 0.0.0.0 emaileasyaccess.com
 0.0.0.0 emotion-captured.de
+0.0.0.0 enews.stylesforless.com
 0.0.0.0 enlightdeals.com
 0.0.0.0 epsondrivers4.com
 0.0.0.0 evergreenleadmachine.com
@@ -420,6 +428,7 @@
 0.0.0.0 freescore360.com
 0.0.0.0 freeware-finden.de
 0.0.0.0 freewebsitetemplates.com
+0.0.0.0 ftp.stylesforless.com
 0.0.0.0 fudtroll.com
 0.0.0.0 funnels.vacationvip.com
 0.0.0.0 g.promotionsonlineusa.com
@@ -610,14 +619,17 @@
 0.0.0.0 money.net-web.news
 0.0.0.0 moneygenie.co
 0.0.0.0 musicallyfame.co
+0.0.0.0 musktop.info
 0.0.0.0 mygearsofwar4.com
 0.0.0.0 mypdftab.co
 0.0.0.0 n.promotionsonlineusa.com
 0.0.0.0 ncseculogin.wordpress.com
 0.0.0.0 net-web.news
+0.0.0.0 new.stylesforless.com
 0.0.0.0 news.junkie
 0.0.0.0 newsandpromotions.com
 0.0.0.0 newsbtc.com
+0.0.0.0 newsletter.drivezone.cz
 0.0.0.0 nioohaa.com
 0.0.0.0 nonamedvlp59.live
 0.0.0.0 nonameghjd95.live
@@ -667,6 +679,7 @@
 0.0.0.0 prize2894.nonamerbon4.live
 0.0.0.0 prize7772.nonamedvlp59.live
 0.0.0.0 prizedea2030.info
+0.0.0.0 prizepub.com
 0.0.0.0 projekt-smof.de
 0.0.0.0 promo.tac5237iop.com
 0.0.0.0 promotionsonlineusa.com
@@ -730,6 +743,7 @@
 0.0.0.0 stealdeals4u.com
 0.0.0.0 stellar.org.mu
 0.0.0.0 stellarholidaydeals.com
+0.0.0.0 stylesforless.com
 0.0.0.0 superhacktool.com
 0.0.0.0 supporttv.net
 0.0.0.0 surveyonline.top
@@ -750,6 +764,7 @@
 0.0.0.0 telefonsex1.bravesites.com
 0.0.0.0 tesgity.com
 0.0.0.0 test.ogads.com
+0.0.0.0 test.stylesforless.com
 0.0.0.0 teutschebein.de
 0.0.0.0 theantivirusguy.com
 0.0.0.0 thebestwhatsappstatus.com
@@ -986,6 +1001,7 @@
 0.0.0.0 www.antifastore.com
 0.0.0.0 www.antivirusbaba.com
 0.0.0.0 www.antiviruskey.org
+0.0.0.0 www.api.prizepub.com
 0.0.0.0 www.apkdynasty.com
 0.0.0.0 www.apkmabbu.com
 0.0.0.0 www.apkmall.org
@@ -1035,6 +1051,7 @@
 0.0.0.0 www.bestdailydeals.in
 0.0.0.0 www.bestdailydiscounts.com
 0.0.0.0 www.bestdartstobuy.com
+0.0.0.0 www.bestdayeversweeps.com
 0.0.0.0 www.bestdeals.work
 0.0.0.0 www.bestdiwaliwishes.com
 0.0.0.0 www.bestdogtrainingtips.net
@@ -1109,6 +1126,7 @@
 0.0.0.0 www.bitgiveaways.com
 0.0.0.0 www.bizreview-online.com
 0.0.0.0 www.blackhatworld.com
+0.0.0.0 www.blankenburg-buero.de
 0.0.0.0 www.bonusclub-forme.life
 0.0.0.0 www.booking4free.com
 0.0.0.0 www.boostertelechargementfortnite.blogspot.com
@@ -1144,6 +1162,7 @@
 0.0.0.0 www.clevereconomy.com
 0.0.0.0 www.click.theantivirusguy.com
 0.0.0.0 www.click4kash.com
+0.0.0.0 www.click4riches.com
 0.0.0.0 www.clickbookface.com
 0.0.0.0 www.cnewcomer.com
 0.0.0.0 www.cocmodservers.net
@@ -1199,6 +1218,7 @@
 0.0.0.0 www.downloadunogamefree.blogspot.com
 0.0.0.0 www.dr-med-feustel.de
 0.0.0.0 www.driverprinterdownloads.wordpress.com
+0.0.0.0 www.drivezone.cz
 0.0.0.0 www.dwnlds.com
 0.0.0.0 www.dwnloads.co
 0.0.0.0 www.eaweb-dev.ch
@@ -1413,6 +1433,7 @@
 0.0.0.0 www.money.net-web.news
 0.0.0.0 www.moneygenie.co
 0.0.0.0 www.musicallyfame.co
+0.0.0.0 www.musktop.info
 0.0.0.0 www.mygearsofwar4.com
 0.0.0.0 www.mypdftab.co
 0.0.0.0 www.ncseculogin.wordpress.com
@@ -1460,6 +1481,7 @@
 0.0.0.0 www.premiumgiftcards.net
 0.0.0.0 www.privacydevaiapplication.icu
 0.0.0.0 www.prizedea2030.info
+0.0.0.0 www.prizepub.com
 0.0.0.0 www.projekt-smof.de
 0.0.0.0 www.promotionsonlineusa.com
 0.0.0.0 www.qualified-case.com
@@ -1507,6 +1529,7 @@
 0.0.0.0 www.stealdeals4u.com
 0.0.0.0 www.stellar.org.mu
 0.0.0.0 www.stellarholidaydeals.com
+0.0.0.0 www.stylesforless.com
 0.0.0.0 www.superhacktool.com
 0.0.0.0 www.supporttv.net
 0.0.0.0 www.surveyonline.top
