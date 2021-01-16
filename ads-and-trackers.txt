@@ -4,6 +4,7 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
 0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
+0.0.0.0 Pagerankcafe.com
 0.0.0.0 adbutler.com
 0.0.0.0 admin-api.adbutler.com
 0.0.0.0 admin.adbutler.com
@@ -161,6 +162,7 @@
 0.0.0.0 webseite-erstellen-koeln.de
 0.0.0.0 wifiextenderhelp.com
 0.0.0.0 wiki.clickbooth.com
+0.0.0.0 www.Pagerankcafe.com
 0.0.0.0 www.adbutler.com
 0.0.0.0 www.aii.sh
 0.0.0.0 www.altonaerhochbau.de
