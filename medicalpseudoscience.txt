@@ -90,6 +90,7 @@
 0.0.0.0 analytics.distributednews.com
 0.0.0.0 ancientlifeoil.com
 0.0.0.0 andrewkaufmanmd.com
+0.0.0.0 anenu.org
 0.0.0.0 anhinternational.org
 0.0.0.0 anthonypatch.com
 0.0.0.0 anti-vaxxer.org
@@ -270,6 +271,7 @@
 0.0.0.0 cdn.summit.news
 0.0.0.0 cdn.wellnessmama.com
 0.0.0.0 cdn1.collective-evolution.com
+0.0.0.0 cdn1.neurohacker.com
 0.0.0.0 cdn2.collective-evolution.com
 0.0.0.0 cdn2.ewg.org
 0.0.0.0 cdn3.collective-evolution.com
@@ -758,6 +760,7 @@
 0.0.0.0 grethastenger.presscalifornia.com
 0.0.0.0 growbox.naturalnews.com
 0.0.0.0 guncontrol.fetch.news
+0.0.0.0 gutresolution.teachable.com
 0.0.0.0 hahnemannlabs.com
 0.0.0.0 halturnerradioshow.com
 0.0.0.0 harvest.solari.com
@@ -1143,6 +1146,7 @@
 0.0.0.0 nepute.chiroconnect.com
 0.0.0.0 network.tenthamendmentcenter.com
 0.0.0.0 neurobiologix.com
+0.0.0.0 neurohacker.com
 0.0.0.0 new.rumormillnews.com
 0.0.0.0 newhampshire.tenthamendmentcenter.com
 0.0.0.0 newjersey.tenthamendmentcenter.com
@@ -1354,6 +1358,7 @@
 0.0.0.0 protonicbalancer.com
 0.0.0.0 publichealthpolicyjournal.com
 0.0.0.0 push.infowars.com
+0.0.0.0 qualialife.neurohacker.com
 0.0.0.0 quantumcomputing.news
 0.0.0.0 questioningcovid.com
 0.0.0.0 quinoa.naturalnews.com
@@ -1378,6 +1383,7 @@
 0.0.0.0 rebelnews.com
 0.0.0.0 recallbradlittle.freedomman.org
 0.0.0.0 reclaimyourlives.com
+0.0.0.0 recruiter.neurohacker.com
 0.0.0.0 red5pro.churchmilitant.com
 0.0.0.0 redwoodcoastparks.presscalifornia.com
 0.0.0.0 regardingcaroline.com
@@ -1594,6 +1600,7 @@
 0.0.0.0 talk.infowars.com
 0.0.0.0 talknetwork.com
 0.0.0.0 tapnewswire.com
+0.0.0.0 tarahillphotography.pixieset.com
 0.0.0.0 tcanow.org
 0.0.0.0 tcdchallenge.com
 0.0.0.0 technocracy.news
@@ -1961,6 +1968,7 @@
 0.0.0.0 www.aminutetomidnite.com
 0.0.0.0 www.ancientlifeoil.com
 0.0.0.0 www.andrewkaufmanmd.com
+0.0.0.0 www.anenu.org
 0.0.0.0 www.anhinternational.org
 0.0.0.0 www.anthonypatch.com
 0.0.0.0 www.anti-vaxxer.org
@@ -2269,6 +2277,7 @@
 0.0.0.0 www.greenmedinfo.com
 0.0.0.0 www.greensmoothiegirl.com
 0.0.0.0 www.grethastenger.presscalifornia.com
+0.0.0.0 www.gutresolution.teachable.com
 0.0.0.0 www.hahnemannlabs.com
 0.0.0.0 www.halturnerradioshow.com
 0.0.0.0 www.harvoa-med.blogspot.com
@@ -2456,6 +2465,7 @@
 0.0.0.0 www.neonnettle.com
 0.0.0.0 www.nepute.chiroconnect.com
 0.0.0.0 www.neurobiologix.com
+0.0.0.0 www.neurohacker.com
 0.0.0.0 www.newjersey.tenthamendmentcenter.com
 0.0.0.0 www.newrightnetwork.com
 0.0.0.0 www.newsalertniagara.blogspot.com
@@ -2656,6 +2666,7 @@
 0.0.0.0 www.takebackyourpower.net
 0.0.0.0 www.talknetwork.com
 0.0.0.0 www.tapnewswire.com
+0.0.0.0 www.tarahillphotography.pixieset.com
 0.0.0.0 www.tcanow.org
 0.0.0.0 www.tcdchallenge.com
 0.0.0.0 www.technocracy.news
