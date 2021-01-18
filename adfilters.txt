@@ -224,6 +224,11 @@ linuxmint.com##.sponsors
 linuxmint.com##h3:nth-of-type(2)
 linuxmint.com##h3:nth-of-type(3)
 lmgtfy.com##div:nth-of-type(1) > iframe
+local.dmv.org##.ClickPartnerTitleLink
+local.dmv.org##.dfp
+local.dmv.org##.zdzoneBottom
+local.dmv.org##.zdzoneLeftRail
+local.dmv.org##.zdzoneTop
 login.clickbooth.com
 login.performcb.com
 m.aliexpress.com###smb-ui-banner-id > .smb-banner__main
@@ -377,6 +382,7 @@ sweeps3028.nonamejhop47.live
 taftmidwaydriller.com##.ad-container
 techgenix.com###text-23 > .widgettitle
 techgenix.com###text-37
+teknologya.com##.thirstylinkimg
 telecomservation.com
 test.ogads.com
 thedroidguy.com##.sticky-footer-element.grid-container.hide-on-desktop.hide-on-tablet
@@ -401,6 +407,7 @@ videocardz.com###vc-maincontainer-ad
 videocardz.com###vc-maincontainer-midad
 videocardz.com##.google-main-ad.adsbygoogle
 videocardz.com##.google-mid-ad.adsbygoogle
+videoconverter.wondershare.com###wsc-plugin-seasonal
 walletinvestor.com###bio_ep_bg
 walletinvestor.com###bio_ep_close
 walletinvestor.com##.bit-image
@@ -474,6 +481,8 @@ www.appstrk.com
 www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
 www.att.com##.advertisementpanel
 www.azcentral.com##.taboola-sidebar
+www.bbb.org##.image-ad
+www.bbb.org##.image-ad__media
 www.beliefnet.com###div-gpt-ad-125166773-0
 www.beliefnet.com##.ad-container
 www.beliefnet.com##.visible-xs-block.ad-container.ad.score-component.Mob_MidList_1
@@ -490,6 +499,7 @@ www.businessinsider.com###taboola-below-article
 www.c-sharpcorner.com###NewsArticleAdBox
 www.cars.com##.ads-finance-bottom.ads
 www.cbr.com##.ad-zone-container
+www.cclonline.com##.siteskin-inner
 www.chicagotribune.com##div.trb_ar_cont
 www.christianitytoday.com##div.clearfix.spacer-bottom-15
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
