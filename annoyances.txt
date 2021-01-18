@@ -12,6 +12,7 @@ babylonbee.com##.mb-2.article-content > .d-sm-block.d-none
 babylonbee.com##.mb-4.p-3.h-100.article-cta-box
 boonevilledemocrat.com###dialog-message
 butlercountytimesgazette.com###dialog-message
+buy.advantech.com###eStore_ccpa
 campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container
 campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container > .smb-dialog-mask
 campaign.aliexpress.com###smb-ui-banner-id > .smb-banner__main
@@ -31,6 +32,7 @@ en.softonic.com##.popup-newsletter
 en.wikipedia.org###siteNotice
 everymac.com##.prompt-bg
 everymac.com##.prompt-content-container
+forum.proxmox.com##.uix_noticeInner
 gadsdentimes.com###dialog-message
 gamestop-promo-blog.blogspot.com
 gizmodo.com###\31 86641
@@ -57,8 +59,10 @@ ridgecrestca.com###dialog-message
 seacoastonline.com###dialog-message
 siskiyoudaily.com###dialog-message
 sourceforge.net###newsletter-floating
+support.microsoft.com##.x-hidden-focus.win10m365_uhf.uhfupgradeBanner
 swtimes.com###dialog-message
 taftmidwaydriller.com###dialog-message
+teknologya.com###cookie-law-info-bar
 thehill.com###lightbox-63d68459-6221-4d67-9e2a-bcf7b46e5648-1579319402544
 tuscaloosanews.com###dialog-message
 weather.com##.BWCJrC2JGHQqtfFwURJ0V
@@ -69,11 +73,14 @@ winaero.com##.ramain-top
 www-1.kansas.com###ConnatixVideoAd
 www-1.kansas.com##.impact.banner-promo-link
 www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
+www.amazon.com###universal-detail-ilm
 www.apple.com##.typography-caption.ribbon-content-wrapper
 www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 www.britannica.com##.pl-70.p-15
+www.cnet.com##.entered.dock.inviewElement
 www.cnx-software.com###custom_html-2
 www.dell.com##.alert-warning.alert
+www.digitalocean.com##._panel_1nv7e_1
 www.drugs.com###ddc-toast
 www.drugs.com##.ddc-social-share
 www.dummies.com##.dummies-newsletter
