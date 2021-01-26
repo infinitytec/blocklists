@@ -6,6 +6,7 @@
 
 adwareremoval.info##.closed
 adwareremoval.info##.coupon-box-wrap
+amdfanstore.com##.css-10z1g2q
 archive.org##.js-donate-banner.row
 askubuntu.com###js-gdpr-consent-banner
 babylonbee.com##.mb-2.article-content > .d-sm-block.d-none
@@ -22,6 +23,7 @@ classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary
 classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10) > .cta_inner
 coinmarketcap.com##.bLdgZv.jltjox-0
 columbiadailyherald.com###dialog-message
+community.spiceworks.com##.zd-privacy-content
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
@@ -58,8 +60,11 @@ recordnet.com###dialog-message
 ridgecrestca.com###dialog-message
 seacoastonline.com###dialog-message
 siskiyoudaily.com###dialog-message
+smile.amazon.com###universal-detail-ilm
 sourceforge.net###newsletter-floating
 support.microsoft.com##.x-hidden-focus.win10m365_uhf.uhfupgradeBanner
+support.zyxel.eu###cookie_popup
+support.zyxel.eu##.ls-alert-box
 swtimes.com###dialog-message
 taftmidwaydriller.com###dialog-message
 teknologya.com###cookie-law-info-bar
@@ -76,6 +81,7 @@ www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
 www.amazon.com###universal-detail-ilm
 www.apple.com##.typography-caption.ribbon-content-wrapper
 www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
+www.bestbuy.com##.c-modal-grid
 www.britannica.com##.pl-70.p-15
 www.cnet.com##.entered.dock.inviewElement
 www.cnx-software.com###custom_html-2
@@ -99,6 +105,8 @@ www.kansas.com###onetrust-banner-sdk
 www.kbb.com##.css-nsnnj-StyledToolbar-default
 www.kbb.com##.has-shadow.animated.show.offset-top-0.bottom.padding-horizontal-2.justify-content-center.display-flex.sticky-container
 www.khou.com##.notifications
+www.latimes.com##.ensNotifyBanner
+www.latimes.com##.met-flyout
 www.lifenews.com###blockModalPopupDiv
 www.lifenews.com###innerModalPopupDiv
 www.mcclatchydc.com###subscription-cta-container
@@ -117,6 +125,7 @@ www.politico.com##.has-borders.bump-in.story-enhancement
 www.politico.com##.type--center-well.first-party-data-form
 www.publish0x.com###registerModal
 www.qs1.com###popmake-2751
+www.raspberrypi.org##.cookieinfo
 www.rawstory.com###kindest-frame
 www.rawstory.com###lightbox-615e24a7-d389-47c5-ac69-fc12d2586760-1581041934165
 www.rawstory.com###lightbox-iframe-615e24a7-d389-47c5-ac69-fc12d2586760
@@ -128,6 +137,8 @@ www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 www.reuters.com##div.RightRail_sticky.Sticky_track:nth-of-type(2)
 www.rightwingwatch.org###visible-banner > .dropdown-banner
 www.sammobile.com##.alert
+www.softwareok.com###banner_217_B > tbody > tr > td
+www.softwareok.com###cookiebar
 www.spguides.com##.widget_custom_html.inner-padding.widget.widget_text
 www.startech.com###tracking-consent-header-container
 www.systoolsgroup.com##.text-center.well-yellow.well
@@ -154,6 +165,7 @@ www.webmd.com###ContentPane40
 www.wfmynews2.com##.notifications
 www.wired.com###failsafe-clickthrough
 www.youtube.com##.style-scope ytd-popup-container
+www.youtube.com##ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
 yourbusiness.azcentral.com###jwplayer-section
 ||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
