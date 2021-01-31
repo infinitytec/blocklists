@@ -453,6 +453,8 @@ thehill.com###dfp-ad-mos_2
 thehill.com###dfp-ad-mos_3
 thehill.com###dfp-ad-mos_4
 therapie-lutzebaeck-berlin.de
+thesolving.com###sponsor-box-1
+thesolving.com###sponsor-box-2
 theweek.com###article_first_intext_ad-mobile-5
 theweek.com###article_second_intext_ad-mobile-6
 theweek.com##.show-for-small-only.article-body-bottom-mob-ad
@@ -826,6 +828,7 @@ www.howtogeek.com##.overlay-inner
 www.howtogeek.com##div[id^="purch_"]
 www.hpprintersupportservice.com
 www.hungred.com###content > .banner
+www.hwinfo.com##.xds
 www.i-dont-care-about-cookies.eu###partners
 www.i-dont-care-about-cookies.eu##.px-0.text-center.col-lg-12 > div
 www.independent.co.uk##.above-article-prompt-donations
@@ -992,6 +995,8 @@ www.politico.com##.election-ad
 www.politico.com##.slim.election-ad
 www.popplunder.com
 www.popularmechanics.com##.transporter-ad.leaderboard-ad
+www.prajwaldesai.com###stream-item-widget-2
+www.prajwaldesai.com###stream-item-widget-3
 www.printersupports.online
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.track-event
@@ -1038,8 +1043,14 @@ www.steamboatpilot.com##.module-ad
 www.surveysonthego.net
 www.tax-rates.org###promoLink
 www.team-kolassa.de
+www.techpowerup.com##.cduv
+www.techpowerup.com##.eiyanjcf
+www.techpowerup.com##.ejpbl
 www.techpowerup.com##.mnmuzjsddc
 www.techpowerup.com##.nkuztfvdswe
+www.techpowerup.com##.nspy
+www.techpowerup.com##.ravqfx
+www.techpowerup.com##.zkybes
 www.techwalla.com##.component-header-sticky-ad
 www.techyuga.com##.dialog-lightbox-message.dialog-message
 www.techyuga.com##.elementor-top-column.elementor-col-50.elementor-column
@@ -1257,6 +1268,7 @@ zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 ||www.paperrater.com/images/ginger_btn_sprite.png$image
 ||www.phonescoop.com/img/l/a_mc_bg.gif$image
 ||www.publish0x.com/images/brave/Brave_Banner_*x90$image
+||www.techpowerup.com/thlknzrjbv/f968aa85.jpg$image
 ||www.thv11.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
 ||www.wfmynews2.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
