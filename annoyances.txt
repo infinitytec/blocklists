@@ -57,8 +57,10 @@ mashable.com##.inline-video-seealso
 mtshastanews.com###dialog-message
 newstribune.info###dialog-message
 pbcommercial.com###dialog-message
+pdf.wondershare.com###wsc-plugin-seasonal
 pressargus.com###dialog-message
 providencejournal.com###dialog-message
+pve.proxmox.com##.mw-cookiewarning-container
 recordnet.com###dialog-message
 ridgecrestca.com###dialog-message
 seacoastonline.com###dialog-message
@@ -81,13 +83,16 @@ winaero.com##.ramain-top
 www-1.kansas.com###ConnatixVideoAd
 www-1.kansas.com##.impact.banner-promo-link
 www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
+www.51sec.org###custom_html-4
 www.amazon.com###universal-detail-ilm
 www.apple.com##.typography-caption.ribbon-content-wrapper
 www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 www.bestbuy.com##.c-modal-grid
 www.britannica.com##.pl-70.p-15
+www.business.com##.css-md5sep-TransparentContainer
 www.cnet.com##.entered.dock.inviewElement
 www.cnx-software.com###custom_html-2
+www.crn.com##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 www.dell.com##.alert-warning.alert
 www.digitalocean.com##._panel_1nv7e_1
 www.drugs.com###ddc-toast
@@ -99,6 +104,7 @@ www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
 www.hackster.io###hello-world
 www.hackster.io##.project_count_banner__container__1m4vf
 www.healthysimulation.com###cliSettingsPopup
+www.hwinfo.com##.cookie-agree-with-use
 www.insidehook.com##.sticky.signup
 www.insidehook.com##.tp-modal
 www.investing.com###PromoteSignUpPopUp
@@ -114,6 +120,7 @@ www.lifenews.com###blockModalPopupDiv
 www.lifenews.com###innerModalPopupDiv
 www.mcclatchydc.com###subscription-cta-container
 www.morningsun.net###dialog-message
+www.msi.com###ccc-notify
 www.msn.com###vjs_video_2_html5_api
 www.msn.com##.animate.shrunk.loaded.player-wrapper.videojs
 www.msn.com##.autosNonResearch.floatleft.start-stripe.autos_rlc1
@@ -121,6 +128,7 @@ www.msn.com##.player-placeholder
 www.msn.com##.rcc.rc.recommendedSearch
 www.niallbrady.com###cookies
 www.npr.org##.callout--health.callout--newsletter.callout
+www.nvidia.com##.shadowBox-light.noSelection
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
 www.paypal.com##.cw_tile__floatingPromo-contentContainer
