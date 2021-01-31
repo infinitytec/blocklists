@@ -401,6 +401,7 @@
 0.0.0.0 fast2job.com
 0.0.0.0 fastb1og24.info
 0.0.0.0 fastbl0g24.info
+0.0.0.0 faucet.get-brave.com
 0.0.0.0 fbnews.website
 0.0.0.0 fbvideo-downloader.com
 0.0.0.0 fcn-memmelsdorf.de
@@ -456,6 +457,7 @@
 0.0.0.0 geekyrohit.in
 0.0.0.0 geekzack.com
 0.0.0.0 geldvz.com
+0.0.0.0 get-brave.com
 0.0.0.0 get.popplunder.com
 0.0.0.0 getaways.vacationvip.com
 0.0.0.0 getawesomepokemon.com
@@ -574,6 +576,8 @@
 0.0.0.0 m04388.com
 0.0.0.0 mac.criticaldownload.site
 0.0.0.0 mail.com-com-mobi.com
+0.0.0.0 mail.faucet.get-brave.com
+0.0.0.0 mail.get-brave.com
 0.0.0.0 mail.ragingbullslotscampaign.com
 0.0.0.0 mail.v-bucks.fr
 0.0.0.0 mail.vacationvip.com
@@ -615,11 +619,14 @@
 0.0.0.0 mobilesignalboosters.com.au
 0.0.0.0 mobilevpn.download
 0.0.0.0 mobilityanddailylivingaids.com
+0.0.0.0 modarapid.net
 0.0.0.0 mon-thu101.life
 0.0.0.0 money.net-web.news
 0.0.0.0 moneygenie.co
 0.0.0.0 musicallyfame.co
 0.0.0.0 musktop.info
+0.0.0.0 mx.faucet.get-brave.com
+0.0.0.0 mx.get-brave.com
 0.0.0.0 mygearsofwar4.com
 0.0.0.0 mypdftab.co
 0.0.0.0 n.promotionsonlineusa.com
@@ -1246,6 +1253,7 @@
 0.0.0.0 www.fast2job.com
 0.0.0.0 www.fastb1og24.info
 0.0.0.0 www.fastbl0g24.info
+0.0.0.0 www.faucet.get-brave.com
 0.0.0.0 www.fbnews.website
 0.0.0.0 www.fbvideo-downloader.com
 0.0.0.0 www.fcn-memmelsdorf.de
@@ -1297,6 +1305,7 @@
 0.0.0.0 www.geekyrohit.in
 0.0.0.0 www.geekzack.com
 0.0.0.0 www.geldvz.com
+0.0.0.0 www.get-brave.com
 0.0.0.0 www.getawesomepokemon.com
 0.0.0.0 www.getbattlefield1.com
 0.0.0.0 www.getmeacoupon.net
@@ -1429,6 +1438,7 @@
 0.0.0.0 www.mobilesignalboosters.com.au
 0.0.0.0 www.mobilevpn.download
 0.0.0.0 www.mobilityanddailylivingaids.com
+0.0.0.0 www.modarapid.net
 0.0.0.0 www.mon-thu101.life
 0.0.0.0 www.money.net-web.news
 0.0.0.0 www.moneygenie.co
