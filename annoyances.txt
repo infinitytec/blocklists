@@ -22,6 +22,9 @@ cgtips.org##.xlwXYROtlQoi-default
 classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10)
 classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10) > .cta_inner
 coinmarketcap.com##.bLdgZv.jltjox-0
+coinmarketcap.com##.cmc-cookie-policy-banner
+coinmarketcap.com##.jJisww
+coinmarketcap.com##.jltjox-0
 columbiadailyherald.com###dialog-message
 community.spiceworks.com##.zd-privacy-content
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
