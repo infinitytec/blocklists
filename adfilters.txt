@@ -15,6 +15,7 @@ abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWr
 abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailBottom__1D0Z.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
+adamtheautomator.com##.w-full.items-center.bg-gray-200.p-3.flex-col.flex.sidebar
 adbutler.com
 admin-api.adbutler.com
 admin.adbutler.com
@@ -72,6 +73,7 @@ bongino.com##div:nth-of-type(3) > .ai-attributes > .code-block-label
 boonevilledemocrat.com##.ad-container
 business.realtracker.com
 butlercountytimesgazette.com##.ad-container
+calibre.en.uptodown.com##div.ad
 calytics.ml
 campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container
 campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container > .smb-dialog-mask
@@ -115,6 +117,8 @@ comicbook.com###mobile-native-plus-top1
 comicbook.com###mobile-native-plus-top2
 comicbook.com###mobile-native-plus-top3
 comicbook.com###mobile-native-plus-top4
+community.spiceworks.com##.gekko_leaderboard
+community.spiceworks.com##.slot-1-wrapper
 compliance.clickbooth.com
 config2.mparticle.com
 connect.clickbooth.com
@@ -204,6 +208,7 @@ gizmodo.com##.hZzjjd.sc-1bxrryq-0
 gizmodo.com##.kzUztX.sc-1to1lfh-1
 gizmodo.com##div.movable-ad
 goldbek-apotheke.de
+goqr.me###zazzle-widget
 gpu.userbenchmark.com##.be-caption
 grafikstudio-vonfroreich.de
 graphicscardhub.com##.ai_widget.widget
@@ -224,6 +229,7 @@ jezebel.com##.js_movable_ad_slot
 journaldemocrat.com##.ad-container
 jsfiddle.net###keep-us-running
 jut7866.info
+kamilslab.com###text-9
 katu.com###js-Sponsored-Container
 katu.com##div[id^="interstory_first_ddb"]
 katu.com##div[id^="interstory_second_ddb"]
@@ -302,6 +308,7 @@ mediabiasfactcheck.com##.iiLbodDHtMbG-default
 mediabiasfactcheck.com##.textwidget
 members.ogads.com
 menschenhandel-bremen.de
+microsoft-edge.en.uptodown.com##.ad
 millionaire-crypto.com
 minecraft-mp.com###adbox_leaderboard
 minecraft-mp.com###bottom-adsense > div
@@ -318,6 +325,7 @@ mods-n-hacks.gadgethacks.com##section:nth-of-type(3) > aside.whtaph-300.whtaph-r
 mods-n-hacks.gadgethacks.com##section:nth-of-type(4) > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
 mods-n-hacks.gadgethacks.com##section:nth-of-type(9) > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
 mongo-db.clickbooth.com
+msendpointmgr.com##.gridlove-sidebar
 mtshastanews.com##.ad-container
 my.clickbooth.com
 my.gstzen.in##.cz-rennab
@@ -343,6 +351,8 @@ nszwangsarbeit.de
 ogads.com
 ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(3)
 ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(4)
+onemileatatime.com##.widget_omaat_advertising
+onemileatatime.com##[id *= omaat-advertising-]
 online-dating-portale.de
 orders.adbutler.com
 performcb.com
@@ -389,6 +399,8 @@ qawithexperts.com##.ezoic-ad1
 qawithexperts.com##.ezoic-adpicker-ad
 qawithexperts.com##.toast-info.toast
 qawithexperts.com##div.m-t-20:nth-of-type(4)
+raspberrypiprojects.com##.pia_yearly
+raspberrypiprojects.com##.price-table__item--yearly.price-table__item
 realtracker.com
 recyclenation.com##.eri-services-h02.eri-services > [href^="https://eridirect.com/"]
 recyclenation.com##.eri-services-v01.eri-services > [href^="https://eridirect.com/"]
@@ -467,6 +479,7 @@ trendingpolitics.com##.inner > center
 trendingpolitics.com##div.content-below-ad
 trierwirdwild.de
 tuscaloosanews.com##.ad-container
+uptodown.com##div.ad
 videocardz.com###vc-maincontainer-ad
 videocardz.com###vc-maincontainer-midad
 videocardz.com##.google-main-ad.adsbygoogle
@@ -532,6 +545,7 @@ www.acronymfinder.com###xs3
 www.acronymfinder.com###xs4
 www.acuitymag.com##.ca-advertisement
 www.adbutler.com
+www.addictivetips.com##.top3
 www.aii.sh
 www.allacronyms.com##.ad_list_container
 www.allacronyms.com##.ad_top.ad_list_container.adsbygoogle
@@ -813,6 +827,7 @@ www.healthysimulation.com##.huoph5f60ffd7261cf
 www.healthysimulation.com##.ihrbb5f60ff5db7949
 www.healthysimulation.com##.nomkz5f6105b22a9e9
 www.healthysimulation.com##.qwhby5f60ff5db7a3b
+www.healthysimulation.com##.text-center
 www.healthysimulation.com##.trmea5f6105b22aae5
 www.healthysimulation.com##.wedvf5f61087223d43
 www.healthysimulation.com##.weglr5f6105b22a8b4
@@ -851,6 +866,7 @@ www.instructables.com###gpt-ad-m-inline
 www.instructables.com###gpt-ad-m-rect
 www.instructables.com###gpt-bottom1_m
 www.instructables.com###gpt-step1-m
+www.interfacett.com###sidebar > .desktop.blogs-ad-banner
 www.jewishpress.com##.td-a-rec
 www.jut7866.info
 www.kake.com###WNAd101
@@ -996,7 +1012,9 @@ www.politico.com##.slim.election-ad
 www.popplunder.com
 www.popularmechanics.com##.transporter-ad.leaderboard-ad
 www.prajwaldesai.com###stream-item-widget-2
+www.prajwaldesai.com###stream-item-widget-2 > .the-global-title.widget-title
 www.prajwaldesai.com###stream-item-widget-3
+www.prajwaldesai.com###stream-item-widget-3 > .the-global-title.widget-title
 www.printersupports.online
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.track-event
@@ -1155,6 +1173,7 @@ www.upi.com##.inread_mobi.ad_slot.story-offset
 www.upi.com##.padded.widget-advertisement
 www.upi.com##.reading > .ad_slot
 www.upi.com##div.widget-advertisement:nth-of-type(2)
+www.urtech.ca##.site-col-2.sidebar-right.widget-area
 www.vlchelp.com##.widget_custom_html.widget.widget_text
 www.walmart.com##.Grid--gutters.grid
 www.walmart.com##.buy-box-container
@@ -1187,6 +1206,11 @@ www.wildernessarena.com###wilde-797736475 > .wilde-adlabel
 www.wildernessarena.com##.cfmonitor > div > .adsbygoogle
 www.wildernessarena.com##.pf-content > p:nth-of-type(1)
 www.wildernessarena.com##.wilde-adlabel
+www.windows-active-directory.com###custom_html-4
+www.windows-active-directory.com##.fooBanner
+www.windows-active-directory.com##[href^="https://www.manageengine.com/active-directory-360/zero-trust-architecture.html"]
+www.windows-active-directory.com##[href^="https://www.manageengine.com/log-management/insider-threat-attacks-dummies-pdf.html"]
+www.windows-active-directory.com##[href^="https://www.manageengine.com/sharepoint-management-reporting/ebooks/overcome-native-limitations-in-sharepoint-auditing.html"]
 www.windows-noob.com###ipsLayout_mainArea > div:nth-of-type(1)
 www.windows-noob.com###ipsLayout_mainArea > div:nth-of-type(1) > center
 www.windows-noob.com##div.ipsClearfix:nth-of-type(3) > div > center
@@ -1200,6 +1224,7 @@ www.worldatlas.com###adStickyAside
 www.worldatlas.com##.asideStickyAd
 www.worldatlas.com##.mod_ad_container
 www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
+www.wsoctv.com##.card-article.card-content > .align-items-center.flex-container-column
 www.wthr.com###taboola-mobile-below-article-0
 www.wthr.com##.ad
 www.zapsplat.com##.adContainer
