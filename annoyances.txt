@@ -11,6 +11,10 @@ archive.org##.js-donate-banner.row
 askubuntu.com###js-gdpr-consent-banner
 babylonbee.com##.mb-2.article-content > .d-sm-block.d-none
 babylonbee.com##.mb-4.p-3.h-100.article-cta-box
+beaconscan.com##.mb-4.pl-xll-5.pl-lg-4.text-center.d-lg-none.d-block
+beaconscan.com##.mt-4.text-center
+beaconscan.com##.text-dark.position-relative.d-sm-none.d-inline-block > .rounded.img-fluid
+blog.techinline.com##.how-it-works
 boonevilledemocrat.com###dialog-message
 butlercountytimesgazette.com###dialog-message
 buy.advantech.com###eStore_ccpa
@@ -26,12 +30,15 @@ coinmarketcap.com##.cmc-cookie-policy-banner
 coinmarketcap.com##.jJisww
 coinmarketcap.com##.jltjox-0
 columbiadailyherald.com###dialog-message
+community.spiceworks.com##.dynamic-layout-sidebar
+community.spiceworks.com##.join-promotion.sui-alert--info.sui-alert
 community.spiceworks.com##.zd-privacy-content
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
 decider.com##.nyp-sitewide-notice
 devilslakejournal.com###dialog-message
+direct.chownow.com##.styles_appBannerWrapper__3Cw4l
 ecofriend.com##df-messenger
 en.softonic.com##.popup-newsletter
 en.wikipedia.org###siteNotice
@@ -55,7 +62,10 @@ m.imdb.com##.reg-wall__modal
 m.imdb.com##.reg-wall__screen
 mashable.com##.inline-video-seealso
 mtshastanews.com###dialog-message
+multimonitorcomputer.com##.top-cta-row
 newstribune.info###dialog-message
+office-watch.com##.code-block-3.code-block > div
+ow.michaeloglesby.com##div > [href^="https://office-watch.com/product/windows-10-for-microsoft-office-users/"]
 pbcommercial.com###dialog-message
 pdf.wondershare.com###wsc-plugin-seasonal
 pressargus.com###dialog-message
@@ -84,6 +94,7 @@ www-1.kansas.com###ConnatixVideoAd
 www-1.kansas.com##.impact.banner-promo-link
 www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
 www.51sec.org###custom_html-4
+www.addictivetips.com##.newsletter
 www.amazon.com###universal-detail-ilm
 www.apple.com##.typography-caption.ribbon-content-wrapper
 www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
@@ -95,10 +106,12 @@ www.cnx-software.com###custom_html-2
 www.crn.com##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 www.dell.com##.alert-warning.alert
 www.digitalocean.com##._panel_1nv7e_1
+www.doityourself.com##.video-player
 www.drugs.com###ddc-toast
 www.drugs.com##.ddc-social-share
 www.dummies.com##.dummies-newsletter
 www.experts-exchange.com##.exitOverlay.featherlight
+www.foodnetwork.com##.o-FullAttribution.o-Capsule
 www.foxnews.com##.notification-banner
 www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
 www.hackster.io###hello-world
@@ -107,8 +120,10 @@ www.healthysimulation.com###cliSettingsPopup
 www.hwinfo.com##.cookie-agree-with-use
 www.insidehook.com##.sticky.signup
 www.insidehook.com##.tp-modal
+www.interfacett.com##.mtsnb-fixed.mtsnb-top.mtsnb-shown.mtsnb-button.mtsnb-sp-right.mtsnb
 www.investing.com###PromoteSignUpPopUp
 www.investing.com##.right
+www.kake.com##.csMon
 www.kansas.com###main-content > section:nth-of-type(1)
 www.kansas.com###onetrust-banner-sdk
 www.kbb.com##.css-nsnnj-StyledToolbar-default
@@ -118,6 +133,7 @@ www.latimes.com##.ensNotifyBanner
 www.latimes.com##.met-flyout
 www.lifenews.com###blockModalPopupDiv
 www.lifenews.com###innerModalPopupDiv
+www.love-media-player.com##.head-top
 www.mcclatchydc.com###subscription-cta-container
 www.morningsun.net###dialog-message
 www.msi.com###ccc-notify
@@ -132,11 +148,14 @@ www.nvidia.com##.shadowBox-light.noSelection
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
 www.paypal.com##.cw_tile__floatingPromo-contentContainer
+www.pocket-lint.com##.blocks
 www.politico.com##.has-borders.bump-in.story-enhancement
 www.politico.com##.type--center-well.first-party-data-form
 www.publish0x.com###registerModal
 www.qs1.com###popmake-2751
 www.raspberrypi.org##.cookieinfo
+www.raspberrypistarterkits.com##.fancybox-inner
+www.raspberrypistarterkits.com##.snp-pop-5691-overlay.fancybox-overlay-fixed.fancybox-overlay
 www.rawstory.com###kindest-frame
 www.rawstory.com###lightbox-615e24a7-d389-47c5-ac69-fc12d2586760-1581041934165
 www.rawstory.com###lightbox-iframe-615e24a7-d389-47c5-ac69-fc12d2586760
@@ -155,6 +174,8 @@ www.startech.com###tracking-consent-header-container
 www.systoolsgroup.com##.text-center.well-yellow.well
 www.techopedia.com##.aae7b662c59641bfa43e91a5d7a53ef8.subscribers-modal-overlay
 www.techopedia.com##.subscribers-modal-top-center.aae7b662c59641bfa43e91a5d7a53ef8.subscribers-modal
+www.techradar.com##.future__jwplayer--carousel
+www.techuntold.com##._yeti_main_container
 www.techwalla.com###jwplayer-section
 www.techwalla.com##.component-article-jwplayer
 www.thedailybeast.com###view-offer
@@ -175,6 +196,8 @@ www.washingtontimes.com###teaser-cdf955ca-7a66-40fa-b125-cb9750d610f6
 www.webmd.com###ContentPane40
 www.wfmynews2.com##.notifications
 www.wired.com###failsafe-clickthrough
+www.wired.com##.in-content
+www.wired.com##.journey-template--mpu.cm-rail-wrapper
 www.youtube.com##.style-scope ytd-popup-container
 www.youtube.com##ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
 yourbusiness.azcentral.com###jwplayer-section
