@@ -300,6 +300,7 @@
 0.0.0.0 campusmediaaward.de
 0.0.0.0 canmake.de
 0.0.0.0 canonprinterhelplinenumber.com
+0.0.0.0 captchas.freebitco.in
 0.0.0.0 carsloanhelp.com
 0.0.0.0 cash4clickz.com
 0.0.0.0 cctrx2.com
@@ -458,6 +459,7 @@
 0.0.0.0 fpkdz.com
 0.0.0.0 free.content-center.club
 0.0.0.0 freebetbaru88.space
+0.0.0.0 freebitco.in
 0.0.0.0 freedownloadmusicmp3songs.com
 0.0.0.0 freeidea.in
 0.0.0.0 freekaamal.net
@@ -561,6 +563,7 @@
 0.0.0.0 hackitmania.com
 0.0.0.0 hacklyf.com
 0.0.0.0 hdgiveaways.com
+0.0.0.0 healthharmonic.com
 0.0.0.0 healthmatreview.com
 0.0.0.0 healthyusepro.com
 0.0.0.0 helpubuy4less.com
@@ -630,6 +633,11 @@
 0.0.0.0 mail.synergyscience.com
 0.0.0.0 mail.v-bucks.fr
 0.0.0.0 mail.vacationvip.com
+0.0.0.0 mail1.freebitco.in
+0.0.0.0 mail2.freebitco.in
+0.0.0.0 mail3.freebitco.in
+0.0.0.0 mail4.freebitco.in
+0.0.0.0 mail5.freebitco.in
 0.0.0.0 makemoneyfromcpa.com
 0.0.0.0 makemoneywithcpa.com
 0.0.0.0 managemydocuhghes.secpssotel.us
@@ -652,6 +660,7 @@
 0.0.0.0 millionaire-crypto.com
 0.0.0.0 millionmoney.dtrabajos.com
 0.0.0.0 minecraft-apks.com
+0.0.0.0 mining.freebitco.in
 0.0.0.0 mirrors.cpabuild.com
 0.0.0.0 mobapp-center.info
 0.0.0.0 mobapp-center1.info
@@ -704,6 +713,13 @@
 0.0.0.0 ns2.com-com-mobi.com
 0.0.0.0 nszwangsarbeit.de
 0.0.0.0 o.promotionsonlineusa.com
+0.0.0.0 o1.sg.account.freebitco.in
+0.0.0.0 o2.sg.updates.freebitco.in
+0.0.0.0 o3.sg.updates.freebitco.in
+0.0.0.0 o4.sg.updates.freebitco.in
+0.0.0.0 o5.sg.updates.freebitco.in
+0.0.0.0 o6.sg.updates.freebitco.in
+0.0.0.0 o7.sg.updates.freebitco.in
 0.0.0.0 occules-storsary.com
 0.0.0.0 oculustrack.com
 0.0.0.0 officeoffiicecom.com
@@ -787,6 +803,7 @@
 0.0.0.0 shop.earthcalm.com
 0.0.0.0 shop.emfshieldprotect.com
 0.0.0.0 shoppingstylepros.com
+0.0.0.0 sirv.freebitco.in
 0.0.0.0 smartestbrand.com
 0.0.0.0 smartestoptions.com
 0.0.0.0 smarthouse.com
@@ -805,6 +822,14 @@
 0.0.0.0 staging.members.ogads.com
 0.0.0.0 staging.shieldyourbody.com
 0.0.0.0 staging.synergyscience.com
+0.0.0.0 static1.freebitco.in
+0.0.0.0 static2.freebitco.in
+0.0.0.0 static3.freebitco.in
+0.0.0.0 static4.freebitco.in
+0.0.0.0 static5.freebitco.in
+0.0.0.0 static6.freebitco.in
+0.0.0.0 static7.freebitco.in
+0.0.0.0 static8.freebitco.in
 0.0.0.0 stealdeals4u.com
 0.0.0.0 stellar.org.mu
 0.0.0.0 stellarholidaydeals.com
@@ -1363,6 +1388,7 @@
 0.0.0.0 www.fpkdz.com
 0.0.0.0 www.free.content-center.club
 0.0.0.0 www.freebetbaru88.space
+0.0.0.0 www.freebitco.in
 0.0.0.0 www.freedownloadmusicmp3songs.com
 0.0.0.0 www.freeidea.in
 0.0.0.0 www.freekaamal.net
@@ -1457,6 +1483,7 @@
 0.0.0.0 www.hackitmania.com
 0.0.0.0 www.hacklyf.com
 0.0.0.0 www.hdgiveaways.com
+0.0.0.0 www.healthharmonic.com
 0.0.0.0 www.healthmatreview.com
 0.0.0.0 www.healthyusepro.com
 0.0.0.0 www.helpubuy4less.com
