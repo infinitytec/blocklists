@@ -1820,3 +1820,5 @@
 0.0.0.0 z.promotionsonlineusa.com
 0.0.0.0 zantac.consultationclaims.com
 0.0.0.0 zeustrk.com
+0.0.0.0 nfs.in.net
+0.0.0.0 www.nfs.in.net
