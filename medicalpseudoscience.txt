@@ -173,6 +173,7 @@
 0.0.0.0 autodiscover.grassrootsliberty.com
 0.0.0.0 autodiscover.healthchoicect.org
 0.0.0.0 autodiscover.healthchoicevt.com
+0.0.0.0 autodiscover.knowingthetruth.com
 0.0.0.0 autodiscover.kristinkirk.com
 0.0.0.0 autodiscover.lymebook.com
 0.0.0.0 autodiscover.mpvr.org
@@ -186,11 +187,13 @@
 0.0.0.0 autodiscover.principia-scientific.com
 0.0.0.0 autodiscover.rifevideos.com
 0.0.0.0 autodiscover.the17news.com
+0.0.0.0 autodiscover.thefreedomarticles.com
 0.0.0.0 autodiscover.themadtruther.com
 0.0.0.0 autodiscover.thenhf.com
 0.0.0.0 autodiscover.traceamounts.com
 0.0.0.0 autodiscover.truthstreammedia.com
 0.0.0.0 autodiscover.vaccineeducation.org
+0.0.0.0 autodiscover.vaccinetruth.org
 0.0.0.0 autodiscover.vaxtruth.org
 0.0.0.0 autodiscover.webinar.drrachael.com
 0.0.0.0 avn.org.au
@@ -225,6 +228,7 @@
 0.0.0.0 betweenrockandhardplace.files.wordpress.com
 0.0.0.0 betweenrockandhardplace.wordpress.com
 0.0.0.0 bgdsearches.com
+0.0.0.0 biblescienceforum.com
 0.0.0.0 bibliotecapleyades.net
 0.0.0.0 biden.fetch.news
 0.0.0.0 bigberkey.naturalnews.com
@@ -340,6 +344,7 @@
 0.0.0.0 ce-public.naturalnews.com
 0.0.0.0 cellphonetaskforce.org
 0.0.0.0 cellsafe.com.au
+0.0.0.0 cencom.thedogpress.com
 0.0.0.0 centipedenation.com
 0.0.0.0 cesiumeliminator.com
 0.0.0.0 cetv.one
@@ -471,6 +476,7 @@
 0.0.0.0 cpanel.holisticnewyork.com
 0.0.0.0 cpanel.hybridrastamama.com
 0.0.0.0 cpanel.illinoisvaccineawareness.org
+0.0.0.0 cpanel.knowingthetruth.com
 0.0.0.0 cpanel.lymebook.com
 0.0.0.0 cpanel.lynnemctaggart.com
 0.0.0.0 cpanel.mikesweb7.com
@@ -494,6 +500,7 @@
 0.0.0.0 cpanel.utopiasilver.com
 0.0.0.0 cpanel.vaccinedecision.info
 0.0.0.0 cpanel.vaccineeducation.org
+0.0.0.0 cpanel.vaccinetruth.org
 0.0.0.0 cpanel.vaxtruth.org
 0.0.0.0 cpanel.wddty.com
 0.0.0.0 cpanel.wearechange.org
@@ -525,6 +532,7 @@
 0.0.0.0 cpcalendars.healthchoicevt.com
 0.0.0.0 cpcalendars.hybridrastamama.com
 0.0.0.0 cpcalendars.illinoisvaccineawareness.org
+0.0.0.0 cpcalendars.knowingthetruth.com
 0.0.0.0 cpcalendars.kristinkirk.com
 0.0.0.0 cpcalendars.lymebook.com
 0.0.0.0 cpcalendars.lynnemctaggart.com
@@ -545,6 +553,7 @@
 0.0.0.0 cpcalendars.principia-scientific.com
 0.0.0.0 cpcalendars.rifevideos.com
 0.0.0.0 cpcalendars.the17news.com
+0.0.0.0 cpcalendars.thefreedomarticles.com
 0.0.0.0 cpcalendars.themadtruther.com
 0.0.0.0 cpcalendars.thenhf.com
 0.0.0.0 cpcalendars.traceamounts.com
@@ -554,6 +563,7 @@
 0.0.0.0 cpcalendars.utopiasilver.com
 0.0.0.0 cpcalendars.vaccinedecision.info
 0.0.0.0 cpcalendars.vaccineeducation.org
+0.0.0.0 cpcalendars.vaccinetruth.org
 0.0.0.0 cpcalendars.vaxtruth.org
 0.0.0.0 cpcalendars.webinar.drrachael.com
 0.0.0.0 cpcontacts.5gawareness.com
@@ -581,6 +591,7 @@
 0.0.0.0 cpcontacts.healthchoicevt.com
 0.0.0.0 cpcontacts.hybridrastamama.com
 0.0.0.0 cpcontacts.illinoisvaccineawareness.org
+0.0.0.0 cpcontacts.knowingthetruth.com
 0.0.0.0 cpcontacts.kristinkirk.com
 0.0.0.0 cpcontacts.lymebook.com
 0.0.0.0 cpcontacts.lynnemctaggart.com
@@ -601,6 +612,7 @@
 0.0.0.0 cpcontacts.principia-scientific.com
 0.0.0.0 cpcontacts.rifevideos.com
 0.0.0.0 cpcontacts.the17news.com
+0.0.0.0 cpcontacts.thefreedomarticles.com
 0.0.0.0 cpcontacts.themadtruther.com
 0.0.0.0 cpcontacts.thenhf.com
 0.0.0.0 cpcontacts.traceamounts.com
@@ -610,6 +622,7 @@
 0.0.0.0 cpcontacts.utopiasilver.com
 0.0.0.0 cpcontacts.vaccinedecision.info
 0.0.0.0 cpcontacts.vaccineeducation.org
+0.0.0.0 cpcontacts.vaccinetruth.org
 0.0.0.0 cpcontacts.vaxtruth.org
 0.0.0.0 cpcontacts.webinar.drrachael.com
 0.0.0.0 crazzfiles.com
@@ -709,6 +722,7 @@
 0.0.0.0 dev.synergyscience.com
 0.0.0.0 dev.thefourwinds.com
 0.0.0.0 dev.thehealthyhomeeconomist.com
+0.0.0.0 dev.thrivetimeshow.com
 0.0.0.0 dev.westernjournal.com
 0.0.0.0 dev2.lifesitenews.com
 0.0.0.0 dev2.revolver.news
@@ -1024,6 +1038,7 @@
 0.0.0.0 harvoa.org
 0.0.0.0 hbnaturals.com
 0.0.0.0 hbnpowerline.com
+0.0.0.0 headlines.thedogpress.com
 0.0.0.0 healing.naturalnews.com
 0.0.0.0 healingfoodreference.com
 0.0.0.0 healingfromgmos.com
@@ -1039,6 +1054,7 @@
 0.0.0.0 healthfreedomactionct-org.healthchoicect.org
 0.0.0.0 healthfreedompa.com
 0.0.0.0 healthfreedompa.org
+0.0.0.0 healthharmonic.com
 0.0.0.0 healthimpactnews.com
 0.0.0.0 healthinsightuk.org
 0.0.0.0 healthmatreview.com
@@ -1094,6 +1110,7 @@
 0.0.0.0 holisticnewyork.com
 0.0.0.0 holylight4u.wordpress.com
 0.0.0.0 home.solari.com
+0.0.0.0 homeopathyplus.com
 0.0.0.0 honestnutritiononlinestore.com
 0.0.0.0 hopefromholly.com
 0.0.0.0 hormonesmatter.com
@@ -1201,6 +1218,7 @@
 0.0.0.0 kellythekitchenkop.com
 0.0.0.0 kentucky.tenthamendmentcenter.com
 0.0.0.0 kingbigfoot.presscalifornia.com
+0.0.0.0 knowingthetruth.com
 0.0.0.0 knowledge.whatfinger.com
 0.0.0.0 korenwellness.com
 0.0.0.0 krakowlaw.com
@@ -1324,9 +1342,11 @@
 0.0.0.0 mail.healthchoicevt.com
 0.0.0.0 mail.healthimpactnews.com
 0.0.0.0 mail.healthmatreview.com
+0.0.0.0 mail.homeopathyplus.com
 0.0.0.0 mail.hybridrastamama.com
 0.0.0.0 mail.illinoisvaccineawareness.org
 0.0.0.0 mail.infowars.com
+0.0.0.0 mail.knowingthetruth.com
 0.0.0.0 mail.kristinkirk.com
 0.0.0.0 mail.medicalautonomy.co
 0.0.0.0 mail.michiganvaccinechoice.org
@@ -1364,6 +1384,7 @@
 0.0.0.0 mail.synergyscience.com
 0.0.0.0 mail.the17news.com
 0.0.0.0 mail.thearkivist.net
+0.0.0.0 mail.thefreedomarticles.com
 0.0.0.0 mail.themadtruther.com
 0.0.0.0 mail.thenewamerican.com
 0.0.0.0 mail.thinkingmomsrevolution.com
@@ -1540,6 +1561,7 @@
 0.0.0.0 neurohacker.com
 0.0.0.0 new.autismone.org
 0.0.0.0 new.rumormillnews.com
+0.0.0.0 new.thrivetimeshow.com
 0.0.0.0 newhampshire.tenthamendmentcenter.com
 0.0.0.0 newjersey.tenthamendmentcenter.com
 0.0.0.0 newlevellers.blogspot.com
@@ -1636,6 +1658,7 @@
 0.0.0.0 old-eventsystem.drsha.com
 0.0.0.0 old.autismone.org
 0.0.0.0 old.darkoutpost.com
+0.0.0.0 old.thrivetimeshow.com
 0.0.0.0 oldsite.synergyscience.com
 0.0.0.0 oldweb01.truthout.org
 0.0.0.0 onenessofhumanity.wordpress.com
@@ -2001,7 +2024,9 @@
 0.0.0.0 staging.davidwolfe.com
 0.0.0.0 staging.earthley.com
 0.0.0.0 staging.greenmedinfo.com
+0.0.0.0 staging.homeopathyplus.com
 0.0.0.0 staging.infowars.com
+0.0.0.0 staging.knowingthetruth.com
 0.0.0.0 staging.learntherisk.org
 0.0.0.0 staging.lifesitenews.com
 0.0.0.0 staging.newswars.com
@@ -2139,12 +2164,15 @@
 0.0.0.0 theconsciousresistance.com
 0.0.0.0 thecontrolgroup.org
 0.0.0.0 thecrowhouse.com
+0.0.0.0 thedogplace.org
+0.0.0.0 thedogpress.com
 0.0.0.0 thedr.com
 0.0.0.0 theemfguy.com
 0.0.0.0 thefedupdemocrat.com
 0.0.0.0 thefedupdemocrat.home.blog
 0.0.0.0 thefolliesofdistributism.com
 0.0.0.0 thefourwinds.com
+0.0.0.0 thefreedomarticles.com
 0.0.0.0 thefreedomsproject.com
 0.0.0.0 thefullertoninformer.com
 0.0.0.0 thegeorgiareach.presscalifornia.com
@@ -2189,6 +2217,7 @@
 0.0.0.0 thoughtlessness23.blogspot.com
 0.0.0.0 threenation.net
 0.0.0.0 thriiive.com
+0.0.0.0 thrivetimeshow.com
 0.0.0.0 ticket.greenmedinfo.com
 0.0.0.0 tmatthewphillips.com
 0.0.0.0 tncoalition4vaxchoice.com
@@ -2209,6 +2238,7 @@
 0.0.0.0 truenewshub.com
 0.0.0.0 truenorthchiro.com
 0.0.0.0 truth11.com
+0.0.0.0 truthaboutgardasil.org
 0.0.0.0 truthaboutgod.net
 0.0.0.0 truthcomestolight.com
 0.0.0.0 truthout.org
@@ -2284,6 +2314,7 @@
 0.0.0.0 vaccinesafetycommission.org
 0.0.0.0 vaccinesafetycouncilminnesota.org
 0.0.0.0 vaccinesandchristianity.org
+0.0.0.0 vaccinetruth.org
 0.0.0.0 vaclib.org
 0.0.0.0 vactruth.com
 0.0.0.0 vagbrytaren.org
@@ -2330,6 +2361,7 @@
 0.0.0.0 vpn.mercola.com
 0.0.0.0 vpn.seekinghealth.com
 0.0.0.0 vps.bioelectricshield.com
+0.0.0.0 vps.thedogpress.com
 0.0.0.0 vrevealed.com
 0.0.0.0 wakeup-world.com
 0.0.0.0 wakeupyourhealth.oxygenamerica.com
@@ -2390,6 +2422,7 @@
 0.0.0.0 webdisk.holisticnewyork.com
 0.0.0.0 webdisk.hybridrastamama.com
 0.0.0.0 webdisk.illinoisvaccineawareness.org
+0.0.0.0 webdisk.knowingthetruth.com
 0.0.0.0 webdisk.kristinkirk.com
 0.0.0.0 webdisk.lymebook.com
 0.0.0.0 webdisk.lynnemctaggart.com
@@ -2413,6 +2446,7 @@
 0.0.0.0 webdisk.seedsofdeception.com
 0.0.0.0 webdisk.store.tacanow.org
 0.0.0.0 webdisk.the17news.com
+0.0.0.0 webdisk.thefreedomarticles.com
 0.0.0.0 webdisk.themadtruther.com
 0.0.0.0 webdisk.thenhf.com
 0.0.0.0 webdisk.thinkingmomsrevolution.com
@@ -2423,6 +2457,7 @@
 0.0.0.0 webdisk.utopiasilver.com
 0.0.0.0 webdisk.vaccinedecision.info
 0.0.0.0 webdisk.vaccineeducation.org
+0.0.0.0 webdisk.vaccinetruth.org
 0.0.0.0 webdisk.vaxtruth.org
 0.0.0.0 webdisk.wddty.com
 0.0.0.0 webdisk.wearechange.org
@@ -2460,6 +2495,7 @@
 0.0.0.0 webmail.holisticnewyork.com
 0.0.0.0 webmail.hybridrastamama.com
 0.0.0.0 webmail.illinoisvaccineawareness.org
+0.0.0.0 webmail.knowingthetruth.com
 0.0.0.0 webmail.lymebook.com
 0.0.0.0 webmail.lynnemctaggart.com
 0.0.0.0 webmail.mikesweb7.com
@@ -2491,6 +2527,7 @@
 0.0.0.0 webmail.utopiasilver.com
 0.0.0.0 webmail.vaccinedecision.info
 0.0.0.0 webmail.vaccineeducation.org
+0.0.0.0 webmail.vaccinetruth.org
 0.0.0.0 webmail.vaxtruth.org
 0.0.0.0 webmail.wddty.com
 0.0.0.0 webmail.wearechange.org
@@ -2654,6 +2691,7 @@
 0.0.0.0 www.beta.wddty.com
 0.0.0.0 www.bethevoice.typepad.com
 0.0.0.0 www.bgdsearches.com
+0.0.0.0 www.biblescienceforum.com
 0.0.0.0 www.bibliotecapleyades.net
 0.0.0.0 www.biodefense.com
 0.0.0.0 www.bioelectricshield.com
@@ -3022,6 +3060,7 @@
 0.0.0.0 www.healthfreedomactionct-org.healthchoicect.org
 0.0.0.0 www.healthfreedompa.com
 0.0.0.0 www.healthfreedompa.org
+0.0.0.0 www.healthharmonic.com
 0.0.0.0 www.healthimpactnews.com
 0.0.0.0 www.healthinsightuk.org
 0.0.0.0 www.healthmatreview.com
@@ -3046,6 +3085,7 @@
 0.0.0.0 www.hirnhomeschoolers.com
 0.0.0.0 www.holisticnewyork.com
 0.0.0.0 www.holylight4u.wordpress.com
+0.0.0.0 www.homeopathyplus.com
 0.0.0.0 www.honestnutritiononlinestore.com
 0.0.0.0 www.hopefromholly.com
 0.0.0.0 www.hormonesmatter.com
@@ -3115,6 +3155,7 @@
 0.0.0.0 www.keepthemfromharm.com
 0.0.0.0 www.kellythekitchenkop.com
 0.0.0.0 www.kingbigfoot.presscalifornia.com
+0.0.0.0 www.knowingthetruth.com
 0.0.0.0 www.korenwellness.com
 0.0.0.0 www.krakowlaw.com
 0.0.0.0 www.kristinkirk.com
@@ -3475,6 +3516,8 @@
 0.0.0.0 www.speroprotectionclothing.com
 0.0.0.0 www.spiked-online.com
 0.0.0.0 www.stage.shieldyourbody.com
+0.0.0.0 www.staging.homeopathyplus.com
+0.0.0.0 www.staging.knowingthetruth.com
 0.0.0.0 www.staging.shieldyourbody.com
 0.0.0.0 www.staging1.aulterra.com
 0.0.0.0 www.staging1.stetzerelectric.com
@@ -3540,12 +3583,15 @@
 0.0.0.0 www.theconsciousresistance.com
 0.0.0.0 www.thecontrolgroup.org
 0.0.0.0 www.thecrowhouse.com
+0.0.0.0 www.thedogplace.org
+0.0.0.0 www.thedogpress.com
 0.0.0.0 www.thedr.com
 0.0.0.0 www.theemfguy.com
 0.0.0.0 www.thefedupdemocrat.com
 0.0.0.0 www.thefedupdemocrat.home.blog
 0.0.0.0 www.thefolliesofdistributism.com
 0.0.0.0 www.thefourwinds.com
+0.0.0.0 www.thefreedomarticles.com
 0.0.0.0 www.thefreedomsproject.com
 0.0.0.0 www.thefullertoninformer.com
 0.0.0.0 www.thegeorgiareach.presscalifornia.com
@@ -3589,6 +3635,7 @@
 0.0.0.0 www.thoughtlessness23.blogspot.com
 0.0.0.0 www.threenation.net
 0.0.0.0 www.thriiive.com
+0.0.0.0 www.thrivetimeshow.com
 0.0.0.0 www.tmatthewphillips.com
 0.0.0.0 www.tncoalition4vaxchoice.com
 0.0.0.0 www.tottnews.com
@@ -3600,6 +3647,7 @@
 0.0.0.0 www.truenewshub.com
 0.0.0.0 www.truenorthchiro.com
 0.0.0.0 www.truth11.com
+0.0.0.0 www.truthaboutgardasil.org
 0.0.0.0 www.truthaboutgod.net
 0.0.0.0 www.truthcomestolight.com
 0.0.0.0 www.truthout.org
@@ -3656,6 +3704,7 @@
 0.0.0.0 www.vaccinesafetycommission.org
 0.0.0.0 www.vaccinesafetycouncilminnesota.org
 0.0.0.0 www.vaccinesandchristianity.org
+0.0.0.0 www.vaccinetruth.org
 0.0.0.0 www.vaclib.org
 0.0.0.0 www.vaclib.org0
 0.0.0.0 www.vactruth.com
