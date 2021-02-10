@@ -276,6 +276,7 @@
 0.0.0.0 blog.bodyalign.com
 0.0.0.0 bodyalign.com
 0.0.0.0 bonusclub-forme.life
+0.0.0.0 bonverahq.com
 0.0.0.0 booking4free.com
 0.0.0.0 boostertelechargementfortnite.blogspot.com
 0.0.0.0 boot-upintenselypreciseproduct.icu
@@ -696,6 +697,8 @@
 0.0.0.0 newsandpromotions.com
 0.0.0.0 newsbtc.com
 0.0.0.0 newsletter.drivezone.cz
+0.0.0.0 newwaymba.com
+0.0.0.0 nfs.in.net
 0.0.0.0 nioohaa.com
 0.0.0.0 nonamedvlp59.live
 0.0.0.0 nonameghjd95.live
@@ -799,6 +802,7 @@
 0.0.0.0 setup-antivirus.com
 0.0.0.0 sexberts.net
 0.0.0.0 sextool.info
+0.0.0.0 share.newwaymba.com
 0.0.0.0 shieldyourbody.com
 0.0.0.0 shop.earthcalm.com
 0.0.0.0 shop.emfshieldprotect.com
@@ -1242,6 +1246,7 @@
 0.0.0.0 www.blankenburg-buero.de
 0.0.0.0 www.bodyalign.com
 0.0.0.0 www.bonusclub-forme.life
+0.0.0.0 www.bonverahq.com
 0.0.0.0 www.booking4free.com
 0.0.0.0 www.boostertelechargementfortnite.blogspot.com
 0.0.0.0 www.boot-upintenselypreciseproduct.icu
@@ -1573,6 +1578,8 @@
 0.0.0.0 www.news.junkie
 0.0.0.0 www.newsandpromotions.com
 0.0.0.0 www.newsbtc.com
+0.0.0.0 www.newwaymba.com
+0.0.0.0 www.nfs.in.net
 0.0.0.0 www.nioohaa.com
 0.0.0.0 www.nonamedvlp59.live
 0.0.0.0 www.nonameghjd95.live
@@ -1820,5 +1827,3 @@
 0.0.0.0 z.promotionsonlineusa.com
 0.0.0.0 zantac.consultationclaims.com
 0.0.0.0 zeustrk.com
-0.0.0.0 nfs.in.net
-0.0.0.0 www.nfs.in.net
