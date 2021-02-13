@@ -3,6 +3,8 @@
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
+0.0.0.0 0.steplersforsunshine.tw
+0.0.0.0 1.steplersforsunshine.tw
 0.0.0.0 10-finger-schreiben.net
 0.0.0.0 10besttrendy.com
 0.0.0.0 10bestwalletsformen.com
@@ -28,6 +30,7 @@
 0.0.0.0 2vidyo.com
 0.0.0.0 3d-dm.at
 0.0.0.0 3dprinterreviews2018.com
+0.0.0.0 3snet.g2afse.com
 0.0.0.0 48so2.com
 0.0.0.0 52googles.com
 0.0.0.0 5iav.me
@@ -70,11 +73,14 @@
 0.0.0.0 adeyction.com
 0.0.0.0 adios-akne.de
 0.0.0.0 adjengsuharno2019.com
+0.0.0.0 admoustache.g2afse.com
 0.0.0.0 adoredarrivals.com
 0.0.0.0 adoseofmuvahood.com
 0.0.0.0 adqaient.store
 0.0.0.0 adr-renovation.com
 0.0.0.0 adronewithcamera.com
+0.0.0.0 adsperfection.g2afse.com
+0.0.0.0 adsplus.g2afse.com
 0.0.0.0 advertisers.ogads.com
 0.0.0.0 aeonarb.info
 0.0.0.0 aeonlife-test.com
@@ -84,6 +90,7 @@
 0.0.0.0 affiliates.synergyscience.com
 0.0.0.0 affiliateventuregroup.com
 0.0.0.0 affilibizpro.com
+0.0.0.0 affle.g2afse.com
 0.0.0.0 afont.biz
 0.0.0.0 africandrifter.com
 0.0.0.0 afrugalpitch.com
@@ -144,6 +151,8 @@
 0.0.0.0 app4me.me
 0.0.0.0 app5309.nonamealms11.live
 0.0.0.0 appkolector.com
+0.0.0.0 appmedia.g2afse.com
+0.0.0.0 appsdmi.g2afse.com
 0.0.0.0 appstrk.com
 0.0.0.0 asdasdad.net
 0.0.0.0 assignmenthelp824736882.wordpress.com
@@ -160,6 +169,7 @@
 0.0.0.0 behindthepolitics.de
 0.0.0.0 bellaflora24.de
 0.0.0.0 beneguy.com
+0.0.0.0 bennyaflickgotit.ga
 0.0.0.0 beonixom.com
 0.0.0.0 best-automotive-diagnostic-scanner.com
 0.0.0.0 best-baby-buys.co.uk
@@ -280,6 +290,7 @@
 0.0.0.0 booking4free.com
 0.0.0.0 boostertelechargementfortnite.blogspot.com
 0.0.0.0 boot-upintenselypreciseproduct.icu
+0.0.0.0 bravads.g2afse.com
 0.0.0.0 bucket.cpabuild.com
 0.0.0.0 buildmoneywithcpa.com
 0.0.0.0 buttheme.org
@@ -319,6 +330,7 @@
 0.0.0.0 click4kash.com
 0.0.0.0 click4riches.com
 0.0.0.0 clickbookface.com
+0.0.0.0 clobucks.g2afse.com
 0.0.0.0 cloud.cpabuild.com
 0.0.0.0 cnewcomer.com
 0.0.0.0 cocmodservers.net
@@ -330,6 +342,7 @@
 0.0.0.0 contact.rzuhelpcenter.com
 0.0.0.0 content-center.club
 0.0.0.0 contentfilled.com
+0.0.0.0 cornerstore.g2afse.com
 0.0.0.0 couponandoffers.com
 0.0.0.0 couponfromchina.com
 0.0.0.0 couponoffer.org
@@ -470,10 +483,12 @@
 0.0.0.0 freeware-finden.de
 0.0.0.0 freewebsitetemplates.com
 0.0.0.0 fremedica.com
+0.0.0.0 fresleads.g2afse.com
 0.0.0.0 ftp.stylesforless.com
 0.0.0.0 fudtroll.com
 0.0.0.0 funnels.vacationvip.com
 0.0.0.0 g.promotionsonlineusa.com
+0.0.0.0 g2afse.com
 0.0.0.0 gadgetshelpline.com
 0.0.0.0 gailbottomleyonline.com
 0.0.0.0 galerieweishaupt.de
@@ -542,12 +557,14 @@
 0.0.0.0 giveawaystips.com
 0.0.0.0 giveawaysyou.com
 0.0.0.0 giveawayszoom.com
+0.0.0.0 globalemedia.g2afse.com
 0.0.0.0 glyphosatetaskforce.org
 0.0.0.0 goldbek-apotheke.de
 0.0.0.0 goldhax.com
 0.0.0.0 goldrattconsulting-id.com
 0.0.0.0 google-search.co.in
 0.0.0.0 googletoalphabet.com
+0.0.0.0 gradientt.g2afse.com
 0.0.0.0 grafikstudio-vonfroreich.de
 0.0.0.0 groupme.wintoday.ml
 0.0.0.0 grz0.info
@@ -581,8 +598,10 @@
 0.0.0.0 hydrogenstudies.synergyscience.com
 0.0.0.0 hyvee-get-limited.todayoonly.uk.com
 0.0.0.0 i.promotionsonlineusa.com
+0.0.0.0 iconpeak.g2afse.com
 0.0.0.0 igearsofwar4.com
 0.0.0.0 igotthekeys.xyz
+0.0.0.0 imali.g2afse.com
 0.0.0.0 imgvieweriri.com
 0.0.0.0 initiateuberfreesystem.icu
 0.0.0.0 injury-check.com
@@ -603,6 +622,7 @@
 0.0.0.0 kaspersky-activate.com
 0.0.0.0 kaspersky-activate.com.com
 0.0.0.0 kd-ol.live
+0.0.0.0 keepmobi.g2afse.com
 0.0.0.0 kerumal.com
 0.0.0.0 ketofit.support
 0.0.0.0 keymadness.com
@@ -612,6 +632,7 @@
 0.0.0.0 knowinghomes.com
 0.0.0.0 kudosinteractive.zaxaa.com
 0.0.0.0 l.promotionsonlineusa.com
+0.0.0.0 laboutique.g2afse.com
 0.0.0.0 letestpowerbank.xyz
 0.0.0.0 litebucks.com
 0.0.0.0 litemethod-revenue.life
@@ -666,6 +687,8 @@
 0.0.0.0 mobapp-center.info
 0.0.0.0 mobapp-center1.info
 0.0.0.0 mobappcenter3.com
+0.0.0.0 mobavenue.g2afse.com
+0.0.0.0 mobco.g2afse.com
 0.0.0.0 mobdroapkdownload.yolasite.com
 0.0.0.0 mobile-app-market-here5.life
 0.0.0.0 mobile-review.ws
@@ -679,6 +702,7 @@
 0.0.0.0 mobilesignalboosters.com.au
 0.0.0.0 mobilevpn.download
 0.0.0.0 mobilityanddailylivingaids.com
+0.0.0.0 mobinner.g2afse.com
 0.0.0.0 modarapid.net
 0.0.0.0 mon-thu101.life
 0.0.0.0 money.net-web.news
@@ -692,6 +716,7 @@
 0.0.0.0 n.promotionsonlineusa.com
 0.0.0.0 ncseculogin.wordpress.com
 0.0.0.0 net-web.news
+0.0.0.0 netcore.g2afse.com
 0.0.0.0 new.stylesforless.com
 0.0.0.0 news.junkie
 0.0.0.0 newsandpromotions.com
@@ -715,6 +740,7 @@
 0.0.0.0 ns1.v-bucks.fr
 0.0.0.0 ns2.com-com-mobi.com
 0.0.0.0 nszwangsarbeit.de
+0.0.0.0 nwb.ngo
 0.0.0.0 o.promotionsonlineusa.com
 0.0.0.0 o1.sg.account.freebitco.in
 0.0.0.0 o2.sg.updates.freebitco.in
@@ -779,6 +805,7 @@
 0.0.0.0 results.fitnessrant.com
 0.0.0.0 retailproductsusa.com
 0.0.0.0 robuxglobal.com
+0.0.0.0 rocketlab.g2afse.com
 0.0.0.0 roundup-danger.injury-check.com
 0.0.0.0 roundup-y-linfoma.caso-calificado.com
 0.0.0.0 rrbrecruitmenthelp.co.in
@@ -837,6 +864,7 @@
 0.0.0.0 stealdeals4u.com
 0.0.0.0 stellar.org.mu
 0.0.0.0 stellarholidaydeals.com
+0.0.0.0 steplersforsunshine.tw
 0.0.0.0 store.bioelectricshield.com
 0.0.0.0 stylesforless.com
 0.0.0.0 superhacktool.com
@@ -872,6 +900,7 @@
 0.0.0.0 thewowfeed.com
 0.0.0.0 thiskarma.com
 0.0.0.0 tiktok-videos.com
+0.0.0.0 times25.g2afse.com
 0.0.0.0 tipss4u.com
 0.0.0.0 todayoonly.uk.com
 0.0.0.0 todaysdailyreports.com
@@ -912,6 +941,7 @@
 0.0.0.0 trahes.site
 0.0.0.0 trendsndeals.com
 0.0.0.0 trierwirdwild.de
+0.0.0.0 trk-rankmyapp.g2afse.com
 0.0.0.0 trk10.com
 0.0.0.0 trygiveaways.com
 0.0.0.0 tyblk.info
@@ -925,6 +955,7 @@
 0.0.0.0 uq40.com.cn
 0.0.0.0 usprostaffing.com
 0.0.0.0 ustradersjournal.com
+0.0.0.0 utesmobi.g2afse.com
 0.0.0.0 v-bucks.fr
 0.0.0.0 v.promotionsonlineusa.com
 0.0.0.0 vacationvip.com
@@ -1135,6 +1166,7 @@
 0.0.0.0 www.behindthepolitics.de
 0.0.0.0 www.bellaflora24.de
 0.0.0.0 www.beneguy.com
+0.0.0.0 www.bennyaflickgotit.ga
 0.0.0.0 www.beonixom.com
 0.0.0.0 www.best-automotive-diagnostic-scanner.com
 0.0.0.0 www.best-baby-buys.co.uk
@@ -1403,6 +1435,7 @@
 0.0.0.0 www.freeware-finden.de
 0.0.0.0 www.freewebsitetemplates.com
 0.0.0.0 www.fudtroll.com
+0.0.0.0 www.g2afse.com
 0.0.0.0 www.gadgetshelpline.com
 0.0.0.0 www.gailbottomleyonline.com
 0.0.0.0 www.galerieweishaupt.de
@@ -1593,6 +1626,7 @@
 0.0.0.0 www.nortonsetup-keys.com
 0.0.0.0 www.noticedispense.club
 0.0.0.0 www.nszwangsarbeit.de
+0.0.0.0 www.nwb.ngo
 0.0.0.0 www.occules-storsary.com
 0.0.0.0 www.oculustrack.com
 0.0.0.0 www.officeoffiicecom.com
@@ -1673,6 +1707,7 @@
 0.0.0.0 www.stealdeals4u.com
 0.0.0.0 www.stellar.org.mu
 0.0.0.0 www.stellarholidaydeals.com
+0.0.0.0 www.steplersforsunshine.tw
 0.0.0.0 www.stylesforless.com
 0.0.0.0 www.superhacktool.com
 0.0.0.0 www.supporttv.net
@@ -1827,3 +1862,4 @@
 0.0.0.0 z.promotionsonlineusa.com
 0.0.0.0 zantac.consultationclaims.com
 0.0.0.0 zeustrk.com
+0.0.0.0 zorka.g2afse.com
