@@ -251,6 +251,7 @@
 0.0.0.0 benjaminfulford.net
 0.0.0.0 bensmyson.wordpress.com
 0.0.0.0 berkeyfilters.healthrangerstore.com
+0.0.0.0 bernadettepajer.com
 0.0.0.0 berniesanders.fetch.news
 0.0.0.0 berrygoodlife.co
 0.0.0.0 berrygoodlifecbd.com
@@ -536,6 +537,7 @@
 0.0.0.0 cpanel.gcrn.org.uk
 0.0.0.0 cpanel.grassrootsliberty.com
 0.0.0.0 cpanel.healthchoicect.org
+0.0.0.0 cpanel.heidistjohn.com
 0.0.0.0 cpanel.holisticnewyork.com
 0.0.0.0 cpanel.hybridrastamama.com
 0.0.0.0 cpanel.illinoisvaccineawareness.org
@@ -606,6 +608,7 @@
 0.0.0.0 cpcalendars.gcrn.org.uk
 0.0.0.0 cpcalendars.healthchoicect.org
 0.0.0.0 cpcalendars.healthchoicevt.com
+0.0.0.0 cpcalendars.heidistjohn.com
 0.0.0.0 cpcalendars.hybridrastamama.com
 0.0.0.0 cpcalendars.illinoisvaccineawareness.org
 0.0.0.0 cpcalendars.jeffreybland.com
@@ -677,6 +680,7 @@
 0.0.0.0 cpcontacts.gcrn.org.uk
 0.0.0.0 cpcontacts.healthchoicect.org
 0.0.0.0 cpcontacts.healthchoicevt.com
+0.0.0.0 cpcontacts.heidistjohn.com
 0.0.0.0 cpcontacts.hybridrastamama.com
 0.0.0.0 cpcontacts.illinoisvaccineawareness.org
 0.0.0.0 cpcontacts.jeffreybland.com
@@ -816,6 +820,7 @@
 0.0.0.0 dev.earthley.com
 0.0.0.0 dev.healthimpactnews.com
 0.0.0.0 dev.healthnutnews.com
+0.0.0.0 dev.heidistjohn.com
 0.0.0.0 dev.lewrockwell.com
 0.0.0.0 dev.lifesitenews.com
 0.0.0.0 dev.mypatriotsnetwork.com
@@ -861,6 +866,7 @@
 0.0.0.0 docs.thetruthaboutcancer.com
 0.0.0.0 docs4opendebate.be
 0.0.0.0 doctordoni.com
+0.0.0.0 doctorsandscience.com
 0.0.0.0 doctorsdontfearcovid.com
 0.0.0.0 doctoryourself.com
 0.0.0.0 donate.ewg.org
@@ -1040,6 +1046,7 @@
 0.0.0.0 fermentedsuper30.naturalnews.com
 0.0.0.0 fetch.news
 0.0.0.0 ff.tacanow.org
+0.0.0.0 ffcwa.com
 0.0.0.0 fggam.org
 0.0.0.0 fhfn.org
 0.0.0.0 fi.sott.net
@@ -1082,9 +1089,11 @@
 0.0.0.0 fredmartinrevealed.freedomman.org
 0.0.0.0 freeandhealthychildren.org
 0.0.0.0 freecourse.terrypatten.com
+0.0.0.0 freedom-keepers-united.myshopify.com
 0.0.0.0 freedom.naturalnews.com
 0.0.0.0 freedomangelsfoundation.org
 0.0.0.0 freedomforumcanada.com
+0.0.0.0 freedomkeepersunited.org
 0.0.0.0 freedomman.org
 0.0.0.0 freedomplatform.tv
 0.0.0.0 freedomrally2021.com
@@ -1222,6 +1231,7 @@
 0.0.0.0 heavymetals.naturalnews.com
 0.0.0.0 hebaredge01.mercola.com
 0.0.0.0 hegtwyexchg01.mercola.com
+0.0.0.0 heidistjohn.com
 0.0.0.0 heirloomseedsgarden.naturalnews.com
 0.0.0.0 help.abovetopsecret.com
 0.0.0.0 help.solari.com
@@ -1292,6 +1302,7 @@
 0.0.0.0 hydrogenstudies.synergyscience.com
 0.0.0.0 iamcallingyounow.blogspot.com
 0.0.0.0 icandecide.org
+0.0.0.0 icwaadvocacy.org
 0.0.0.0 idahoisopenforbusiness.freedomman.org
 0.0.0.0 idonotcomply.org
 0.0.0.0 idreamofninjablog.wordpress.com
@@ -2777,6 +2788,7 @@
 0.0.0.0 webdisk.grassrootsliberty.com
 0.0.0.0 webdisk.healthchoicect.org
 0.0.0.0 webdisk.healthchoicevt.com
+0.0.0.0 webdisk.heidistjohn.com
 0.0.0.0 webdisk.holisticnewyork.com
 0.0.0.0 webdisk.hybridrastamama.com
 0.0.0.0 webdisk.illinoisvaccineawareness.org
@@ -2865,6 +2877,7 @@
 0.0.0.0 webmail.grassrootsliberty.com
 0.0.0.0 webmail.healthchoicect.org
 0.0.0.0 webmail.healthmatreview.com
+0.0.0.0 webmail.heidistjohn.com
 0.0.0.0 webmail.holisticnewyork.com
 0.0.0.0 webmail.hybridrastamama.com
 0.0.0.0 webmail.illinoisvaccineawareness.org
@@ -3090,6 +3103,7 @@
 0.0.0.0 www.beforeitsnews.com
 0.0.0.0 www.benjaminfulford.net
 0.0.0.0 www.bensmyson.wordpress.com
+0.0.0.0 www.bernadettepajer.com
 0.0.0.0 www.berrygoodlife.co
 0.0.0.0 www.berrygoodlifecbd.com
 0.0.0.0 www.best.shopholistic.com
@@ -3270,6 +3284,7 @@
 0.0.0.0 www.docofdetox.com
 0.0.0.0 www.docs4opendebate.be
 0.0.0.0 www.doctordoni.com
+0.0.0.0 www.doctorsandscience.com
 0.0.0.0 www.doctorsdontfearcovid.com
 0.0.0.0 www.doctoryourself.com
 0.0.0.0 www.donate.wearechange.org
@@ -3385,6 +3400,7 @@
 0.0.0.0 www.federalobserver.com
 0.0.0.0 www.felo.no
 0.0.0.0 www.fetch.news
+0.0.0.0 www.ffcwa.com
 0.0.0.0 www.fggam.org
 0.0.0.0 www.fhfn.org
 0.0.0.0 www.fiddaman.blogspot.com
@@ -3408,8 +3424,10 @@
 0.0.0.0 www.frankenskiesthemovie.com
 0.0.0.0 www.fredmartinrevealed.freedomman.org
 0.0.0.0 www.freeandhealthychildren.org
+0.0.0.0 www.freedom-keepers-united.myshopify.com
 0.0.0.0 www.freedomangelsfoundation.org
 0.0.0.0 www.freedomforumcanada.com
+0.0.0.0 www.freedomkeepersunited.org
 0.0.0.0 www.freedomman.org
 0.0.0.0 www.freedomplatform.tv
 0.0.0.0 www.freedomrally2021.com
@@ -3503,6 +3521,7 @@
 0.0.0.0 www.healthysuccessworks.com
 0.0.0.0 www.healthyusepro.com
 0.0.0.0 www.healthywildandfree.com
+0.0.0.0 www.heidistjohn.com
 0.0.0.0 www.hempworxbizop.com
 0.0.0.0 www.herbanomic.com
 0.0.0.0 www.herbreference.com
@@ -3531,6 +3550,7 @@
 0.0.0.0 www.hybridrastamama.com
 0.0.0.0 www.iamcallingyounow.blogspot.com
 0.0.0.0 www.icandecide.org
+0.0.0.0 www.icwaadvocacy.org
 0.0.0.0 www.idahoisopenforbusiness.freedomman.org
 0.0.0.0 www.idonotcomply.org
 0.0.0.0 www.idreamofninjablog.wordpress.com
