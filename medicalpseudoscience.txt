@@ -67,6 +67,7 @@
 0.0.0.0 affiliates.thetruthaboutcancer.com
 0.0.0.0 affiliates.thetruthaboutvaccines.com
 0.0.0.0 aflds.com
+0.0.0.0 aftermathnews.wordpress.com
 0.0.0.0 agents.synergyscience.com
 0.0.0.0 ageofautism.com
 0.0.0.0 ageoftruth.tv
@@ -91,6 +92,7 @@
 0.0.0.0 alternews.pl
 0.0.0.0 althealthworks.com
 0.0.0.0 amaka.frontlinemds.com
+0.0.0.0 amandamaryandgcmaf.wordpress.com
 0.0.0.0 amazingpolly.net
 0.0.0.0 americandigest.org
 0.0.0.0 americanhealthcoalition.bitrix24.site
@@ -103,6 +105,7 @@
 0.0.0.0 americasfrontlinedoctorsummit.com
 0.0.0.0 amethios.com
 0.0.0.0 aminutetomidnite.com
+0.0.0.0 amylansky.com
 0.0.0.0 analytics.distributednews.com
 0.0.0.0 ancientlifeoil.com
 0.0.0.0 andrewkaufmanmd.com
@@ -233,6 +236,7 @@
 0.0.0.0 b1less.com
 0.0.0.0 b24-lkawiv.bitrix24.site
 0.0.0.0 baaghitv.com
+0.0.0.0 bachheimer.com
 0.0.0.0 backup.naturopath.org.nz
 0.0.0.0 badblue.bitnamiapp.com
 0.0.0.0 balanceoflifeclinic.com
@@ -567,6 +571,7 @@
 0.0.0.0 cpanel.store.tacanow.org
 0.0.0.0 cpanel.thatvitaminmovie.com
 0.0.0.0 cpanel.thedailycoin.org
+0.0.0.0 cpanel.therealnews.nz
 0.0.0.0 cpanel.thinkingmomsrevolution.com
 0.0.0.0 cpanel.traceamounts.com
 0.0.0.0 cpanel.trinityhealthfreedomexpo.com
@@ -643,6 +648,7 @@
 0.0.0.0 cpcalendars.thefreedomarticles.com
 0.0.0.0 cpcalendars.themadtruther.com
 0.0.0.0 cpcalendars.thenhf.com
+0.0.0.0 cpcalendars.therealnews.nz
 0.0.0.0 cpcalendars.traceamounts.com
 0.0.0.0 cpcalendars.trinityhealthfreedomexpo.com
 0.0.0.0 cpcalendars.trofire.com
@@ -715,6 +721,7 @@
 0.0.0.0 cpcontacts.thefreedomarticles.com
 0.0.0.0 cpcontacts.themadtruther.com
 0.0.0.0 cpcontacts.thenhf.com
+0.0.0.0 cpcontacts.therealnews.nz
 0.0.0.0 cpcontacts.traceamounts.com
 0.0.0.0 cpcontacts.trinityhealthfreedomexpo.com
 0.0.0.0 cpcontacts.trofire.com
@@ -745,6 +752,7 @@
 0.0.0.0 cwclabs.naturalnews.com
 0.0.0.0 cwl2004.powerwatch.org.uk
 0.0.0.0 da.sott.net
+0.0.0.0 dailydose4u.wordpress.com
 0.0.0.0 dailyexpose.co.uk
 0.0.0.0 dailyhealthseries.com
 0.0.0.0 dallasforsaferwater.com
@@ -1022,6 +1030,7 @@
 0.0.0.0 exploringrealhistory.blogspot.com
 0.0.0.0 exstnc.com
 0.0.0.0 extras.wnd.com
+0.0.0.0 ezekieldiet.com
 0.0.0.0 facebook.fetch.news
 0.0.0.0 facebook.wearechange.org
 0.0.0.0 factcheck.news
@@ -1212,11 +1221,13 @@
 0.0.0.0 healthharmonic.com
 0.0.0.0 healthimpactnews.com
 0.0.0.0 healthinsightuk.org
+0.0.0.0 healthmasters.com
 0.0.0.0 healthmatreview.com
 0.0.0.0 healthnutnews.com
 0.0.0.0 healthopolitan.com
 0.0.0.0 healthranger.com
 0.0.0.0 healthrangerstore.com
+0.0.0.0 healthunlimitedbiz.wordpress.com
 0.0.0.0 healthwyze.org
 0.0.0.0 healthy-action.com
 0.0.0.0 healthyhomeopathy.com
@@ -1232,6 +1243,7 @@
 0.0.0.0 hebaredge01.mercola.com
 0.0.0.0 hegtwyexchg01.mercola.com
 0.0.0.0 heidistjohn.com
+0.0.0.0 heimdallwardablog.wordpress.com
 0.0.0.0 heirloomseedsgarden.naturalnews.com
 0.0.0.0 help.abovetopsecret.com
 0.0.0.0 help.solari.com
@@ -1264,6 +1276,8 @@
 0.0.0.0 holidaysale.naturalnews.com
 0.0.0.0 holidaysale2017.healthrangerstore.com
 0.0.0.0 holidaysale2017.naturalnews.com
+0.0.0.0 holisticblends.com
+0.0.0.0 holisticblends.wordpress.com
 0.0.0.0 holisticnewyork.com
 0.0.0.0 holtraceuticals.com
 0.0.0.0 holylight4u.wordpress.com
@@ -1451,6 +1465,7 @@
 0.0.0.0 livestream.doterra.com
 0.0.0.0 livingwhole.org
 0.0.0.0 liz.frontlinemds.com
+0.0.0.0 lloydwright.org
 0.0.0.0 local.naturalmedicine.com
 0.0.0.0 localhost.preventdisease.com
 0.0.0.0 localhost.thenhf.com
@@ -1570,6 +1585,7 @@
 0.0.0.0 mail.principia-scientific.org
 0.0.0.0 mail.purestcolloids.com
 0.0.0.0 mail.radiationhealthrisks.com
+0.0.0.0 mail.renewamerica.com
 0.0.0.0 mail.ronpaulinstitute.org
 0.0.0.0 mail.sarahwestall.com
 0.0.0.0 mail.scalarenergyproductreview.com
@@ -1722,6 +1738,7 @@
 0.0.0.0 moji.frontlinemds.com
 0.0.0.0 momsacrossamerica.com
 0.0.0.0 monkfruitlowcarbsugarsubstitute.naturalnews.com
+0.0.0.0 mothernatureandyou.org
 0.0.0.0 moveautismforward.tacanow.org
 0.0.0.0 movie.thatvitaminmovie.com
 0.0.0.0 mpn.frontlinemds.com
@@ -1759,6 +1776,7 @@
 0.0.0.0 mx.oom2.com
 0.0.0.0 mx.organicsulfur4health.com
 0.0.0.0 mx.seedsofdeception.com
+0.0.0.0 mx.theblogmire.com
 0.0.0.0 mx0.childrenshealthdefense.org
 0.0.0.0 mx1.childrenshealthdefense.org
 0.0.0.0 mx1.naturalscience.org
@@ -1786,6 +1804,7 @@
 0.0.0.0 natural-hacks.com
 0.0.0.0 natural.trinityschool.org
 0.0.0.0 naturalblaze.com
+0.0.0.0 naturalbornmomma.wordpress.com
 0.0.0.0 naturalhealingnews.com
 0.0.0.0 naturalhealth365.com
 0.0.0.0 naturalhealthlibrary.com
@@ -2158,6 +2177,7 @@
 0.0.0.0 remnantnewspaper.com
 0.0.0.0 remote.goop.com
 0.0.0.0 remote.tenpennyimc.com
+0.0.0.0 renewamerica.com
 0.0.0.0 reports.ewg.org
 0.0.0.0 repub.li
 0.0.0.0 rescueidaho.freedomman.org
@@ -2282,6 +2302,7 @@
 0.0.0.0 shopholistic.com
 0.0.0.0 shotsoftruth.com
 0.0.0.0 shouldivaccinate.com
+0.0.0.0 sickandfat.com
 0.0.0.0 signup.cetv.one
 0.0.0.0 silver-colloids.com
 0.0.0.0 silverbreathspray.naturalnews.com
@@ -2418,6 +2439,7 @@
 0.0.0.0 stream.greenmedinfo.com
 0.0.0.0 stream01.bitchute.com
 0.0.0.0 streaming.drsha.com
+0.0.0.0 streaming.vcyamerica.org
 0.0.0.0 streams.c.infowars.com
 0.0.0.0 streetview.abovetopsecret.com
 0.0.0.0 stuartbramhall.wordpress.com
@@ -2499,6 +2521,7 @@
 0.0.0.0 theanp.co.uk
 0.0.0.0 thearkivist.net
 0.0.0.0 thebestdayever.com
+0.0.0.0 theblogmire.com
 0.0.0.0 theburningplatform.com
 0.0.0.0 thechaoscat.wordpress.com
 0.0.0.0 thechaoscat71.blogspot.com
@@ -2540,6 +2563,7 @@
 0.0.0.0 thepeoplesvoice.org
 0.0.0.0 thepetesantillishow.com
 0.0.0.0 thepostemail.com
+0.0.0.0 therealnews.nz
 0.0.0.0 theredpillnews.blogspot.com
 0.0.0.0 thesilveredge.com
 0.0.0.0 thesolarireport.com
@@ -2637,6 +2661,8 @@
 0.0.0.0 v-ial.org
 0.0.0.0 vaccination.inoz.com
 0.0.0.0 vaccinationdecisions.net
+0.0.0.0 vaccinationdilemma.com
+0.0.0.0 vaccinationinfo.wordpress.com
 0.0.0.0 vaccinationinformationnetwork.com
 0.0.0.0 vaccine-choice-store.myshopify.com
 0.0.0.0 vaccine-injury.info
@@ -2679,6 +2705,7 @@
 0.0.0.0 vashiva.com
 0.0.0.0 vaxcalc.org
 0.0.0.0 vaxchoicevt.com
+0.0.0.0 vaxinfostarthere.com
 0.0.0.0 vaxism.com
 0.0.0.0 vaxnot.vaccine-injury.info
 0.0.0.0 vaxreacts.com
@@ -2688,6 +2715,7 @@
 0.0.0.0 vaxxedthemovie.com
 0.0.0.0 vaxxter.com
 0.0.0.0 vaxxtracker.com
+0.0.0.0 vcyamerica.org
 0.0.0.0 vergereport.com
 0.0.0.0 vernoncoleman.com
 0.0.0.0 vi.sott.net
@@ -2828,6 +2856,7 @@
 0.0.0.0 webdisk.thefreedomarticles.com
 0.0.0.0 webdisk.themadtruther.com
 0.0.0.0 webdisk.thenhf.com
+0.0.0.0 webdisk.therealnews.nz
 0.0.0.0 webdisk.thinkingmomsrevolution.com
 0.0.0.0 webdisk.traceamounts.com
 0.0.0.0 webdisk.trinityhealthfreedomexpo.com
@@ -2915,6 +2944,7 @@
 0.0.0.0 webmail.tenthamendmentcenter.com
 0.0.0.0 webmail.thatvitaminmovie.com
 0.0.0.0 webmail.thedailycoin.org
+0.0.0.0 webmail.therealnews.nz
 0.0.0.0 webmail.thinkingmomsrevolution.com
 0.0.0.0 webmail.traceamounts.com
 0.0.0.0 webmail.trinityhealthfreedomexpo.com
@@ -3030,6 +3060,7 @@
 0.0.0.0 www.ads.shopholistic.com
 0.0.0.0 www.advapet.resultsrna.com
 0.0.0.0 www.aflds.com
+0.0.0.0 www.aftermathnews.wordpress.com
 0.0.0.0 www.ageofautism.com
 0.0.0.0 www.ageoftruth.tv
 0.0.0.0 www.agrdailynews.com
@@ -3046,6 +3077,7 @@
 0.0.0.0 www.alternews.pl
 0.0.0.0 www.althealthworks.com
 0.0.0.0 www.amaka.frontlinemds.com
+0.0.0.0 www.amandamaryandgcmaf.wordpress.com
 0.0.0.0 www.amazingpolly.net
 0.0.0.0 www.americandigest.org
 0.0.0.0 www.americanhealthcoalition.bitrix24.site
@@ -3058,6 +3090,7 @@
 0.0.0.0 www.americasfrontlinedoctorsummit.com
 0.0.0.0 www.amethios.com
 0.0.0.0 www.aminutetomidnite.com
+0.0.0.0 www.amylansky.com
 0.0.0.0 www.ancientlifeoil.com
 0.0.0.0 www.andrewkaufmanmd.com
 0.0.0.0 www.anenu.org
@@ -3093,6 +3126,7 @@
 0.0.0.0 www.b1less.com
 0.0.0.0 www.b24-lkawiv.bitrix24.site
 0.0.0.0 www.baaghitv.com
+0.0.0.0 www.bachheimer.com
 0.0.0.0 www.badblue.bitnamiapp.com
 0.0.0.0 www.balanceoflifeclinic.com
 0.0.0.0 www.banned.video
@@ -3242,6 +3276,7 @@
 0.0.0.0 www.curezone.org
 0.0.0.0 www.cvpandemicinvestigation.com
 0.0.0.0 www.cwclabs.com
+0.0.0.0 www.dailydose4u.wordpress.com
 0.0.0.0 www.dailyexpose.co.uk
 0.0.0.0 www.dailyhealthseries.com
 0.0.0.0 www.dallasforsaferwater.com
@@ -3390,6 +3425,7 @@
 0.0.0.0 www.ewg.org
 0.0.0.0 www.exploringrealhistory.blogspot.com
 0.0.0.0 www.exstnc.com
+0.0.0.0 www.ezekieldiet.com
 0.0.0.0 www.factcheck.news
 0.0.0.0 www.facts-are-facts.com
 0.0.0.0 www.faim.org
@@ -3509,10 +3545,12 @@
 0.0.0.0 www.healthharmonic.com
 0.0.0.0 www.healthimpactnews.com
 0.0.0.0 www.healthinsightuk.org
+0.0.0.0 www.healthmasters.com
 0.0.0.0 www.healthmatreview.com
 0.0.0.0 www.healthnutnews.com
 0.0.0.0 www.healthopolitan.com
 0.0.0.0 www.healthranger.com
+0.0.0.0 www.healthunlimitedbiz.wordpress.com
 0.0.0.0 www.healthwyze.org
 0.0.0.0 www.healthy-action.com
 0.0.0.0 www.healthyhomeopathy.com
@@ -3522,6 +3560,7 @@
 0.0.0.0 www.healthyusepro.com
 0.0.0.0 www.healthywildandfree.com
 0.0.0.0 www.heidistjohn.com
+0.0.0.0 www.heimdallwardablog.wordpress.com
 0.0.0.0 www.hempworxbizop.com
 0.0.0.0 www.herbanomic.com
 0.0.0.0 www.herbreference.com
@@ -3530,6 +3569,8 @@
 0.0.0.0 www.hese-project.org
 0.0.0.0 www.hipegalaxy.com
 0.0.0.0 www.hirnhomeschoolers.com
+0.0.0.0 www.holisticblends.com
+0.0.0.0 www.holisticblends.wordpress.com
 0.0.0.0 www.holisticnewyork.com
 0.0.0.0 www.holtraceuticals.com
 0.0.0.0 www.holylight4u.wordpress.com
@@ -3639,6 +3680,7 @@
 0.0.0.0 www.livehealthybewell.com
 0.0.0.0 www.livingwhole.org
 0.0.0.0 www.liz.frontlinemds.com
+0.0.0.0 www.lloydwright.org
 0.0.0.0 www.lockdownsceptics.org
 0.0.0.0 www.login.aulterra.com
 0.0.0.0 www.londonreal.tv
@@ -3705,6 +3747,7 @@
 0.0.0.0 www.modernalternativemama.com
 0.0.0.0 www.moji.frontlinemds.com
 0.0.0.0 www.momsacrossamerica.com
+0.0.0.0 www.mothernatureandyou.org
 0.0.0.0 www.mpn.frontlinemds.com
 0.0.0.0 www.mpvr.org
 0.0.0.0 www.mtfamiliesforhealthfreedom.com
@@ -3727,6 +3770,7 @@
 0.0.0.0 www.nationandstate.com
 0.0.0.0 www.natural-hacks.com
 0.0.0.0 www.naturalblaze.com
+0.0.0.0 www.naturalbornmomma.wordpress.com
 0.0.0.0 www.naturalhealingnews.com
 0.0.0.0 www.naturalhealth365.com
 0.0.0.0 www.naturalhealthlibrary.com
@@ -3914,6 +3958,7 @@
 0.0.0.0 www.regret.ie
 0.0.0.0 www.remnant-tv.com
 0.0.0.0 www.remnantnewspaper.com
+0.0.0.0 www.renewamerica.com
 0.0.0.0 www.repub.li
 0.0.0.0 www.rescueidaho.freedomman.org
 0.0.0.0 www.resetourplanet.com
@@ -3985,6 +4030,7 @@
 0.0.0.0 www.shopholistic.com
 0.0.0.0 www.shotsoftruth.com
 0.0.0.0 www.shouldivaccinate.com
+0.0.0.0 www.sickandfat.com
 0.0.0.0 www.silver-colloids.com
 0.0.0.0 www.silverbulletin.utopiasilver.com
 0.0.0.0 www.silvermedicine.org
@@ -4074,6 +4120,7 @@
 0.0.0.0 www.theanp.co.uk
 0.0.0.0 www.thearkivist.net
 0.0.0.0 www.thebestdayever.com
+0.0.0.0 www.theblogmire.com
 0.0.0.0 www.theburningplatform.com
 0.0.0.0 www.thechaoscat.wordpress.com
 0.0.0.0 www.thechaoscat71.blogspot.com
@@ -4115,6 +4162,7 @@
 0.0.0.0 www.thepeoplesvoice.org
 0.0.0.0 www.thepetesantillishow.com
 0.0.0.0 www.thepostemail.com
+0.0.0.0 www.therealnews.nz
 0.0.0.0 www.theredpillnews.blogspot.com
 0.0.0.0 www.thesilveredge.com
 0.0.0.0 www.thesteelereport.com
@@ -4177,6 +4225,8 @@
 0.0.0.0 www.v-ial.org
 0.0.0.0 www.vaccination.inoz.com
 0.0.0.0 www.vaccinationdecisions.net
+0.0.0.0 www.vaccinationdilemma.com
+0.0.0.0 www.vaccinationinfo.wordpress.com
 0.0.0.0 www.vaccinationinformationnetwork.com
 0.0.0.0 www.vaccine-choice-store.myshopify.com
 0.0.0.0 www.vaccine-injury.info
@@ -4217,6 +4267,7 @@
 0.0.0.0 www.vashiva.com
 0.0.0.0 www.vaxcalc.org
 0.0.0.0 www.vaxchoicevt.com
+0.0.0.0 www.vaxinfostarthere.com
 0.0.0.0 www.vaxism.com
 0.0.0.0 www.vaxnot.vaccine-injury.info
 0.0.0.0 www.vaxreacts.com
@@ -4226,6 +4277,7 @@
 0.0.0.0 www.vaxxedthemovie.com
 0.0.0.0 www.vaxxter.com
 0.0.0.0 www.vaxxtracker.com
+0.0.0.0 www.vcyamerica.org
 0.0.0.0 www.vergereport.com
 0.0.0.0 www.vernoncoleman.com
 0.0.0.0 www.videola.localad.com
