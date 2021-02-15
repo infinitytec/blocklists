@@ -132,6 +132,11 @@ cpc.clickbooth.com
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
+cryptoage.com##.clearfix.zindex10.image-section
+cryptoage.com##.top-module-position > .moduletable > div
+cryptoage.com##.visible-desktop.right-module-position > div.moduletable > div > .content-module > p > [href^="https://www.binance.com/en/register"]
+cryptoage.com##div.moduletable:nth-of-type(2)
+cryptoage.com##div.moduletable:nth-of-type(5)
 datspush.com
 deadspin.com##.ad-left-top.dfp-slot-LEFT_TOP.dfp.ad-container
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(2) > .fHVkyq.sav3un-4 > .CjFXp.sav3un-7
@@ -268,6 +273,7 @@ linuxmint.com##.sponsors
 linuxmint.com##h3:nth-of-type(2)
 linuxmint.com##h3:nth-of-type(3)
 litemethod-revenue.life
+liveandletsfly.com##div.widget_custom_html.sidebar-widget.widget.widget_text:nth-of-type(2)
 lmgtfy.com##div:nth-of-type(1) > iframe
 local.dmv.org##.ClickPartnerTitleLink
 local.dmv.org##.dfp
@@ -1053,6 +1059,9 @@ www.shoppok.com##.adblocka
 www.shrink.pe
 www.slate.com##div.tablet-ad
 www.slaw.ca###header-boxes
+www.smokymountainnews.com###jsn-pos-banner > .jsn-modulecontainer > .jsn-modulecontainer_inner > .jsn-modulecontent > .bannergroup
+www.smokymountainnews.com###jsn-pos-right > div.jsn-modulecontainer > .jsn-modulecontainer_inner > .jsn-modulecontent > .bannergroup > .banneritem
+www.smokymountainnews.com##.moduletable > .bannergroup
 www.snopes.com##.smg-zone-widget-ads-placement
 www.solarcity-freiburg.de
 www.spielwarenpinocchio.de
