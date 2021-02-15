@@ -112,6 +112,7 @@ www.drugs.com##.ddc-social-share
 www.dummies.com##.dummies-newsletter
 www.experts-exchange.com##.exitOverlay.featherlight
 www.foodnetwork.com##.o-FullAttribution.o-Capsule
+www.forbes.com##.video-placeholder
 www.foxnews.com##.notification-banner
 www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
 www.hackster.io###hello-world
@@ -216,4 +217,5 @@ yourbusiness.azcentral.com###jwplayer-section
 ||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2019_american_patriots_2.jpg$image
 ||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2020_American_Arenas.jpg$image
 ||systemcenterdudes.com/Banner/index.html$subdocument
+||thumbor.forbes.com/thumbor/75x0/i.forbesimg.com/media/assets/logos/f-gray.png$image
 ||www.rawstory.com/wp-content/uploads/2020/01/Bill-Barr-poll-large.gif$image
