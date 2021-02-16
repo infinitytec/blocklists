@@ -4,7 +4,7 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
 0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
-0.0.0.0 Pagerankcafe.com
+0.0.0.0 pagerankcafe.com
 0.0.0.0 adbutler.com
 0.0.0.0 admin-api.adbutler.com
 0.0.0.0 admin.adbutler.com
@@ -89,6 +89,7 @@
 0.0.0.0 jut7866.info
 0.0.0.0 kb.anstrex.com
 0.0.0.0 khs-food.de
+0.0.0.0 kiwisuperb.com
 0.0.0.0 links.performcb.com
 0.0.0.0 litemethod-revenue.life
 0.0.0.0 login.clickbooth.com
@@ -153,6 +154,7 @@
 0.0.0.0 test.ogads.com
 0.0.0.0 teutschebein.de
 0.0.0.0 therapie-lutzebaeck-berlin.de
+0.0.0.0 todkna6l7138x9.w633-cdaf.eueizrr.gq
 0.0.0.0 togetherforwine.com
 0.0.0.0 tomtomgopre.online
 0.0.0.0 track.clickbooth.com
@@ -162,7 +164,7 @@
 0.0.0.0 webseite-erstellen-koeln.de
 0.0.0.0 wifiextenderhelp.com
 0.0.0.0 wiki.clickbooth.com
-0.0.0.0 www.Pagerankcafe.com
+0.0.0.0 www.pagerankcafe.com
 0.0.0.0 www.adbutler.com
 0.0.0.0 www.aii.sh
 0.0.0.0 www.altonaerhochbau.de
