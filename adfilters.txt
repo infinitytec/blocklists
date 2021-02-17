@@ -259,6 +259,8 @@ kotaku.com##.ad-commerce
 kotaku.com##.ad-mobile
 kotaku.com##.movable-ad
 kotaku.com##div.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic.gamHXh.bxm4mm-11:nth-of-type(4) > .dQlBGJ.bxm4mm-9.bxm4mm-8
+krebsonsecurity.com###sidebar > [href^="https://www.akamai.com/us/en/what-we-do/intelligent-platform/"]
+krebsonsecurity.com###sidebar-box > .a-img
 kutv.com##div[id^=interstory_]
 lifehacker.com##.ad-container
 lifehacker.com##.ad-mobile
