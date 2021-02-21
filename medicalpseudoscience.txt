@@ -26,6 +26,7 @@
 0.0.0.0 5verdades.org
 0.0.0.0 6ways.aulterra.com
 0.0.0.0 7thchakrafilms.com
+0.0.0.0 835793-app2.energeticsynthesis.com
 0.0.0.0 911nwo.com
 0.0.0.0 aapsonline.org
 0.0.0.0 abcnow.cc
@@ -190,6 +191,7 @@
 0.0.0.0 autodiscover.accreditation.foodforthebrain.org
 0.0.0.0 autodiscover.ascensionenergyprogram.com
 0.0.0.0 autodiscover.autismonevirtualsummit.org
+0.0.0.0 autodiscover.biohackinfo.com
 0.0.0.0 autodiscover.circleofmamas.com
 0.0.0.0 autodiscover.conservativeplaylist.com
 0.0.0.0 autodiscover.davidherin.org
@@ -289,6 +291,7 @@
 0.0.0.0 biodefense.com
 0.0.0.0 bioelectricshield.com
 0.0.0.0 bioenergymedicalcenter.com
+0.0.0.0 biohackinfo.com
 0.0.0.0 bioinitiative.org
 0.0.0.0 bitchute.com
 0.0.0.0 bitcoin.fetch.news
@@ -605,6 +608,7 @@
 0.0.0.0 cpanel.strangesounds.org
 0.0.0.0 cpanel.thatvitaminmovie.com
 0.0.0.0 cpanel.thedailycoin.org
+0.0.0.0 cpanel.theiowastandard.com
 0.0.0.0 cpanel.therealnews.nz
 0.0.0.0 cpanel.thinkingmomsrevolution.com
 0.0.0.0 cpanel.traceamounts.com
@@ -624,6 +628,7 @@
 0.0.0.0 cpcalendars.5gdangers.com
 0.0.0.0 cpcalendars.americandigest.org
 0.0.0.0 cpcalendars.autismonevirtualsummit.org
+0.0.0.0 cpcalendars.biohackinfo.com
 0.0.0.0 cpcalendars.childrenshealthdefense.org
 0.0.0.0 cpcalendars.circleofmamas.com
 0.0.0.0 cpcalendars.citizenfreepress.com
@@ -687,6 +692,7 @@
 0.0.0.0 cpcalendars.the17news.com
 0.0.0.0 cpcalendars.thedailycoin.org
 0.0.0.0 cpcalendars.thefreedomarticles.com
+0.0.0.0 cpcalendars.theiowastandard.com
 0.0.0.0 cpcalendars.themadtruther.com
 0.0.0.0 cpcalendars.thenhf.com
 0.0.0.0 cpcalendars.therealnews.nz
@@ -705,6 +711,7 @@
 0.0.0.0 cpcontacts.5gdangers.com
 0.0.0.0 cpcontacts.americandigest.org
 0.0.0.0 cpcontacts.autismonevirtualsummit.org
+0.0.0.0 cpcontacts.biohackinfo.com
 0.0.0.0 cpcontacts.childrenshealthdefense.org
 0.0.0.0 cpcontacts.circleofmamas.com
 0.0.0.0 cpcontacts.citizenfreepress.com
@@ -767,6 +774,7 @@
 0.0.0.0 cpcontacts.the17news.com
 0.0.0.0 cpcontacts.thedailycoin.org
 0.0.0.0 cpcontacts.thefreedomarticles.com
+0.0.0.0 cpcontacts.theiowastandard.com
 0.0.0.0 cpcontacts.themadtruther.com
 0.0.0.0 cpcontacts.thenhf.com
 0.0.0.0 cpcontacts.therealnews.nz
@@ -917,6 +925,7 @@
 0.0.0.0 dilaraesengil.blog
 0.0.0.0 direct.resultsrna.com
 0.0.0.0 directory.thefourwinds.com
+0.0.0.0 disclosurenews.it
 0.0.0.0 disenchantedscholar.wordpress.com
 0.0.0.0 dishwasherdetergent.healthrangerstore.com
 0.0.0.0 distributednews.com
@@ -1057,6 +1066,7 @@
 0.0.0.0 en.baaghitv.com
 0.0.0.0 endtimesnews.home.blog
 0.0.0.0 energetichealthinstitute.org
+0.0.0.0 energeticsynthesis.com
 0.0.0.0 enrichedparenting.org
 0.0.0.0 entertainment.whatfinger.com
 0.0.0.0 entropystream.live
@@ -1599,6 +1609,7 @@
 0.0.0.0 mail.actionagainst5g.org
 0.0.0.0 mail.autismonevirtualsummit.org
 0.0.0.0 mail.bawellwaterionizers.com
+0.0.0.0 mail.biohackinfo.com
 0.0.0.0 mail.bodyalign.com
 0.0.0.0 mail.brandnewtube.com
 0.0.0.0 mail.brucelipton.com
@@ -1695,6 +1706,7 @@
 0.0.0.0 mail.thearkivist.net
 0.0.0.0 mail.thedailycoin.org
 0.0.0.0 mail.thefreedomarticles.com
+0.0.0.0 mail.theiowastandard.com
 0.0.0.0 mail.themadtruther.com
 0.0.0.0 mail.thenewamerican.com
 0.0.0.0 mail.thesilveredge.com
@@ -2167,6 +2179,7 @@
 0.0.0.0 pensacola.tenthamendmentcenter.com
 0.0.0.0 pension.solari.com
 0.0.0.0 personalcareproducts.naturalnews.com
+0.0.0.0 petition.theiowastandard.com
 0.0.0.0 phibetaiota.net
 0.0.0.0 philosophers-stone.info
 0.0.0.0 phiremedical.org
@@ -2668,7 +2681,9 @@
 0.0.0.0 thehighwire.com
 0.0.0.0 thehighwire.shop
 0.0.0.0 theinfectiousmyth.com
+0.0.0.0 theiowastandard.com
 0.0.0.0 thelastamericanvagabond.com
+0.0.0.0 thelightinthedarkplace.com
 0.0.0.0 thelinecanada.com
 0.0.0.0 themadtruther.com
 0.0.0.0 themclinic.com
@@ -2916,6 +2931,7 @@
 0.0.0.0 webdisk.americandigest.org
 0.0.0.0 webdisk.ascensionenergyprogram.com
 0.0.0.0 webdisk.autismonevirtualsummit.org
+0.0.0.0 webdisk.biohackinfo.com
 0.0.0.0 webdisk.childrenshealthdefense.org
 0.0.0.0 webdisk.circleofmamas.com
 0.0.0.0 webdisk.citizenfreepress.com
@@ -2988,6 +3004,7 @@
 0.0.0.0 webdisk.the17news.com
 0.0.0.0 webdisk.thedailycoin.org
 0.0.0.0 webdisk.thefreedomarticles.com
+0.0.0.0 webdisk.theiowastandard.com
 0.0.0.0 webdisk.themadtruther.com
 0.0.0.0 webdisk.thenhf.com
 0.0.0.0 webdisk.therealnews.nz
@@ -3083,6 +3100,7 @@
 0.0.0.0 webmail.tenthamendmentcenter.com
 0.0.0.0 webmail.thatvitaminmovie.com
 0.0.0.0 webmail.thedailycoin.org
+0.0.0.0 webmail.theiowastandard.com
 0.0.0.0 webmail.therealnews.nz
 0.0.0.0 webmail.thinkingmomsrevolution.com
 0.0.0.0 webmail.traceamounts.com
@@ -3296,6 +3314,7 @@
 0.0.0.0 www.biodefense.com
 0.0.0.0 www.bioelectricshield.com
 0.0.0.0 www.bioenergymedicalcenter.com
+0.0.0.0 www.biohackinfo.com
 0.0.0.0 www.bioinitiative.org
 0.0.0.0 www.bitchute.com
 0.0.0.0 www.blacklistednews.com
@@ -3463,6 +3482,7 @@
 0.0.0.0 www.dev.strangesounds.org
 0.0.0.0 www.dilaraesengil.blog
 0.0.0.0 www.direct.resultsrna.com
+0.0.0.0 www.disclosurenews.it
 0.0.0.0 www.disenchantedscholar.wordpress.com
 0.0.0.0 www.distributednews.com
 0.0.0.0 www.divinitynow.com
@@ -3564,6 +3584,7 @@
 0.0.0.0 www.en-volve.com
 0.0.0.0 www.endtimesnews.home.blog
 0.0.0.0 www.energetichealthinstitute.org
+0.0.0.0 www.energeticsynthesis.com
 0.0.0.0 www.enrichedparenting.org
 0.0.0.0 www.entropystream.live
 0.0.0.0 www.envirowatchrangitikei.wordpress.com
@@ -4337,7 +4358,9 @@
 0.0.0.0 www.thehighwire.com
 0.0.0.0 www.thehighwire.shop
 0.0.0.0 www.theinfectiousmyth.com
+0.0.0.0 www.theiowastandard.com
 0.0.0.0 www.thelastamericanvagabond.com
+0.0.0.0 www.thelightinthedarkplace.com
 0.0.0.0 www.thelinecanada.com
 0.0.0.0 www.themadtruther.com
 0.0.0.0 www.themclinic.com
