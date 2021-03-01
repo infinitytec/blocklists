@@ -27,6 +27,7 @@ classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary
 classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10) > .cta_inner
 coinmarketcap.com##.bLdgZv.jltjox-0
 coinmarketcap.com##.cmc-cookie-policy-banner
+coinmarketcap.com##.fpuWWI
 coinmarketcap.com##.jJisww
 coinmarketcap.com##.jltjox-0
 columbiadailyherald.com###dialog-message
@@ -82,6 +83,8 @@ support.zyxel.eu###cookie_popup
 support.zyxel.eu##.ls-alert-box
 swtimes.com###dialog-message
 taftmidwaydriller.com###dialog-message
+tekdeeps.com###ai_widget-2
+tekdeeps.com###ai_widget-3
 teknologya.com###cookie-law-info-bar
 thehill.com###lightbox-63d68459-6221-4d67-9e2a-bcf7b46e5648-1579319402544
 tuscaloosanews.com###dialog-message
@@ -101,6 +104,7 @@ www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 www.bestbuy.com##.c-modal-grid
 www.britannica.com##.pl-70.p-15
 www.business.com##.css-md5sep-TransparentContainer
+www.citationmachine.net##div[class ^= styled__SideView]
 www.cnet.com##.entered.dock.inviewElement
 www.cnx-software.com###custom_html-2
 www.crn.com##.eupopup-color-default.eupopup-container-bottom.eupopup-container
@@ -196,6 +200,9 @@ www.washingtonpost.com##.bb.b-ns.b-none
 www.washingtontimes.com###teaser-cdf955ca-7a66-40fa-b125-cb9750d610f6
 www.webmd.com###ContentPane40
 www.wfmynews2.com##.notifications
+www.windowscentral.com###banneradspace
+www.windowscentral.com##.mobile-leaderboard-320-50
+www.windowscentral.com##body > div:nth-child(31)
 www.wired.com###failsafe-clickthrough
 www.wired.com##.in-content
 www.wired.com##.journey-template--mpu.cm-rail-wrapper
@@ -219,4 +226,3 @@ yourbusiness.azcentral.com###jwplayer-section
 ||systemcenterdudes.com/Banner/index.html$subdocument
 ||thumbor.forbes.com/thumbor/75x0/i.forbesimg.com/media/assets/logos/f-gray.png$image
 ||www.rawstory.com/wp-content/uploads/2020/01/Bill-Barr-poll-large.gif$image
-www.citationmachine.net##div[class ^= styled__SideView]
