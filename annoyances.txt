@@ -75,6 +75,7 @@ pve.proxmox.com##.mw-cookiewarning-container
 recordnet.com###dialog-message
 ridgecrestca.com###dialog-message
 seacoastonline.com###dialog-message
+silicophilic.com###custom_html-9
 siskiyoudaily.com###dialog-message
 smile.amazon.com###universal-detail-ilm
 sourceforge.net###newsletter-floating
@@ -102,11 +103,13 @@ www.amazon.com###universal-detail-ilm
 www.apple.com##.typography-caption.ribbon-content-wrapper
 www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 www.bestbuy.com##.c-modal-grid
+www.bhphotovideo.com###notificationSubscribePop
 www.britannica.com##.pl-70.p-15
 www.business.com##.css-md5sep-TransparentContainer
 www.citationmachine.net##div[class ^= styled__SideView]
 www.cnet.com##.entered.dock.inviewElement
 www.cnx-software.com###custom_html-2
+www.coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
 www.crn.com##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 www.dell.com##.alert-warning.alert
 www.digitalocean.com##._panel_1nv7e_1
@@ -121,6 +124,7 @@ www.foxnews.com##.notification-banner
 www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
 www.hackster.io###hello-world
 www.hackster.io##.project_count_banner__container__1m4vf
+www.hattiesburgamerican.com##.gnt_em__el.gnt_em_vp__tavp.gnt_em
 www.healthysimulation.com###cliSettingsPopup
 www.hwinfo.com##.cookie-agree-with-use
 www.insidehook.com##.sticky.signup
@@ -134,6 +138,7 @@ www.kansas.com###onetrust-banner-sdk
 www.kbb.com##.css-nsnnj-StyledToolbar-default
 www.kbb.com##.has-shadow.animated.show.offset-top-0.bottom.padding-horizontal-2.justify-content-center.display-flex.sticky-container
 www.khou.com##.notifications
+www.kwch.com##.flex-lg-fill.flex-column.d-flex.rail.\|.top-right-rail
 www.latimes.com##.ensNotifyBanner
 www.latimes.com##.met-flyout
 www.lifenews.com###blockModalPopupDiv
@@ -153,6 +158,8 @@ www.nvidia.com##.shadowBox-light.noSelection
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
 www.paypal.com##.cw_tile__floatingPromo-contentContainer
+www.pitneybowes.com###confirmit_invitecontainer
+www.pitneybowes.com###confirmit_overlay
 www.pocket-lint.com##.blocks
 www.politico.com##.has-borders.bump-in.story-enhancement
 www.politico.com##.type--center-well.first-party-data-form
@@ -188,6 +195,7 @@ www.thedailybeast.com##.ribbon.ng-scope
 www.thekansan.com###dialog-message
 www.thewindowsclub.com###text-422067543
 www.thewindowsclub.com###text-422067543 > .textwidget > center
+www.tomshardware.com##.sticky-player-background
 www.truthinadvertising.org###pb-newsletter_sign_up
 www.ubackup.com##div.side-item:nth-of-type(1)
 www.valuewalk.com###spu-bg-2260102
