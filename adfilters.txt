@@ -71,6 +71,8 @@ blog.clickbooth.com
 bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
 bongino.com##div:nth-of-type(3) > .ai-attributes > .code-block-label
 boonevilledemocrat.com##.ad-container
+bronx.news12.com##.section-5c6c979d2d350613f88611118713bec4.section
+bronx.news12.com##div.banner-sidebar.banner
 business.realtracker.com
 butlercountytimesgazette.com##.ad-container
 calibre.en.uptodown.com##div.ad
@@ -356,6 +358,7 @@ newsguardwatch.com##.FEHACDBGMNOP
 newstribune.info##.ad-container
 notthebee.com###Notthebee_Player_Mobile > .brid
 nszwangsarbeit.de
+office365itpros.com###media_image-5
 ogads.com
 ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(3)
 ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(4)
@@ -509,6 +512,9 @@ web4.realtracker.com
 webseed.com
 webseite-erstellen-koeln.de
 weebly.com##.footer-published-ab-powered-by
+whattomine.com##.my-2 > .centered-image-short
+whattomine.com##.table-vcenter.table-hover.table-sm.table .centered-image-short
+whattomine.com##.text-center.mb-2.mt-0
 wifiextenderhelp.com
 wiki.clickbooth.com
 win10supports.com##.entry-content > div:nth-of-type(1) > p
@@ -570,6 +576,10 @@ www.anders-onlinehandel.de
 www.androidpolice.com##.adslot_ap2_trending_posts.adslot.adsbygoogle
 www.anstrex.com
 www.appstrk.com
+www.arthritis-health.com###block-vh-dfp-dfp-ad-left > .clearfix.block-inner > .block__title
+www.arthritis-health.com###block-vh-dfp-dfp-ad-r1 > .clearfix.block-inner > .block__title
+www.arthritis-health.com###block-vh-dfp-dfp-ad-r2 > .clearfix.block-inner
+www.arthritis-health.com##.block--vh-footer-ads-vh-footer-ads.block--vh-footer-ads.block
 www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
 www.att.com##.advertisementpanel
 www.au-pair-hildesheim.de
@@ -629,6 +639,7 @@ www.cyberciti.biz##center
 www.dailydot.com##.taboola-in-plug-wrap
 www.dailydot.com##.text-center.footer-in-plug.in-plug-holder
 www.dailymail.co.uk###stickyBanner
+www.dailypress.com##div.trb_ar_cont
 www.dailywire.com###csci-da522ee51914-5fb1eb20-d24e0c7d-03a07fc3-59126ea72df55f4b
 www.dailywire.com##.csci-breakout
 www.dailywire.com##.css-xcwzjc
@@ -680,6 +691,7 @@ www.duplichecker.com##.tool_bg.col-md-12 > .text-center.aadd_box1586235442
 www.duplichecker.com##.w768.container > .col-md-12 > .text-center.aadd_box1586235171
 www.duplichecker.com##div.text-center.aadd_box1586235442:nth-of-type(3)
 www.duplichecker.com##div.text-center.aadd_box1586235442:nth-of-type(7)
+www.easytechguides.com##aside.container
 www.economist.com###HomepageAd1
 www.economist.com###HomepageAd2
 www.economist.com###HomepageAd3
@@ -699,6 +711,7 @@ www.feuerwehr-ahrensfelde.de
 www.fileerrors.com###myModal
 www.fileerrors.com##.in.fade.modal-backdrop
 www.fincasonbaro.de
+www.fool.com##.sticky > div.box
 www.forbes.com###article-0-ad-0
 www.forbes.com###article-0-ad-1
 www.forbes.com###article-0-ad-2
@@ -1080,6 +1093,10 @@ www.techpowerup.com##.nkuztfvdswe
 www.techpowerup.com##.nspy
 www.techpowerup.com##.ravqfx
 www.techpowerup.com##.zkybes
+www.techradar.com##.slot-afterPopularBox
+www.techradar.com##.slot-beforePopularBox
+www.techradar.com##.slot-beforePopularBox > .bordeaux-slot-root
+www.techradar.com##.slot-topOfSidebar
 www.techwalla.com##.component-header-sticky-ad
 www.techyuga.com##.dialog-lightbox-message.dialog-message
 www.techyuga.com##.elementor-top-column.elementor-col-50.elementor-column
@@ -1134,6 +1151,12 @@ www.thv11.com##div[id^="taboola-mobile-below-article-"]
 www.timeanddate.com###ad-wrap
 www.timeanddate.com###ad300
 www.togetherforwine.com
+www.tomshardware.com##.slot-afterPopularBox
+www.tomshardware.com##.slot-beforePopularBox
+www.tomshardware.com##.slot-leaderboard
+www.tomshardware.com##.slot-leaderboard > .bordeaux-slot-root
+www.tomshardware.com##.slot-topOfSidebar
+www.tomshardware.com##.slot-topOfSidebar > .bordeaux-slot-root
 www.tomtomgopre.online
 www.translator.eu###sponsored2_mobil
 www.translator.eu##.adsbygoogle
@@ -1240,6 +1263,7 @@ www.wthr.com###taboola-mobile-below-article-0
 www.wthr.com##.ad
 www.zapsplat.com##.adContainer
 www1.cbn.com##.header-ad
+yourbusiness.azcentral.com##.partner-placement
 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 ||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
