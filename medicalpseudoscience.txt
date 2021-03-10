@@ -330,6 +330,7 @@
 0.0.0.0 bigpharma.fetch.news
 0.0.0.0 biodefense.com
 0.0.0.0 bioelectricshield.com
+0.0.0.0 bioelectromagnetics.org
 0.0.0.0 bioenergymedicalcenter.com
 0.0.0.0 biohackinfo.com
 0.0.0.0 bioinitiative.org
@@ -348,6 +349,7 @@
 0.0.0.0 blog.americandigest.org
 0.0.0.0 blog.bodyalign.com
 0.0.0.0 blog.de-program.org
+0.0.0.0 blog.energeticnutrition.com
 0.0.0.0 blog.frontlinemds.com
 0.0.0.0 blog.gapsdiet.com
 0.0.0.0 blog.nomorefakenews.com
@@ -599,6 +601,7 @@
 0.0.0.0 courses.seekinghealth.com
 0.0.0.0 covexit.com
 0.0.0.0 covid-unmasked.net
+0.0.0.0 covid19criticalcare.com
 0.0.0.0 covidahl.net
 0.0.0.0 covidcalltohumanity.org
 0.0.0.0 covidcare.frontlinemds.com
@@ -615,6 +618,7 @@
 0.0.0.0 cpanel.arnica.org.uk
 0.0.0.0 cpanel.ascensionenergyprogram.com
 0.0.0.0 cpanel.bd.brandnewtube.com
+0.0.0.0 cpanel.bioelectromagnetics.org
 0.0.0.0 cpanel.brucelipton.com
 0.0.0.0 cpanel.childrenshealthdefense.org
 0.0.0.0 cpanel.citizenfreepress.com
@@ -702,6 +706,7 @@
 0.0.0.0 cpcalendars.americandigest.org
 0.0.0.0 cpcalendars.arnica.org.uk
 0.0.0.0 cpcalendars.autismonevirtualsummit.org
+0.0.0.0 cpcalendars.bioelectromagnetics.org
 0.0.0.0 cpcalendars.biohackinfo.com
 0.0.0.0 cpcalendars.centerforpersonalrights.org
 0.0.0.0 cpcalendars.childrenshealthdefense.org
@@ -798,6 +803,7 @@
 0.0.0.0 cpcontacts.americandigest.org
 0.0.0.0 cpcontacts.arnica.org.uk
 0.0.0.0 cpcontacts.autismonevirtualsummit.org
+0.0.0.0 cpcontacts.bioelectromagnetics.org
 0.0.0.0 cpcontacts.biohackinfo.com
 0.0.0.0 cpcontacts.centerforpersonalrights.org
 0.0.0.0 cpcontacts.childrenshealthdefense.org
@@ -943,6 +949,7 @@
 0.0.0.0 dc-76fa1538a322.thinkingmomsrevolution.com
 0.0.0.0 dc-841d77cd74d9.fhfn.org
 0.0.0.0 dc-91665e159133.nationaldailyng.com
+0.0.0.0 dc-9f759e4cc7fd.bioelectromagnetics.org
 0.0.0.0 dc-c37b26482ff7.americasfrontlinedocs.com
 0.0.0.0 dc-d9ebd6ea.tenthamendmentcenter.com
 0.0.0.0 dc-df61332ce73a.mynewscorp.com
@@ -1200,6 +1207,7 @@
 0.0.0.0 en.corona-ausschuss.de
 0.0.0.0 endtimesnews.home.blog
 0.0.0.0 energetichealthinstitute.org
+0.0.0.0 energeticnutrition.com
 0.0.0.0 energeticsynthesis.com
 0.0.0.0 energymedicinewoman.com
 0.0.0.0 enikken.nikken.com
@@ -1434,6 +1442,7 @@
 0.0.0.0 hagmannstore.com
 0.0.0.0 hahnemannlabs.com
 0.0.0.0 halturnerradioshow.com
+0.0.0.0 harmonicinnerprizes.com
 0.0.0.0 harmonipendant.com
 0.0.0.0 harvest.solari.com
 0.0.0.0 harvoa-med.blogspot.com
@@ -1779,6 +1788,7 @@
 0.0.0.0 lozanomedicalclinic.com
 0.0.0.0 lp.drrachael.com
 0.0.0.0 ls.uy
+0.0.0.0 lv.harmonicinnerprizes.com
 0.0.0.0 lw.lewrockwell.com
 0.0.0.0 lymebook.com
 0.0.0.0 lymecommunity.lymebook.com
@@ -1821,6 +1831,7 @@
 0.0.0.0 mail.autismonevirtualsummit.org
 0.0.0.0 mail.bawellwaterionizers.com
 0.0.0.0 mail.bbch.community
+0.0.0.0 mail.bioelectromagnetics.org
 0.0.0.0 mail.biohackinfo.com
 0.0.0.0 mail.bodyalign.com
 0.0.0.0 mail.brandnewtube.com
@@ -1846,6 +1857,7 @@
 0.0.0.0 mail.electricsenseinterviews101.com
 0.0.0.0 mail.electrosmogrx.com
 0.0.0.0 mail.electroverse.net
+0.0.0.0 mail.emfacademy.com
 0.0.0.0 mail.emfadvice.com
 0.0.0.0 mail.emfrequency.com
 0.0.0.0 mail.emofree.com
@@ -2210,6 +2222,7 @@
 0.0.0.0 neurohacker.com
 0.0.0.0 neuropathy.doctorbhatia.com
 0.0.0.0 new.autismone.org
+0.0.0.0 new.energeticnutrition.com
 0.0.0.0 new.finalcall.com
 0.0.0.0 new.foodforthebrain.org
 0.0.0.0 new.rumormillnews.com
@@ -2820,6 +2833,7 @@
 0.0.0.0 southcarolina.tenthamendmentcenter.com
 0.0.0.0 southtexas.tenthamendmentcenter.com
 0.0.0.0 speakers.tenthamendmentcenter.com
+0.0.0.0 special.aulterra.com
 0.0.0.0 specials.healingwiththemasters.com
 0.0.0.0 speedoflove.iwarp.com
 0.0.0.0 speroprotectionclothing.com
@@ -3085,6 +3099,7 @@
 0.0.0.0 thephaser.com
 0.0.0.0 thepostemail.com
 0.0.0.0 therealnews.nz
+0.0.0.0 therealslog.com
 0.0.0.0 theredpillnews.blogspot.com
 0.0.0.0 therefurbishedrogue.wordpress.com
 0.0.0.0 thesilveredge.com
@@ -3355,6 +3370,7 @@
 0.0.0.0 webdisk.arnica.org.uk
 0.0.0.0 webdisk.ascensionenergyprogram.com
 0.0.0.0 webdisk.autismonevirtualsummit.org
+0.0.0.0 webdisk.bioelectromagnetics.org
 0.0.0.0 webdisk.biohackinfo.com
 0.0.0.0 webdisk.centerforpersonalrights.org
 0.0.0.0 webdisk.childrenshealthdefense.org
@@ -3471,6 +3487,7 @@
 0.0.0.0 webmail.americandigest.org
 0.0.0.0 webmail.arnica.org.uk
 0.0.0.0 webmail.ascensionenergyprogram.com
+0.0.0.0 webmail.bioelectromagnetics.org
 0.0.0.0 webmail.brucelipton.com
 0.0.0.0 webmail.childrenshealthdefense.org
 0.0.0.0 webmail.citizenfreepress.com
@@ -3802,6 +3819,7 @@
 0.0.0.0 www.bibliotecapleyades.net
 0.0.0.0 www.biodefense.com
 0.0.0.0 www.bioelectricshield.com
+0.0.0.0 www.bioelectromagnetics.org
 0.0.0.0 www.bioenergymedicalcenter.com
 0.0.0.0 www.biohackinfo.com
 0.0.0.0 www.bioinitiative.org
@@ -3931,6 +3949,7 @@
 0.0.0.0 www.courageinpublichealth.org
 0.0.0.0 www.covexit.com
 0.0.0.0 www.covid-unmasked.net
+0.0.0.0 www.covid19criticalcare.com
 0.0.0.0 www.covidahl.net
 0.0.0.0 www.covidcalltohumanity.org
 0.0.0.0 www.covidcare.frontlinemds.com
@@ -4108,6 +4127,7 @@
 0.0.0.0 www.en-volve.com
 0.0.0.0 www.endtimesnews.home.blog
 0.0.0.0 www.energetichealthinstitute.org
+0.0.0.0 www.energeticnutrition.com
 0.0.0.0 www.energeticsynthesis.com
 0.0.0.0 www.energymedicinewoman.com
 0.0.0.0 www.enrichedparenting.org
@@ -4249,6 +4269,7 @@
 0.0.0.0 www.hagmannstore.com
 0.0.0.0 www.hahnemannlabs.com
 0.0.0.0 www.halturnerradioshow.com
+0.0.0.0 www.harmonicinnerprizes.com
 0.0.0.0 www.harmonipendant.com
 0.0.0.0 www.harvoa-med.blogspot.com
 0.0.0.0 www.harvoa.org
@@ -5035,6 +5056,7 @@
 0.0.0.0 www.thephaser.com
 0.0.0.0 www.thepostemail.com
 0.0.0.0 www.therealnews.nz
+0.0.0.0 www.therealslog.com
 0.0.0.0 www.theredpillnews.blogspot.com
 0.0.0.0 www.therefurbishedrogue.wordpress.com
 0.0.0.0 www.thesilveredge.com
