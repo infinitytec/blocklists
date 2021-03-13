@@ -4,7 +4,6 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
 0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
-0.0.0.0 pagerankcafe.com
 0.0.0.0 adbutler.com
 0.0.0.0 admin-api.adbutler.com
 0.0.0.0 admin.adbutler.com
@@ -78,6 +77,7 @@
 0.0.0.0 gamesdienst.de
 0.0.0.0 garminupdatenow.online
 0.0.0.0 get.popplunder.com
+0.0.0.0 getyoutothenext.com
 0.0.0.0 gimbal.com
 0.0.0.0 goldbek-apotheke.de
 0.0.0.0 grafikstudio-vonfroreich.de
@@ -116,6 +116,7 @@
 0.0.0.0 ogads.com
 0.0.0.0 online-dating-portale.de
 0.0.0.0 orders.adbutler.com
+0.0.0.0 pagerankcafe.com
 0.0.0.0 performcb.com
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 popplunder.com
@@ -164,7 +165,6 @@
 0.0.0.0 webseite-erstellen-koeln.de
 0.0.0.0 wifiextenderhelp.com
 0.0.0.0 wiki.clickbooth.com
-0.0.0.0 www.pagerankcafe.com
 0.0.0.0 www.adbutler.com
 0.0.0.0 www.aii.sh
 0.0.0.0 www.altonaerhochbau.de
@@ -203,6 +203,7 @@
 0.0.0.0 www.galerieweishaupt.de
 0.0.0.0 www.gamesdienst.de
 0.0.0.0 www.garminupdatenow.online
+0.0.0.0 www.getyoutothenext.com
 0.0.0.0 www.gimbal.com
 0.0.0.0 www.goldbek-apotheke.de
 0.0.0.0 www.grafikstudio-vonfroreich.de
@@ -221,6 +222,7 @@
 0.0.0.0 www.nszwangsarbeit.de
 0.0.0.0 www.ogads.com
 0.0.0.0 www.online-dating-portale.de
+0.0.0.0 www.pagerankcafe.com
 0.0.0.0 www.performcb.com
 0.0.0.0 www.popplunder.com
 0.0.0.0 www.printersupports.online
