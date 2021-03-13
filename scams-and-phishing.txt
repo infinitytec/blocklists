@@ -39,6 +39,7 @@
 0.0.0.0 615onyo.com
 0.0.0.0 632558.com.cn
 0.0.0.0 662938.com.cn
+0.0.0.0 6ways.aulterra.com
 0.0.0.0 70hitz.com
 0.0.0.0 77ss.com.cn
 0.0.0.0 800-customerservicenumber.org
@@ -47,8 +48,6 @@
 0.0.0.0 8x8kikaku.com
 0.0.0.0 9jahit.com
 0.0.0.0 9xrockersa.co
-0.0.0.0 freetricks.website
-0.0.0.0 reward3spot.com
 0.0.0.0 a.buycocaineonline.se
 0.0.0.0 a.promotionsonlineusa.com
 0.0.0.0 a2satblog.com
@@ -167,6 +166,7 @@
 0.0.0.0 assignmenthelp824736882.wordpress.com
 0.0.0.0 au-pair-hildesheim.de
 0.0.0.0 audioline-music.de
+0.0.0.0 aulterra.com
 0.0.0.0 autodiscover.emfrequency.com
 0.0.0.0 autodiscover.emfshieldprotect.com
 0.0.0.0 autodiscover.karmawhores.com
@@ -527,6 +527,7 @@
 0.0.0.0 freemineapplicationads.icu
 0.0.0.0 freemovies9k.online
 0.0.0.0 freescore360.com
+0.0.0.0 freetricks.website
 0.0.0.0 freeware-finden.de
 0.0.0.0 freewebsitetemplates.com
 0.0.0.0 fremedica.com
@@ -695,6 +696,7 @@
 0.0.0.0 lime.buycocaineonline.se
 0.0.0.0 litebucks.com
 0.0.0.0 litemethod-revenue.life
+0.0.0.0 login.aulterra.com
 0.0.0.0 lootcoupons.com
 0.0.0.0 lootsnow.com
 0.0.0.0 lovecodeseminar.com
@@ -908,6 +910,7 @@
 0.0.0.0 restaurant-im-kolpinghaus-bochum.de
 0.0.0.0 results.fitnessrant.com
 0.0.0.0 retailproductsusa.com
+0.0.0.0 reward3spot.com
 0.0.0.0 robotic-arm-news.com
 0.0.0.0 robuxglobal.com
 0.0.0.0 rocketlab.g2afse.com
@@ -958,6 +961,7 @@
 0.0.0.0 softdriverz.com
 0.0.0.0 softoniccrack.com
 0.0.0.0 solarcity-freiburg.de
+0.0.0.0 special.aulterra.com
 0.0.0.0 spielwarenpinocchio.de
 0.0.0.0 ss.buyketofastnow.com
 0.0.0.0 ss.buyketonow.com
@@ -970,6 +974,7 @@
 0.0.0.0 staging.owa.buycocaineonline.se
 0.0.0.0 staging.shieldyourbody.com
 0.0.0.0 staging.synergyscience.com
+0.0.0.0 staging1.aulterra.com
 0.0.0.0 static.buycocaineonline.se
 0.0.0.0 static1.freebitco.in
 0.0.0.0 static2.freebitco.in
@@ -1087,6 +1092,7 @@
 0.0.0.0 v-bucks.fr
 0.0.0.0 v.promotionsonlineusa.com
 0.0.0.0 vacationvip.com
+0.0.0.0 vaccinationcouncil.org
 0.0.0.0 verygiveaways.com
 0.0.0.0 vgiveaways.com
 0.0.0.0 videolan-free.com
@@ -1215,8 +1221,6 @@
 0.0.0.0 www.8x8kikaku.com
 0.0.0.0 www.9jahit.com
 0.0.0.0 www.9xrockersa.co
-0.0.0.0 www.freetricks.website
-0.0.0.0 www.reward3spot.com
 0.0.0.0 www.a.buycocaineonline.se
 0.0.0.0 www.a2satblog.com
 0.0.0.0 www.a2zbooks.in
@@ -1319,6 +1323,7 @@
 0.0.0.0 www.assignmenthelp824736882.wordpress.com
 0.0.0.0 www.au-pair-hildesheim.de
 0.0.0.0 www.audioline-music.de
+0.0.0.0 www.aulterra.com
 0.0.0.0 www.autumnsales.co.uk
 0.0.0.0 www.axisdirectmicrofinance.com
 0.0.0.0 www.beatemf.com
@@ -1615,6 +1620,7 @@
 0.0.0.0 www.freemineapplicationads.icu
 0.0.0.0 www.freemovies9k.online
 0.0.0.0 www.freescore360.com
+0.0.0.0 www.freetricks.website
 0.0.0.0 www.freeware-finden.de
 0.0.0.0 www.freewebsitetemplates.com
 0.0.0.0 www.fudtroll.com
@@ -1756,6 +1762,7 @@
 0.0.0.0 www.lime.buycocaineonline.se
 0.0.0.0 www.litebucks.com
 0.0.0.0 www.litemethod-revenue.life
+0.0.0.0 www.login.aulterra.com
 0.0.0.0 www.lootcoupons.com
 0.0.0.0 www.lootsnow.com
 0.0.0.0 www.lovecodeseminar.com
@@ -1895,6 +1902,7 @@
 0.0.0.0 www.renee.googleadultseo.com
 0.0.0.0 www.restaurant-im-kolpinghaus-bochum.de
 0.0.0.0 www.retailproductsusa.com
+0.0.0.0 www.reward3spot.com
 0.0.0.0 www.robotic-arm-news.com
 0.0.0.0 www.robuxglobal.com
 0.0.0.0 www.rootserver844.ml
@@ -1942,6 +1950,7 @@
 0.0.0.0 www.staging.lime.buycocaineonline.se
 0.0.0.0 www.staging.owa.buycocaineonline.se
 0.0.0.0 www.staging.shieldyourbody.com
+0.0.0.0 www.staging1.aulterra.com
 0.0.0.0 www.static.buycocaineonline.se
 0.0.0.0 www.stealdeals4u.com
 0.0.0.0 www.stellar.org.mu
@@ -2037,6 +2046,7 @@
 0.0.0.0 www.ustradersjournal.com
 0.0.0.0 www.v-bucks.fr
 0.0.0.0 www.vacationvip.com
+0.0.0.0 www.vaccinationcouncil.org
 0.0.0.0 www.verygiveaways.com
 0.0.0.0 www.vgiveaways.com
 0.0.0.0 www.videolan-free.com
