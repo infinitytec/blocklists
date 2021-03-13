@@ -507,6 +507,7 @@
 0.0.0.0 chlorella.healthrangerstore.com
 0.0.0.0 chlorella.naturalnews.com
 0.0.0.0 choiceclips.whatfinger.com
+0.0.0.0 choicesinchildbirth.org
 0.0.0.0 choosing-him.blogspot.com
 0.0.0.0 christianobserver.net
 0.0.0.0 christiansfortruth.com
@@ -688,12 +689,14 @@
 0.0.0.0 cpanel.therealnews.nz
 0.0.0.0 cpanel.thinkingmomsrevolution.com
 0.0.0.0 cpanel.traceamounts.com
+0.0.0.0 cpanel.trikooba.com
 0.0.0.0 cpanel.trinityhealthfreedomexpo.com
 0.0.0.0 cpanel.trofire.com
 0.0.0.0 cpanel.truthstreammedia.com
 0.0.0.0 cpanel.utopiasilver.com
 0.0.0.0 cpanel.vaccinedecision.info
 0.0.0.0 cpanel.vaccineeducation.org
+0.0.0.0 cpanel.vaccinesafetycommission.org
 0.0.0.0 cpanel.vaccinetruth.org
 0.0.0.0 cpanel.vaxtruth.org
 0.0.0.0 cpanel.wddty.com
@@ -793,6 +796,7 @@
 0.0.0.0 cpcalendars.utopiasilver.com
 0.0.0.0 cpcalendars.vaccinedecision.info
 0.0.0.0 cpcalendars.vaccineeducation.org
+0.0.0.0 cpcalendars.vaccinesafetycommission.org
 0.0.0.0 cpcalendars.vaccinetruth.org
 0.0.0.0 cpcalendars.vaxtruth.org
 0.0.0.0 cpcalendars.webinar.drrachael.com
@@ -888,6 +892,7 @@
 0.0.0.0 cpcontacts.utopiasilver.com
 0.0.0.0 cpcontacts.vaccinedecision.info
 0.0.0.0 cpcontacts.vaccineeducation.org
+0.0.0.0 cpcontacts.vaccinesafetycommission.org
 0.0.0.0 cpcontacts.vaccinetruth.org
 0.0.0.0 cpcontacts.vaxtruth.org
 0.0.0.0 cpcontacts.webinar.drrachael.com
@@ -1654,6 +1659,7 @@
 0.0.0.0 irs.fetch.news
 0.0.0.0 ise.media
 0.0.0.0 isheaudio.drsha.com
+0.0.0.0 isisaladavidasana.blogspot.com
 0.0.0.0 isom.ca
 0.0.0.0 it.sott.net
 0.0.0.0 ithelp.hippocratesinst.org
@@ -1911,6 +1917,7 @@
 0.0.0.0 mail.old-site.resultsrna.com
 0.0.0.0 mail.old.darkoutpost.com
 0.0.0.0 mail.old.resultsrna.com
+0.0.0.0 mail.openvaers.com
 0.0.0.0 mail.openyoureyespeoplebreakingnews.com
 0.0.0.0 mail.oregoniansformedicalfreedom.com
 0.0.0.0 mail.organicconsumers.org
@@ -2159,6 +2166,7 @@
 0.0.0.0 mx.seedsofdeception.com
 0.0.0.0 mx.stephenharrodbuhner.com
 0.0.0.0 mx.theblogmire.com
+0.0.0.0 mx.vaccines.net
 0.0.0.0 mx0.childrenshealthdefense.org
 0.0.0.0 mx1.childrenshealthdefense.org
 0.0.0.0 mx1.naturalscience.org
@@ -2391,6 +2399,7 @@
 0.0.0.0 opal.frontlinemds.com
 0.0.0.0 openid-server.awsvoprd.youngliving.com
 0.0.0.0 opensourcetruth.com
+0.0.0.0 openvaers.com
 0.0.0.0 openyoureyespeoplebreakingnews.com
 0.0.0.0 opinion.abovetopsecret.com
 0.0.0.0 optimal-eft.emofree.com
@@ -3043,6 +3052,7 @@
 0.0.0.0 theanp.co.uk
 0.0.0.0 thearkivist.net
 0.0.0.0 thebestdayever.com
+0.0.0.0 thebitterherb.com
 0.0.0.0 theblogmire.com
 0.0.0.0 theburningplatform.com
 0.0.0.0 thebusinessof.life
@@ -3156,6 +3166,7 @@
 0.0.0.0 tracybeanz.uncoverdc.com
 0.0.0.0 training.epidemicanswers.org
 0.0.0.0 transcend.org
+0.0.0.0 trikooba.com
 0.0.0.0 trinityhealthfreedomexpo.com
 0.0.0.0 trinityschool-org.mail.protection.outlook.com
 0.0.0.0 trinityschool.org
@@ -3221,6 +3232,7 @@
 0.0.0.0 v-ial.org
 0.0.0.0 vaccinatieschade.be
 0.0.0.0 vaccination.inoz.com
+0.0.0.0 vaccinationcouncil.org
 0.0.0.0 vaccinationdecisions.net
 0.0.0.0 vaccinationdilemma.com
 0.0.0.0 vaccinationinfo.wordpress.com
@@ -3257,6 +3269,7 @@
 0.0.0.0 vaccineriskawareness.com
 0.0.0.0 vaccines.childrenshealthdefense.org
 0.0.0.0 vaccines.naturalnews.com
+0.0.0.0 vaccines.net
 0.0.0.0 vaccines.news
 0.0.0.0 vaccinesafetycommission.org
 0.0.0.0 vaccinesafetycouncilminnesota.org
@@ -3463,6 +3476,7 @@
 0.0.0.0 webdisk.thinkingmomsrevolution.com
 0.0.0.0 webdisk.thrivespinecenter.com
 0.0.0.0 webdisk.traceamounts.com
+0.0.0.0 webdisk.trikooba.com
 0.0.0.0 webdisk.trinityhealthfreedomexpo.com
 0.0.0.0 webdisk.trofire.com
 0.0.0.0 webdisk.truthstreammedia.com
@@ -3470,6 +3484,7 @@
 0.0.0.0 webdisk.utopiasilver.com
 0.0.0.0 webdisk.vaccinedecision.info
 0.0.0.0 webdisk.vaccineeducation.org
+0.0.0.0 webdisk.vaccinesafetycommission.org
 0.0.0.0 webdisk.vaccinetruth.org
 0.0.0.0 webdisk.vaxtruth.org
 0.0.0.0 webdisk.wddty.com
@@ -3572,6 +3587,7 @@
 0.0.0.0 webmail.therealnews.nz
 0.0.0.0 webmail.thinkingmomsrevolution.com
 0.0.0.0 webmail.traceamounts.com
+0.0.0.0 webmail.trikooba.com
 0.0.0.0 webmail.trinityhealthfreedomexpo.com
 0.0.0.0 webmail.trofire.com
 0.0.0.0 webmail.truthstreammedia.com
@@ -3579,6 +3595,7 @@
 0.0.0.0 webmail.utopiasilver.com
 0.0.0.0 webmail.vaccinedecision.info
 0.0.0.0 webmail.vaccineeducation.org
+0.0.0.0 webmail.vaccinesafetycommission.org
 0.0.0.0 webmail.vaccinetruth.org
 0.0.0.0 webmail.vaxtruth.org
 0.0.0.0 webmail.vitaminc4covid.com
@@ -3903,6 +3920,7 @@
 0.0.0.0 www.childrenshealthdefense.salsalabs.org
 0.0.0.0 www.chinarising.puntopress.com
 0.0.0.0 www.chiroresults.com
+0.0.0.0 www.choicesinchildbirth.org
 0.0.0.0 www.choosing-him.blogspot.com
 0.0.0.0 www.christianobserver.net
 0.0.0.0 www.christiansfortruth.com
@@ -4406,6 +4424,7 @@
 0.0.0.0 www.ipaknowledge.org
 0.0.0.0 www.ipv6.whale.to
 0.0.0.0 www.ise.media
+0.0.0.0 www.isisaladavidasana.blogspot.com
 0.0.0.0 www.isom.ca
 0.0.0.0 www.itsprovencollagen.oxygenamerica.com
 0.0.0.0 www.jackheart2014.blogspot.com
@@ -4683,6 +4702,7 @@
 0.0.0.0 www.oom2.com
 0.0.0.0 www.opal.frontlinemds.com
 0.0.0.0 www.opensourcetruth.com
+0.0.0.0 www.openvaers.com
 0.0.0.0 www.openyoureyespeoplebreakingnews.com
 0.0.0.0 www.oregon.tenthamendmentcenter.com
 0.0.0.0 www.oregoniansformedicalfreedom.com
@@ -5000,6 +5020,7 @@
 0.0.0.0 www.theanp.co.uk
 0.0.0.0 www.thearkivist.net
 0.0.0.0 www.thebestdayever.com
+0.0.0.0 www.thebitterherb.com
 0.0.0.0 www.theblogmire.com
 0.0.0.0 www.theburningplatform.com
 0.0.0.0 www.thebusinessof.life
@@ -5098,6 +5119,7 @@
 0.0.0.0 www.traceminerals.com
 0.0.0.0 www.tracybeanz.uncoverdc.com
 0.0.0.0 www.transcend.org
+0.0.0.0 www.trikooba.com
 0.0.0.0 www.trinityhealthfreedomexpo.com
 0.0.0.0 www.trinityschool.org
 0.0.0.0 www.trishaselderberries.com
@@ -5136,6 +5158,7 @@
 0.0.0.0 www.v-ial.org
 0.0.0.0 www.vaccinatieschade.be
 0.0.0.0 www.vaccination.inoz.com
+0.0.0.0 www.vaccinationcouncil.org
 0.0.0.0 www.vaccinationdecisions.net
 0.0.0.0 www.vaccinationdilemma.com
 0.0.0.0 www.vaccinationinfo.wordpress.com
@@ -5170,6 +5193,7 @@
 0.0.0.0 www.vaccineresistancemovement.org
 0.0.0.0 www.vaccinerights.com
 0.0.0.0 www.vaccineriskawareness.com
+0.0.0.0 www.vaccines.net
 0.0.0.0 www.vaccines.news
 0.0.0.0 www.vaccinesafetycommission.org
 0.0.0.0 www.vaccinesafetycouncilminnesota.org
