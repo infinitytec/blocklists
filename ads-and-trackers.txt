@@ -33,6 +33,7 @@
 0.0.0.0 bestvpn1.com
 0.0.0.0 blog.adbutler.com
 0.0.0.0 blog.clickbooth.com
+0.0.0.0 brmclick.com
 0.0.0.0 business.realtracker.com
 0.0.0.0 calytics.ml
 0.0.0.0 campusmediaaward.de
@@ -193,6 +194,7 @@
 0.0.0.0 www.besterfernseher.de
 0.0.0.0 www.bestvpn1.com
 0.0.0.0 www.blog.adbutler.com
+0.0.0.0 www.brmclick.com
 0.0.0.0 www.campusmediaaward.de
 0.0.0.0 www.canmake.de
 0.0.0.0 www.cldoffers.net
