@@ -68,9 +68,11 @@ newstribune.info###dialog-message
 office-watch.com##.code-block-3.code-block > div
 ow.michaeloglesby.com##div > [href^="https://office-watch.com/product/windows-10-for-microsoft-office-users/"]
 pbcommercial.com###dialog-message
+pcpartpicker.com##.banner--cw.banner
 pdf.wondershare.com###wsc-plugin-seasonal
 pressargus.com###dialog-message
 providencejournal.com###dialog-message
+pureinfotech.com##.cc-color-override--724964106.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 pve.proxmox.com##.mw-cookiewarning-container
 recordnet.com###dialog-message
 ridgecrestca.com###dialog-message
@@ -88,11 +90,15 @@ tekdeeps.com###ai_widget-2
 tekdeeps.com###ai_widget-3
 teknologya.com###cookie-law-info-bar
 thehill.com###lightbox-63d68459-6221-4d67-9e2a-bcf7b46e5648-1579319402544
+theitbros.com##.tzss-share-buttons-list
 tuscaloosanews.com###dialog-message
 weather.com##.BWCJrC2JGHQqtfFwURJ0V
 weather.com##.TktQ2DUFBzNyej09iWmMG
 weather.com##.styles-KJsoQumW__app-download-text__1KbjY
 weather.com##.visible.flag.sb
+whattomine.com##.centered-image-short
+whattomine.com##.text-center > .centered-image-short
+whattomine.com##.when-adblock-detected
 winaero.com##.ramain-top
 www-1.kansas.com###ConnatixVideoAd
 www-1.kansas.com##.impact.banner-promo-link
@@ -127,6 +133,7 @@ www.hackster.io##.project_count_banner__container__1m4vf
 www.hattiesburgamerican.com##.gnt_em__el.gnt_em_vp__tavp.gnt_em
 www.healthysimulation.com###cliSettingsPopup
 www.hwinfo.com##.cookie-agree-with-use
+www.ifixit.com###REPAIR_ORG
 www.insidehook.com##.sticky.signup
 www.insidehook.com##.tp-modal
 www.interfacett.com##.mtsnb-fixed.mtsnb-top.mtsnb-shown.mtsnb-button.mtsnb-sp-right.mtsnb
@@ -156,6 +163,7 @@ www.niallbrady.com###cookies
 www.npr.org##.callout--health.callout--newsletter.callout
 www.nvidia.com##.shadowBox-light.noSelection
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
+www.onmsft.com###enhancedtextwidget-7
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
 www.paypal.com##.cw_tile__floatingPromo-contentContainer
 www.pitneybowes.com###confirmit_invitecontainer
@@ -195,6 +203,7 @@ www.thedailybeast.com##.ribbon.ng-scope
 www.thekansan.com###dialog-message
 www.thewindowsclub.com###text-422067543
 www.thewindowsclub.com###text-422067543 > .textwidget > center
+www.tomsguide.com##.future__jwplayer--carousel
 www.tomshardware.com##.sticky-player-background
 www.truthinadvertising.org###pb-newsletter_sign_up
 www.ubackup.com##div.side-item:nth-of-type(1)
