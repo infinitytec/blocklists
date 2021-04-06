@@ -75,6 +75,7 @@ providencejournal.com###dialog-message
 pureinfotech.com##.cc-color-override--724964106.cc-right.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
 pve.proxmox.com##.mw-cookiewarning-container
 recordnet.com###dialog-message
+redshirtsalwaysdie.com##.header-billboard
 ridgecrestca.com###dialog-message
 seacoastonline.com###dialog-message
 silicophilic.com###custom_html-9
@@ -132,6 +133,9 @@ www.hackster.io###hello-world
 www.hackster.io##.project_count_banner__container__1m4vf
 www.hattiesburgamerican.com##.gnt_em__el.gnt_em_vp__tavp.gnt_em
 www.healthysimulation.com###cliSettingsPopup
+www.howtogeek.com###v2campaignpopup
+www.howtogeek.com###v2campaignpopup_backdrop
+www.howtogeek.com##.inner-border
 www.hwinfo.com##.cookie-agree-with-use
 www.ifixit.com###REPAIR_ORG
 www.insidehook.com##.sticky.signup
