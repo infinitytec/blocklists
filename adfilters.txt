@@ -196,6 +196,7 @@ fileinfo.com##.adTopLB
 fileinfo.com##.fv
 fileinfo.com##.linkAds
 film.avclub.com##.movable-ad
+filmdaily.co##div.fd-article-top-banner
 fincasonbaro.de
 fortune-days.de
 freeware-finden.de
@@ -212,6 +213,10 @@ geekermag.com##.td_block_template_1.tdi_42_557.td-g-rec-id-sidebar.td-g-rec
 geekflare.com###geekf-2090923135
 geekflare.com##.alignfull.bg-lgray.w-resources
 geekflare.com##.page-advertisement
+geneticliteracyproject.org##.elementor-sticky--effects.elementor-section--handles-inside.elementor-sticky--active.elementor-sticky.elementor-widget-shortcode.elementor-widget.elementor-element-30d8c84.elementor-element
+geneticliteracyproject.org##.elementor-sticky.elementor-widget-shortcode.elementor-widget.elementor-element-30d8c84.elementor-element
+geneticliteracyproject.org##.elementor-widget-shortcode.elementor-widget.elementor-element-7b85a55.elementor-element
+geneticliteracyproject.org##div[id ^= genet-]
 get.popplunder.com
 getyoutothenext.com
 gimbal.com
@@ -596,6 +601,13 @@ www.ancient-origins.net##.OUTBRAIN
 www.ancient-origins.net##.content_add_block
 www.anders-onlinehandel.de
 www.androidpolice.com##.adslot_ap2_trending_posts.adslot.adsbygoogle
+www.anoopcnair.com###text-28
+www.anoopcnair.com###text-29
+www.anoopcnair.com##[href="https://www.nice.de/"]
+www.anoopcnair.com##[href^="https://adaptiva.com/products/onesite-intune-edition/"]
+www.anoopcnair.com##[href^="https://go.altaro.com/"]
+www.anoopcnair.com##[href^="https://patchmypc.com/third-party-patch-management-for-sccm-and-intune"]
+www.anoopcnair.com##[href^="https://smartpackagestudio.com/online-course/"]
 www.anstrex.com
 www.appstrk.com
 www.arthritis-health.com###block-vh-dfp-dfp-ad-left > .clearfix.block-inner > .block__title
@@ -1184,6 +1196,7 @@ www.thrillist.com##.jfdtns.NodeArticlestyles__InlineAdWrapper-sc-1dhoc8d-2
 www.thv11.com##div[id^="taboola-mobile-below-article-"]
 www.timeanddate.com###ad-wrap
 www.timeanddate.com###ad300
+www.timesnownews.com##.tncls_ad_300
 www.togetherforwine.com
 www.tomshardware.com##.slot-afterPopularBox
 www.tomshardware.com##.slot-beforePopularBox
@@ -1357,6 +1370,7 @@ zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 ||webcamtests.com/MyShowroom/view.php?medium=noslot&size=385x0$subdocument
 ||webcamtests.com/MyShowroom/view.php?medium=noslot&size=500x0$subdocument
 ||www-1.kansas.com/?load=aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL3NhZmVmcmFtZS8xLTAtMzYvaHRtbC9jb250YWluZXIuaHRtbA&doc=1$subdocument
+||www.anoopcnair.com/wp-content/uploads/2020/03/SmartPackageAnoop-2.jpg$image
 ||www.citefast.com/images/grammarcheck.png$image
 ||www.gjsentinel.com/tncms/block/646820/?disableTNStatsTracker=1$subdocument
 ||www.healthysimulation.com/wp-content/uploads/2017/08/looking-for-vendors.png$image
