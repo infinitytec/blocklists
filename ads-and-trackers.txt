@@ -49,9 +49,12 @@
 0.0.0.0 contactaolhelp.com
 0.0.0.0 cpagold.net
 0.0.0.0 cpanel.trackjumpr.com
+0.0.0.0 cpanel.usawildseafood.com
 0.0.0.0 cpc.clickbooth.com
 0.0.0.0 cpcalendars.trackjumpr.com
+0.0.0.0 cpcalendars.usawildseafood.com
 0.0.0.0 cpcontacts.trackjumpr.com
+0.0.0.0 cpcontacts.usawildseafood.com
 0.0.0.0 datspush.com
 0.0.0.0 dc-376740dd3311.trackjumpr.com
 0.0.0.0 deliverynotforme.best
@@ -122,6 +125,8 @@
 0.0.0.0 navmanupdate.online
 0.0.0.0 navmanupdates.com
 0.0.0.0 neurohacker.refersion.com
+0.0.0.0 ns1.usawildseafood.com
+0.0.0.0 ns2.usawildseafood.com
 0.0.0.0 nszwangsarbeit.de
 0.0.0.0 ogads.com
 0.0.0.0 online-dating-portale.de
@@ -173,12 +178,16 @@
 0.0.0.0 track.clickbooth.com
 0.0.0.0 trackjumpr.com
 0.0.0.0 trierwirdwild.de
+0.0.0.0 usawildseafood.com
 0.0.0.0 validatingnow.com
 0.0.0.0 web4.realtracker.com
 0.0.0.0 webdisk.trackjumpr.com
+0.0.0.0 webdisk.usawildseafood.com
 0.0.0.0 webmail.trackjumpr.com
+0.0.0.0 webmail.usawildseafood.com
 0.0.0.0 webseed.com
 0.0.0.0 webseite-erstellen-koeln.de
+0.0.0.0 whm.usawildseafood.com
 0.0.0.0 wifiextenderhelp.com
 0.0.0.0 wiki.clickbooth.com
 0.0.0.0 www.adbutler.com
@@ -269,6 +278,7 @@
 0.0.0.0 www.tomtomgopre.online
 0.0.0.0 www.trackjumpr.com
 0.0.0.0 www.trierwirdwild.de
+0.0.0.0 www.usawildseafood.com
 0.0.0.0 www.validatingnow.com
 0.0.0.0 www.webseed.com
 0.0.0.0 www.webseite-erstellen-koeln.de
