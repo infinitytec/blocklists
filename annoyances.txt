@@ -100,6 +100,7 @@ weather.com##.visible.flag.sb
 whattomine.com##.centered-image-short
 whattomine.com##.text-center > .centered-image-short
 whattomine.com##.when-adblock-detected
+winaero.com###diodfoihdfsd
 winaero.com##.ramain-top
 www-1.kansas.com###ConnatixVideoAd
 www-1.kansas.com##.impact.banner-promo-link
@@ -193,6 +194,9 @@ www.rightwingwatch.org###visible-banner > .dropdown-banner
 www.sammobile.com##.alert
 www.softwareok.com###banner_217_B > tbody > tr > td
 www.softwareok.com###cookiebar
+www.space.com###taboola-below-article-thumbnails
+www.space.com##.bordeaux-slot-root
+www.space.com##.sticky-player-top-fade
 www.spguides.com##.widget_custom_html.inner-padding.widget.widget_text
 www.startech.com###tracking-consent-header-container
 www.systoolsgroup.com##.text-center.well-yellow.well
@@ -213,6 +217,7 @@ www.truthinadvertising.org###pb-newsletter_sign_up
 www.ubackup.com##div.side-item:nth-of-type(1)
 www.valuewalk.com###spu-bg-2260102
 www.valuewalk.com##.spu-container
+www.vivotek.com##.cdk-overlay-pane
 www.w3schools.com###skyscraper
 www.walmart.com##.EmailCapture--bringToFront.EmailCapture--footerShadow.EmailCapture--footerContainer.EmailCapture
 www.walmart.com##.InspirationalEmailSubscriber-contentBlock.text-center.InspirationalEmailSubscriber
