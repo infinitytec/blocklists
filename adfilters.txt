@@ -212,6 +212,7 @@ geekermag.com##.td-container-wrap.td-banner-wrap-full
 geekermag.com##.td_block_template_1.tdi_42_557.td-g-rec-id-sidebar.td-g-rec
 geekflare.com###geekf-2090923135
 geekflare.com##.alignfull.bg-lgray.w-resources
+geekflare.com##.alignnone.wp-caption
 geekflare.com##.page-advertisement
 geneticliteracyproject.org##.elementor-sticky--effects.elementor-section--handles-inside.elementor-sticky--active.elementor-sticky.elementor-widget-shortcode.elementor-widget.elementor-element-30d8c84.elementor-element
 geneticliteracyproject.org##.elementor-sticky.elementor-widget-shortcode.elementor-widget.elementor-element-30d8c84.elementor-element
@@ -549,6 +550,7 @@ win10supports.com##.entry-content > div:nth-of-type(2) > p
 winaero.com###custom_html-2 > .widget-title
 winaero.com###custom_html-6 > .custom-html-widget.textwidget
 winaero.com###custom_html-6 > .widget-title
+winaero.com###main > div > p
 work.chron.com###top-300
 work.chron.com##.leaderboard
 www-1.kansas.com###cnx-adUnit-overlay
@@ -1119,7 +1121,18 @@ www.smokymountainnews.com###jsn-pos-banner > .jsn-modulecontainer > .jsn-modulec
 www.smokymountainnews.com###jsn-pos-right > div.jsn-modulecontainer > .jsn-modulecontainer_inner > .jsn-modulecontent > .bannergroup > .banneritem
 www.smokymountainnews.com##.moduletable > .bannergroup
 www.snopes.com##.smg-zone-widget-ads-placement
+www.softexia.com##.banner-link
+www.softexia.com##div.offer
 www.solarcity-freiburg.de
+www.space.com###in-article
+www.space.com###sidebar-popular-top
+www.space.com###sidebar-top
+www.space.com##.dfp-leaderboard-container
+www.space.com##.slot-afterPopularBox
+www.space.com##.slot-beforePopularBox
+www.space.com##.slot-in-article-ad-static
+www.space.com##.slot-leaderboard
+www.space.com##.slot-topOfSidebar
 www.spielwarenpinocchio.de
 www.steamboatpilot.com##.ad-top-wrapper
 www.steamboatpilot.com##.module-ad
@@ -1135,6 +1148,7 @@ www.techpowerup.com##.nkuztfvdswe
 www.techpowerup.com##.nspy
 www.techpowerup.com##.ravqfx
 www.techpowerup.com##.zkybes
+www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
 www.techradar.com##.slot-afterPopularBox
 www.techradar.com##.slot-beforePopularBox
 www.techradar.com##.slot-beforePopularBox > .bordeaux-slot-root
