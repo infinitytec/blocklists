@@ -331,6 +331,7 @@
 0.0.0.0 botticellissouthcongress.com
 0.0.0.0 bravads.g2afse.com
 0.0.0.0 brmclick.com
+0.0.0.0 btcrefund.org
 0.0.0.0 bucket.cpabuild.com
 0.0.0.0 buildmoneywithcpa.com
 0.0.0.0 buttheme.org
@@ -519,6 +520,7 @@
 0.0.0.0 dnslockbox.com
 0.0.0.0 dock.lovegreenpencils.ga
 0.0.0.0 docker.synergyscience.com
+0.0.0.0 donate-musk.com
 0.0.0.0 download.criticaldownload.site
 0.0.0.0 downloadplayerz.com
 0.0.0.0 downloadthelatest.com
@@ -536,6 +538,8 @@
 0.0.0.0 ebmail.buycocaineonline.se
 0.0.0.0 efd5rm.xyz
 0.0.0.0 egate.top
+0.0.0.0 egate1.repl.co
+0.0.0.0 egate1.top
 0.0.0.0 egate2.repl.co
 0.0.0.0 egearsofwar4.com
 0.0.0.0 eirtree.com
@@ -545,11 +549,16 @@
 0.0.0.0 electronicprofs.de
 0.0.0.0 elmiron.consultationclaims.com
 0.0.0.0 eloginmantra.com
-0.0.0.0 elon-rewards.com
-0.0.0.0 elonassist.com
 0.0.0.0 elon-assist.com
+0.0.0.0 elon-rewards.com
+0.0.0.0 elon-spacex.net
+0.0.0.0 elon12.top
+0.0.0.0 elon5.us
+0.0.0.0 elonassist.com
+0.0.0.0 elonmusk.egate1.repl.co
 0.0.0.0 elonmusk.egate2.repl.co
 0.0.0.0 elonmusk4.com
+0.0.0.0 elonmusk8.com
 0.0.0.0 elonrewards.com
 0.0.0.0 elons.events
 0.0.0.0 emaileasyaccess.com
@@ -605,6 +614,7 @@
 0.0.0.0 fortune-days.de
 0.0.0.0 foundmoneyguide.com
 0.0.0.0 fpkdz.com
+0.0.0.0 free-give.space
 0.0.0.0 free.content-center.club
 0.0.0.0 freebetbaru88.space
 0.0.0.0 freebitco.in
@@ -907,6 +917,7 @@
 0.0.0.0 mschatsupport.com
 0.0.0.0 mslivehelp.com
 0.0.0.0 musicallyfame.co
+0.0.0.0 muskdonate.top
 0.0.0.0 musktop.info
 0.0.0.0 mx.faucet.get-brave.com
 0.0.0.0 mx.get-brave.com
@@ -1029,6 +1040,7 @@
 0.0.0.0 ravpower.acemlnc.com
 0.0.0.0 rebelamerica.shop
 0.0.0.0 redirectgate.blogspot.com
+0.0.0.0 redirectinggate1.blogspot.com
 0.0.0.0 redmiphone.in
 0.0.0.0 ref.litebucks.com
 0.0.0.0 refer.click4kash.com
@@ -1669,6 +1681,7 @@
 0.0.0.0 www.boot-upintenselypreciseproduct.icu
 0.0.0.0 www.botticellissouthcongress.com
 0.0.0.0 www.brmclick.com
+0.0.0.0 www.btcrefund.org
 0.0.0.0 www.buildmoneywithcpa.com
 0.0.0.0 www.buttheme.org
 0.0.0.0 www.buttworkout.pro
@@ -1772,6 +1785,7 @@
 0.0.0.0 www.directfactorymall.com
 0.0.0.0 www.diyhealthyhomeremedies.com
 0.0.0.0 www.dnslockbox.com
+0.0.0.0 www.donate-musk.com
 0.0.0.0 www.downloadplayerz.com
 0.0.0.0 www.downloadthelatest.com
 0.0.0.0 www.downloadunogamefree.blogspot.com
@@ -1785,6 +1799,8 @@
 0.0.0.0 www.eaweb-dev3.ch
 0.0.0.0 www.efd5rm.xyz
 0.0.0.0 www.egate.top
+0.0.0.0 www.egate1.repl.co
+0.0.0.0 www.egate1.top
 0.0.0.0 www.egate2.repl.co
 0.0.0.0 www.egearsofwar4.com
 0.0.0.0 www.eirtree.com
@@ -1794,10 +1810,15 @@
 0.0.0.0 www.electronicprofs.de
 0.0.0.0 www.elmiron.consultationclaims.com
 0.0.0.0 www.eloginmantra.com
-0.0.0.0 www.elon-rewards.com
-0.0.0.0 www.elonassist.com
 0.0.0.0 www.elon-assist.com
+0.0.0.0 www.elon-rewards.com
+0.0.0.0 www.elon-spacex.net
+0.0.0.0 www.elon12.top
+0.0.0.0 www.elon5.us
+0.0.0.0 www.elonassist.com
+0.0.0.0 www.elonmusk.egate1.repl.co
 0.0.0.0 www.elonmusk4.com
+0.0.0.0 www.elonmusk8.com
 0.0.0.0 www.elonrewards.com
 0.0.0.0 www.elons.events
 0.0.0.0 www.emaileasyaccess.com
@@ -1850,6 +1871,7 @@
 0.0.0.0 www.fortune-days.de
 0.0.0.0 www.foundmoneyguide.com
 0.0.0.0 www.fpkdz.com
+0.0.0.0 www.free-give.space
 0.0.0.0 www.free.content-center.club
 0.0.0.0 www.freebetbaru88.space
 0.0.0.0 www.freebitco.in
@@ -2073,6 +2095,7 @@
 0.0.0.0 www.mschatsupport.com
 0.0.0.0 www.mslivehelp.com
 0.0.0.0 www.musicallyfame.co
+0.0.0.0 www.muskdonate.top
 0.0.0.0 www.musktop.info
 0.0.0.0 www.mygearsofwar4.com
 0.0.0.0 www.myoffice-setup.com
@@ -2155,6 +2178,7 @@
 0.0.0.0 www.ragingbullslotscampaign.com
 0.0.0.0 www.rebelamerica.shop
 0.0.0.0 www.redirectgate.blogspot.com
+0.0.0.0 www.redirectinggate1.blogspot.com
 0.0.0.0 www.redmiphone.in
 0.0.0.0 www.refer4me.co
 0.0.0.0 www.reginald.googleadultseo.com
