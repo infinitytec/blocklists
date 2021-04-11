@@ -547,6 +547,7 @@
 0.0.0.0 eloginmantra.com
 0.0.0.0 elon-rewards.com
 0.0.0.0 elonassist.com
+0.0.0.0 elon-assist.com
 0.0.0.0 elonmusk.egate2.repl.co
 0.0.0.0 elonmusk4.com
 0.0.0.0 elonrewards.com
@@ -1795,6 +1796,7 @@
 0.0.0.0 www.eloginmantra.com
 0.0.0.0 www.elon-rewards.com
 0.0.0.0 www.elonassist.com
+0.0.0.0 www.elon-assist.com
 0.0.0.0 www.elonmusk4.com
 0.0.0.0 www.elonrewards.com
 0.0.0.0 www.elons.events
