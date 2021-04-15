@@ -1,0 +1,9 @@
+# A list to block a few NSFW sites I have come across.
+# Do not expect frequent updates to this list.
+
+0.0.0.0 legendsofbelial.net
+0.0.0.0 www.legendsofbelial.net
+0.0.0.0 picrew.me
+0.0.0.0 www.picrew.me
+0.0.0.0 dev.picrew.me
+0.0.0.0 support.picrew.me
