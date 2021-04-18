@@ -116,9 +116,12 @@ www.britannica.com##.pl-70.p-15
 www.business.com##.css-md5sep-TransparentContainer
 www.citationmachine.net##div[class ^= styled__SideView]
 www.cnet.com##.entered.dock.inviewElement
+www.cnx-software.com###cliSettingsPopup
 www.cnx-software.com###custom_html-2
 www.coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
 www.crn.com##.eupopup-color-default.eupopup-container-bottom.eupopup-container
+www.dailycitizen.news###ta_background
+www.dailycitizen.news##.ta_centralPopup.ta_popup
 www.dell.com##.alert-warning.alert
 www.digitalocean.com##._panel_1nv7e_1
 www.doityourself.com##.video-player
