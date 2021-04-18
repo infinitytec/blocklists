@@ -125,6 +125,9 @@ compliance.clickbooth.com
 config2.mparticle.com
 connect.clickbooth.com
 connect.performcb.com
+conservativebrief.com###respond
+conservativebrief.com##.ai-viewport-2.ai-viewport-1
+conservativebrief.com##.code-block-15.code-block
 contactaolhelp.com
 contactform7.com##.count-2.cf7com-adsense
 coryrylan.com##.av-banner-web-component-essentials
@@ -359,6 +362,7 @@ mta-sts.mb104.com
 mtshastanews.com##.ad-container
 my.clickbooth.com
 my.gstzen.in##.cz-rennab
+nameberry.com##.Full-width-ad-container
 native.anstrex.com
 navman-gpsupdate.online
 navmanupdate.online
@@ -644,6 +648,7 @@ www.c-sharpcorner.com###NewsArticleAdBox
 www.campusmediaaward.de
 www.canmake.de
 www.cars.com##.ads-finance-bottom.ads
+www.cbc.ca##.ad-detail
 www.cbr.com##.ad-zone-container
 www.cclonline.com##.siteskin-inner
 www.chicagotribune.com##div.trb_ar_cont
@@ -664,7 +669,10 @@ www.cnet.com###mobile-mpu-native-3
 www.cnet.com###mobile-mpu-native-4
 www.cnn.com###sponsored-outbrain-1
 www.cnx-software.com###custom_html-2
+www.cnx-software.com###text-20 > .textwidget
+www.cnx-software.com##.aborted-97.gborted-single > div
 www.cnx-software.com##.garduin
+www.cnx-software.com##.gborted-4.gborted
 www.codeproject.com###ctl00_ctl00_MC_NavRight > div.padded-top:nth-of-type(2)
 www.contactaolhelp.com
 www.cpagold.net
