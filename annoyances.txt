@@ -235,8 +235,6 @@ www.windowscentral.com##body > div:nth-child(31)
 www.wired.com###failsafe-clickthrough
 www.wired.com##.in-content
 www.wired.com##.journey-template--mpu.cm-rail-wrapper
-www.youtube.com##.style-scope ytd-popup-container
-www.youtube.com##ytd-popup-container.ytd-app.style-scope > .ytd-popup-container.style-scope
 yourbusiness.azcentral.com###jwplayer-section
 ||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
