@@ -135,6 +135,9 @@
 0.0.0.0 mta-8.news.warriorplus.com
 0.0.0.0 mta-sts.mb104.com
 0.0.0.0 my.clickbooth.com
+0.0.0.0 myalphaspace1.com
+0.0.0.0 myalphaspace2.com
+0.0.0.0 myalphaspace3.com
 0.0.0.0 native.anstrex.com
 0.0.0.0 navman-gpsupdate.online
 0.0.0.0 navmanupdate.online
@@ -264,6 +267,9 @@
 0.0.0.0 www.menschenhandel-bremen.de
 0.0.0.0 www.millionaire-crypto.com
 0.0.0.0 www.mta-sts.mb104.com
+0.0.0.0 www.myalphaspace1.com
+0.0.0.0 www.myalphaspace2.com
+0.0.0.0 www.myalphaspace3.com
 0.0.0.0 www.navman-gpsupdate.online
 0.0.0.0 www.navmanupdate.online
 0.0.0.0 www.navmanupdates.com
