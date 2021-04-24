@@ -36,6 +36,7 @@ android.gadgethacks.com##aside.whtaph-300.whtaph-rightbox
 anstrex.com
 api.adbutler.com
 api.anstrex.com
+api.warriorplus.com
 apirest.qa.datspush.com
 apnews.com##.Component-dfp-0-2-42
 apnews.com##.Component-dfp-0-2-56
@@ -47,14 +48,18 @@ apnews.com##.persistent-ad > div > .Component-adTitle-0-2-13
 apnews.com##.persistent-ad > div > .Component-rectanglePlaceholderWrapper-0-2-17.Component-placeholderWrapper-0-2-16
 apnews.com##div.Component-dfp-0-2-181
 app.anstrex.com
+app2.loki.warriorplus.com
+app2.odin.warriorplus.com
 appstrk.com
 arstechnica.com###article_end_ad_footer
 arstechnica.com###outbrain-recs
 arstechnica.com##.ad_instream
 arstechnica.com##.instream-container
 arstechnica.com##div.instream-wrap
+atlas.dev.warriorplus.com
 au-pair-hildesheim.de
 audioline-music.de
+aws.dev.warriorplus.com
 babylonbee.com###div-gpt-ad-1560348589511-0
 babylonbee.com##.text-center.sticky-footer-image
 behindthepolitics.de
@@ -71,6 +76,7 @@ blog.clickbooth.com
 bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
 bongino.com##div:nth-of-type(3) > .ai-attributes > .code-block-label
 boonevilledemocrat.com##.ad-container
+brmclick.com
 bronx.news12.com##.section-5c6c979d2d350613f88611118713bec4.section
 bronx.news12.com##div.banner-sidebar.banner
 business.realtracker.com
@@ -134,9 +140,12 @@ coryrylan.com##.av-banner-web-component-essentials
 coryrylan.com##.av-side-web-component-essentials.card
 cpagold.net
 cpanel.trackjumpr.com
+cpanel.usawildseafood.com
 cpc.clickbooth.com
 cpcalendars.trackjumpr.com
+cpcalendars.usawildseafood.com
 cpcontacts.trackjumpr.com
+cpcontacts.usawildseafood.com
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
@@ -152,6 +161,7 @@ deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(2) > .fHVkyq.sav3un-4 > .CjFXp.sav
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .fHVkyq.sav3un-4 > .CjFXp.sav3un-7
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .js_link.hgyrqL.sav3un-1.hMndXN.sc-1out364-0
 deliverynotforme.best
+deploy.warriorplus.com
 der-gruenling.de
 dev-langing.datspush.com
 dev-langing1.datspush.com
@@ -160,6 +170,7 @@ dev-langing3.datspush.com
 dev-langing4.datspush.com
 dev-langing5.datspush.com
 dev.datspush.com
+dev.warriorplus.com
 developergang.com##.cus-fl
 developergang.com##.p-border.widgetable > div.ghost.sidele:nth-of-type(1)
 developergang.com##.p-border.widgetable > div.ghost.sidele:nth-of-type(2)
@@ -238,6 +249,7 @@ grf.clickbooth.com
 harveycountynow.com##.sidebar
 health.usnews.com##.krSlIm.Ad__Container-sc-1ah7c5n-0
 heavens-above.com##.adslot_header.adsbygoogle
+help.warriorplus.com
 historydaily.org##.adwrapper
 hostmaster.mb104.com
 hothardware.com##.ad-top-billboard-init.hide-mobile.ad-top-billboard
@@ -257,6 +269,7 @@ katu.com###js-Sponsored-Container
 katu.com##div[id^="interstory_first_ddb"]
 katu.com##div[id^="interstory_second_ddb"]
 katu.com##div[id^="js-Taboola-Container-"]
+kayo.test.warriorplus.com
 kb.anstrex.com
 keepvid.com##.text-center.py-4 > .container
 khs-food.de
@@ -303,6 +316,7 @@ local.dmv.org##.zdzoneLeftRail
 local.dmv.org##.zdzoneTop
 login.clickbooth.com
 login.performcb.com
+loki.warriorplus.com
 m.aliexpress.com###smb-ui-banner-id > .smb-banner__main
 m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
 m.aliexpress.com##.download-bar
@@ -331,6 +345,7 @@ marspics.de
 mashable.com##.inline-video-seealso
 mastodon.webseed.com
 mb104.com
+meaton.test.warriorplus.com
 mediabiasfactcheck.com###pLsQZAokoXcw
 mediabiasfactcheck.com##.close-iiLbodDHtMbG
 mediabiasfactcheck.com##.iiLbodDHtMbG-bg
@@ -349,6 +364,7 @@ minecraft-server-list.com##.annonceTopServer1
 minecraft-server-list.com##.col2Two
 minecraft-server-list.com##.col2Two > div
 minecraft.fandom.com###siderail_minecraft_gamepedia
+mlantz.test.warriorplus.com
 mobilecrashreporting.googleapis.com
 mods-n-hacks.gadgethacks.com##.centered-article-content.clearfix.article-container > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
 mods-n-hacks.gadgethacks.com##aside.whtaph-300.whtaph-rightbox:nth-of-type(5)
@@ -358,16 +374,23 @@ mods-n-hacks.gadgethacks.com##section:nth-of-type(4) > aside.whtaph-300.whtaph-r
 mods-n-hacks.gadgethacks.com##section:nth-of-type(9) > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
 mongo-db.clickbooth.com
 msendpointmgr.com##.gridlove-sidebar
+mta-6.news.warriorplus.com
+mta-7.news.warriorplus.com
+mta-8.news.warriorplus.com
 mta-sts.mb104.com
 mtshastanews.com##.ad-container
 my.clickbooth.com
 my.gstzen.in##.cz-rennab
+myalphaspace1.com
+myalphaspace2.com
+myalphaspace3.com
 nameberry.com##.Full-width-ad-container
 native.anstrex.com
 navman-gpsupdate.online
 navmanupdate.online
 navmanupdates.com
 neurohacker.refersion.com
+news.warriorplus.com
 news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
 news4sanantonio.com###banner_pos1_ddb_0
 news4sanantonio.com###banner_pos2_ddb_0
@@ -381,7 +404,10 @@ newsguardwatch.com##.BCRADUEVWSTX
 newsguardwatch.com##.FEHACDBGMNOP
 newstribune.info##.ad-container
 notthebee.com###Notthebee_Player_Mobile > .brid
+ns1.usawildseafood.com
+ns2.usawildseafood.com
 nszwangsarbeit.de
+odin.warriorplus.com
 office365itpros.com###media_image-5
 ogads.com
 ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(3)
@@ -478,8 +504,10 @@ sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dyna
 sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(9)
 ssp.galaksion.com
 staff.ogads.com
+staging-api.warriorplus.com
 staging.members.ogads.com
 stash.clickbooth.com
+static.warriorplus.com
 strawpoll.com##.adsbygoogle
 strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsbygoogle
 superdimensionalfolder.com
@@ -519,6 +547,7 @@ trendingpolitics.com##div.content-below-ad
 trierwirdwild.de
 tuscaloosanews.com##.ad-container
 uptodown.com##div.ad
+usawildseafood.com
 validatingnow.com
 videocardz.com###vc-maincontainer-ad
 videocardz.com###vc-maincontainer-midad
@@ -530,6 +559,7 @@ walletinvestor.com###bio_ep_close
 walletinvestor.com##.bit-image
 walletinvestor.com##.header-image
 walletinvestor.com##.noticer-wrapper
+warriorplus.com
 wccftech.com##.content-ad
 wccftech.com##.footer-ad
 wcfcourier.com##.ad-col
@@ -539,7 +569,9 @@ weather.com##div:nth-of-type(2) > ._-_-components-src-molecule-ArticleBody-Artic
 weather.com##div:nth-of-type(3) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 web4.realtracker.com
 webdisk.trackjumpr.com
+webdisk.usawildseafood.com
 webmail.trackjumpr.com
+webmail.usawildseafood.com
 webseed.com
 webseite-erstellen-koeln.de
 weebly.com##.footer-published-ab-powered-by
@@ -547,6 +579,7 @@ whattomine.com##.my-2 > .centered-image-short
 whattomine.com##.table-vcenter.table-hover.table-sm.table .centered-image-short
 whattomine.com##.text-center.mb-2.mt-0
 whattomine.com##.when-adblock-detected
+whm.usawildseafood.com
 wifiextenderhelp.com
 wiki.clickbooth.com
 win10supports.com##.entry-content > div:nth-of-type(1) > p
@@ -643,6 +676,7 @@ www.bhphotovideo.com##.hero_2kKCAvNWYgOkze-1eQtgVx > div > .banner_3HOrQrsk6Nc61
 www.blog.adbutler.com
 www.britannica.com##.video-ad-container-content
 www.britannica.com##.video-ad-container.ora-tv-container
+www.brmclick.com
 www.businessinsider.com###taboola-below-article
 www.c-sharpcorner.com###NewsArticleAdBox
 www.campusmediaaward.de
@@ -1020,6 +1054,9 @@ www.msn.com##.civic-ad
 www.msn.com##.csw-ae-sponsor
 www.msn.com##.poll.nativead a
 www.mta-sts.mb104.com
+www.myalphaspace1.com
+www.myalphaspace2.com
+www.myalphaspace3.com
 www.nasaspaceflight.com###custom_html-3 > .custom-html-widget.textwidget > div
 www.nasaspaceflight.com###custom_html-4 > .custom-html-widget.textwidget > div
 www.nasaspaceflight.com###custom_html-5 > .custom-html-widget.textwidget > div
@@ -1036,6 +1073,7 @@ www.ndtv.com##body > .add-section > .add__wrp
 www.news-medical.net###div-gpt-mobile-bottom-mrec
 www.news-medical.net###div-gpt-mobile-middle-mrec
 www.news-medical.net###div-gpt-mobile-top-leaderboard
+www.news.warriorplus.com
 www.newsweek.com###dfp-ad-bottom-wrapper
 www.newsweek.com###dfp-ad-lazyads10-wrapper
 www.newsweek.com###dfp-ad-lazyads5-wrapper
@@ -1279,6 +1317,7 @@ www.upi.com##.padded.widget-advertisement
 www.upi.com##.reading > .ad_slot
 www.upi.com##div.widget-advertisement:nth-of-type(2)
 www.urtech.ca##.site-col-2.sidebar-right.widget-area
+www.usawildseafood.com
 www.validatingnow.com
 www.vlchelp.com##.widget_custom_html.widget.widget_text
 www.walmart.com##.Grid--gutters.grid
@@ -1287,6 +1326,7 @@ www.walmart.com##.pbb-container-link-img.pbb-content
 www.walmart.com##.prod-marketingFlex
 www.walmart.com##.slide-contents
 www.walmart.com##.theme-dark-grey.text-center.premium-brand-banner
+www.warriorplus.com
 www.webmd.com##.ad_label
 www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
 www.webseed.com
