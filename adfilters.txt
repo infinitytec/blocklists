@@ -945,6 +945,9 @@ www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-inner
 www.howtogeek.com##div[id^="purch_"]
 www.hpprintersupportservice.com
+www.htpcguides.com###text-18 > .textwidget > div
+www.htpcguides.com###text-2 > .textwidget > center
+www.htpcguides.com##[href="https://www.htpcguides.com/go/purevpn-banner"] > .wp-bullet-lazy-loaded
 www.hungred.com###content > .banner
 www.hwinfo.com##.xds
 www.i-dont-care-about-cookies.eu###partners
@@ -1109,6 +1112,7 @@ www.paperrater.com###gramBannerPol
 www.paperrater.com###gramBannerSubFormTop
 www.paperrater.com##.ginger_attr_1
 www.paperrater.com##.ginger_btn_sprite.ginger_btn_up
+www.paperrater.com##[href^="/adv/click"]
 www.pcsuggest.com##.aprime_link
 www.performcb.com
 www.petervanderwoude.nl###text-9
@@ -1124,6 +1128,9 @@ www.prajwaldesai.com###stream-item-widget-2
 www.prajwaldesai.com###stream-item-widget-2 > .the-global-title.widget-title
 www.prajwaldesai.com###stream-item-widget-3
 www.prajwaldesai.com###stream-item-widget-3 > .the-global-title.widget-title
+www.prepostseo.com###after_title_ad
+www.prepostseo.com###sidebar_ad_big
+www.prepostseo.com##.pps-spr-after-button.pps-spr-lumba-daba.pps-spr.text-center.col-xs-12
 www.printersupports.online
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.track-event
