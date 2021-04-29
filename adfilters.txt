@@ -522,6 +522,8 @@ teknologya.com##.thirstylinkimg
 telecomservation.com
 test.ogads.com
 teutschebein.de
+thedaddest.com###ad-mobile-bottom-placeholder
+thedaddest.com###ad-mobile-top-placeholder
 thedroidguy.com##.sticky-footer-element.grid-container.hide-on-desktop.hide-on-tablet
 thefederalist.com##[id^="div-gpt-ad-"]
 thehill.com###block-block-3 > p
@@ -916,6 +918,10 @@ www.geeksforgeeks.org###AP_G4GR_6
 www.geeksforgeeks.org###text-16 > .textwidget
 www.geeksforgeeks.org##div.widget_text.widget
 www.getyoutothenext.com
+www.ghacks.net###ghacks_ad_code-1
+www.ghacks.net###ghacks_ad_code-2
+www.ghacks.net###ghacks_ad_code-3
+www.ghacks.net###ghacks_ad_code-4
 www.ghacks.net###ghacks_ad_code-5
 www.gimbal.com
 www.gjsentinel.com###block-647893
@@ -923,6 +929,9 @@ www.gjsentinel.com###tncms-region-global-container-top
 www.gjsentinel.com##div[id^="ad-"]
 www.goldbek-apotheke.de
 www.grafikstudio-vonfroreich.de
+www.hackster.io##.article_layout__sidebarInner__1DsO_ > div > .hckui__layout__hiddenMedDown
+www.hackster.io##.hckui__layout__fullWidth.hckui__layout__marginTop45
+www.hackster.io##.hckui__layout__marginTop10.hckui__layout__marginBottom10
 www.healthysimulation.com###text-22 > .textwidget > center
 www.healthysimulation.com##.fgaey5f60ffd7262b9
 www.healthysimulation.com##.hofct5f60ffd7260d7
@@ -1102,6 +1111,7 @@ www.onhealth.com##section.article-section:nth-of-type(1) > .article-section-cont
 www.online-convert.com##.float-left.float-lg-left.float-md-left.float-sm-none.m-0.responsive_ad_top
 www.online-convert.com##.responsive_ad_top
 www.online-dating-portale.de
+www.onmsft.com##.zd-leaderboard.ad
 www.overtheairdigitaltv.com##.adsbygoogle
 www.pandora.com##.DisplayAdController
 www.pandora.com##.DisplayAdController__rightRail--active.DisplayAdController__rightRail--displayBlock.DisplayAdController__rightRail
