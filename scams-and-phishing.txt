@@ -376,6 +376,7 @@
 0.0.0.0 cctrx2.com
 0.0.0.0 cctvcameradealersinhyderabad.com
 0.0.0.0 cdchospital.com
+0.0.0.0 cdn.takeprize.me
 0.0.0.0 cdn1.hybridrastamama.com
 0.0.0.0 cdn2.hybridrastamama.com
 0.0.0.0 centralparksoap.com
@@ -650,6 +651,8 @@
 0.0.0.0 fortnitebro.com
 0.0.0.0 fortnitehackers.club
 0.0.0.0 fortune-days.de
+0.0.0.0 foryoupromo.com
+0.0.0.0 foryoupromo.net
 0.0.0.0 foundmoneyguide.com
 0.0.0.0 fpkdz.com
 0.0.0.0 free-give.space
@@ -758,11 +761,13 @@
 0.0.0.0 google-search.co.in
 0.0.0.0 googleadultseo.com
 0.0.0.0 googletoalphabet.com
+0.0.0.0 gotoprize.gq
 0.0.0.0 gradientt.g2afse.com
 0.0.0.0 grafikstudio-vonfroreich.de
 0.0.0.0 grantsreach.com
 0.0.0.0 green8.com
 0.0.0.0 grizzlycompany.com
+0.0.0.0 groupme.gotoprize.gq
 0.0.0.0 groupme.wintoday.ml
 0.0.0.0 grz0.info
 0.0.0.0 gsm237.com
@@ -886,6 +891,7 @@
 0.0.0.0 mail.emf-protection.com
 0.0.0.0 mail.emfrequency.com
 0.0.0.0 mail.faucet.get-brave.com
+0.0.0.0 mail.foryoupromo.com
 0.0.0.0 mail.freetricks.website
 0.0.0.0 mail.get-brave.com
 0.0.0.0 mail.green8.com
@@ -1290,6 +1296,7 @@
 0.0.0.0 tac5237iop.com
 0.0.0.0 tactical.rebelamerica.shop
 0.0.0.0 tacticalusa.com
+0.0.0.0 takeprize.me
 0.0.0.0 tap2earn.co
 0.0.0.0 team-kolassa.de
 0.0.0.0 teamppv.jordanappvideoscanpy.us
@@ -1366,6 +1373,7 @@
 0.0.0.0 trendsndeals.com
 0.0.0.0 trierwirdwild.de
 0.0.0.0 trk-rankmyapp.g2afse.com
+0.0.0.0 trk.takeprize.me
 0.0.0.0 trk10.com
 0.0.0.0 trustedpush.com
 0.0.0.0 trygiveaways.com
@@ -1386,6 +1394,7 @@
 0.0.0.0 up.bioelectricshield.com
 0.0.0.0 upsaibou.net
 0.0.0.0 uq40.com.cn
+0.0.0.0 us-testhead.foryoupromo.com
 0.0.0.0 usascholarshipguide.com
 0.0.0.0 usenzymes.com
 0.0.0.0 usprostaffing.com
@@ -2016,6 +2025,8 @@
 0.0.0.0 www.fortnitebro.com
 0.0.0.0 www.fortnitehackers.club
 0.0.0.0 www.fortune-days.de
+0.0.0.0 www.foryoupromo.com
+0.0.0.0 www.foryoupromo.net
 0.0.0.0 www.foundmoneyguide.com
 0.0.0.0 www.fpkdz.com
 0.0.0.0 www.free-give.space
@@ -2113,10 +2124,12 @@
 0.0.0.0 www.google-search.co.in
 0.0.0.0 www.googleadultseo.com
 0.0.0.0 www.googletoalphabet.com
+0.0.0.0 www.gotoprize.gq
 0.0.0.0 www.grafikstudio-vonfroreich.de
 0.0.0.0 www.grantsreach.com
 0.0.0.0 www.green8.com
 0.0.0.0 www.grizzlycompany.com
+0.0.0.0 www.groupme.gotoprize.gq
 0.0.0.0 www.grz0.info
 0.0.0.0 www.gsm237.com
 0.0.0.0 www.gsmspecification.com
@@ -2442,6 +2455,7 @@
 0.0.0.0 www.t.affiliclk.org
 0.0.0.0 www.tac5237iop.com
 0.0.0.0 www.tacticalusa.com
+0.0.0.0 www.takeprize.me
 0.0.0.0 www.tap2earn.co
 0.0.0.0 www.team-kolassa.de
 0.0.0.0 www.technicalinfo76.co.in
