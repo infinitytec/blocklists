@@ -583,6 +583,8 @@
 0.0.0.0 dock.lovegreenpencils.ga
 0.0.0.0 docker.synergyscience.com
 0.0.0.0 doctorvalproducts.com
+0.0.0.0 doge2021.info
+0.0.0.0 dogecoin-snl.com
 0.0.0.0 donate-musk.com
 0.0.0.0 download.criticaldownload.site
 0.0.0.0 downloadplayerz.com
@@ -1309,6 +1311,8 @@
 0.0.0.0 smartislife.de
 0.0.0.0 smartislife.dk
 0.0.0.0 smartlybranded.com
+0.0.0.0 snl-doge.ceo
+0.0.0.0 snl-doge.me
 0.0.0.0 socialhacktools.com
 0.0.0.0 softdriverz.com
 0.0.0.0 softoniccrack.com
@@ -2044,6 +2048,8 @@
 0.0.0.0 www.diyhealthyhomeremedies.com
 0.0.0.0 www.dnslockbox.com
 0.0.0.0 www.doctorvalproducts.com
+0.0.0.0 www.doge2021.info
+0.0.0.0 www.dogecoin-snl.com
 0.0.0.0 www.donate-musk.com
 0.0.0.0 www.downloadplayerz.com
 0.0.0.0 www.downloadthelatest.com
@@ -2555,6 +2561,8 @@
 0.0.0.0 www.smartislife.de
 0.0.0.0 www.smartislife.dk
 0.0.0.0 www.smartlybranded.com
+0.0.0.0 www.snl-doge.ceo
+0.0.0.0 www.snl-doge.me
 0.0.0.0 www.socialhacktools.com
 0.0.0.0 www.softdriverz.com
 0.0.0.0 www.softoniccrack.com
