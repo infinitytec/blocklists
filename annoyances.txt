@@ -170,6 +170,7 @@ www.msn.com##.rcc.rc.recommendedSearch
 www.niallbrady.com###cookies
 www.npr.org##.callout--health.callout--newsletter.callout
 www.nvidia.com##.shadowBox-light.noSelection
+www.nydailynews.com###pb-82862 > .align-items-stretch.flex-container-column.rcom--ctn.crd > .align-items-center.flex-container-row.crd--hd
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 www.onmsft.com###enhancedtextwidget-7
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
