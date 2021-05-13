@@ -1032,6 +1032,7 @@ www.lifenews.com##div[class^="widget-"]
 www.lifenews.com##div[id^="uts-ads"]
 www.lifesavvy.com##.adfullwrap.amp-ad-wrapper
 www.litemethod-revenue.life
+www.livecoinwatch.com##.s-header
 www.manualslib.com###banner_1700584cc7a5
 www.manualslib.com###banner_73440275702
 www.manualslib.com###manualban
@@ -1139,6 +1140,8 @@ www.prajwaldesai.com###stream-item-widget-2
 www.prajwaldesai.com###stream-item-widget-2 > .the-global-title.widget-title
 www.prajwaldesai.com###stream-item-widget-3
 www.prajwaldesai.com###stream-item-widget-3 > .the-global-title.widget-title
+www.prajwaldesai.com###stream-item-widget-4
+www.prajwaldesai.com###stream-item-widget-5
 www.prepostseo.com###after_title_ad
 www.prepostseo.com###sidebar_ad_big
 www.prepostseo.com##.pps-spr-after-button.pps-spr-lumba-daba.pps-spr.text-center.col-xs-12
@@ -1204,14 +1207,20 @@ www.superdimensionalfolder.com
 www.surveysonthego.net
 www.tax-rates.org###promoLink
 www.team-kolassa.de
+www.techpowerup.com###viewport > span
 www.techpowerup.com##.cduv
+www.techpowerup.com##.content > .mnnuzjsddc
 www.techpowerup.com##.eiyanjcf
 www.techpowerup.com##.ejpbl
 www.techpowerup.com##.mnmuzjsddc
+www.techpowerup.com##.mnnuzjsddc
 www.techpowerup.com##.nkuztfvdswe
 www.techpowerup.com##.nspy
 www.techpowerup.com##.ravqfx
+www.techpowerup.com##.sectioncontainer > div
 www.techpowerup.com##.zkybes
+www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1157.thx"]
+www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1498.thx"] > div
 www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
 www.techradar.com##.slot-afterPopularBox
 www.techradar.com##.slot-beforePopularBox
