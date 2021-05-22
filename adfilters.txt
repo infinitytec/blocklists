@@ -19,6 +19,7 @@ adamtheautomator.com##.w-full.items-center.bg-gray-200.p-3.flex-col.flex.sidebar
 adbutler.com
 admin-api.adbutler.com
 admin.adbutler.com
+admin71.trackerrr.com
 ads-e-darwin.hulustream.com
 ads-serve.brave.com
 adserver.pandora.com
@@ -170,6 +171,7 @@ dev-langing3.datspush.com
 dev-langing4.datspush.com
 dev-langing5.datspush.com
 dev.datspush.com
+dev.trackerrr.com
 dev.warriorplus.com
 developergang.com##.cus-fl
 developergang.com##.p-border.widgetable > div.ghost.sidele:nth-of-type(1)
@@ -259,6 +261,7 @@ i.stuff.co.nz##.sics-component__ad-placeholder__content
 iluv.clickbooth.com
 imgur.com###cta-container
 in.getclicky.com
+insights.trackerrr.com
 intermediate.datspush.com
 jalopnik.com##div.movable-ad
 jezebel.com##.js_movable_ad_slot
@@ -339,6 +342,8 @@ m.yelp.com###TopAdStandard
 mail.trackjumpr.com
 mail.validatingnow.com
 mailcatcher-qa.datspush.com
+makezine.com###makezine_ad_widget-6
+makezine.com###makezine_ad_widget-7
 mapinfosolutions.com
 mario-scherzer.de
 marketplace.adbutler.com
@@ -505,6 +510,7 @@ sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dyna
 sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(9)
 ssp.galaksion.com
 staff.ogads.com
+stage-insights.trackerrr.com
 staging-api.warriorplus.com
 staging.members.ogads.com
 stash.clickbooth.com
@@ -514,6 +520,8 @@ strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsby
 superdimensionalfolder.com
 support.clickbooth.com
 surveysonthego.net
+svb-analytics.trackerrr.com
+svb.trackerrr.com
 sweeps3028.nonamejhop47.live
 taftmidwaydriller.com##.ad-container
 team-kolassa.de
@@ -544,6 +552,7 @@ togetherforwine.com
 tomtomgopre.online
 tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
 track.clickbooth.com
+trackerrr.com
 trackjumpr.com
 trendingpolitics.com##.inner > center
 trendingpolitics.com##div.content-below-ad
@@ -676,6 +685,7 @@ www.besterfernseher.de
 www.bestvpn1.com
 www.bhphotovideo.com##.banner_3HOrQrsk6Nc61JoQwYly6K
 www.bhphotovideo.com##.hero_2kKCAvNWYgOkze-1eQtgVx > div > .banner_3HOrQrsk6Nc61JoQwYly6K
+www.bhphotovideo.com##.hero_2mT40APpNmuEGXyYiup8d3.cmsBannerCss_3Xm2OvkROX2q6hXn5CSqOM > .js-injected-html > span
 www.blog.adbutler.com
 www.britannica.com##.video-ad-container-content
 www.britannica.com##.video-ad-container.ora-tv-container
@@ -1292,6 +1302,7 @@ www.tomshardware.com##.slot-leaderboard > .bordeaux-slot-root
 www.tomshardware.com##.slot-topOfSidebar
 www.tomshardware.com##.slot-topOfSidebar > .bordeaux-slot-root
 www.tomtomgopre.online
+www.trackerrr.com
 www.trackjumpr.com
 www.translator.eu###sponsored2_mobil
 www.translator.eu##.adsbygoogle
