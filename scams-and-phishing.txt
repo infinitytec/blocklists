@@ -2891,3 +2891,9 @@
 0.0.0.0 zantac.consultationclaims.com
 0.0.0.0 zeustrk.com
 0.0.0.0 zorka.g2afse.com
+0.0.0.0 cdn.takeprizenow.me
+0.0.0.0 groupme.takeprizenow.me
+0.0.0.0 takeprizenow.me
+0.0.0.0 trk.takeprizenow.me
+0.0.0.0 www.groupme.takeprizenow.me
+0.0.0.0 www.takeprizenow.me
