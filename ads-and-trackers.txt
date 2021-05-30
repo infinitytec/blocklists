@@ -3,6 +3,7 @@
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 
+0.0.0.0 1redirb.com
 0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
 0.0.0.0 adbutler.com
 0.0.0.0 admin-api.adbutler.com
@@ -27,6 +28,7 @@
 0.0.0.0 app.anstrex.com
 0.0.0.0 app2.loki.warriorplus.com
 0.0.0.0 app2.odin.warriorplus.com
+0.0.0.0 appcmpn.com
 0.0.0.0 appstrk.com
 0.0.0.0 atlas.dev.warriorplus.com
 0.0.0.0 au-pair-hildesheim.de
@@ -82,6 +84,7 @@
 0.0.0.0 electronicprofs.de
 0.0.0.0 emotion-captured.de
 0.0.0.0 events.clickbooth.com
+0.0.0.0 f.appcmpn.com
 0.0.0.0 fahrschulewolff.de
 0.0.0.0 farbraum-berlin.de
 0.0.0.0 fcn-memmelsdorf.de
@@ -190,6 +193,7 @@
 0.0.0.0 staging.members.ogads.com
 0.0.0.0 stash.clickbooth.com
 0.0.0.0 static.warriorplus.com
+0.0.0.0 stats.thewishsendonline.com
 0.0.0.0 superdimensionalfolder.com
 0.0.0.0 support.clickbooth.com
 0.0.0.0 surveysonthego.net
@@ -200,6 +204,7 @@
 0.0.0.0 test.ogads.com
 0.0.0.0 teutschebein.de
 0.0.0.0 therapie-lutzebaeck-berlin.de
+0.0.0.0 thewishsendonline.com
 0.0.0.0 todkna6l7138x9.w633-cdaf.eueizrr.gq
 0.0.0.0 togetherforwine.com
 0.0.0.0 tomtomgopre.online
@@ -220,11 +225,13 @@
 0.0.0.0 whm.usawildseafood.com
 0.0.0.0 wifiextenderhelp.com
 0.0.0.0 wiki.clickbooth.com
+0.0.0.0 www.1redirb.com
 0.0.0.0 www.adbutler.com
 0.0.0.0 www.aii.sh
 0.0.0.0 www.altonaerhochbau.de
 0.0.0.0 www.anders-onlinehandel.de
 0.0.0.0 www.anstrex.com
+0.0.0.0 www.appcmpn.com
 0.0.0.0 www.appstrk.com
 0.0.0.0 www.au-pair-hildesheim.de
 0.0.0.0 www.audioline-music.de
@@ -248,6 +255,7 @@
 0.0.0.0 www.ek-arbeitsvermittlung.de
 0.0.0.0 www.electronicprofs.de
 0.0.0.0 www.emotion-captured.de
+0.0.0.0 www.f.appcmpn.com
 0.0.0.0 www.fahrschulewolff.de
 0.0.0.0 www.farbraum-berlin.de
 0.0.0.0 www.fcn-memmelsdorf.de
@@ -302,12 +310,14 @@
 0.0.0.0 www.skytrackerz.com
 0.0.0.0 www.solarcity-freiburg.de
 0.0.0.0 www.spielwarenpinocchio.de
+0.0.0.0 www.stats.thewishsendonline.com
 0.0.0.0 www.superdimensionalfolder.com
 0.0.0.0 www.surveysonthego.net
 0.0.0.0 www.team-kolassa.de
 0.0.0.0 www.telecomservation.com
 0.0.0.0 www.teutschebein.de
 0.0.0.0 www.therapie-lutzebaeck-berlin.de
+0.0.0.0 www.thewishsendonline.com
 0.0.0.0 www.togetherforwine.com
 0.0.0.0 www.tomtomgopre.online
 0.0.0.0 www.trackerrr.com
