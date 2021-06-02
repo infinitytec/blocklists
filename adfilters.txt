@@ -577,6 +577,7 @@ wccftech.com##.footer-ad
 wcfcourier.com##.ad-col
 wcfcourier.com##.item-ad
 weather.com###MW_Position2
+weather.com##.VideoPlaylist--nativeAd--1N7F4
 weather.com##div:nth-of-type(2) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 weather.com##div:nth-of-type(3) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 web4.realtracker.com
@@ -1146,6 +1147,8 @@ www.politico.com##.election-ad
 www.politico.com##.slim.election-ad
 www.popplunder.com
 www.popularmechanics.com##.transporter-ad.leaderboard-ad
+www.prajwaldesai.com###media_image-3
+www.prajwaldesai.com###media_image-4
 www.prajwaldesai.com###stream-item-widget-2
 www.prajwaldesai.com###stream-item-widget-2 > .the-global-title.widget-title
 www.prajwaldesai.com###stream-item-widget-3
