@@ -8,6 +8,8 @@ adwareremoval.info##.closed
 adwareremoval.info##.coupon-box-wrap
 amdfanstore.com##.css-10z1g2q
 archive.org##.js-donate-banner.row
+askpython.dev##div.banner-side:nth-of-type(1)
+askpython.dev##div.banner-side:nth-of-type(2)
 askubuntu.com###js-gdpr-consent-banner
 babylonbee.com##.mb-2.article-content > .d-sm-block.d-none
 babylonbee.com##.mb-4.p-3.h-100.article-cta-box
