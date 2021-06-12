@@ -171,6 +171,7 @@
 0.0.0.0 amazonaffiliatemillionaire.com
 0.0.0.0 amazonmascotas.com
 0.0.0.0 americanlisted.com
+0.0.0.0 amtrack213.com
 0.0.0.0 anders-onlinehandel.de
 0.0.0.0 andicoupons.com
 0.0.0.0 android.criticaldownload.site
@@ -186,6 +187,7 @@
 0.0.0.0 api.devices.fremedica.com
 0.0.0.0 api.l5srv.net
 0.0.0.0 api.prizepub.com
+0.0.0.0 api.rewards-locker.com
 0.0.0.0 api.super-surveys.co
 0.0.0.0 api.unclaimed-moneysearch.com
 0.0.0.0 api.xxpxkj.com
@@ -498,6 +500,7 @@
 0.0.0.0 cpanel.luxury-products.biz
 0.0.0.0 cpanel.mobile-illustration.com
 0.0.0.0 cpanel.myoffice-setup.com
+0.0.0.0 cpanel.mytraffic.biz
 0.0.0.0 cpanel.rfsafe.com
 0.0.0.0 cpanel.thevisualhouse.in
 0.0.0.0 cpanel.trackjumpr.com
@@ -514,6 +517,7 @@
 0.0.0.0 cpcalendars.emfshielding.org
 0.0.0.0 cpcalendars.emfshieldprotect.com
 0.0.0.0 cpcalendars.epicgamecheats.com
+0.0.0.0 cpcalendars.fastnewbiecash.com
 0.0.0.0 cpcalendars.freeonlineworkshop.com
 0.0.0.0 cpcalendars.googleadultseo.com
 0.0.0.0 cpcalendars.honestemf.com
@@ -522,6 +526,7 @@
 0.0.0.0 cpcalendars.luxury-products.biz
 0.0.0.0 cpcalendars.my5gblocker.com
 0.0.0.0 cpcalendars.myoffice-setup.com
+0.0.0.0 cpcalendars.mytraffic.biz
 0.0.0.0 cpcalendars.trackjumpr.com
 0.0.0.0 cpcalendars.twodollarcourse.com
 0.0.0.0 cpcalendars.websitesforfreestuff.com
@@ -536,6 +541,7 @@
 0.0.0.0 cpcontacts.emfshielding.org
 0.0.0.0 cpcontacts.emfshieldprotect.com
 0.0.0.0 cpcontacts.epicgamecheats.com
+0.0.0.0 cpcontacts.fastnewbiecash.com
 0.0.0.0 cpcontacts.freeonlineworkshop.com
 0.0.0.0 cpcontacts.googleadultseo.com
 0.0.0.0 cpcontacts.honestemf.com
@@ -544,12 +550,14 @@
 0.0.0.0 cpcontacts.luxury-products.biz
 0.0.0.0 cpcontacts.my5gblocker.com
 0.0.0.0 cpcontacts.myoffice-setup.com
+0.0.0.0 cpcontacts.mytraffic.biz
 0.0.0.0 cpcontacts.trackjumpr.com
 0.0.0.0 cpcontacts.twodollarcourse.com
 0.0.0.0 cpcontacts.websitesforfreestuff.com
 0.0.0.0 cpcontacts.yk33lz.cc
 0.0.0.0 creditunionlogin.yolasite.com
 0.0.0.0 criticaldownload.site
+0.0.0.0 crypto360.info
 0.0.0.0 crystalinsights-net.3dcartstores.com
 0.0.0.0 crystalinsights.net
 0.0.0.0 csgo365.com
@@ -700,8 +708,10 @@
 0.0.0.0 fast2job.com
 0.0.0.0 fastb1og24.info
 0.0.0.0 fastbl0g24.info
+0.0.0.0 fastnewbiecash.com
 0.0.0.0 faucet.get-brave.com
 0.0.0.0 fbnews.website
+0.0.0.0 fbonlinecoach.com
 0.0.0.0 fbvideo-downloader.com
 0.0.0.0 fcn-memmelsdorf.de
 0.0.0.0 feuerwehr-ahrensfelde.de
@@ -731,6 +741,7 @@
 0.0.0.0 free-targeted-individuals.com
 0.0.0.0 free.content-center.club
 0.0.0.0 freebetbaru88.space
+0.0.0.0 freebies.getitfree-samples.com
 0.0.0.0 freebitco.in
 0.0.0.0 freedownloadmusicmp3songs.com
 0.0.0.0 freegems.co
@@ -784,6 +795,7 @@
 0.0.0.0 getaways.vacationvip.com
 0.0.0.0 getawesomepokemon.com
 0.0.0.0 getbattlefield1.com
+0.0.0.0 getitfree-samples.com
 0.0.0.0 getmeacoupon.net
 0.0.0.0 getmoneywithcpa.com
 0.0.0.0 getmybestbody.com
@@ -871,12 +883,14 @@
 0.0.0.0 healthyusepro.com
 0.0.0.0 hedronemfprotection.com
 0.0.0.0 help.law
+0.0.0.0 help.unemploymentbenefitsguide.com
 0.0.0.0 helpubuy4less.com
 0.0.0.0 helpwithlogin.com
 0.0.0.0 hitgiveaways.com
 0.0.0.0 holotech.biz
 0.0.0.0 honestemf.com
 0.0.0.0 hoskodeals.us
+0.0.0.0 hosted.productreportcard.com
 0.0.0.0 hostmaster.green8.com
 0.0.0.0 hostmaster.gtavfreemoney.co
 0.0.0.0 hotdealsnoffers.com
@@ -903,6 +917,7 @@
 0.0.0.0 initiateuberfreesystem.icu
 0.0.0.0 injury-check.com
 0.0.0.0 injurynews.com
+0.0.0.0 insight.productreportcard.com
 0.0.0.0 instagram-instagram.club
 0.0.0.0 intellihib.com
 0.0.0.0 invite.codemagnet.us
@@ -947,6 +962,7 @@
 0.0.0.0 lifetechnology.com
 0.0.0.0 lightlounge.life
 0.0.0.0 lime.buycocaineonline.se
+0.0.0.0 links.productreportcard.com
 0.0.0.0 litebucks.com
 0.0.0.0 litemethod-revenue.life
 0.0.0.0 live4fans.net
@@ -959,6 +975,7 @@
 0.0.0.0 loriann.cellularhealth.technology
 0.0.0.0 lovecodeseminar.com
 0.0.0.0 lovegreenpencils.ga
+0.0.0.0 lp.fbonlinecoach.com
 0.0.0.0 luxury-products.biz
 0.0.0.0 luxurywatchspecials.com
 0.0.0.0 m.1coolbox.com
@@ -987,6 +1004,7 @@
 0.0.0.0 mail.emf-protection.com
 0.0.0.0 mail.emfrequency.com
 0.0.0.0 mail.faucet.get-brave.com
+0.0.0.0 mail.fbonlinecoach.com
 0.0.0.0 mail.foryoupromo.com
 0.0.0.0 mail.freegems.co
 0.0.0.0 mail.freetricks.website
@@ -1014,6 +1032,7 @@
 0.0.0.0 mail.v-bucks.fr
 0.0.0.0 mail.vacationvip.com
 0.0.0.0 mail.validatingnow.com
+0.0.0.0 mail.wakeuptocash.com
 0.0.0.0 mail.yk33lz.cc
 0.0.0.0 mail1.freebitco.in
 0.0.0.0 mail2.freebitco.in
@@ -1039,6 +1058,7 @@
 0.0.0.0 mastodon.webseed.com
 0.0.0.0 mb.moneyandmarkets.com
 0.0.0.0 mbahandroid.com
+0.0.0.0 media.productreportcard.com
 0.0.0.0 meeryslotspin.xyz
 0.0.0.0 megearsofwar4.com
 0.0.0.0 megiveaways.com
@@ -1156,11 +1176,13 @@
 0.0.0.0 nortonsetup-key.com
 0.0.0.0 nortonsetup-keys.com
 0.0.0.0 noticedispense.club
+0.0.0.0 now.getitfree-samples.com
 0.0.0.0 noxtrack.com
 0.0.0.0 ns1.benefitsdepot.net
 0.0.0.0 ns1.cellularhealth.technology
 0.0.0.0 ns1.com-com-mobi.com
 0.0.0.0 ns1.emf-guard.com
+0.0.0.0 ns1.fastnewbiecash.com
 0.0.0.0 ns1.jeewangarg.com
 0.0.0.0 ns1.loas.world
 0.0.0.0 ns1.pepperblack.cellularhealth.technology
@@ -1172,6 +1194,7 @@
 0.0.0.0 ns2.cellularhealth.technology
 0.0.0.0 ns2.com-com-mobi.com
 0.0.0.0 ns2.emf-guard.com
+0.0.0.0 ns2.fastnewbiecash.com
 0.0.0.0 ns2.jeewangarg.com
 0.0.0.0 ns2.loas.world
 0.0.0.0 ns2.pepperblack.cellularhealth.technology
@@ -1225,6 +1248,7 @@
 0.0.0.0 p.moneyandmarkets.com
 0.0.0.0 p.promotionsonlineusa.com
 0.0.0.0 panachehautecouture.com
+0.0.0.0 payingsocialmediajobs.co
 0.0.0.0 pepperblack.cellularhealth.technology
 0.0.0.0 perdue-coupons.com
 0.0.0.0 pesoaniz.com
@@ -1255,8 +1279,10 @@
 0.0.0.0 prizepub.com
 0.0.0.0 pro.banyanhill.com
 0.0.0.0 pro.moneyandmarkets.com
+0.0.0.0 pro.mytraffic.biz
 0.0.0.0 pro1.banyanhill.com
 0.0.0.0 prod.buycocaineonline.se
+0.0.0.0 productreportcard.com
 0.0.0.0 profitsurvey365.org
 0.0.0.0 projekt-smof.de
 0.0.0.0 promo.tac5237iop.com
@@ -1305,6 +1331,8 @@
 0.0.0.0 retailproductsusa.com
 0.0.0.0 revitalizingskinshop.com
 0.0.0.0 reward3spot.com
+0.0.0.0 rewards-locker.com
+0.0.0.0 rewardsavenue.net
 0.0.0.0 rewardsgiantusa.com
 0.0.0.0 rewardspromotionwinnersuper.cyou
 0.0.0.0 rezotone.com
@@ -1327,14 +1355,17 @@
 0.0.0.0 sauser-metall.de
 0.0.0.0 scalarenergyproductreview.com
 0.0.0.0 schluesselrabe.de
+0.0.0.0 scr.rewardsavenue.net
 0.0.0.0 search-trends.co
 0.0.0.0 secpssotel.us
+0.0.0.0 secure.amtrack213.com
 0.0.0.0 secure.banyanhill.com
 0.0.0.0 secure.buycocaineonline.se
 0.0.0.0 secure.cybereveryday02.space
 0.0.0.0 secure.moneyandmarkets.com
 0.0.0.0 securitymobile.club
 0.0.0.0 seq.thepersonalfinancialguide.com
+0.0.0.0 server.fastnewbiecash.com
 0.0.0.0 server.rfsafe.com
 0.0.0.0 server1.a0ndi.cn
 0.0.0.0 servicecenterapple.wordpress.com
@@ -1388,11 +1419,13 @@
 0.0.0.0 special.aulterra.com
 0.0.0.0 spielwarenpinocchio.de
 0.0.0.0 spnccrzone.com
+0.0.0.0 springboard.surveyjobs.us
 0.0.0.0 sprkcvr.com
 0.0.0.0 ss.buyketofastnow.com
 0.0.0.0 ss.buyketonow.com
 0.0.0.0 staff.ogads.com
 0.0.0.0 stage.l5srv.net
+0.0.0.0 stage.productreportcard.com
 0.0.0.0 stage.shieldyourbody.com
 0.0.0.0 staging-alisong.benefitsdepot.net
 0.0.0.0 staging-briani.benefitsdepot.net
@@ -1423,6 +1456,7 @@
 0.0.0.0 static6.freebitco.in
 0.0.0.0 static7.freebitco.in
 0.0.0.0 static8.freebitco.in
+0.0.0.0 stayhomestaysafea.blogspot.com
 0.0.0.0 stealdeals4u.com
 0.0.0.0 stellar.org.mu
 0.0.0.0 stellarholidaydeals.com
@@ -1432,18 +1466,21 @@
 0.0.0.0 store.lime.buycocaineonline.se
 0.0.0.0 store.owa.buycocaineonline.se
 0.0.0.0 store.planet-tachyon.com
+0.0.0.0 stripeapp.mytraffic.biz
 0.0.0.0 stylesforless.com
 0.0.0.0 super-surveys.co
 0.0.0.0 superdimensionalfolder.com
 0.0.0.0 superhacktool.com
 0.0.0.0 superiorpodsnow.com
 0.0.0.0 supporttv.net
+0.0.0.0 surveyjobs.us
 0.0.0.0 surveynowser.com
 0.0.0.0 surveyonline.top
 0.0.0.0 surveys2cash.com
 0.0.0.0 surveysandpromoonline.com
 0.0.0.0 sweeps3028.nonamejhop47.live
 0.0.0.0 sweeps5913.nonamerbon15.live
+0.0.0.0 sweepsclub.net
 0.0.0.0 sweepstakesforme.com
 0.0.0.0 synergyscience.com
 0.0.0.0 system.fudtroll.com
@@ -1532,10 +1569,12 @@
 0.0.0.0 toptenproducts.in
 0.0.0.0 topthreereviews.info
 0.0.0.0 track.bestcelebsupdates.com
+0.0.0.0 tracking.productreportcard.com
 0.0.0.0 trackjumpr.com
 0.0.0.0 trackyourmpg.com
 0.0.0.0 trahes.site
 0.0.0.0 travel-cibola.business.site
+0.0.0.0 trc.fbonlinecoach.com
 0.0.0.0 trendsndeals.com
 0.0.0.0 trierwirdwild.de
 0.0.0.0 trk-rankmyapp.g2afse.com
@@ -1543,7 +1582,9 @@
 0.0.0.0 trk.takeprize.me
 0.0.0.0 trk.takeprizenow.me
 0.0.0.0 trk10.com
+0.0.0.0 trkr5r5r5.com
 0.0.0.0 trustedpush.com
+0.0.0.0 try.getitfree-samples.com
 0.0.0.0 trygiveaways.com
 0.0.0.0 trypharmalitexspremiumketo.com
 0.0.0.0 turisllanes.com
@@ -1557,6 +1598,7 @@
 0.0.0.0 ueyoficiyx.3freescoresnow.com
 0.0.0.0 ultrasonicrepeller.com
 0.0.0.0 unclaimed-moneysearch.com
+0.0.0.0 unemploymentbenefitsguide.com
 0.0.0.0 uniquedrones2018.com
 0.0.0.0 unocoupon.com
 0.0.0.0 up.bioelectricshield.com
@@ -1576,6 +1618,7 @@
 0.0.0.0 vacationvip.com
 0.0.0.0 vaccinationcouncil.org
 0.0.0.0 validatingnow.com
+0.0.0.0 variantverdict.com
 0.0.0.0 verygiveaways.com
 0.0.0.0 vgiveaways.com
 0.0.0.0 videolan-free.com
@@ -1600,6 +1643,7 @@
 0.0.0.0 vrpornex.com
 0.0.0.0 w.3freescoresnow.com
 0.0.0.0 w.promotionsonlineusa.com
+0.0.0.0 wakeuptocash.com
 0.0.0.0 warranty.shieldyourbody.com
 0.0.0.0 warriorsuccessmethod.com
 0.0.0.0 warszawa.zagadywacz.pl
@@ -1630,6 +1674,7 @@
 0.0.0.0 webdisk.emfshielding.org
 0.0.0.0 webdisk.emfshieldprotect.com
 0.0.0.0 webdisk.epicgamecheats.com
+0.0.0.0 webdisk.fastnewbiecash.com
 0.0.0.0 webdisk.freeonlineworkshop.com
 0.0.0.0 webdisk.googleadultseo.com
 0.0.0.0 webdisk.honestemf.com
@@ -1659,6 +1704,7 @@
 0.0.0.0 webmail.emfshielding.org
 0.0.0.0 webmail.emfshieldprotect.com
 0.0.0.0 webmail.epicgamecheats.com
+0.0.0.0 webmail.fastnewbiecash.com
 0.0.0.0 webmail.freeonlineworkshop.com
 0.0.0.0 webmail.googleadultseo.com
 0.0.0.0 webmail.healthmatreview.com
@@ -1671,6 +1717,7 @@
 0.0.0.0 webmail.luxury-products.biz
 0.0.0.0 webmail.mobile-illustration.com
 0.0.0.0 webmail.myoffice-setup.com
+0.0.0.0 webmail.mytraffic.biz
 0.0.0.0 webmail.rfsafe.com
 0.0.0.0 webmail.thevisualhouse.in
 0.0.0.0 webmail.trackjumpr.com
@@ -1862,6 +1909,7 @@
 0.0.0.0 www.amazonaffiliatemillionaire.com
 0.0.0.0 www.amazonmascotas.com
 0.0.0.0 www.americanlisted.com
+0.0.0.0 www.amtrack213.com
 0.0.0.0 www.anders-onlinehandel.de
 0.0.0.0 www.andicoupons.com
 0.0.0.0 www.androidebookapp.com
@@ -2107,6 +2155,7 @@
 0.0.0.0 www.cpanel.buycocaineonline.se
 0.0.0.0 www.creditunionlogin.yolasite.com
 0.0.0.0 www.criticaldownload.site
+0.0.0.0 www.crypto360.info
 0.0.0.0 www.crystalinsights-net.3dcartstores.com
 0.0.0.0 www.crystalinsights.net
 0.0.0.0 www.csgo365.com
@@ -2235,8 +2284,10 @@
 0.0.0.0 www.fast2job.com
 0.0.0.0 www.fastb1og24.info
 0.0.0.0 www.fastbl0g24.info
+0.0.0.0 www.fastnewbiecash.com
 0.0.0.0 www.faucet.get-brave.com
 0.0.0.0 www.fbnews.website
+0.0.0.0 www.fbonlinecoach.com
 0.0.0.0 www.fbvideo-downloader.com
 0.0.0.0 www.fcn-memmelsdorf.de
 0.0.0.0 www.feuerwehr-ahrensfelde.de
@@ -2310,6 +2361,7 @@
 0.0.0.0 www.get-norton.com
 0.0.0.0 www.getawesomepokemon.com
 0.0.0.0 www.getbattlefield1.com
+0.0.0.0 www.getitfree-samples.com
 0.0.0.0 www.getmeacoupon.net
 0.0.0.0 www.getmoneywithcpa.com
 0.0.0.0 www.getmybestbody.com
@@ -2592,6 +2644,7 @@
 0.0.0.0 www.owa.buycocaineonline.se
 0.0.0.0 www.oxnylia.org
 0.0.0.0 www.panachehautecouture.com
+0.0.0.0 www.payingsocialmediajobs.co
 0.0.0.0 www.perdue-coupons.com
 0.0.0.0 www.pesoaniz.com
 0.0.0.0 www.pkke33.cn
@@ -2615,6 +2668,7 @@
 0.0.0.0 www.prizedea2030.info
 0.0.0.0 www.prizepub.com
 0.0.0.0 www.prod.buycocaineonline.se
+0.0.0.0 www.productreportcard.com
 0.0.0.0 www.profitsurvey365.org
 0.0.0.0 www.projekt-smof.de
 0.0.0.0 www.promotionsonlineusa.com
@@ -2648,6 +2702,8 @@
 0.0.0.0 www.retailproductsusa.com
 0.0.0.0 www.revitalizingskinshop.com
 0.0.0.0 www.reward3spot.com
+0.0.0.0 www.rewards-locker.com
+0.0.0.0 www.rewardsavenue.net
 0.0.0.0 www.rewardsgiantusa.com
 0.0.0.0 www.rewardspromotionwinnersuper.cyou
 0.0.0.0 www.rezotone.com
@@ -2720,6 +2776,7 @@
 0.0.0.0 www.staging1.5gdefense.com
 0.0.0.0 www.staging1.aulterra.com
 0.0.0.0 www.static.buycocaineonline.se
+0.0.0.0 www.stayhomestaysafea.blogspot.com
 0.0.0.0 www.stealdeals4u.com
 0.0.0.0 www.stellar.org.mu
 0.0.0.0 www.stellarholidaydeals.com
@@ -2727,16 +2784,19 @@
 0.0.0.0 www.store.dc-efb26bfb7cee.buycocaineonline.se
 0.0.0.0 www.store.lime.buycocaineonline.se
 0.0.0.0 www.store.owa.buycocaineonline.se
+0.0.0.0 www.stripeapp.mytraffic.biz
 0.0.0.0 www.stylesforless.com
 0.0.0.0 www.super-surveys.co
 0.0.0.0 www.superdimensionalfolder.com
 0.0.0.0 www.superhacktool.com
 0.0.0.0 www.superiorpodsnow.com
 0.0.0.0 www.supporttv.net
+0.0.0.0 www.surveyjobs.us
 0.0.0.0 www.surveynowser.com
 0.0.0.0 www.surveyonline.top
 0.0.0.0 www.surveys2cash.com
 0.0.0.0 www.surveysandpromoonline.com
+0.0.0.0 www.sweepsclub.net
 0.0.0.0 www.sweepstakesforme.com
 0.0.0.0 www.synergyscience.com
 0.0.0.0 www.t.affiliclk.org
@@ -2822,6 +2882,7 @@
 0.0.0.0 www.trierwirdwild.de
 0.0.0.0 www.trk.out-model-own-cent.xyz
 0.0.0.0 www.trk10.com
+0.0.0.0 www.trkr5r5r5.com
 0.0.0.0 www.trustedpush.com
 0.0.0.0 www.trygiveaways.com
 0.0.0.0 www.trypharmalitexspremiumketo.com
@@ -2834,6 +2895,7 @@
 0.0.0.0 www.ubiquitiunifi.shop
 0.0.0.0 www.ultrasonicrepeller.com
 0.0.0.0 www.unclaimed-moneysearch.com
+0.0.0.0 www.unemploymentbenefitsguide.com
 0.0.0.0 www.uniquedrones2018.com
 0.0.0.0 www.unocoupon.com
 0.0.0.0 www.update-it-now.com
@@ -2848,6 +2910,7 @@
 0.0.0.0 www.vacationvip.com
 0.0.0.0 www.vaccinationcouncil.org
 0.0.0.0 www.validatingnow.com
+0.0.0.0 www.variantverdict.com
 0.0.0.0 www.verygiveaways.com
 0.0.0.0 www.vgiveaways.com
 0.0.0.0 www.videolan-free.com
@@ -2869,6 +2932,7 @@
 0.0.0.0 www.vr-lounge.nl
 0.0.0.0 www.vrheadsetoracle.com
 0.0.0.0 www.vrpornex.com
+0.0.0.0 www.wakeuptocash.com
 0.0.0.0 www.warranty.shieldyourbody.com
 0.0.0.0 www.warriorsuccessmethod.com
 0.0.0.0 www.warszawa.zagadywacz.pl
