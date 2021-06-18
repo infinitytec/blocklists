@@ -265,6 +265,7 @@ insights.trackerrr.com
 intermediate.datspush.com
 jalopnik.com##div.movable-ad
 jezebel.com##.js_movable_ad_slot
+joingif.imageonline.co##.col-md-12 > p
 journaldemocrat.com##.ad-container
 jsfiddle.net###keep-us-running
 jut7866.info
@@ -494,6 +495,15 @@ servedby.adbutler.com
 shrink.pe
 siskiyoudaily.com##.ad-container
 skytrackerz.com
+smallseo.tools###iframeData .text-center > p
+smallseo.tools##.border.p25.tracktool_banner .text-center > p
+smallseo.tools##.category_box > .col-md-6 > p
+smallseo.tools##.category_box > p
+smallseo.tools##.in.fade.modal-backdrop
+smallseo.tools##.in.loginme.fade.modal
+smallseo.tools##.text-center.col-md-8 > p
+smallseo.tools##div.col-md-12:nth-of-type(16) > .category_box > p
+smallseo.tools##form > p
 smile.amazon.com###pdagSparkleAdFeedback
 solarcity-freiburg.de
 spa-intermediate.datspush.com
@@ -520,6 +530,7 @@ strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsby
 superdimensionalfolder.com
 support.clickbooth.com
 surveysonthego.net
+survivethis.news###custom_html-11 > .custom-html-widget.textwidget
 svb-analytics.trackerrr.com
 svb.trackerrr.com
 sweeps3028.nonamejhop47.live
@@ -540,6 +551,8 @@ thehill.com###dfp-ad-mos_1
 thehill.com###dfp-ad-mos_2
 thehill.com###dfp-ad-mos_3
 thehill.com###dfp-ad-mos_4
+theitbros.com###page > p
+theitbros.com##.vi-sticky-ad
 therapie-lutzebaeck-berlin.de
 thesolving.com###sponsor-box-1
 thesolving.com###sponsor-box-2
@@ -962,6 +975,7 @@ www.healthysimulation.com##div[class*="5f6"]
 www.healthysimulation.com##div[class*="f61"]
 www.healthysimulation.com##div[class*="f610"]
 www.healthysimulation.com##div[class*="ffd"]
+www.howtogeek.com##.e-content.entry-content > div
 www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-inner
 www.howtogeek.com##div[id^="purch_"]
@@ -1415,6 +1429,7 @@ www.worldatlas.com##div.dynamicContinue-header.dynamicInsert-block
 www.wsoctv.com##.card-article.card-content > .align-items-center.flex-container-column
 www.wthr.com###taboola-mobile-below-article-0
 www.wthr.com##.ad
+www.yahoo.com###sdaAdvText-INARTICLE
 www.zapsplat.com##.adContainer
 www1.cbn.com##.header-ad
 yourbusiness.azcentral.com##.partner-placement
