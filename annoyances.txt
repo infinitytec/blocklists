@@ -232,6 +232,7 @@ www.washingtonpost.com###leaderboard-overlay
 www.washingtonpost.com##.bb.b-ns.b-none
 www.washingtontimes.com###teaser-cdf955ca-7a66-40fa-b125-cb9750d610f6
 www.webmd.com###ContentPane40
+www.webmd.com##.top-picks
 www.wfmynews2.com##.notifications
 www.windowscentral.com###banneradspace
 www.windowscentral.com##.mobile-leaderboard-320-50
