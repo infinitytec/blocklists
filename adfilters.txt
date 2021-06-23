@@ -61,7 +61,9 @@ atlas.dev.warriorplus.com
 au-pair-hildesheim.de
 audioline-music.de
 aws.dev.warriorplus.com
+babylonbee.com###app > .row > .col-12
 babylonbee.com###div-gpt-ad-1560348589511-0
+babylonbee.com##.mid-article-ad
 babylonbee.com##.text-center.sticky-footer-image
 behindthepolitics.de
 bellaflora24.de
@@ -1376,6 +1378,7 @@ www.urtech.ca##.site-col-2.sidebar-right.widget-area
 www.usawildseafood.com
 www.validatingnow.com
 www.vlchelp.com##.widget_custom_html.widget.widget_text
+www.waff.com##.arc-ad-wrapper
 www.walmart.com##.Grid--gutters.grid
 www.walmart.com##.buy-box-container
 www.walmart.com##.pbb-container-link-img.pbb-content
