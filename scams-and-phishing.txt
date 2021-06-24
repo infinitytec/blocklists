@@ -1143,6 +1143,7 @@
 0.0.0.0 musicallyfame.co
 0.0.0.0 muskdoge.org
 0.0.0.0 muskdonate.top
+0.0.0.0 muskpro.net
 0.0.0.0 musktop.info
 0.0.0.0 mx.faucet.get-brave.com
 0.0.0.0 mx.get-brave.com
@@ -2609,6 +2610,7 @@
 0.0.0.0 www.musicallyfame.co
 0.0.0.0 www.muskdoge.org
 0.0.0.0 www.muskdonate.top
+0.0.0.0 www.muskpro.net
 0.0.0.0 www.musktop.info
 0.0.0.0 www.my5gblocker.com
 0.0.0.0 www.myalphaspace1.com
