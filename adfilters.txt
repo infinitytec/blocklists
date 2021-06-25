@@ -1,5 +1,6 @@
 ! Title: Advertisement blocking filters by infinitytec.
-! Description: This list is for blocking ads. It is in the format used by uBlock Origin and Adblock Plus.
+! Description: This list is for blocking ads and trackers. Best used in addition to other lists.
+! For use with plugin-based adblockers, such as uBlock Origin.
 ! Released under the MIT license.
 ! Expires: 4 days
 
