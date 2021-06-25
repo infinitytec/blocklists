@@ -1,7 +1,8 @@
-# Scams, phishing, and malware sites. Bad places. Also people who want your clicks for nefarious purposes, such as fake news.
+# Scams, phishing, and malware sites. Bad places. Also people who want your clicks for nefarious purposes.
 # List maintained by infinitytec.
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+# URL: https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt
 
 0.0.0.0 0.steplersforsunshine.tw
 0.0.0.0 1.steplersforsunshine.tw
@@ -590,7 +591,6 @@
 0.0.0.0 dc-eb876ca90bee.theokinawatonic.com
 0.0.0.0 dc-efb26bfb7cee.buycocaineonline.se
 0.0.0.0 dealarcher.com
-0.0.0.0 dealarcher.com yugster.com
 0.0.0.0 deals.tacticalusa.com
 0.0.0.0 deals4u.website
 0.0.0.0 dealsad.in
