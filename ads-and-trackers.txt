@@ -2,6 +2,7 @@
 # List maintained by infinitytec.
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+# URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 
 0.0.0.0 1redirb.com
 0.0.0.0 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
