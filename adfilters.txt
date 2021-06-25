@@ -3,6 +3,7 @@
 ! Released under the MIT license.
 ! Expires: 4 days
 
+1redirb.com
 3a041z7eqo78sfbbhlwmvrrb91.hop.clickbank.net
 3dprint.com##.btn--sponsor
 3dprint.com##.lap-block-items
@@ -15,10 +16,13 @@ abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWr
 abc6onyourside.com##div:nth-of-type(2) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailBottom__1D0Z.index_panel__2hRY
 abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWrapper__2ka5 > .index_columnTwo__1WS1 > .index_rightrailTop__2tRc.index_panel__2hRY
+adactioninteractive.hasoffers.com
 adamtheautomator.com##.w-full.items-center.bg-gray-200.p-3.flex-col.flex.sidebar
 adbutler.com
+adfeelgood.hasoffers.com
 admin-api.adbutler.com
 admin.adbutler.com
+admin.jexads.com
 admin71.trackerrr.com
 ads-e-darwin.hulustream.com
 ads-serve.brave.com
@@ -26,17 +30,26 @@ adserver.pandora.com
 adserver1.realtracker.com
 adserver2.realtracker.com
 advertisers.ogads.com
+affiliateclub.hasoffers.com
 affiliates.anstrex.com
 affiliates.clickbooth.com
 aii.sh
+ajincprivate.hasoffers.com
+alexd.hasoffers.com
 allnurses.com###anLeaderAd
 allnurses.com##.medrec.ipsType_center
 altonaerhochbau.de
+amtrack213.com
+anchorfree.hasoffers.com
 anders-onlinehandel.de
 android.gadgethacks.com##aside.whtaph-300.whtaph-rightbox
 anstrex.com
+api-p00.hasoffers.com
 api.adbutler.com
 api.anstrex.com
+api.arroyomedia.com
+api.tune.com
+api.twyne.io
 api.warriorplus.com
 apirest.qa.datspush.com
 apnews.com##.Component-dfp-0-2-42
@@ -49,9 +62,13 @@ apnews.com##.persistent-ad > div > .Component-adTitle-0-2-13
 apnews.com##.persistent-ad > div > .Component-rectanglePlaceholderWrapper-0-2-17.Component-placeholderWrapper-0-2-16
 apnews.com##div.Component-dfp-0-2-181
 app.anstrex.com
+app.arroyomedia.com
 app2.loki.warriorplus.com
 app2.odin.warriorplus.com
+appcmpn.com
 appstrk.com
+arroyomedia.api.twyne.io
+arroyomedia.com
 arstechnica.com###article_end_ad_footer
 arstechnica.com###outbrain-recs
 arstechnica.com##.ad_instream
@@ -61,29 +78,37 @@ atlas.dev.warriorplus.com
 au-pair-hildesheim.de
 audioline-music.de
 aws.dev.warriorplus.com
+axianoworld.hasoffers.com
 babylonbee.com###app > .row > .col-12
 babylonbee.com###div-gpt-ad-1560348589511-0
 babylonbee.com##.mid-article-ad
 babylonbee.com##.text-center.sticky-footer-image
+beetech.hasoffers.com
 behindthepolitics.de
 bellaflora24.de
 best.playlistcurators.club
 besterfernseher.de
+bestnewsletterto-translatetoday.info
 bestvpn1.com
 bgr.com##.amazon-product-callout
 bgr.com##.bgr-style-_default.no-image.channel-tech.tag-snapdragon-888.tag-galaxy-s21.hentry.has-post-thumbnail.format-standard.status-publish.type-post.post.post-5889368 > div.content-section.row > .columns.main-content > .page-content > .row > .columns > .entry-content > h2
 bgr.com##.entry-content > h2
+billing.hasoffers.com
+bioburn12.hasoffers.com
 blockonomi.com##.cf.the-post-foot > center
 blog.adbutler.com
 blog.clickbooth.com
+blog.robly.com
 bongino.com##.post-content.marg-33pc-top > div:nth-of-type(2) > .ai-attributes > .code-block-label
 bongino.com##div:nth-of-type(3) > .ai-attributes > .code-block-label
 boonevilledemocrat.com##.ad-container
 brmclick.com
+brmedia.hasoffers.com
 bronx.news12.com##.section-5c6c979d2d350613f88611118713bec4.section
 bronx.news12.com##div.banner-sidebar.banner
 business.realtracker.com
 butlercountytimesgazette.com##.ad-container
+bw.arroyomedia.com
 calibre.en.uptodown.com##div.ad
 calytics.ml
 campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container
@@ -91,14 +116,17 @@ campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dial
 campaign.aliexpress.com###smb-ui-banner-id > .smb-banner__main
 campusmediaaward.de
 canmake.de
+cannaffiliate.hasoffers.com
 carbuzz.com##.ad-slot
 cars.usnews.com##.ad-container
+cashaff.hasoffers.com
 cbsaustin.com###interstory_first_ddb_0
 cbsaustin.com###interstory_first_ddb_1
 cbsaustin.com###interstory_second_ddb_0
 cbsaustin.com##div:nth-of-type(1) > .index_adBeforeContent__j4lF
 cbsaustin.com##div:nth-of-type(2) > .index_adBeforeContent__j4lF
 ccm.net##.ccm_pugoo__sponso
+cdm-01.twyne.io
 cdn.intermediate.datspush.com
 cdn.qa.datspush.com
 cgtips.org##.xlwXYROtlQoi-bg
@@ -110,6 +138,7 @@ chicago.cbslocal.com###featured-media
 chicago.cbslocal.com###ym_69700033
 chicago.cbslocal.com###ym_69700034
 chicago.cbslocal.com##.anvato.video-wrapper
+chili.hasoffers.com
 ciphertrick.com##.mid-post-sponsor
 clark.com##.code-block-17.code-block > .in-content-ad-container > .in-content-ad
 clark.com##.full-ad
@@ -118,9 +147,11 @@ clark.com##.in-content-ad
 clark.com##.in-content-ad-container
 cldoffers.net
 clickbooth.com
+clouta.hasoffers.com
 coinfomania.com##.thecontent > p:nth-of-type(2)
 coinmarketcap.com##.cmc-details-panel-buy-buttons
 coinmarketcap.com##.draeOX.sc-1bks9yb-0.cmc-sponsored-link > .cmc-link
+coinsquare.hasoffers.com
 colorado.hometownlocator.com###div-gpt-ad-hometownlocator_com-box-2-0
 colorado.hometownlocator.com##.ezoic-ad
 columbiadailyherald.com##.ad-container
@@ -132,6 +163,7 @@ community.spiceworks.com##.gekko_leaderboard
 community.spiceworks.com##.slot-1-wrapper
 compliance.clickbooth.com
 config2.mparticle.com
+confluence.corp.tune.com
 connect.clickbooth.com
 connect.performcb.com
 conservativebrief.com###respond
@@ -139,31 +171,43 @@ conservativebrief.com##.ai-viewport-2.ai-viewport-1
 conservativebrief.com##.code-block-15.code-block
 contactaolhelp.com
 contactform7.com##.count-2.cf7com-adsense
+cooltech.hasoffers.com
 coryrylan.com##.av-banner-web-component-essentials
 coryrylan.com##.av-side-web-component-essentials.card
 cpagold.net
+cpanel.mytraffic.biz
 cpanel.trackjumpr.com
 cpanel.usawildseafood.com
+cpaprosperity2.hasoffers.com
 cpc.clickbooth.com
+cpcalendars.mytraffic.biz
 cpcalendars.trackjumpr.com
 cpcalendars.usawildseafood.com
+cpcontacts.mytraffic.biz
 cpcontacts.trackjumpr.com
 cpcontacts.usawildseafood.com
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
+crakrevenue.hasoffers.com
+creditstrong.hasoffers.com
 cryptoage.com##.clearfix.zindex10.image-section
 cryptoage.com##.top-module-position > .moduletable > div
 cryptoage.com##.visible-desktop.right-module-position > div.moduletable > div > .content-module > p > [href^="https://www.binance.com/en/register"]
 cryptoage.com##div.moduletable:nth-of-type(2)
 cryptoage.com##div.moduletable:nth-of-type(5)
+custom-domains.twyne.io
+customer.arroyomedia.com
 datspush.com
 dc-376740dd3311.trackjumpr.com
 deadspin.com##.ad-left-top.dfp-slot-LEFT_TOP.dfp.ad-container
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(2) > .fHVkyq.sav3un-4 > .CjFXp.sav3un-7
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .fHVkyq.sav3un-4 > .CjFXp.sav3un-7
 deadspin.com##div.jJvGrG.sav3un-0:nth-of-type(3) > .js_link.hgyrqL.sav3un-1.hMndXN.sc-1out364-0
+dealmaxx.api.twyne.io
 deliverynotforme.best
+deltamedia.hasoffers.com
+demo.pay.tune.com
 deploy.warriorplus.com
 der-gruenling.de
 dev-langing.datspush.com
@@ -183,26 +227,35 @@ developergang.com##.widgetable_sticky.widgetable > div.ghost.sidele:nth-of-type(
 developergang.com##div.ghost.sidele:nth-of-type(5)
 developergang.com##p [href="https://hosting.developergang.com/hostgator-promo-code/"]
 devilslakejournal.com##.ad-container
+diamondcbd.hasoffers.com
 didyouknowfacts.com##.ad-box
 didyouknowfacts.com##.header-ad
+digitalfuelmarketing.hasoffers.com
 diplompsychologehench.de
 djhjmedia.com##.elementor-widget-jnews_element_ads_elementor
 djhjmedia.com##.elementor-widget-jnews_element_ads_elementor.elementor-widget.vc_custom_1497951330965.elementor-element-ktYe5sC.elementor-element
 doctor.webmd.com##.basicMobileTopAd
 doctor.webmd.com##div#profilebottomad
+donorschoose.hasoffers.com
+double2.hasoffers.com
 dr-med-feustel.de
 edu.clickbooth.com
 ek-arbeitsvermittlung.de
 electronicprofs.de
+email.robly.com
 emotion-captured.de
 en.softonic.com###aside-top-app-download-page-desktop-wrapper > .ad-content-wrapper > .adblock-fallback
 en.softonic.com###header-bar-avast-hb
 en.softonic.com###top-leaderboard-app-download-page-desktop-wrapper
 en.softonic.com###top-leaderboard-app-page-desktop-wrapper
 en.softonic.com##.ad-content-wrapper
+espire.hasoffers.com
 etherscan.io###revive-0-0
 etherscan.io##.showcase-banner-spacing
 events.clickbooth.com
+everloved.hasoffers.com
+evomarketing.hasoffers.com
+f.appcmpn.com
 fahrschulewolff.de
 farbraum-berlin.de
 fcn-memmelsdorf.de
@@ -216,8 +269,11 @@ fileinfo.com##.linkAds
 film.avclub.com##.movable-ad
 filmdaily.co##div.fd-article-top-banner
 fincasonbaro.de
+flushoffers1.hasoffers.com
+forms.arroyomedia.com
 fortune-days.de
 freeware-finden.de
+fueledloop.api.twyne.io
 funtranslations.com##.adsbygoogle
 futures.tradingcharts.com###mrABMessage_box_85995
 futures.tradingcharts.com###mrABMessage_top_85995
@@ -232,6 +288,7 @@ geekflare.com###geekf-2090923135
 geekflare.com##.alignfull.bg-lgray.w-resources
 geekflare.com##.alignnone.wp-caption
 geekflare.com##.page-advertisement
+geeksmedia.hasoffers.com
 geneticliteracyproject.org##.elementor-sticky--effects.elementor-section--handles-inside.elementor-sticky--active.elementor-sticky.elementor-widget-shortcode.elementor-widget.elementor-element-30d8c84.elementor-element
 geneticliteracyproject.org##.elementor-sticky.elementor-widget-shortcode.elementor-widget.elementor-element-30d8c84.elementor-element
 geneticliteracyproject.org##.elementor-widget-shortcode.elementor-widget.elementor-element-7b85a55.elementor-element
@@ -239,36 +296,58 @@ geneticliteracyproject.org##div[id ^= genet-]
 get.popplunder.com
 getyoutothenext.com
 gimbal.com
+gitlab.robertr.stage.hasoffers.com
 gizmodo.com##.ad-container
 gizmodo.com##.hQyEYS
 gizmodo.com##.hZzjjd.sc-1bxrryq-0
 gizmodo.com##.kzUztX.sc-1to1lfh-1
 gizmodo.com##div.movable-ad
+go.tune.com
+goanimate.hasoffers.com
 goldbek-apotheke.de
+goodkarma.hasoffers.com
 goqr.me###zazzle-widget
 gpu.userbenchmark.com##.be-caption
 grafikstudio-vonfroreich.de
 graphicscardhub.com##.ai_widget.widget
 grf.clickbooth.com
+gwm1.hasoffers.com
+gwm2.hasoffers.com
+gwm3.hasoffers.com
+hacklabcpa.hasoffers.com
 harveycountynow.com##.sidebar
+hasoffers.com
 health.usnews.com##.krSlIm.Ad__Container-sc-1ah7c5n-0
 heavens-above.com##.adslot_header.adsbygoogle
 help.warriorplus.com
+hexpresshealthcare.hasoffers.com
 historydaily.org##.adwrapper
+hootboard.hasoffers.com
 hostmaster.mb104.com
 hothardware.com##.ad-top-billboard-init.hide-mobile.ad-top-billboard
 hothardware.com##.hide-mobile.ad-top-billboard
 hpprintersupportservice.com
 i.stuff.co.nz##.sics-component__ad-placeholder__content
+i2.api.twyne.io
 iluv.clickbooth.com
+img.robly.com
 imgur.com###cta-container
 in.getclicky.com
+infusion.robly.com
+innovate.hasoffers.com
 insights.trackerrr.com
+integrator-auth.hasoffers.com
 intermediate.datspush.com
+iqu2.hasoffers.com
 jalopnik.com##div.movable-ad
+jaspersmedia.hasoffers.com
+jexads.com
 jezebel.com##.js_movable_ad_slot
+jira.corp.tune.com
 joingif.imageonline.co##.col-md-12 > p
 journaldemocrat.com##.ad-container
+jrpassltd.hasoffers.com
+js.tune.com
 jsfiddle.net###keep-us-running
 jut7866.info
 kamilslab.com###text-9
@@ -301,6 +380,9 @@ kotaku.com##div.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic.
 krebsonsecurity.com###sidebar > [href^="https://www.akamai.com/us/en/what-we-do/intelligent-platform/"]
 krebsonsecurity.com###sidebar-box > .a-img
 kutv.com##div[id^=interstory_]
+lai.hasoffers.com
+leadgid.hasoffers.com
+lgcllc.hasoffers.com
 lifehacker.com##.ad-container
 lifehacker.com##.ad-mobile
 lifehacker.com##.ad-mobile-dynamic
@@ -342,9 +424,11 @@ m.imdb.com###placeholderImageLinearGradient
 m.imdb.com###placeholderImageMask
 m.yelp.com###BottomAdStandard
 m.yelp.com###TopAdStandard
+madera.api.twyne.io
 mail.trackjumpr.com
 mail.validatingnow.com
 mailcatcher-qa.datspush.com
+mailer1.hasoffers.com
 makezine.com###makezine_ad_widget-6
 makezine.com###makezine_ad_widget-7
 mapinfosolutions.com
@@ -352,9 +436,12 @@ mario-scherzer.de
 marketplace.adbutler.com
 marspics.de
 mashable.com##.inline-video-seealso
+masstraffic.hasoffers.com
+masstrk.com
 mastodon.webseed.com
 mb104.com
 meaton.test.warriorplus.com
+media.hasoffers.com
 mediabiasfactcheck.com###pLsQZAokoXcw
 mediabiasfactcheck.com##.close-iiLbodDHtMbG
 mediabiasfactcheck.com##.iiLbodDHtMbG-bg
@@ -373,6 +460,8 @@ minecraft-server-list.com##.annonceTopServer1
 minecraft-server-list.com##.col2Two
 minecraft-server-list.com##.col2Two > div
 minecraft.fandom.com###siderail_minecraft_gamepedia
+miraflora.hasoffers.com
+missaffiliate.hasoffers.com
 mlantz.test.warriorplus.com
 mobilecrashreporting.googleapis.com
 mods-n-hacks.gadgethacks.com##.centered-article-content.clearfix.article-container > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
@@ -382,6 +471,9 @@ mods-n-hacks.gadgethacks.com##section:nth-of-type(3) > aside.whtaph-300.whtaph-r
 mods-n-hacks.gadgethacks.com##section:nth-of-type(4) > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
 mods-n-hacks.gadgethacks.com##section:nth-of-type(9) > aside.whtaph-300.whtaph-rightbox:nth-of-type(2)
 mongo-db.clickbooth.com
+mopubilite.hasoffers.com
+movamogmbh.hasoffers.com
+mowmedia.hasoffers.com
 msendpointmgr.com##.gridlove-sidebar
 mta-6.news.warriorplus.com
 mta-7.news.warriorplus.com
@@ -393,11 +485,15 @@ my.gstzen.in##.cz-rennab
 myalphaspace1.com
 myalphaspace2.com
 myalphaspace3.com
+mycue.hasoffers.com
+myketocoach.hasoffers.com
+mytraffic.biz
 nameberry.com##.Full-width-ad-container
 native.anstrex.com
 navman-gpsupdate.online
 navmanupdate.online
 navmanupdates.com
+navona.hasoffers.com
 neurohacker.refersion.com
 news.warriorplus.com
 news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
@@ -416,6 +512,37 @@ notthebee.com###Notthebee_Player_Mobile > .brid
 ns1.usawildseafood.com
 ns2.usawildseafood.com
 nszwangsarbeit.de
+ntrcking.hasoffers.com
+nuera.hasoffers.com
+nutracash.hasoffers.com
+o1.email.robly.com
+o10.email.robly.com
+o12.email.robly.com
+o140.mail.robly.com
+o16.email.robly.com
+o180.mail.robly.com
+o19.email.robly.com
+o20.email.robly.com
+o21.email.robly.com
+o23.email.robly.com
+o241.mail.robly.com
+o25.mail.robly.com
+o26.ptr3398.email.robly.com
+o3.email.robly.com
+o30.ptr3556.email.robly.com
+o32.ptr8882.email.robly.com
+o34.ptr6030.email.robly.com
+o35.ptr564.email.robly.com
+o40.ptr7345.email.robly.com
+o43.ptr7247.email.robly.com
+o72.mail.robly.com
+o75.ptr9463.email.robly.com
+o77.email.robly.com
+o78.email.robly.com
+o79.email.robly.com
+o80.email.robly.com
+o81.ptr5381.email.robly.com
+o82.ptr3875.email.robly.com
 odin.warriorplus.com
 office365itpros.com###media_image-5
 ogads.com
@@ -424,8 +551,16 @@ ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic
 onemileatatime.com##.widget_omaat_advertising
 onemileatatime.com##[id *= omaat-advertising-]
 online-dating-portale.de
+op4g.hasoffers.com
+opaffiliate.hasoffers.com
 orders.adbutler.com
+panthera.hasoffers.com
+partnersedge.hasoffers.com
+path-cms.twyne.io
+pay.tune.com
 performcb.com
+phoenixcash.hasoffers.com
+pinsightmedia.hasoffers.com
 pjmedia.com###div-gpt-300x250_1
 pjmedia.com###div-gpt-300x250_10
 pjmedia.com###div-gpt-300x250_4
@@ -449,17 +584,21 @@ politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(7) > .li
 politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(8) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
 politics.theonion.com##section.dhblvL.sc-1893fh8-0.js_slide:nth-of-type(9) > .liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic
 popplunder.com
+preplyaffiliate.hasoffers.com
 pressargus.com##.ad-container
 printersupports.online
+pro.mytraffic.biz
 prodesigntools.com###southsidebar
 prodesigntools.com###wpfront-notification-bar
 prodesigntools.com##.content
 prodesigntools.com##.essb-subscribe-form-inline.essb-subscribe-form-1318057336.essb-subscribe-form
 prodesigntools.com##.essb-subscribe-from-design5.essb-subscribe-form-content
 projekt-smof.de
+promotionalpalette.hasoffers.com
 providencejournal.com##.ad-container
 pubads.g.doubleclick.net
 publishers.clickbooth.com
+purebatch.hasoffers.com
 push.anstrex.com
 qa.datspush.com
 qawithexperts.com##.Top-Head-Ad
@@ -475,13 +614,19 @@ realtracker.com
 recyclenation.com##.eri-services-h02.eri-services > [href^="https://eridirect.com/"]
 recyclenation.com##.eri-services-v01.eri-services > [href^="https://eridirect.com/"]
 recyclenation.com##.eri-services-v02.eri-services > [href^="https://eridirect.com/"]
+registry.robertr.stage.hasoffers.com
 rehrbrink-park.de
 reisemobilekuelzer.de
 restaurant-im-kolpinghaus-bochum.de
 results.fitnessrant.com
+revoffers.pay.tune.com
+revolutionforce.hasoffers.com
+revolutionforce2.hasoffers.com
 rewards.clickbooth.com
 ridgecrestca.com##.ad-container
+robly.com
 roll20.net##.bna
+rvshare.hasoffers.com
 rws-dorsten.de
 saeco-reparatur.de
 salon-control.de
@@ -492,9 +637,14 @@ screenrant.com##.width320.ad-zone-container-footer-sticky-footer.ad-zone-contain
 sdk.ibm.xtify.com
 seacoastonline.com##.ad-container
 search.earth911.com##.enhanced-banner
+secure.amtrack213.com
 securepubads.g.doubleclick.net
 servedby.adbutler.com
+sharpspring.hasoffers.com
+sheismedia.hasoffers.com
+shift44.api.twyne.io
 shrink.pe
+sip.tune.com
 siskiyoudaily.com##.ad-container
 skytrackerz.com
 smallseo.tools###iframeData .text-center > p
@@ -521,28 +671,39 @@ sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dyna
 sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(8)
 sports.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(9)
 ssp.galaksion.com
+sstessa.hasoffers.com
 staff.ogads.com
 stage-insights.trackerrr.com
+stage.tune.com
 staging-api.warriorplus.com
 staging.members.ogads.com
 stash.clickbooth.com
 static.warriorplus.com
+stats.thewishsendonline.com
 strawpoll.com##.adsbygoogle
 strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsbygoogle
+stripeapp.mytraffic.biz
+sunfinance.hasoffers.com
 superdimensionalfolder.com
 support.clickbooth.com
+support.robly.com
 surveysonthego.net
 survivethis.news###custom_html-11 > .custom-html-widget.textwidget
 svb-analytics.trackerrr.com
 svb.trackerrr.com
 sweeps3028.nonamejhop47.live
 taftmidwaydriller.com##.ad-container
+targetme.hasoffers.com
 team-kolassa.de
 techgenix.com###text-23 > .widgettitle
 techgenix.com###text-37
 teknologya.com##.thirstylinkimg
 telecomservation.com
+tenta.hasoffers.com
 test.ogads.com
+testssl10.api.twyne.io
+testssl8.api.twyne.io
+testssl9.api.twyne.io
 teutschebein.de
 thedaddest.com###ad-mobile-bottom-placeholder
 thedaddest.com###ad-mobile-top-placeholder
@@ -553,6 +714,7 @@ thehill.com###dfp-ad-mos_1
 thehill.com###dfp-ad-mos_2
 thehill.com###dfp-ad-mos_3
 thehill.com###dfp-ad-mos_4
+thehubpeople.hasoffers.com
 theitbros.com###page > p
 theitbros.com##.vi-sticky-ad
 therapie-lutzebaeck-berlin.de
@@ -561,6 +723,8 @@ thesolving.com###sponsor-box-2
 theweek.com###article_first_intext_ad-mobile-5
 theweek.com###article_second_intext_ad-mobile-6
 theweek.com##.show-for-small-only.article-body-bottom-mob-ad
+thewishsendonline.com
+thezebra.hasoffers.com
 tineye.com##.text-center.col-lg-4.col-md-5
 todkna6l7138x9.w633-cdaf.eueizrr.gq
 togetherforwine.com
@@ -569,18 +733,37 @@ tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
 track.clickbooth.com
 trackerrr.com
 trackjumpr.com
+trafficgoldmine.hasoffers.com
 trendingpolitics.com##.inner > center
 trendingpolitics.com##div.content-below-ad
+triadmedia.hasoffers.com
 trierwirdwild.de
+trkr5r5r5.com
+trktone.hasoffers.com
+tulara.hasoffers.com
+tune.com
+tune.hasoffers.com
 tuscaloosanews.com##.ad-container
+twyne.io
+unitedinc.hasoffers.com
+update.masstrk.com
 uptodown.com##div.ad
 usawildseafood.com
+use-app02.hasoffers.com
+use-app03.hasoffers.com
+use-app04.hasoffers.com
+use-app07.hasoffers.com
+v33tw8d8.r.us-east-1.awstrack.me
 validatingnow.com
 videocardz.com###vc-maincontainer-ad
 videocardz.com###vc-maincontainer-midad
 videocardz.com##.google-main-ad.adsbygoogle
 videocardz.com##.google-mid-ad.adsbygoogle
 videoconverter.wondershare.com###wsc-plugin-seasonal
+viradefense.hasoffers.com
+virusdesk.twyne.io
+vitre.hasoffers.com
+w2mobile.hasoffers.com
 walletinvestor.com###bio_ep_bg
 walletinvestor.com###bio_ep_close
 walletinvestor.com##.bit-image
@@ -598,15 +781,18 @@ weather.com##div:nth-of-type(3) > ._-_-components-src-molecule-ArticleBody-Artic
 web4.realtracker.com
 webdisk.trackjumpr.com
 webdisk.usawildseafood.com
+webmail.mytraffic.biz
 webmail.trackjumpr.com
 webmail.usawildseafood.com
 webseed.com
 webseite-erstellen-koeln.de
 weebly.com##.footer-published-ab-powered-by
+weloma.hasoffers.com
 whattomine.com##.my-2 > .centered-image-short
 whattomine.com##.table-vcenter.table-hover.table-sm.table .centered-image-short
 whattomine.com##.text-center.mb-2.mt-0
 whattomine.com##.when-adblock-detected
+whitecollarmedia.hasoffers.com
 whm.usawildseafood.com
 wifiextenderhelp.com
 wiki.clickbooth.com
@@ -616,6 +802,7 @@ winaero.com###custom_html-2 > .widget-title
 winaero.com###custom_html-6 > .custom-html-widget.textwidget
 winaero.com###custom_html-6 > .widget-title
 winaero.com###main > div > p
+wld.hasoffers.com
 work.chron.com###top-300
 work.chron.com##.leaderboard
 www-1.kansas.com###cnx-adUnit-overlay
@@ -645,6 +832,7 @@ www-1.kansas.com##.ntvAdChoicesLink
 www-1.kansas.com##.px-0
 www-1.kansas.com##.weathermedia
 www-1.kansas.com##.zone-el
+www.1redirb.com
 www.Pagerankcafe.com
 www.accuweather.com##.full-responsive-width.zerg-net
 www.accuweather.com##.glacier-ad
@@ -662,6 +850,7 @@ www.allrecipes.com##.recipe-main-ad
 www.allrecipes.com##.tablet-ad
 www.altonaerhochbau.de
 www.amazon.com##div.aw-campaigns
+www.amtrack213.com
 www.ancient-origins.net###block-block-59 > .block-inner > .content
 www.ancient-origins.net###page > .container_12.page-inner > .page-inner-inner > .clearfix.header-wrapper > .grid_12.header-wrapper-inner > header > .header_inner_area > .clearfix.top-add-block-wrapper
 www.ancient-origins.net##.OUTBRAIN
@@ -677,7 +866,9 @@ www.anoopcnair.com##[href^="https://patchmypc.com/third-party-patch-management-f
 www.anoopcnair.com##[href^="https://smartpackagestudio.com/online-course/"]
 www.anoopcnair.com##[href^="https://www.1e.com/products/nomad/"]
 www.anstrex.com
+www.appcmpn.com
 www.appstrk.com
+www.arroyomedia.com
 www.arthritis-health.com###block-vh-dfp-dfp-ad-left > .clearfix.block-inner > .block__title
 www.arthritis-health.com###block-vh-dfp-dfp-ad-r1 > .clearfix.block-inner > .block__title
 www.arthritis-health.com###block-vh-dfp-dfp-ad-r2 > .clearfix.block-inner
@@ -699,6 +890,7 @@ www.bellaflora24.de
 www.bestbuy.com##.add-sponsored-border.sku-item.appContainer
 www.bestbuy.com##.digital-ad-wrapper
 www.besterfernseher.de
+www.bestnewsletterto-translatetoday.info
 www.bestvpn1.com
 www.bhphotovideo.com##.banner_3HOrQrsk6Nc61JoQwYly6K
 www.bhphotovideo.com##.hero_2kKCAvNWYgOkze-1eQtgVx > div > .banner_3HOrQrsk6Nc61JoQwYly6K
@@ -815,6 +1007,7 @@ www.eurogamer.net##.collapsible.stack-mpu
 www.eurogamer.net##.game-spotlight-advertising
 www.eurogamer.net##.postArticleBanner
 www.eurogamer.net##.preArticle
+www.f.appcmpn.com
 www.fahrschulewolff.de
 www.farbraum-berlin.de
 www.fcn-memmelsdorf.de
@@ -960,6 +1153,7 @@ www.grafikstudio-vonfroreich.de
 www.hackster.io##.article_layout__sidebarInner__1DsO_ > div > .hckui__layout__hiddenMedDown
 www.hackster.io##.hckui__layout__fullWidth.hckui__layout__marginTop45
 www.hackster.io##.hckui__layout__marginTop10.hckui__layout__marginBottom10
+www.hasoffers.com
 www.healthnacity.com##.eds-headline
 www.healthnacity.com##.eds-ul.hny-ed-sl-ul
 www.healthysimulation.com###text-22 > .textwidget > center
@@ -1014,6 +1208,7 @@ www.instructables.com###gpt-bottom1_m
 www.instructables.com###gpt-step1-m
 www.interfacett.com###sidebar > .desktop.blogs-ad-banner
 www.jewishpress.com##.td-a-rec
+www.jexads.com
 www.jut7866.info
 www.kake.com###WNAd101
 www.kake.com###WNAd103
@@ -1079,6 +1274,7 @@ www.marthastewart.com##.mobile-ad.ad-title
 www.marthastewart.com##.mslo-ad
 www.marthastewart.com##.mslo-ad-holder
 www.marthastewart.com##.recipe-main-ad.full-width.recipe-ad-wrapper
+www.masstrk.com
 www.mb104.com
 www.mcclatchydc.com###vendor-stories-content > .h5
 www.menschenhandel-bremen.de
@@ -1101,6 +1297,7 @@ www.mta-sts.mb104.com
 www.myalphaspace1.com
 www.myalphaspace2.com
 www.myalphaspace3.com
+www.mytraffic.biz
 www.nasaspaceflight.com###custom_html-3 > .custom-html-widget.textwidget > div
 www.nasaspaceflight.com###custom_html-4 > .custom-html-widget.textwidget > div
 www.nasaspaceflight.com###custom_html-5 > .custom-html-widget.textwidget > div
@@ -1199,6 +1396,7 @@ www.registerednursing.org##.sponsoredads
 www.rehrbrink-park.de
 www.reisemobilekuelzer.de
 www.restaurant-im-kolpinghaus-bochum.de
+www.robly.com
 www.rockpapershotgun.com###mobile-ads
 www.rockpapershotgun.com##.collapsible.mpu
 www.rws-dorsten.de
@@ -1233,8 +1431,10 @@ www.space.com##.slot-in-article-ad-static
 www.space.com##.slot-leaderboard
 www.space.com##.slot-topOfSidebar
 www.spielwarenpinocchio.de
+www.stats.thewishsendonline.com
 www.steamboatpilot.com##.ad-top-wrapper
 www.steamboatpilot.com##.module-ad
+www.stripeapp.mytraffic.biz
 www.superdimensionalfolder.com
 www.surveysonthego.net
 www.tampermonkey.net##.ad-changelog-block
@@ -1296,6 +1496,7 @@ www.thewindowsclub.com##.ez-report-ad-button
 www.thewindowsclub.com##.ezoic-ad
 www.thewindowsclub.com##.ezoic-ad-adaptive.adtester-container-104.adtester-container.banner-2.ezoic-ad
 www.thewindowsclub.com##div.c24ff8f4a2da697123def04f69833d8b:nth-of-type(3)
+www.thewishsendonline.com
 www.thoughtco.com###billboard-footer_1-0
 www.thoughtco.com###billboard1_1-0
 www.thoughtco.com###billboard2-dynamic_2-0
@@ -1330,9 +1531,12 @@ www.trackjumpr.com
 www.translator.eu###sponsored2_mobil
 www.translator.eu##.adsbygoogle
 www.trierwirdwild.de
+www.trkr5r5r5.com
+www.tune.com
 www.tutorialspoint.com###google-bottom-ads
 www.tutorialspoint.com##.google-bottom-ads
 www.tutorialspoint.com##.top-ad-heading
+www.twyne.io
 www.ubackup.com##.ub.en.am-promotion-entry
 www.ubackup.com##[href^="/landing/resume-work-sale.html"]
 www.upcycledzine.com##.adsbygoogle
@@ -1438,6 +1642,7 @@ www.wthr.com##.ad
 www.yahoo.com###sdaAdvText-INARTICLE
 www.zapsplat.com##.adContainer
 www1.cbn.com##.header-ad
+yesfinance.hasoffers.com
 yourbusiness.azcentral.com##.partner-placement
 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 ||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
