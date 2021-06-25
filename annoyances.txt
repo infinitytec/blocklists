@@ -40,6 +40,7 @@ cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
 decider.com##.nyp-sitewide-notice
+developer.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 devilslakejournal.com###dialog-message
 direct.chownow.com##.styles_appBannerWrapper__3Cw4l
 ecofriend.com##df-messenger
@@ -110,6 +111,21 @@ www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
 www.51sec.org###custom_html-4
 www.addictivetips.com##.newsletter
 www.amazon.com###universal-detail-ilm
+www.anoopcnair.com###ai_widget-2
+www.anoopcnair.com###ai_widget-3
+www.anoopcnair.com###ai_widget-4
+www.anoopcnair.com###ai_widget-5
+www.anoopcnair.com###ai_widget-6
+www.anoopcnair.com###ai_widget-7
+www.anoopcnair.com##.code-block-7.code-block
+www.anoopcnair.com##.code-block-8.code-block
+www.anoopcnair.com##.code-block-9.code-block
+www.anoopcnair.com##.entry-content > .code-block-1.code-block
+www.anoopcnair.com##.entry-content > .code-block-2.code-block
+www.anoopcnair.com##.entry-content > .code-block-3.code-block
+www.anoopcnair.com##.entry-content > .code-block-4.code-block
+www.anoopcnair.com##.entry-content > .code-block-5.code-block
+www.anoopcnair.com##.entry-content > .code-block-6.code-block
 www.apple.com##.typography-caption.ribbon-content-wrapper
 www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 www.bestbuy.com##.c-modal-grid
@@ -162,6 +178,9 @@ www.lifenews.com###blockModalPopupDiv
 www.lifenews.com###innerModalPopupDiv
 www.love-media-player.com##.head-top
 www.mcclatchydc.com###subscription-cta-container
+www.microsoft.com###epb
+www.microsoft.com###uhfc-universal-context
+www.microsoft.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
 www.morningsun.net###dialog-message
 www.msi.com###ccc-notify
 www.msn.com###vjs_video_2_html5_api
@@ -213,6 +232,9 @@ www.techradar.com##.future__jwplayer--carousel
 www.techuntold.com##._yeti_main_container
 www.techwalla.com###jwplayer-section
 www.techwalla.com##.component-article-jwplayer
+www.terminix.com###CookiesPopup
+www.terminix.com###subscribeModal
+www.terminix.com##+js(overlay-buster.js)
 www.thedailybeast.com###view-offer
 www.thedailybeast.com##.ribbon.ng-scope
 www.thekansan.com###dialog-message
