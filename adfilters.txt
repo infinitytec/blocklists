@@ -675,6 +675,7 @@ www.anoopcnair.com##[href^="https://adaptiva.com/products/onesite-intune-edition
 www.anoopcnair.com##[href^="https://go.altaro.com/"]
 www.anoopcnair.com##[href^="https://patchmypc.com/third-party-patch-management-for-sccm-and-intune"]
 www.anoopcnair.com##[href^="https://smartpackagestudio.com/online-course/"]
+www.anoopcnair.com##[href^="https://www.1e.com/products/nomad/"]
 www.anstrex.com
 www.appstrk.com
 www.arthritis-health.com###block-vh-dfp-dfp-ad-left > .clearfix.block-inner > .block__title
@@ -959,6 +960,8 @@ www.grafikstudio-vonfroreich.de
 www.hackster.io##.article_layout__sidebarInner__1DsO_ > div > .hckui__layout__hiddenMedDown
 www.hackster.io##.hckui__layout__fullWidth.hckui__layout__marginTop45
 www.hackster.io##.hckui__layout__marginTop10.hckui__layout__marginBottom10
+www.healthnacity.com##.eds-headline
+www.healthnacity.com##.eds-ul.hny-ed-sl-ul
 www.healthysimulation.com###text-22 > .textwidget > center
 www.healthysimulation.com##.fgaey5f60ffd7262b9
 www.healthysimulation.com##.hofct5f60ffd7260d7
