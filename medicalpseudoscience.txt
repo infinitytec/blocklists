@@ -4,6 +4,37 @@
 # DISCLAIMERS: This list is provided as-is and is not guaranteed to be free of errors. This list is for informational purposes only and is not to be used in place of the information of qualified medical professionals.
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
 
+0.0.0.0 agelesspaws.com
+0.0.0.0 altmedrev.com
+0.0.0.0 autodiscover.agelesspaws.com
+0.0.0.0 bigpictureranch.com
+0.0.0.0 earthinginstitute.net
+0.0.0.0 earthingmovie.com
+0.0.0.0 ftp.mamanatural.com
+0.0.0.0 heartmdinstitute.com
+0.0.0.0 mail.agelesspaws.com
+0.0.0.0 mail.heartmdinstitute.com
+0.0.0.0 mamanatural.com
+0.0.0.0 mamanaturalbirth.com
+0.0.0.0 new.altmedrev.com
+0.0.0.0 nutritionfacts.org
+0.0.0.0 shop.mamanatural.com
+0.0.0.0 staging.altmedrev.com
+0.0.0.0 staging.nutritionfacts.org
+0.0.0.0 ultimatelongevity.com
+0.0.0.0 ww.altmedrev.com
+0.0.0.0 www.agelesspaws.com
+0.0.0.0 www.altmedrev.com
+0.0.0.0 www.bigpictureranch.com
+0.0.0.0 www.earthinginstitute.net
+0.0.0.0 www.earthingmovie.com
+0.0.0.0 www.heartmdinstitute.com
+0.0.0.0 www.mamanatural.com
+0.0.0.0 www.mamanaturalbirth.com
+0.0.0.0 www.new.altmedrev.com
+0.0.0.0 www.nutritionfacts.org
+0.0.0.0 www.shop.mamanatural.com
+0.0.0.0 www.ultimatelongevity.com
 0.0.0.0 100percentfedup.com
 0.0.0.0 107.healthcoach1.integrativenutrition.com
 0.0.0.0 12160.info
