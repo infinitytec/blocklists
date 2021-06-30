@@ -311,6 +311,7 @@ goqr.me###zazzle-widget
 gpu.userbenchmark.com##.be-caption
 grafikstudio-vonfroreich.de
 graphicscardhub.com##.ai_widget.widget
+greekreporter.com###custom_html-4 > .custom-html-widget.textwidget > .td-all-devices
 grf.clickbooth.com
 gwm1.hasoffers.com
 gwm2.hasoffers.com
@@ -804,6 +805,7 @@ winaero.com###custom_html-6 > .custom-html-widget.textwidget
 winaero.com###custom_html-6 > .widget-title
 winaero.com###main > div > p
 wld.hasoffers.com
+worcesteroptsout.org
 work.chron.com###top-300
 work.chron.com##.leaderboard
 www-1.kansas.com###cnx-adUnit-overlay
@@ -1633,6 +1635,7 @@ www.wintips.org##div:nth-of-type(6) > center > .adsbygoogle
 www.woculus.com###wocul-104518175
 www.woculus.com##.custom-html-widget.textwidget
 www.woculus.com##.wocul-adlabel
+www.worcesteroptsout.org
 www.worldatlas.com###adStickyAside
 www.worldatlas.com##.asideStickyAd
 www.worldatlas.com##.mod_ad_container
