@@ -408,6 +408,7 @@
 0.0.0.0 wifiextenderhelp.com
 0.0.0.0 wiki.clickbooth.com
 0.0.0.0 wld.hasoffers.com
+0.0.0.0 worcesteroptsout.org
 0.0.0.0 www.1redirb.com
 0.0.0.0 www.adbutler.com
 0.0.0.0 www.aii.sh
@@ -524,5 +525,6 @@
 0.0.0.0 www.webseed.com
 0.0.0.0 www.webseite-erstellen-koeln.de
 0.0.0.0 www.wifiextenderhelp.com
+0.0.0.0 www.worcesteroptsout.org
 0.0.0.0 yesfinance.hasoffers.com
 0.0.0.0 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
