@@ -1,0 +1,4 @@
+0.0.0.0 api.earnbet.io
+0.0.0.0 blog.earnbet.io
+0.0.0.0 earnbet.io
+0.0.0.0 www.earnbet.io
