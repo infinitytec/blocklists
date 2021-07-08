@@ -65,6 +65,11 @@ m.imdb.com###regWallModal
 m.imdb.com##.reg-wall__modal
 m.imdb.com##.reg-wall__screen
 mashable.com##.inline-video-seealso
+mediabiasfactcheck.com###media-1777486357
+mediabiasfactcheck.com###media-719038622
+mediabiasfactcheck.com###media-890345118
+mediabiasfactcheck.com###media-894251744
+mediabiasfactcheck.com##center > p
 mtshastanews.com###dialog-message
 multimonitorcomputer.com##.top-cta-row
 newstribune.info###dialog-message
@@ -165,6 +170,7 @@ www.insidehook.com##.tp-modal
 www.interfacett.com##.mtsnb-fixed.mtsnb-top.mtsnb-shown.mtsnb-button.mtsnb-sp-right.mtsnb
 www.investing.com###PromoteSignUpPopUp
 www.investing.com##.right
+www.itingredients.com##.tve_flt
 www.kake.com##.csMon
 www.kansas.com###main-content > section:nth-of-type(1)
 www.kansas.com###onetrust-banner-sdk
@@ -181,6 +187,7 @@ www.mcclatchydc.com###subscription-cta-container
 www.microsoft.com###epb
 www.microsoft.com###uhfc-universal-context
 www.microsoft.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
+www.minitool.com##.downbtn
 www.morningsun.net###dialog-message
 www.msi.com###ccc-notify
 www.msn.com###vjs_video_2_html5_api
