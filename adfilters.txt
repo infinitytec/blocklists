@@ -20,6 +20,8 @@ abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWr
 adactioninteractive.hasoffers.com
 adamtheautomator.com##.w-full.items-center.bg-gray-200.p-3.flex-col.flex.sidebar
 adbutler.com
+addisfortune.news##.sticky-item
+addisfortune.news##body > .container > .row
 adfeelgood.hasoffers.com
 admin-api.adbutler.com
 admin.adbutler.com
@@ -734,6 +736,7 @@ tomtomgopre.online
 tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
 track.clickbooth.com
 trackerrr.com
+tracking.stylecraze.com
 trackjumpr.com
 trafficgoldmine.hasoffers.com
 trendingpolitics.com##.inner > center
@@ -1210,6 +1213,7 @@ www.instructables.com###gpt-ad-m-rect
 www.instructables.com###gpt-bottom1_m
 www.instructables.com###gpt-step1-m
 www.interfacett.com###sidebar > .desktop.blogs-ad-banner
+www.itingredients.com##[href="https://www.onlinecourses24x7.com/"]
 www.jewishpress.com##.td-a-rec
 www.jexads.com
 www.jut7866.info
@@ -1409,6 +1413,7 @@ www.sauser-metall.de
 www.schluesselrabe.de
 www.sciencenews.org##.ad-block-leaderboard__adspeed___1Iopl
 www.sciencenews.org##.from-nature-index__wrapper___2E2Z9
+www.scifiideas.com##.ad
 www.sevenforums.com##.chillad.media400
 www.shopgoodwill.com###listings-sidebar > div
 www.shopgoodwill.com##.purchase-desktop > div
@@ -1649,6 +1654,8 @@ www1.cbn.com##.header-ad
 yesfinance.hasoffers.com
 yourbusiness.azcentral.com##.partner-placement
 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
+||addisfortune.news/adf*$image
+||addisfortune.news/adfimages/web_ad_united_insurance.png$image
 ||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
 ||cdn-node.diskpart.com/file/amtcstatic/1/rukow/close1.png$image
