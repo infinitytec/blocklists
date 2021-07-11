@@ -159,6 +159,7 @@
 0.0.0.0 goanimate.hasoffers.com
 0.0.0.0 goldbek-apotheke.de
 0.0.0.0 goodkarma.hasoffers.com
+0.0.0.0 goodvideocard.com
 0.0.0.0 grafikstudio-vonfroreich.de
 0.0.0.0 grf.clickbooth.com
 0.0.0.0 gwm1.hasoffers.com
@@ -458,6 +459,7 @@
 0.0.0.0 www.getyoutothenext.com
 0.0.0.0 www.gimbal.com
 0.0.0.0 www.goldbek-apotheke.de
+0.0.0.0 www.goodvideocard.com
 0.0.0.0 www.grafikstudio-vonfroreich.de
 0.0.0.0 www.hasoffers.com
 0.0.0.0 www.hpprintersupportservice.com
