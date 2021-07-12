@@ -137,6 +137,7 @@ www.bestbuy.com##.c-modal-grid
 www.bhphotovideo.com###notificationSubscribePop
 www.britannica.com##.pl-70.p-15
 www.business.com##.css-md5sep-TransparentContainer
+www.calculatorsoup.com###contentBlock > aside > .pages
 www.citationmachine.net##div[class ^= styled__SideView]
 www.cnet.com##.entered.dock.inviewElement
 www.cnx-software.com###cliSettingsPopup
@@ -199,6 +200,8 @@ www.niallbrady.com###cookies
 www.npr.org##.callout--health.callout--newsletter.callout
 www.nvidia.com##.shadowBox-light.noSelection
 www.nydailynews.com###pb-82862 > .align-items-stretch.flex-container-column.rcom--ctn.crd > .align-items-center.flex-container-row.crd--hd
+www.online-stopwatch.com##.OSAd_top
+www.online-stopwatch.com##.premBottom.premiumShow
 www.online-tech-tips.com##.et_bloom_animated.et_bloom_visible.et_bloom_hide_mobile_optin.et_bloom_auto_popup.et_bloom_optin_1.et_bloom_resize.et_bloom_optin.et_bloom_popup
 www.onmsft.com###enhancedtextwidget-7
 www.paypal.com##.cw_tile__accountQuality-stepButtonInnerContainer
