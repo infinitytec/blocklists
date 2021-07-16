@@ -148,6 +148,9 @@ clark.com##.full-ad
 clark.com##.full-ad__wrap
 clark.com##.in-content-ad
 clark.com##.in-content-ad-container
+classicalpoets.org###text-52
+classicalpoets.org##.horizontal-3.horizontal_3.horizontal.codecprime_widget
+classicalpoets.org##[href="https://www.amazon.co.uk/HELLWARD-ENGLISH-CANTOS-James-Sale/dp/B08C7GGMSC"]
 cldoffers.net
 clickbooth.com
 clouta.hasoffers.com
@@ -751,6 +754,8 @@ tune.hasoffers.com
 tuscaloosanews.com##.ad-container
 twyne.io
 unitedinc.hasoffers.com
+unsplash.com##._2WvKc._1D4JX
+unsplash.com##._30ce3.WcYKB._2obdA
 update.masstrk.com
 uptodown.com##div.ad
 usawildseafood.com
