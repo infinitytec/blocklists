@@ -1124,6 +1124,7 @@ thehill.com###dfp-ad-mos_3
 thehill.com###dfp-ad-mos_4
 thehrc.ositracker.com
 thehubpeople.hasoffers.com
+theitbros.com###page > div:nth-of-type(2)
 theitbros.com###page > p
 theitbros.com##.vi-sticky-ad
 themacateam.ositracker.com
@@ -1243,6 +1244,7 @@ winaero.com###main > div > p
 winewrangler.ositracker.com
 wld.hasoffers.com
 worcesteroptsout.org
+wordpress.com##.post-type-list > .is-clickable.is-card-link.upsell-nudge.banner.card
 work.chron.com###top-300
 work.chron.com##.leaderboard
 wowbox.ositracker.com
@@ -1339,6 +1341,9 @@ www.bestvpn1.com
 www.bhphotovideo.com##.banner_3HOrQrsk6Nc61JoQwYly6K
 www.bhphotovideo.com##.hero_2kKCAvNWYgOkze-1eQtgVx > div > .banner_3HOrQrsk6Nc61JoQwYly6K
 www.bhphotovideo.com##.hero_2mT40APpNmuEGXyYiup8d3.cmsBannerCss_3Xm2OvkROX2q6hXn5CSqOM > .js-injected-html > span
+www.blendernation.com###custom_html-11 > .custom-html-widget.textwidget
+www.blendernation.com###custom_html-11 > .widgettitle
+www.blendernation.com###custom_html-12 > .widgettitle
 www.blog.adbutler.com
 www.britannica.com##.video-ad-container-content
 www.britannica.com##.video-ad-container.ora-tv-container
@@ -1891,6 +1896,8 @@ www.surveysonthego.net
 www.tampermonkey.net##.ad-changelog-block
 www.tax-rates.org###promoLink
 www.team-kolassa.de
+www.techpowerup.com###page > .thesidebar > section.mnnusjsddg
+www.techpowerup.com###page > .thesidebar > section.mnnusjsddg > div > [href="https://www.techpowerup.com/images/3ff/1593.xlv"]
 www.techpowerup.com###viewport > span
 www.techpowerup.com##.cduv
 www.techpowerup.com##.content > .mnnuzjsddc
@@ -1898,11 +1905,13 @@ www.techpowerup.com##.eiyanjcf
 www.techpowerup.com##.ejpbl
 www.techpowerup.com##.mnmuzjsddc
 www.techpowerup.com##.mnnuzjsddc
+www.techpowerup.com##.nkuzlfvdywj
 www.techpowerup.com##.nkuztfvdswe
 www.techpowerup.com##.nspy
 www.techpowerup.com##.ravqfx
 www.techpowerup.com##.sectioncontainer > div
 www.techpowerup.com##.zkybes
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1510.xlv"]
 www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1157.thx"]
 www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1498.thx"] > div
 www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
