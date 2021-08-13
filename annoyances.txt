@@ -6,6 +6,9 @@
 
 adwareremoval.info##.closed
 adwareremoval.info##.coupon-box-wrap
+amcrest.com###chat-widget
+amcrest.com###wd1_nlpopup
+amcrest.com###wd1_nlpopup_overlay
 amdfanstore.com##.css-10z1g2q
 archive.org##.js-donate-banner.row
 askpython.dev##div.banner-side:nth-of-type(1)
