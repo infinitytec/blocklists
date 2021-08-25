@@ -1269,6 +1269,7 @@ news4sanantonio.com##div[id^="interstory_second_ddb_"]
 newsguardwatch.com##.BCRADUEVWSTX
 newsguardwatch.com##.FEHACDBGMNOP
 newstribune.info##.ad-container
+newswithoutpolitics.com##.top-footer > .clearfix.container-inner
 ninthlink.hasoffers.com
 nnlb.hasoffers.com
 nocow.ositracker.com
@@ -2613,6 +2614,8 @@ www.surveysonthego.net
 www.tampermonkey.net##.ad-changelog-block
 www.tax-rates.org###promoLink
 www.team-kolassa.de
+www.techpowerup.com###page > .sidebar > section.mnnusjsddg.sidebar-item
+www.techpowerup.com###page > .sidebar > section.mnnusjsddg.sidebar-item > [href="https://www.techpowerup.com/images/3ff/1350.xlv"]
 www.techpowerup.com###page > .thesidebar > section.mnnusjsddg
 www.techpowerup.com###page > .thesidebar > section.mnnusjsddg > div > [href="https://www.techpowerup.com/images/3ff/1593.xlv"]
 www.techpowerup.com###viewport > span
@@ -2821,6 +2824,8 @@ www.wthr.com###taboola-mobile-below-article-0
 www.wthr.com##.ad
 www.yahoo.com###sdaAdvText-INARTICLE
 www.zapsplat.com##.adContainer
+www.zoopy.com##div#div_block-16-31408.ct-div-block
+www.zoopy.com##div#div_block-4-31407.nitro-offscreen.ct-div-block
 www1.cbn.com##.header-ad
 xedgetools.ositracker.com
 xpew9gc336.ositracker.com
