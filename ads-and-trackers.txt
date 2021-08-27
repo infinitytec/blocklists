@@ -458,6 +458,7 @@
 0.0.0.0 clar8ty.ositracker.com
 0.0.0.0 cldoffers.net
 0.0.0.0 clickbooth.com
+0.0.0.0 clickfunnels.com
 0.0.0.0 clicknetwork.hasoffers.com
 0.0.0.0 clicks2offer.hasoffers.com
 0.0.0.0 clicksfx.hasoffers.com
@@ -607,6 +608,7 @@
 0.0.0.0 embarcks.ositracker.com
 0.0.0.0 emediatraffic.hasoffers.com
 0.0.0.0 emeraldoils.ositracker.com
+0.0.0.0 eml.thelostways.com
 0.0.0.0 emotion-captured.de
 0.0.0.0 entrepreneur.ositracker.com
 0.0.0.0 envatostudio.hasoffers.com
@@ -1090,6 +1092,7 @@
 0.0.0.0 pepperstonegroup.hasoffers.com
 0.0.0.0 performancedemand.hasoffers.com
 0.0.0.0 performcb.com
+0.0.0.0 perftrk.com
 0.0.0.0 peterr.ops.tune.com
 0.0.0.0 phoenixcash.hasoffers.com
 0.0.0.0 photonic.ositracker.com
@@ -1329,6 +1332,8 @@
 0.0.0.0 skyvpn.hasoffers.com
 0.0.0.0 sls.hasoffers.com
 0.0.0.0 smartairil.ositracker.com
+0.0.0.0 smartestlifestyletrends.com
+0.0.0.0 smartlifetrack.com
 0.0.0.0 smglobalshop.ositracker.com
 0.0.0.0 snap.hasoffers.com
 0.0.0.0 sociabuzz.hasoffers.com
@@ -1418,6 +1423,7 @@
 0.0.0.0 theescapegam.ositracker.com
 0.0.0.0 thehrc.ositracker.com
 0.0.0.0 thehubpeople.hasoffers.com
+0.0.0.0 thelostways.com
 0.0.0.0 themacateam.ositracker.com
 0.0.0.0 themobiadz.hasoffers.com
 0.0.0.0 therapie-lutzebaeck-berlin.de
@@ -1443,6 +1449,9 @@
 0.0.0.0 topsteptrader.hasoffers.com
 0.0.0.0 track.clickbooth.com
 0.0.0.0 trackerrr.com
+0.0.0.0 tracking.perftrk.com
+0.0.0.0 tracking.smartestlifestyletrends.com
+0.0.0.0 tracking.smartlifetrack.com
 0.0.0.0 tracking.stylecraze.com
 0.0.0.0 trackjumpr.com
 0.0.0.0 trackstream.club
@@ -1570,6 +1579,7 @@
 0.0.0.0 www.canmake.de
 0.0.0.0 www.cldoffers.net
 0.0.0.0 www.clickbooth.com
+0.0.0.0 www.clickfunnels.com
 0.0.0.0 www.contactaolhelp.com
 0.0.0.0 www.cpagold.net
 0.0.0.0 www.cutt.ly
@@ -1628,6 +1638,7 @@
 0.0.0.0 www.ositracker.com
 0.0.0.0 www.pagerankcafe.com
 0.0.0.0 www.performcb.com
+0.0.0.0 www.perftrk.com
 0.0.0.0 www.popplunder.com
 0.0.0.0 www.printersupports.online
 0.0.0.0 www.projekt-smof.de
@@ -1643,6 +1654,8 @@
 0.0.0.0 www.schluesselrabe.de
 0.0.0.0 www.shrink.pe
 0.0.0.0 www.skytrackerz.com
+0.0.0.0 www.smartestlifestyletrends.com
+0.0.0.0 www.smartlifetrack.com
 0.0.0.0 www.solarcity-freiburg.de
 0.0.0.0 www.spielwarenpinocchio.de
 0.0.0.0 www.stats.thewishsendonline.com
@@ -1652,6 +1665,7 @@
 0.0.0.0 www.team-kolassa.de
 0.0.0.0 www.telecomservation.com
 0.0.0.0 www.teutschebein.de
+0.0.0.0 www.thelostways.com
 0.0.0.0 www.therapie-lutzebaeck-berlin.de
 0.0.0.0 www.thewishsendonline.com
 0.0.0.0 www.throlsoninc.hasoffers.com
