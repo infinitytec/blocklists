@@ -2079,6 +2079,19 @@ www.cbr.com##.ad-zone-container
 www.cclonline.com##.siteskin-inner
 www.chicagotribune.com##div.trb_ar_cont
 www.christianitytoday.com##div.clearfix.spacer-bottom-15
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-1
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-10
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-11
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-2
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-3
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-4
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-5
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-6
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-7
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-8
+www.cincinnati.com###partner-mobileweb-gallery-banner-bottom-9
+www.cincinnati.com##.partner-bordered.ad-container
+www.cincinnati.com##.partner-loading-shown.partner-placement-mobile.partner-label.partner-loading.partner-mobileweb-gallery_banner_top.partner-placement
 www.citationmachine.net###bc1c7966-6308-4159-9492-5a438af6e338 > div > div
 www.citationmachine.net##.elrDHH.Messages__EmptyContainer-sc-1n74m55-0
 www.citationmachine.net##.top.adds-wrapper
@@ -2478,6 +2491,7 @@ www.mytraffic.biz
 www.nasaspaceflight.com###custom_html-3 > .custom-html-widget.textwidget > div
 www.nasaspaceflight.com###custom_html-4 > .custom-html-widget.textwidget > div
 www.nasaspaceflight.com###custom_html-5 > .custom-html-widget.textwidget > div
+www.nasaspaceflight.com###custom_html-7 > .custom-html-widget.textwidget > div
 www.nationalgeographic.com###photography_ancestor_photography_article_infinitefeed_03-auto-gen-id-11
 www.nationalgeographic.com##.adSlotDynamic-slot
 www.nationalgeographic.com##.adunit
