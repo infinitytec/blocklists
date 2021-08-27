@@ -1,6 +1,7 @@
 # A list to block a few NSFW sites.
 # Do not expect frequent updates to this list.
 
+0.0.0.0 bigo.video
 0.0.0.0 ca.prosolutionpills.com
 0.0.0.0 canadaman2019.blogspot.com
 0.0.0.0 canadianmale.wordpress.com
@@ -13,6 +14,7 @@
 0.0.0.0 de.prosolutionpills.com
 0.0.0.0 dev.picrew.me
 0.0.0.0 e.uniqdatingplace.com
+0.0.0.0 earloftaint.com
 0.0.0.0 es.prosolutionpills.com
 0.0.0.0 findyour-realsex2.com
 0.0.0.0 fr.prosolutionpills.com
@@ -37,11 +39,13 @@
 0.0.0.0 webdisk.codyclarke.com
 0.0.0.0 webdisk.galdc.org
 0.0.0.0 webmail.galdc.org
+0.0.0.0 www.bigo.video
 0.0.0.0 www.canadaman2019.blogspot.com
 0.0.0.0 www.canadianmale.wordpress.com
 0.0.0.0 www.codyclarke.com
 0.0.0.0 www.codyclarkecoaching.codyclarke.com
 0.0.0.0 www.datingdeserving.com
+0.0.0.0 www.earloftaint.com
 0.0.0.0 www.findyour-realsex2.com
 0.0.0.0 www.frombearcreek.com
 0.0.0.0 www.galdc.org
