@@ -5,7 +5,7 @@
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
 
 # Regex (experemental)
-^(mercola.com)|(\.mercola.com)
+^(mercola.com)|(\.mercola.com)|(([A-Za-z0-9.])*\.mercola.com)
 ^(childrenshealthdefense.org)|(\.childrenshealthdefense.org)
 ^(naturalnews.com)|(\.naturalnews.com)
 
@@ -7536,7 +7536,6 @@
 0.0.0.0 homeschooling.news
 0.0.0.0 homesteading.news
 0.0.0.0 homevaccineeducationnetwork.com
-0.0.0.0 homöopathie-forschung.info
 0.0.0.0 honest.news
 0.0.0.0 honestemf.com
 0.0.0.0 honestfoodguide.org
@@ -20248,7 +20247,6 @@
 0.0.0.0 www.homeschooling.news
 0.0.0.0 www.homesteading.news
 0.0.0.0 www.homevaccineeducationnetwork.com
-0.0.0.0 www.homöopathie-forschung.info
 0.0.0.0 www.honest.news
 0.0.0.0 www.honestemf.com
 0.0.0.0 www.honestfoodguide.org
