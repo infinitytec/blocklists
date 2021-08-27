@@ -5,9 +5,7 @@
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
 
 # Regex (experemental)
-^(mercola.com)|(\.mercola.com)|(([A-Za-z0-9.])*\.mercola.com)
-^(childrenshealthdefense.org)|(\.childrenshealthdefense.org)
-^(naturalnews.com)|(\.naturalnews.com)
+# Regex has been removed for more testing
 
 # Hosts
 0.0.0.0 100473727.youngevityonline.com
