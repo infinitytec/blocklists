@@ -4,6 +4,7 @@
 ! Released under the MIT license. 
 ! Expires: 4 days
 
+adblockplus.org##.cookiebar.cookie
 adwareremoval.info##.closed
 adwareremoval.info##.coupon-box-wrap
 amcrest.com###chat-widget
@@ -49,6 +50,7 @@ direct.chownow.com##.styles_appBannerWrapper__3Cw4l
 ecofriend.com##df-messenger
 en.softonic.com##.popup-newsletter
 en.wikipedia.org###siteNotice
+en.wikipedia.org##.frb-country-US.frb-rml-enabled.frb
 everymac.com##.prompt-bg
 everymac.com##.prompt-content-container
 forum.proxmox.com##.uix_noticeInner
@@ -184,6 +186,8 @@ www.kbb.com##.css-nsnnj-StyledToolbar-default
 www.kbb.com##.has-shadow.animated.show.offset-top-0.bottom.padding-horizontal-2.justify-content-center.display-flex.sticky-container
 www.khou.com##.notifications
 www.kwch.com##.flex-lg-fill.flex-column.d-flex.rail.\|.top-right-rail
+www.landscapingrockguys.com###overlay
+www.landscapingrockguys.com##.glue_popup
 www.latimes.com##.ensNotifyBanner
 www.latimes.com##.met-flyout
 www.lifenews.com###blockModalPopupDiv
