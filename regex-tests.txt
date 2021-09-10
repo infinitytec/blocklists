@@ -1,1 +1,4 @@
+# Medical Pseudoscience
 ^(mercola.com)|(\.mercola.com)|(([A-Za-z0-9.])*\.mercola.com)
+^(childrenshealthdefense.org)|(\.childrenshealthdefense.org)|(([A-Za-z0-9.])*\.childrenshealthdefense.org)
+^(naturalnews.com)|(\.naturalnews.com)|(([A-Za-z0-9.])*\.naturalnews.com)
