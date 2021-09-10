@@ -1,0 +1,37 @@
+# Experemental blocklist for multi-level marketing schemes. A lot of these are also on my medical pseudoscience blocklist.
+
+0.0.0.0 apacets.myherbalife.com
+0.0.0.0 api.qa4.ws.myherbalife.com
+0.0.0.0 beta.myherbalife.com
+0.0.0.0 btc.myherbalife.com
+0.0.0.0 cbecpgw.myherbalife.com
+0.0.0.0 ems.herbalife.com
+0.0.0.0 emsdev.herbalife.com
+0.0.0.0 emstest.herbalife.com
+0.0.0.0 gold.herbalife.com
+0.0.0.0 herbalife.com
+0.0.0.0 hlc.myherbalife.com
+0.0.0.0 iamherbalifenutrition.com
+0.0.0.0 mail.myherbalife.com
+0.0.0.0 mail1.herbalife.com
+0.0.0.0 mail2.herbalife.com
+0.0.0.0 mta.mail.myherbalife.com
+0.0.0.0 myherbalife.com
+0.0.0.0 ncapac.myherbalife.com
+0.0.0.0 o365mail.herbalife.com
+0.0.0.0 performancenutrition.herbalife.com
+0.0.0.0 qaarticles.myherbalife.com
+0.0.0.0 ru.cs.myherbalife.com
+0.0.0.0 sso.qa2a.ws.myherbalife.com
+0.0.0.0 sso.qa4.ws.myherbalife.com
+0.0.0.0 uk.local.cs.myherbalife.com
+0.0.0.0 us.myherbalife.com
+0.0.0.0 usslcvcsena01.herbalife.com
+0.0.0.0 uswsvcsenb01.herbalife.com
+0.0.0.0 wellnessdieting.com
+0.0.0.0 www.herbalife.com
+0.0.0.0 www.hlc.myherbalife.com
+0.0.0.0 www.iamherbalifenutrition.com
+0.0.0.0 www.myherbalife.com
+0.0.0.0 www.wellnessdieting.com
+0.0.0.0 wwwus.myherbalife.com
