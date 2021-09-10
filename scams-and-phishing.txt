@@ -180,6 +180,7 @@
 0.0.0.0 amazonmascotas.com
 0.0.0.0 americanlisted.com
 0.0.0.0 americansurveyriches.com
+0.0.0.0 ams.keshefoundation.org
 0.0.0.0 amtrack213.com
 0.0.0.0 anders-onlinehandel.de
 0.0.0.0 andicoupons.com
@@ -235,6 +236,7 @@
 0.0.0.0 autodiscover.emfshieldprotect.com
 0.0.0.0 autodiscover.freeonlineworkshop.com
 0.0.0.0 autodiscover.gdvplanet.com
+0.0.0.0 autodiscover.greenfieldwater.com
 0.0.0.0 autodiscover.karmawhores.com
 0.0.0.0 autodiscover.luxury-products.biz
 0.0.0.0 autodiscover.my5gblocker.com
@@ -242,6 +244,7 @@
 0.0.0.0 autodiscover.websitesforfreestuff.com
 0.0.0.0 autumnsales.co.uk
 0.0.0.0 avivaromm.com
+0.0.0.0 aws.keshefoundation.org
 0.0.0.0 axisdirectmicrofinance.com
 0.0.0.0 axiswebservices.com
 0.0.0.0 ayanaproducts.com
@@ -529,6 +532,8 @@
 0.0.0.0 cpanel.bloghotro.com
 0.0.0.0 cpanel.blushield-us.com
 0.0.0.0 cpanel.buycocaineonline.se
+0.0.0.0 cpanel.crystalbluesales.com
+0.0.0.0 cpanel.crystalbluewatersolutions.com
 0.0.0.0 cpanel.earthcalm.com
 0.0.0.0 cpanel.emfshielding.org
 0.0.0.0 cpanel.emfshieldprotect.com
@@ -538,6 +543,7 @@
 0.0.0.0 cpanel.galdc.org
 0.0.0.0 cpanel.gdvplanet.com
 0.0.0.0 cpanel.googleadultseo.com
+0.0.0.0 cpanel.greenfieldwater.com
 0.0.0.0 cpanel.help.law
 0.0.0.0 cpanel.hybridrastamama.com
 0.0.0.0 cpanel.intranet.wozinga.com
@@ -561,6 +567,7 @@
 0.0.0.0 cpcalendars.becomelimitless-now.com
 0.0.0.0 cpcalendars.blocknaughtywebsites.com
 0.0.0.0 cpcalendars.blushield-us.com
+0.0.0.0 cpcalendars.crystalbluesales.com
 0.0.0.0 cpcalendars.earthcalm.com
 0.0.0.0 cpcalendars.emfrequency.com
 0.0.0.0 cpcalendars.emfshielding.org
@@ -572,6 +579,7 @@
 0.0.0.0 cpcalendars.galdc.org
 0.0.0.0 cpcalendars.gdvplanet.com
 0.0.0.0 cpcalendars.googleadultseo.com
+0.0.0.0 cpcalendars.greenfieldwater.com
 0.0.0.0 cpcalendars.honestemf.com
 0.0.0.0 cpcalendars.hybridrastamama.com
 0.0.0.0 cpcalendars.intranet.wozinga.com
@@ -595,6 +603,8 @@
 0.0.0.0 cpcontacts.blocknaughtywebsites.com
 0.0.0.0 cpcontacts.bloghotro.com
 0.0.0.0 cpcontacts.blushield-us.com
+0.0.0.0 cpcontacts.crystalbluesales.com
+0.0.0.0 cpcontacts.crystalbluewatersolutions.com
 0.0.0.0 cpcontacts.emfrequency.com
 0.0.0.0 cpcontacts.emfshielding.org
 0.0.0.0 cpcontacts.emfshieldprotect.com
@@ -604,6 +614,7 @@
 0.0.0.0 cpcontacts.galdc.org
 0.0.0.0 cpcontacts.gdvplanet.com
 0.0.0.0 cpcontacts.googleadultseo.com
+0.0.0.0 cpcontacts.greenfieldwater.com
 0.0.0.0 cpcontacts.honestemf.com
 0.0.0.0 cpcontacts.hybridrastamama.com
 0.0.0.0 cpcontacts.intranet.wozinga.com
@@ -625,6 +636,8 @@
 0.0.0.0 crm.reimageplus.com
 0.0.0.0 crypto360.info
 0.0.0.0 cryptoglobalnews.live
+0.0.0.0 crystalbluesales.com
+0.0.0.0 crystalbluewatersolutions.com
 0.0.0.0 crystalinsights-net.3dcartstores.com
 0.0.0.0 crystalinsights.net
 0.0.0.0 csgo365.com
@@ -766,6 +779,7 @@
 0.0.0.0 emvbescherming.nl
 0.0.0.0 energydots.com
 0.0.0.0 energyinbalance.com.au
+0.0.0.0 energyintegrity.com
 0.0.0.0 energykitty.weebly.com
 0.0.0.0 enews.stylesforless.com
 0.0.0.0 enlightdeals.com
@@ -825,6 +839,7 @@
 0.0.0.0 foryoupromo.net
 0.0.0.0 foundmoneyguide.com
 0.0.0.0 fpkdz.com
+0.0.0.0 fractalwater.com
 0.0.0.0 free-give.space
 0.0.0.0 free-targeted-individuals.com
 0.0.0.0 free.content-center.club
@@ -949,6 +964,8 @@
 0.0.0.0 grafikstudio-vonfroreich.de
 0.0.0.0 grantsreach.com
 0.0.0.0 green8.com
+0.0.0.0 greenfieldnaturals.greenfieldwater.com
+0.0.0.0 greenfieldwater.com
 0.0.0.0 grizzlycompany.com
 0.0.0.0 groupme.gotoprize.gq
 0.0.0.0 groupme.prizewin.gq
@@ -988,6 +1005,7 @@
 0.0.0.0 helpubuy4less.com
 0.0.0.0 helpwithlogin.com
 0.0.0.0 hitgiveaways.com
+0.0.0.0 hollandfranklin.com
 0.0.0.0 holotech.biz
 0.0.0.0 honestemf.com
 0.0.0.0 hoskodeals.us
@@ -1051,6 +1069,7 @@
 0.0.0.0 kedarnathyatrabookingtriizza.arrowaircraft.com
 0.0.0.0 keepmobi.g2afse.com
 0.0.0.0 kerumal.com
+0.0.0.0 keshefoundation.org
 0.0.0.0 ketoburnadvantage.com
 0.0.0.0 ketofit.support
 0.0.0.0 ketoser.com
@@ -1131,6 +1150,7 @@
 0.0.0.0 mail.hybridrastamama.com
 0.0.0.0 mail.infinitepowersolutions.com
 0.0.0.0 mail.jeewangarg.com
+0.0.0.0 mail.keshefoundation.org
 0.0.0.0 mail.loas.world
 0.0.0.0 mail.lovegreenpencils.ga
 0.0.0.0 mail.luxury-products.biz
@@ -1238,6 +1258,7 @@
 0.0.0.0 moneyandmarkets.com
 0.0.0.0 moneyfinderusacentral.com
 0.0.0.0 moneygenie.co
+0.0.0.0 moranoosa.com
 0.0.0.0 mschatsupport.com
 0.0.0.0 mslivehelp.com
 0.0.0.0 mta-sts.5gdefense.com
@@ -1257,6 +1278,7 @@
 0.0.0.0 muskdonate.top
 0.0.0.0 muskpro.net
 0.0.0.0 musktop.info
+0.0.0.0 mx.energyintegrity.com
 0.0.0.0 mx.faucet.get-brave.com
 0.0.0.0 mx.get-brave.com
 0.0.0.0 mx.rezotone.com
@@ -1315,6 +1337,7 @@
 0.0.0.0 ns1.benefitsdepot.net
 0.0.0.0 ns1.cellularhealth.technology
 0.0.0.0 ns1.com-com-mobi.com
+0.0.0.0 ns1.crystalbluesales.com
 0.0.0.0 ns1.emf-guard.com
 0.0.0.0 ns1.fastnewbiecash.com
 0.0.0.0 ns1.jeewangarg.com
@@ -1328,6 +1351,7 @@
 0.0.0.0 ns2.benefitsdepot.net
 0.0.0.0 ns2.cellularhealth.technology
 0.0.0.0 ns2.com-com-mobi.com
+0.0.0.0 ns2.crystalbluesales.com
 0.0.0.0 ns2.emf-guard.com
 0.0.0.0 ns2.fastnewbiecash.com
 0.0.0.0 ns2.jeewangarg.com
@@ -1421,6 +1445,7 @@
 0.0.0.0 pro.mytraffic.biz
 0.0.0.0 pro1.banyanhill.com
 0.0.0.0 prod.buycocaineonline.se
+0.0.0.0 product-data.crystalbluesales.com
 0.0.0.0 production.usconcealedonline.com
 0.0.0.0 productreportcard.com
 0.0.0.0 profitsurvey365.org
@@ -1482,6 +1507,7 @@
 0.0.0.0 rewardsavenue.net
 0.0.0.0 rewardsgiantusa.com
 0.0.0.0 rewardspromotionwinnersuper.cyou
+0.0.0.0 rewirewater.com
 0.0.0.0 rezotone.com
 0.0.0.0 rfsafe.com
 0.0.0.0 robotic-arm-news.com
@@ -1571,6 +1597,7 @@
 0.0.0.0 softoniccrack.com
 0.0.0.0 solarcity-freiburg.de
 0.0.0.0 solved.winsysdev.com
+0.0.0.0 somavedic.com
 0.0.0.0 soundmindsoundbodyshop.com
 0.0.0.0 spazevent.net
 0.0.0.0 special.aulterra.com
@@ -1606,6 +1633,7 @@
 0.0.0.0 staging.wozinga.com
 0.0.0.0 staging1.5gdefense.com
 0.0.0.0 staging1.aulterra.com
+0.0.0.0 staging5.rewirewater.com
 0.0.0.0 state.usconcealedonline.com
 0.0.0.0 static.buycocaineonline.se
 0.0.0.0 static.tonyherman.com
@@ -1626,10 +1654,13 @@
 0.0.0.0 store.bioelectricshield.com
 0.0.0.0 store.dc-efb26bfb7cee.buycocaineonline.se
 0.0.0.0 store.gdvplanet.com
+0.0.0.0 store.keshefoundation.org
 0.0.0.0 store.lime.buycocaineonline.se
 0.0.0.0 store.owa.buycocaineonline.se
 0.0.0.0 store.planet-tachyon.com
 0.0.0.0 stripeapp.mytraffic.biz
+0.0.0.0 structured-water-devices.com
+0.0.0.0 structuredwaterdevice.net
 0.0.0.0 stylesforless.com
 0.0.0.0 summer-renew.com
 0.0.0.0 super-surveys.co
@@ -1852,6 +1883,8 @@
 0.0.0.0 webdisk.blushield-us.com
 0.0.0.0 webdisk.buycocaineonline.se
 0.0.0.0 webdisk.com-com-mobi.com
+0.0.0.0 webdisk.crystalbluesales.com
+0.0.0.0 webdisk.crystalbluewatersolutions.com
 0.0.0.0 webdisk.earthcalm.com
 0.0.0.0 webdisk.emfrequency.com
 0.0.0.0 webdisk.emfshielding.org
@@ -1894,6 +1927,8 @@
 0.0.0.0 webmail.bloghotro.com
 0.0.0.0 webmail.blushield-us.com
 0.0.0.0 webmail.com-com-mobi.com
+0.0.0.0 webmail.crystalbluesales.com
+0.0.0.0 webmail.crystalbluewatersolutions.com
 0.0.0.0 webmail.emfshielding.org
 0.0.0.0 webmail.emfshieldprotect.com
 0.0.0.0 webmail.energydots.com
@@ -1903,6 +1938,7 @@
 0.0.0.0 webmail.galdc.org
 0.0.0.0 webmail.gdvplanet.com
 0.0.0.0 webmail.googleadultseo.com
+0.0.0.0 webmail.greenfieldwater.com
 0.0.0.0 webmail.healthmatreview.com
 0.0.0.0 webmail.help.law
 0.0.0.0 webmail.hybridrastamama.com
@@ -2393,6 +2429,8 @@
 0.0.0.0 www.criticaldownload.site
 0.0.0.0 www.crypto360.info
 0.0.0.0 www.cryptoglobalnews.live
+0.0.0.0 www.crystalbluesales.com
+0.0.0.0 www.crystalbluewatersolutions.com
 0.0.0.0 www.crystalinsights-net.3dcartstores.com
 0.0.0.0 www.crystalinsights.net
 0.0.0.0 www.csgo365.com
@@ -2506,6 +2544,7 @@
 0.0.0.0 www.emvbescherming.nl
 0.0.0.0 www.energydots.com
 0.0.0.0 www.energyinbalance.com.au
+0.0.0.0 www.energyintegrity.com
 0.0.0.0 www.energykitty.weebly.com
 0.0.0.0 www.enlightdeals.com
 0.0.0.0 www.epicgamecheats.app.epicgamecheats.com
@@ -2560,6 +2599,7 @@
 0.0.0.0 www.foryoupromo.net
 0.0.0.0 www.foundmoneyguide.com
 0.0.0.0 www.fpkdz.com
+0.0.0.0 www.fractalwater.com
 0.0.0.0 www.free-give.space
 0.0.0.0 www.free-targeted-individuals.com
 0.0.0.0 www.free.content-center.club
@@ -2670,6 +2710,8 @@
 0.0.0.0 www.grafikstudio-vonfroreich.de
 0.0.0.0 www.grantsreach.com
 0.0.0.0 www.green8.com
+0.0.0.0 www.greenfieldnaturals.greenfieldwater.com
+0.0.0.0 www.greenfieldwater.com
 0.0.0.0 www.grizzlycompany.com
 0.0.0.0 www.groupme.gotoprize.gq
 0.0.0.0 www.groupme.prizewin.gq
@@ -2704,6 +2746,7 @@
 0.0.0.0 www.helpubuy4less.com
 0.0.0.0 www.helpwithlogin.com
 0.0.0.0 www.hitgiveaways.com
+0.0.0.0 www.hollandfranklin.com
 0.0.0.0 www.holotech.biz
 0.0.0.0 www.honestemf.com
 0.0.0.0 www.hoskodeals.us
@@ -2746,6 +2789,7 @@
 0.0.0.0 www.kaspersky-activate.com.com
 0.0.0.0 www.kd-ol.live
 0.0.0.0 www.kerumal.com
+0.0.0.0 www.keshefoundation.org
 0.0.0.0 www.ketoburnadvantage.com
 0.0.0.0 www.ketofit.support
 0.0.0.0 www.ketoser.com
@@ -2839,6 +2883,7 @@
 0.0.0.0 www.moneyandmarkets.com
 0.0.0.0 www.moneyfinderusacentral.com
 0.0.0.0 www.moneygenie.co
+0.0.0.0 www.moranoosa.com
 0.0.0.0 www.mschatsupport.com
 0.0.0.0 www.mslivehelp.com
 0.0.0.0 www.musicallyfame.co
@@ -2943,6 +2988,7 @@
 0.0.0.0 www.prizepub.com
 0.0.0.0 www.prizewin.gq
 0.0.0.0 www.prod.buycocaineonline.se
+0.0.0.0 www.product-data.crystalbluesales.com
 0.0.0.0 www.productreportcard.com
 0.0.0.0 www.profitsurvey365.org
 0.0.0.0 www.projekt-smof.de
@@ -2988,6 +3034,7 @@
 0.0.0.0 www.rewardsavenue.net
 0.0.0.0 www.rewardsgiantusa.com
 0.0.0.0 www.rewardspromotionwinnersuper.cyou
+0.0.0.0 www.rewirewater.com
 0.0.0.0 www.rezotone.com
 0.0.0.0 www.rfsafe.com
 0.0.0.0 www.robotic-arm-news.com
@@ -3050,6 +3097,7 @@
 0.0.0.0 www.softoniccrack.com
 0.0.0.0 www.solarcity-freiburg.de
 0.0.0.0 www.solved.winsysdev.com
+0.0.0.0 www.somavedic.com
 0.0.0.0 www.soundmindsoundbodyshop.com
 0.0.0.0 www.spazevent.net
 0.0.0.0 www.spielwarenpinocchio.de
@@ -3064,6 +3112,7 @@
 0.0.0.0 www.staging.shieldyourbody.com
 0.0.0.0 www.staging1.5gdefense.com
 0.0.0.0 www.staging1.aulterra.com
+0.0.0.0 www.staging5.rewirewater.com
 0.0.0.0 www.static.buycocaineonline.se
 0.0.0.0 www.stayhomestaysafea.blogspot.com
 0.0.0.0 www.stealdeals4u.com
@@ -3075,6 +3124,8 @@
 0.0.0.0 www.store.lime.buycocaineonline.se
 0.0.0.0 www.store.owa.buycocaineonline.se
 0.0.0.0 www.stripeapp.mytraffic.biz
+0.0.0.0 www.structured-water-devices.com
+0.0.0.0 www.structuredwaterdevice.net
 0.0.0.0 www.stylesforless.com
 0.0.0.0 www.summer-renew.com
 0.0.0.0 www.super-surveys.co
