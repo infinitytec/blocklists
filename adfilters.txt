@@ -226,6 +226,7 @@ acs.ositracker.com
 activehours.hasoffers.com
 adactioninteractive.hasoffers.com
 adamtheautomator.com##.w-full.items-center.bg-gray-200.p-3.flex-col.flex.sidebar
+adamtheautomator.com##blockquote.wp-block-quote:nth-of-type(5)
 adbloom.hasoffers.com
 adblowz.hasoffers.com
 adbutler.com
@@ -533,6 +534,7 @@ classicalpoets.org###text-52
 classicalpoets.org##.horizontal-3.horizontal_3.horizontal.codecprime_widget
 classicalpoets.org##[href="https://www.amazon.co.uk/HELLWARD-ENGLISH-CANTOS-James-Sale/dp/B08C7GGMSC"]
 cldoffers.net
+cleantechnica.com##bold
 clickbooth.com
 clickfunnels.com
 clicknetwork.hasoffers.com
@@ -1472,6 +1474,13 @@ quotevelocity.hasoffers.com
 rabankcard.ositracker.com
 raegear.ositracker.com
 raiders.ositracker.com
+raillynews.com###custom_html-172 > .custom-html-widget.textwidget
+raillynews.com###custom_html-63 > .custom-html-widget.textwidget > [href]
+raillynews.com###custom_html-64 > .custom-html-widget.textwidget > [href]
+raillynews.com###text-64
+raillynews.com###text-70 > .textwidget
+raillynews.com##.widget_custom_html.mh-header-2.mh-widget.widget_text
+raillynews.com##[href="https://www.muhabbet.org/"]
 raspberrypiprojects.com##.pia_yearly
 raspberrypiprojects.com##.price-table__item--yearly.price-table__item
 realtracker.com
@@ -2066,6 +2075,8 @@ www.blendernation.com###custom_html-11 > .custom-html-widget.textwidget
 www.blendernation.com###custom_html-11 > .widgettitle
 www.blendernation.com###custom_html-12 > .widgettitle
 www.blog.adbutler.com
+www.bobvila.com##.advertise
+www.bobvila.com##.bv-unit-mobile-content
 www.britannica.com##.video-ad-container-content
 www.britannica.com##.video-ad-container.ora-tv-container
 www.brmclick.com
@@ -2548,6 +2559,8 @@ www.pcsuggest.com##.aprime_link
 www.performcb.com
 www.perftrk.com
 www.petervanderwoude.nl###text-9
+www.petri.com##.inContent.contentHighlight
+www.petri.com##.webinar-ad
 www.phonescoop.com###admid
 www.phonescoop.com##.adinner
 www.phonescoop.com##.admore
@@ -2558,6 +2571,7 @@ www.popplunder.com
 www.popularmechanics.com##.transporter-ad.leaderboard-ad
 www.prajwaldesai.com###media_image-3
 www.prajwaldesai.com###media_image-4
+www.prajwaldesai.com###media_image-5
 www.prajwaldesai.com###stream-item-widget-2
 www.prajwaldesai.com###stream-item-widget-2 > .the-global-title.widget-title
 www.prajwaldesai.com###stream-item-widget-3
@@ -2734,6 +2748,7 @@ www.tomshardware.com##.slot-leaderboard
 www.tomshardware.com##.slot-leaderboard > .bordeaux-slot-root
 www.tomshardware.com##.slot-topOfSidebar
 www.tomshardware.com##.slot-topOfSidebar > .bordeaux-slot-root
+www.tomshardware.com##.sponsored-post
 www.tomtomgopre.online
 www.trackerrr.com
 www.trackjumpr.com
@@ -2883,14 +2898,17 @@ znet.hasoffers.com
 ||cdn-node.diskpart.com/file/amtcstatic/1/rukow/close1.png$image
 ||cdn.iframe.ly/kTgKxV9?v=1&app=1$subdocument
 ||classthink.com/teams-for-dummies-ad$image
+||cleantechnica.com/files/2021/08/Flo-webinar-EV-charging-garage-orphans.png$image
 ||coinfomania.com/wp-content/uploads/728_90-en.gif$image
 ||coinfomania.com/wp-content/uploads/NordFX-1.gif$image
 ||d.stockcharts.com/img/freead4.gif$image
 ||danielengberg.com/wp-content/uploads/2019/04/Altaro190412-250x250.jpg$image
 ||digitalasset.intuit.com/IMAGE/A9tN3RxOp/default.jpg$image
 ||i.imgur.com/Yefyjlu.gif$image
+||i0.wp.com/rayhaber.com/wp-content/uploads/2020/09/muhabbet-reklam.png?ssl=1$image
 ||i0.wp.com/www.wildernessarena.com/wp-content/uploads/2018/07/Wilderness-Arena-IAP-ad.png?*0&ssl=1$image
 ||i1.wp.com/mediabiasfactcheck.com/wp-content/uploads/2019/09/adfreebanner.png?resize=300%2C175&ssl=1$image
+||i1.wp.com/rayhaber.com/wp-content/uploads/2021/04/arminbanner.jpg?ssl=1$image
 ||images-na.ssl-images-amazon.com/images/G/01/Audible/en_US/images/creative/amazon/A4-894-PresidentsDay_ILM_MOB_640x90_V01._CB424076638_.jpg$image
 ||images.seneweb.com/dynamic/modules/banners/images/campagnes/00a3d7dc19ec769b7d82d5e5a412d29e46674e38.png$image
 ||images.worldnow.com/images/static/container-e/ad43_header.gif$image
@@ -2925,6 +2943,7 @@ znet.hasoffers.com
 ||s3.reutersmedia.net/resources/r/?m=02&d=20151117&t=2&i=9308725039&w=760&fh=&fw=&ll=&pl=&sq=&r=1489LYNXMPGOS8788$image
 ||s3.reutersmedia.net/resources/r/?m=02&d=20160405&t=2&i=6524429309&w=380&fh=&fw=&ll=&pl=&sq=&r=1489LYNXMPGYV8788$image
 ||safe.britannica.com/safeimages/BFP_marketing_ads_300x90_C.jpg$image
+||static.computer-components.net/img/amrem-banner.jpg$image
 ||static.redditgifts.com/img-optim/exchanges/energizer.png$image
 ||static.redditgifts.com/img-optim/ss-2019/google-store.png$image
 ||static.redditgifts.com/img-optim/ss-2019/stadia-4.png$image
