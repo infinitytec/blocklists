@@ -331,6 +331,8 @@
 0.0.0.0 audioline-music.de
 0.0.0.0 aurakits.ositracker.com
 0.0.0.0 auth.tune.com
+0.0.0.0 auth1.tightropeinteractive.com
+0.0.0.0 auth2.tightropeinteractive.com
 0.0.0.0 authenticpua.hasoffers.com
 0.0.0.0 avi.hasoffers.com
 0.0.0.0 avidog.ositracker.com
@@ -414,6 +416,7 @@
 0.0.0.0 brmclick.com
 0.0.0.0 brmedia.hasoffers.com
 0.0.0.0 bsse.ositracker.com
+0.0.0.0 bugzilla.tightropeinteractive.com
 0.0.0.0 buhbamarketing.hasoffers.com
 0.0.0.0 bulletroof.ositracker.com
 0.0.0.0 bumpboxes.ositracker.com
@@ -1338,6 +1341,7 @@
 0.0.0.0 snap.hasoffers.com
 0.0.0.0 sociabuzz.hasoffers.com
 0.0.0.0 socialkik.hasoffers.com
+0.0.0.0 sofotex.tightropeinteractive.com
 0.0.0.0 solarcity-freiburg.de
 0.0.0.0 solidcpa.hasoffers.com
 0.0.0.0 solidrockco.ositracker.com
@@ -1435,6 +1439,7 @@
 0.0.0.0 throlsoninc.hasoffers.com
 0.0.0.0 ticksnall.ositracker.com
 0.0.0.0 tidiholding.hasoffers.com
+0.0.0.0 tightropeinteractive.com
 0.0.0.0 tilventisapps.hasoffers.com
 0.0.0.0 timr.stage.hasoffers.com
 0.0.0.0 tlmaffiliates.hasoffers.com
@@ -1669,6 +1674,7 @@
 0.0.0.0 www.therapie-lutzebaeck-berlin.de
 0.0.0.0 www.thewishsendonline.com
 0.0.0.0 www.throlsoninc.hasoffers.com
+0.0.0.0 www.tightropeinteractive.com
 0.0.0.0 www.togetherforwine.com
 0.0.0.0 www.tomtomgopre.online
 0.0.0.0 www.trackerrr.com
