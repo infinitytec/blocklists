@@ -1426,6 +1426,7 @@
 0.0.0.0 autodiscover.virusmyth.com
 0.0.0.0 autodiscover.vitalityc60.com
 0.0.0.0 autodiscover.wakeupsheeple.net
+0.0.0.0 autodiscover.waraffiliate.com
 0.0.0.0 autodiscover.wateringwhole.us
 0.0.0.0 autodiscover.webinar.drrachael.com
 0.0.0.0 autodiscover.wethepundit.com
@@ -1549,6 +1550,7 @@
 0.0.0.0 badgerbalm.com
 0.0.0.0 badgoodie.myctfo.com
 0.0.0.0 badmedicine.news
+0.0.0.0 bakb.metagenics.com
 0.0.0.0 balancedandvital.myasealive.com
 0.0.0.0 balancedwellness.healthcoach1.integrativenutrition.com
 0.0.0.0 balancemycells.myasealive.com
@@ -2128,6 +2130,7 @@
 0.0.0.0 bsklar.myasealive.com
 0.0.0.0 bslim1.youngevityonline.com
 0.0.0.0 bsmith.metagenics.com
+0.0.0.0 bstg.metagenics.com
 0.0.0.0 bsynclife.myasealive.com
 0.0.0.0 bt.lege.net
 0.0.0.0 btc.myherbalife.com
@@ -2591,6 +2594,7 @@
 0.0.0.0 cellercise.shopfreemart.com
 0.0.0.0 cellfhealth.myasealive.com
 0.0.0.0 cellfood.microwaterman.com
+0.0.0.0 cellfunction.myasealive.com
 0.0.0.0 cellhelpbyasea.myasealive.com
 0.0.0.0 cellmedicine.com
 0.0.0.0 cellnutritionals.com
@@ -2973,6 +2977,7 @@
 0.0.0.0 coaching.thriveglobal.com
 0.0.0.0 coachkieonne.healthcoach1.integrativenutrition.com
 0.0.0.0 coachlucille.myasealive.com
+0.0.0.0 coachm.myasealive.com
 0.0.0.0 coachmed.myasealive.com
 0.0.0.0 coachrgt.myctfo.com
 0.0.0.0 coachrosedallas.myctfo.com
@@ -3639,6 +3644,7 @@
 0.0.0.0 cpanel.virusmyth.com
 0.0.0.0 cpanel.vitalityc60.com
 0.0.0.0 cpanel.vitalityvitamins.co.uk
+0.0.0.0 cpanel.waraffiliate.com
 0.0.0.0 cpanel.wddty.com
 0.0.0.0 cpanel.wearechange.org
 0.0.0.0 cpanel.webinar.drrachael.com
@@ -4691,6 +4697,7 @@
 0.0.0.0 daniellestinson.youngevityonline.com
 0.0.0.0 danielscranton.com
 0.0.0.0 daniper.myasealive.com
+0.0.0.0 daniv.myasealive.com
 0.0.0.0 dannyboylimerick.wordpress.com
 0.0.0.0 danoodle420.myctfo.com
 0.0.0.0 dant.myctfo.com
@@ -5041,6 +5048,7 @@
 0.0.0.0 democide.news
 0.0.0.0 democracydeclaration.com
 0.0.0.0 democratsagainstunagenda21.com
+0.0.0.0 deni.myasealive.com
 0.0.0.0 denis.myasealive.com
 0.0.0.0 denise-cadet.healthcoach1.integrativenutrition.com
 0.0.0.0 denise-grinols.healthcoach.integrativenutrition.com
@@ -5632,6 +5640,7 @@
 0.0.0.0 drmarino.metagenics.com
 0.0.0.0 drmarkchiro.metagenics.com
 0.0.0.0 drmarkmetus.metagenics.com
+0.0.0.0 drmarkmullaney.myasealive.com
 0.0.0.0 drmaryskataylor.com
 0.0.0.0 drmattbernd.metagenics.com
 0.0.0.0 drmcnamara.metagenics.com
@@ -6098,6 +6107,7 @@
 0.0.0.0 emotionalhealth.mercola.com
 0.0.0.0 emp.news
 0.0.0.0 empathsandlightbeings.com
+0.0.0.0 employeestore.doterra.com
 0.0.0.0 employercovidpolicy.com
 0.0.0.0 empoweredbeauty.youngevityonline.com
 0.0.0.0 empowerhealing.myasealive.com
@@ -8243,6 +8253,7 @@
 0.0.0.0 hostmaster.uncutnews.ch
 0.0.0.0 hostmaster.vaccine-injury.info
 0.0.0.0 hostmaster.vaccinenation.net
+0.0.0.0 hostmaster.waraffiliate.com
 0.0.0.0 hostmaster.www.mmsforhispaniola.com
 0.0.0.0 hostmaster.yournews.com
 0.0.0.0 hotopski.myctfo.com
@@ -9147,6 +9158,7 @@
 0.0.0.0 kathysturm.mycoseva.com
 0.0.0.0 katie-gill.healthcoach1.integrativenutrition.com
 0.0.0.0 katlewisphd.metagenics.com
+0.0.0.0 katyl.myasealive.com
 0.0.0.0 kay-wilson.healthcoach.integrativenutrition.com
 0.0.0.0 kayenret.myctfo.com
 0.0.0.0 kaylalee97.myctfo.com
@@ -10884,6 +10896,7 @@
 0.0.0.0 marketcrash.news
 0.0.0.0 marketing.herbhealers.com
 0.0.0.0 marketing.lifesitenews.com
+0.0.0.0 marketing.metagenics.com
 0.0.0.0 marketplaceplus.ministrytodaymag.com
 0.0.0.0 marketsanity.com
 0.0.0.0 markharringtonshow.com
@@ -12260,6 +12273,7 @@
 0.0.0.0 noharm.org
 0.0.0.0 nojabforme.info
 0.0.0.0 nojokejon.myctfo.com
+0.0.0.0 nolimitteam.myasealive.com
 0.0.0.0 nomadiceveryman.blogspot.com
 0.0.0.0 nomask.info
 0.0.0.0 nomercury.org
@@ -12685,6 +12699,7 @@
 0.0.0.0 ogjester.myctfo.com
 0.0.0.0 ogpv2.onegreenplanet.org
 0.0.0.0 ogrando.myctfo.com
+0.0.0.0 ohana.myasealive.com
 0.0.0.0 ohio.tenthamendmentcenter.com
 0.0.0.0 ohioamf.org
 0.0.0.0 ohiostandsup.org
@@ -13485,6 +13500,7 @@
 0.0.0.0 portugalsalutar.myasealive.com
 0.0.0.0 portugalsaudavel.myasealive.com
 0.0.0.0 portuguese.mercola.com
+0.0.0.0 positiveimpactlife.myasealive.com
 0.0.0.0 positivemed.com
 0.0.0.0 postmail.thehealthsite.com
 0.0.0.0 postman.catholicfamilynews.com
@@ -17108,6 +17124,7 @@
 0.0.0.0 wanttoknow.info
 0.0.0.0 wanttoknow.nl
 0.0.0.0 wapoop.news
+0.0.0.0 waraffiliate.com
 0.0.0.0 ward.metagenics.com
 0.0.0.0 waronwethepeople.com
 0.0.0.0 warranty.shieldyourbody.com
@@ -17704,6 +17721,7 @@
 0.0.0.0 webdisk.vitalityc60.com
 0.0.0.0 webdisk.vitalityvitamins.co.uk
 0.0.0.0 webdisk.wakeupsheeple.net
+0.0.0.0 webdisk.waraffiliate.com
 0.0.0.0 webdisk.wateringwhole.us
 0.0.0.0 webdisk.wddty.com
 0.0.0.0 webdisk.wearechange.org
@@ -19071,6 +19089,7 @@
 0.0.0.0 www.baddoctors.news
 0.0.0.0 www.badgerbalm.com
 0.0.0.0 www.badmedicine.news
+0.0.0.0 www.bakb.metagenics.com
 0.0.0.0 www.balanceoflifeclinic.com
 0.0.0.0 www.bamboocorefitness.com
 0.0.0.0 www.banishingspells4u.reikiranch.net
@@ -24209,6 +24228,7 @@
 0.0.0.0 www.wanttoknow.info
 0.0.0.0 www.wanttoknow.nl
 0.0.0.0 www.wapoop.news
+0.0.0.0 www.waraffiliate.com
 0.0.0.0 www.waronwethepeople.com
 0.0.0.0 www.warranty.shieldyourbody.com
 0.0.0.0 www.washingtonposted.news
