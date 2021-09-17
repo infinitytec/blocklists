@@ -3468,6 +3468,7 @@
 0.0.0.0 cpanel.lightonconspiracies.com
 0.0.0.0 cpanel.lightonlight.education
 0.0.0.0 cpanel.livingspringsretreat.com
+0.0.0.0 cpanel.logisticsmonster.com
 0.0.0.0 cpanel.lookintoit.org
 0.0.0.0 cpanel.ls.uy
 0.0.0.0 cpanel.lukesimonmystic.com
@@ -3879,6 +3880,7 @@
 0.0.0.0 cpcalendars.livepine.com
 0.0.0.0 cpcalendars.livewellaps.com
 0.0.0.0 cpcalendars.livingspringsretreat.com
+0.0.0.0 cpcalendars.logisticsmonster.com
 0.0.0.0 cpcalendars.lookintoit.org
 0.0.0.0 cpcalendars.ls.uy
 0.0.0.0 cpcalendars.lymebook.com
@@ -4290,6 +4292,7 @@
 0.0.0.0 cpcontacts.libertyvideos.org
 0.0.0.0 cpcontacts.livewellaps.com
 0.0.0.0 cpcontacts.livingspringsretreat.com
+0.0.0.0 cpcontacts.logisticsmonster.com
 0.0.0.0 cpcontacts.ls.uy
 0.0.0.0 cpcontacts.lymebook.com
 0.0.0.0 cpcontacts.lymediseasechallenge.org
@@ -7743,6 +7746,7 @@
 0.0.0.0 heritagewheyprotein.healthrangerstore.com
 0.0.0.0 hermes.g2sacraments.org
 0.0.0.0 herniaremediation.org
+0.0.0.0 herplace.com
 0.0.0.0 hese-project.org
 0.0.0.0 hesmtp01mx1.mercola.com
 0.0.0.0 hesmtp01mx2.mercola.com
@@ -8663,6 +8667,7 @@
 0.0.0.0 iva.ivas.org
 0.0.0.0 ivantic.info
 0.0.0.0 ivas.org
+0.0.0.0 ivermectincan.com
 0.0.0.0 iveyb.youngevityonline.com
 0.0.0.0 ivmmeta.com
 0.0.0.0 ivmstatus.com
@@ -9780,10 +9785,12 @@
 0.0.0.0 lockdownsceptics.org
 0.0.0.0 locust.us-west-2.stcf.infowars.com
 0.0.0.0 loftcoin.net
+0.0.0.0 log.logisticsmonster.com
 0.0.0.0 login.aulterra.com
 0.0.0.0 login.doterra.com
 0.0.0.0 login.integrativenutrition.com
 0.0.0.0 login.mercola.com
+0.0.0.0 logisticsmonster.com
 0.0.0.0 logosnutritionals.com
 0.0.0.0 logosradionetwork.youngevityonline.com
 0.0.0.0 lojah.myctfo.com
@@ -12390,6 +12397,7 @@
 0.0.0.0 ns1.latitudes.org
 0.0.0.0 ns1.lege.net
 0.0.0.0 ns1.lipstickalley.com
+0.0.0.0 ns1.logisticsmonster.com
 0.0.0.0 ns1.lyposomal.com
 0.0.0.0 ns1.medworm.com
 0.0.0.0 ns1.morroccomethod.com
@@ -12471,6 +12479,7 @@
 0.0.0.0 ns2.latitudes.org
 0.0.0.0 ns2.lege.net
 0.0.0.0 ns2.lipstickalley.com
+0.0.0.0 ns2.logisticsmonster.com
 0.0.0.0 ns2.lyposomal.com
 0.0.0.0 ns2.medworm.com
 0.0.0.0 ns2.morroccomethod.com
@@ -16109,6 +16118,7 @@
 0.0.0.0 theiowastandard.com
 0.0.0.0 theirishsentinel.com
 0.0.0.0 thejacksonpress.org
+0.0.0.0 thejamesclinic.square.site
 0.0.0.0 thejokerbox.roxytube.com
 0.0.0.0 thekycker.com
 0.0.0.0 thelastamericanvagabond.com
@@ -16204,6 +16214,7 @@
 0.0.0.0 thesurvivalpodcast.com
 0.0.0.0 thetahealth.co.za
 0.0.0.0 thetappingsolution.com
+0.0.0.0 thethinkingconservative.com
 0.0.0.0 thetimeisnowproject.birthingthefuture.org
 0.0.0.0 thetollonline.com
 0.0.0.0 thetruedefender.com
@@ -16514,6 +16525,7 @@
 0.0.0.0 truthbook.com
 0.0.0.0 truthcomestolight.com
 0.0.0.0 truthdealer.news
+0.0.0.0 truthforhealth.org
 0.0.0.0 truthinmedia.gla.news
 0.0.0.0 truthmatters.thegoodinside.com
 0.0.0.0 truthmemesshop.wordpress.com
@@ -17022,6 +17034,7 @@
 0.0.0.0 vithoulkas.hpathy.com
 0.0.0.0 vivaconsult.myasealive.com
 0.0.0.0 vivation.com
+0.0.0.0 vivelifecenter.com
 0.0.0.0 vivesaludable.myctfo.com
 0.0.0.0 vivify.thegoodinside.com
 0.0.0.0 vizuri.metagenics.com
@@ -17501,6 +17514,7 @@
 0.0.0.0 webdisk.livepine.com
 0.0.0.0 webdisk.livewellaps.com
 0.0.0.0 webdisk.livingspringsretreat.com
+0.0.0.0 webdisk.logisticsmonster.com
 0.0.0.0 webdisk.lookintoit.org
 0.0.0.0 webdisk.ls.uy
 0.0.0.0 webdisk.lukesimonmystic.com
@@ -17983,6 +17997,7 @@
 0.0.0.0 webmail.lightonlight.education
 0.0.0.0 webmail.livepine.com
 0.0.0.0 webmail.livingspringsretreat.com
+0.0.0.0 webmail.logisticsmonster.com
 0.0.0.0 webmail.lookintoit.org
 0.0.0.0 webmail.ls.uy
 0.0.0.0 webmail.lukesimonmystic.com
@@ -21120,6 +21135,7 @@
 0.0.0.0 www.herbs-info.com
 0.0.0.0 www.herbs.news
 0.0.0.0 www.herniaremediation.org
+0.0.0.0 www.herplace.com
 0.0.0.0 www.hese-project.org
 0.0.0.0 www.heyaho.com
 0.0.0.0 www.hfaculty.news
@@ -21398,6 +21414,7 @@
 0.0.0.0 www.iusinitinere.it
 0.0.0.0 www.ivantic.info
 0.0.0.0 www.ivas.org
+0.0.0.0 www.ivermectincan.com
 0.0.0.0 www.ivmmeta.com
 0.0.0.0 www.ivmstatus.com
 0.0.0.0 www.iyashisource.com
@@ -21706,6 +21723,7 @@
 0.0.0.0 www.lockdownsceptics.org
 0.0.0.0 www.loftcoin.net
 0.0.0.0 www.login.aulterra.com
+0.0.0.0 www.logisticsmonster.com
 0.0.0.0 www.logosnutritionals.com
 0.0.0.0 www.londonreal.tv
 0.0.0.0 www.londontimes.live
@@ -23688,6 +23706,7 @@
 0.0.0.0 www.theiowastandard.com
 0.0.0.0 www.theirishsentinel.com
 0.0.0.0 www.thejacksonpress.org
+0.0.0.0 www.thejamesclinic.square.site
 0.0.0.0 www.thejokerbox.roxytube.com
 0.0.0.0 www.thekycker.com
 0.0.0.0 www.thelastamericanvagabond.com
@@ -23766,6 +23785,7 @@
 0.0.0.0 www.thesurvivalpodcast.com
 0.0.0.0 www.thetahealth.co.za
 0.0.0.0 www.thetappingsolution.com
+0.0.0.0 www.thethinkingconservative.com
 0.0.0.0 www.thetimeisnowproject.birthingthefuture.org
 0.0.0.0 www.thetollonline.com
 0.0.0.0 www.thetruedefender.com
@@ -23932,6 +23952,7 @@
 0.0.0.0 www.truthbook.com
 0.0.0.0 www.truthcomestolight.com
 0.0.0.0 www.truthdealer.news
+0.0.0.0 www.truthforhealth.org
 0.0.0.0 www.truthinmedia.gla.news
 0.0.0.0 www.truthmemesshop.wordpress.com
 0.0.0.0 www.truthout.org
@@ -24196,6 +24217,7 @@
 0.0.0.0 www.vithoulkas.hpathy.com
 0.0.0.0 www.vivation.com
 0.0.0.0 www.vive.youngevityonline.com
+0.0.0.0 www.vivelifecenter.com
 0.0.0.0 www.vladimirzelenkomd.com
 0.0.0.0 www.vladtepesblog.com
 0.0.0.0 www.vlnovagenetika.cz
