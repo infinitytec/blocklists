@@ -36,7 +36,7 @@ Domains that may be problematic. If anyone knows anything about these, please le
 
 
 ## Not Good Pi
-No longer maintained in favor of the more generic (and much larger) scams and phishing list.
+No longer maintained in favor of the more generic (and much larger) scams and phishing list. I WILL BE REMOVING THIS LIST FROM THE MAIN BRANCH SOMETIME IN OCTOBER 2021.
 
 # A note on formats:
 Hosts format blocklists work with browser extensions such as [uBlock Origin](https://github.com/gorhill/uBlock) and with DNS ad blockers such as [Pi-hole](https://pi-hole.net/).
