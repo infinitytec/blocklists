@@ -782,6 +782,7 @@ filehippo.com##.video-player
 fileinfo.com##.adTopLB
 fileinfo.com##.fv
 fileinfo.com##.linkAds
+fileproinfo.com##.overlay
 film.avclub.com##.movable-ad
 filmdaily.co##div.fd-article-top-banner
 fincasonbaro.de
@@ -802,6 +803,10 @@ forms.arroyomedia.com
 fortune-days.de
 fotofix.hasoffers.com
 fourthgearmedia.hasoffers.com
+free-seo-tools.org##.in.fade.modal-backdrop
+free-seo-tools.org##.in.loginme.fade.modal
+freetoolshub.com##.box_shadow_border.mt15.p5.sidebar_adds
+freetoolshub.com##.xd_top_box
 freeware-finden.de
 frg.hasoffers.com
 fsus.ositracker.com
@@ -1551,9 +1556,13 @@ sctc.ositracker.com
 sdk.ibm.xtify.com
 seacoastonline.com##.ad-container
 search.earth911.com##.enhanced-banner
+searchenginereports.net###bio_ep
+searchenginereports.net###bio_ep_bg
+searchenginereports.net##.ads_boxxs
 secure.amtrack213.com
 securepubads.g.doubleclick.net
 sellineo.hasoffers.com
+seopolarity.com##.overlay
 servedby.adbutler.com
 server2.ositracker.com
 server466.ositracker.com
@@ -1684,6 +1693,8 @@ smallseo.tools##form > p
 smartairil.ositracker.com
 smartestlifestyletrends.com
 smartlifetrack.com
+smartseotools.org##.mb30.mt20.text-center.col-md-12
+smartseotools.org##div.mt20.text-center.col-md-12:nth-of-type(5)
 smglobalshop.ositracker.com
 smile.amazon.com###pdagSparkleAdFeedback
 snap.hasoffers.com
@@ -2355,6 +2366,7 @@ www.goldbek-apotheke.de
 www.goodvideocard.com
 www.grafikstudio-vonfroreich.de
 www.hackster.io##.article_layout__sidebarInner__1DsO_ > div > .hckui__layout__hiddenMedDown
+www.hackster.io##.article_layout__sidebarInner__2Qh64 > div:nth-of-type(1) > .hckui__layout__hiddenMedDown
 www.hackster.io##.hckui__layout__fullWidth.hckui__layout__marginTop45
 www.hackster.io##.hckui__layout__marginTop10.hckui__layout__marginBottom10
 www.hasoffers.com
@@ -2378,6 +2390,7 @@ www.healthysimulation.com##div[class*="5f6"]
 www.healthysimulation.com##div[class*="f61"]
 www.healthysimulation.com##div[class*="f610"]
 www.healthysimulation.com##div[class*="ffd"]
+www.holidays-and-observances.com##[href="https://www.sitesell.com/holidays1.html"]
 www.howtogeek.com##.e-content.entry-content > div
 www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-inner
@@ -2585,6 +2598,7 @@ www.prajwaldesai.com###stream-item-widget-4
 www.prajwaldesai.com###stream-item-widget-5
 www.prepostseo.com###after_title_ad
 www.prepostseo.com###sidebar_ad_big
+www.prepostseo.com##.bg-dark
 www.prepostseo.com##.pps-spr-after-button.pps-spr-lumba-daba.pps-spr.text-center.col-xs-12
 www.printersupports.online
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
@@ -2624,6 +2638,9 @@ www.seneweb.com##[href="https://www.seneweb.com/xban/clickto/2628e309dec27bb4ebf
 www.seneweb.com##div.module_banner03.module_banner:nth-of-type(1)
 www.seneweb.com##li.featured_posts_item > [href="https://www.seneweb.com/xban/clickto/84eda92fd1a59b443121e63fb57befe52f7b1822"]
 www.seneweb.com##li.featured_posts_item:nth-of-type(6)
+www.seo.kokoshungsan.com##[href^="https://www.crazydomains.co.uk"]
+www.seotoolsnet.com##[href="https://www.webaudittool.com"] > .imageres
+www.seotoolsnet.com##[href="https://www.worthofmywebsite.com"] > .imageres
 www.sevenforums.com##.chillad.media400
 www.shopgoodwill.com###listings-sidebar > div
 www.shopgoodwill.com##.purchase-desktop > div
