@@ -53,6 +53,7 @@ en.wikipedia.org###siteNotice
 en.wikipedia.org##.frb-country-US.frb-rml-enabled.frb
 everymac.com##.prompt-bg
 everymac.com##.prompt-content-container
+fileproinfo.com###form1 > div
 forum.proxmox.com##.uix_noticeInner
 gadsdentimes.com###dialog-message
 gamestop-promo-blog.blogspot.com
@@ -221,6 +222,7 @@ www.pitneybowes.com###confirmit_overlay
 www.pocket-lint.com##.blocks
 www.politico.com##.has-borders.bump-in.story-enhancement
 www.politico.com##.type--center-well.first-party-data-form
+www.ptouchdirect.com##.needsclick
 www.publish0x.com###registerModal
 www.qs1.com###popmake-2751
 www.raspberrypi.org##.cookieinfo
