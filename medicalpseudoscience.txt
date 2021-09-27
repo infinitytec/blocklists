@@ -1458,6 +1458,7 @@
 0.0.0.0 avn.org.au
 0.0.0.0 avogel.co.uk
 0.0.0.0 avoiceforchoice.org
+0.0.0.0 avoiceforchoiceadvocacy.org
 0.0.0.0 avoidthemark.com
 0.0.0.0 avonmartels.metagenics.com
 0.0.0.0 avril.lymelightfoundation.org
@@ -7487,6 +7488,7 @@
 0.0.0.0 healthbooksummaries.com
 0.0.0.0 healthbulletindaily.com
 0.0.0.0 healthcare.doterra.com
+0.0.0.0 healthcareworkersformedicalfreedom.com
 0.0.0.0 healthchoice.org
 0.0.0.0 healthchoicect.org
 0.0.0.0 healthchoicelegaldefensefund.org
@@ -7945,6 +7947,7 @@
 0.0.0.0 host.revolutiontelevision.net
 0.0.0.0 host.sgtreport.com
 0.0.0.0 host.shtfplan.com
+0.0.0.0 host.standupcalifornia.com
 0.0.0.0 host.thinkingmomsrevolution.com
 0.0.0.0 host.trustedhealthproducts.com
 0.0.0.0 host.tsarizm.com
@@ -15434,6 +15437,7 @@
 0.0.0.0 stagingsecure.thetruthaboutcancer.com
 0.0.0.0 stagingtest.infowars.com
 0.0.0.0 standforhealthfreedom.com
+0.0.0.0 standupcalifornia.com
 0.0.0.0 standupdefend.org
 0.0.0.0 stanleyasea.myasealive.com
 0.0.0.0 stardustc60.com
@@ -16745,6 +16749,7 @@
 0.0.0.0 unhinged.youngevityonline.com
 0.0.0.0 unionavenuerx.metagenics.com
 0.0.0.0 uniqueestates.howestreet.com
+0.0.0.0 unite.standupcalifornia.com
 0.0.0.0 unitedagainstmindcontrol.wordpress.com
 0.0.0.0 unitedlovenlight.wordpress.com
 0.0.0.0 unitedpatientsgroup.com
@@ -19126,6 +19131,7 @@
 0.0.0.0 www.avn.org.au
 0.0.0.0 www.avogel.co.uk
 0.0.0.0 www.avoiceforchoice.org
+0.0.0.0 www.avoiceforchoiceadvocacy.org
 0.0.0.0 www.avoidthemark.com
 0.0.0.0 www.avrn.tv
 0.0.0.0 www.aw6dcc5.aweb.page
@@ -21092,6 +21098,7 @@
 0.0.0.0 www.healthbenefitstimes.com
 0.0.0.0 www.healthbooksummaries.com
 0.0.0.0 www.healthbulletindaily.com
+0.0.0.0 www.healthcareworkersformedicalfreedom.com
 0.0.0.0 www.healthchoice.org
 0.0.0.0 www.healthchoicect.org
 0.0.0.0 www.healthchoicelegaldefensefund.org
@@ -23505,6 +23512,7 @@
 0.0.0.0 www.staging6.urbanpump.com
 0.0.0.0 www.staging7.urbanpump.com
 0.0.0.0 www.standforhealthfreedom.com
+0.0.0.0 www.standupcalifornia.com
 0.0.0.0 www.standupdefend.org
 0.0.0.0 www.stardustc60.com
 0.0.0.0 www.stargatenewsletter.blogspot.com
