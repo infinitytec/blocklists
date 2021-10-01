@@ -1690,6 +1690,9 @@ smallseo.tools##.in.loginme.fade.modal
 smallseo.tools##.text-center.col-md-8 > p
 smallseo.tools##div.col-md-12:nth-of-type(16) > .category_box > p
 smallseo.tools##form > p
+smallseotools.com##.__h1a1ammm_ha3a_
+smallseotools.com##._h1aammm_
+smallseotools.com##div.text-center.row.col-md-12 > ._h1aammm_
 smartairil.ositracker.com
 smartestlifestyletrends.com
 smartlifetrack.com
