@@ -1504,6 +1504,7 @@
 0.0.0.0 privacy-policy.injury-check.com
 0.0.0.0 privacydevaiapplication.icu
 0.0.0.0 privacypolicy.qualified-case.com
+0.0.0.0 privatematchfz.com
 0.0.0.0 prize2894.nonamerbon4.live
 0.0.0.0 prize7772.nonamedvlp59.live
 0.0.0.0 prizedea2030.info
@@ -1919,6 +1920,7 @@
 0.0.0.0 v20dev.getsmartdots.io
 0.0.0.0 vacationvip.com
 0.0.0.0 vaccinationcouncil.org
+0.0.0.0 vae.fyi
 0.0.0.0 validatingnow.com
 0.0.0.0 variantverdict.com
 0.0.0.0 verygiveaways.com
@@ -3128,6 +3130,7 @@
 0.0.0.0 www.pranksfanatic.club
 0.0.0.0 www.premiumgiftcards.net
 0.0.0.0 www.privacydevaiapplication.icu
+0.0.0.0 www.privatematchfz.com
 0.0.0.0 www.prizedea2030.info
 0.0.0.0 www.prizepub.com
 0.0.0.0 www.prizewin.gq
@@ -3424,6 +3427,7 @@
 0.0.0.0 www.v-bucks.fr
 0.0.0.0 www.vacationvip.com
 0.0.0.0 www.vaccinationcouncil.org
+0.0.0.0 www.vae.fyi
 0.0.0.0 www.validatingnow.com
 0.0.0.0 www.variantverdict.com
 0.0.0.0 www.verygiveaways.com
