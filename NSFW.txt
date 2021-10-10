@@ -29,11 +29,13 @@
 0.0.0.0 picrew.me
 0.0.0.0 popupchat-live.com
 0.0.0.0 private.kinky-blogging.com
+0.0.0.0 privatematchfz.com
 0.0.0.0 prosolutionpills.com
 0.0.0.0 realindiefilmawards.codyclarke.com
 0.0.0.0 smugfilm.codyclarke.com
 0.0.0.0 support.picrew.me
 0.0.0.0 uniqdatingplace.com
+0.0.0.0 vae.fyi
 0.0.0.0 voi.fyi
 0.0.0.0 vun.fyi
 0.0.0.0 webdisk.codyclarke.com
@@ -56,10 +58,12 @@
 0.0.0.0 www.pbfcomics.com
 0.0.0.0 www.picrew.me
 0.0.0.0 www.popupchat-live.com
+0.0.0.0 www.privatematchfz.com
 0.0.0.0 www.prosolutionpills.com
 0.0.0.0 www.realindiefilmawards.codyclarke.com
 0.0.0.0 www.smugfilm.codyclarke.com
 0.0.0.0 www.uniqdatingplace.com
+0.0.0.0 www.vae.fyi
 0.0.0.0 www.voi.fyi
 0.0.0.0 www.vun.fyi
 0.0.0.0 www.webdisk.codyclarke.com
