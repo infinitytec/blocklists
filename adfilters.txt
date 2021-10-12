@@ -124,6 +124,12 @@ babylonbee.com###div-gpt-ad-1560348589511-0
 babylonbee.com##.mid-article-ad
 babylonbee.com##.text-center.sticky-footer-image
 
+! bartlesvilleradio.com
+www.bartlesvilleradio.com###banner
+www.bartlesvilleradio.com##.ads
+www.bartlesvilleradio.com##[href="http://greenthumbok.com/"]
+www.bartlesvilleradio.com##[src="/images/k1-txt-news-weather-sponsored-by-Doenges.png"]
+
 ! bbb.org
 www.bbb.org##.image-ad
 www.bbb.org##.image-ad__media
@@ -1076,6 +1082,7 @@ pjmedia.com###div-gpt-300x250_8
 pjmedia.com###div-gpt-300x250_9
 pjmedia.com###div-gpt-320x50_1
 pjmedia.com##.d-md-none.footer-ad
+pjmedia.com##.gpt-ad-b
 
 ! politico.com
 www.politico.com##.PibAd-container
