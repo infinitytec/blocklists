@@ -134,6 +134,7 @@
 0.0.0.0 ablackwell.juiceplus.com
 0.0.0.0 ablahealer.myasealive.com
 0.0.0.0 abondance.juiceplus.com
+0.0.0.0 abotraining.sunrider.com
 0.0.0.0 abrahamf.juiceplus.com
 0.0.0.0 abrennan.metagenics.com
 0.0.0.0 abrooks.juiceplus.com
@@ -180,6 +181,7 @@
 0.0.0.0 adelheid-walser.bemergroup.com
 0.0.0.0 adelia.juiceplus.com
 0.0.0.0 adenaro.metagenics.com
+0.0.0.0 adfs.lifeextension.com
 0.0.0.0 adiohs.metagenics.com
 0.0.0.0 admin.bydesign.com
 0.0.0.0 admin.sitesell.com
@@ -596,6 +598,8 @@
 0.0.0.0 api01.staging.juiceplus.com
 0.0.0.0 api02.juiceplus.com
 0.0.0.0 api02.staging.juiceplus.com
+0.0.0.0 apicrm-preprod.naturessunshine.com
+0.0.0.0 apicrm.naturessunshine.com
 0.0.0.0 apince.doterra.com
 0.0.0.0 apirkle.juiceplus.com
 0.0.0.0 apostak.bemergroup.com
@@ -760,6 +764,7 @@
 0.0.0.0 autodiscover.waraffiliate.com
 0.0.0.0 av-lync.metagenics.com
 0.0.0.0 av.doterra.com
+0.0.0.0 av.lifeextension.com
 0.0.0.0 av03007.juiceplus.com
 0.0.0.0 avalitton.juiceplus.com
 0.0.0.0 avalletta.juiceplus.com
@@ -951,6 +956,7 @@
 0.0.0.0 best.arbonne.com
 0.0.0.0 bestdayever.bemergroup.com
 0.0.0.0 beta.juiceplus.com
+0.0.0.0 beta.lifeextension.com
 0.0.0.0 beta.myherbalife.com
 0.0.0.0 betaineanhydroustmg.healthrangerstore.com
 0.0.0.0 betharris.juiceplus.com
@@ -1057,7 +1063,9 @@
 0.0.0.0 blog-admin.test.sitesell.com
 0.0.0.0 blog.arbonne.com
 0.0.0.0 blog.from-the-trenches-com.sbi1t.sitesell.com
+0.0.0.0 blog.lifeextension.com
 0.0.0.0 blog.metagenics.com
+0.0.0.0 blog.naturessunshine.com
 0.0.0.0 blog.onyourhandsandniche-com.sbi1t.sitesell.com
 0.0.0.0 blog.sitesell.com
 0.0.0.0 blog.test.sitesell.com
@@ -1325,6 +1333,7 @@
 0.0.0.0 caravetta-isabella.bemergroup.com
 0.0.0.0 card.juiceplus.com
 0.0.0.0 cardio.metagenics.com
+0.0.0.0 careers.lifeextension.com
 0.0.0.0 carin.juiceplus.com
 0.0.0.0 carina007.juiceplus.com
 0.0.0.0 carine.juiceplus.com
@@ -1447,6 +1456,7 @@
 0.0.0.0 cender.bemergroup.com
 0.0.0.0 centegra.metagenics.com
 0.0.0.0 centralfamilycare.metagenics.com
+0.0.0.0 certauth.adfs.lifeextension.com
 0.0.0.0 ceska-republika.bemergroup.com
 0.0.0.0 cetlinger.juiceplus.com
 0.0.0.0 cfarnham.juiceplus.com
@@ -1898,6 +1908,7 @@
 0.0.0.0 cuttingedge.bemergroup.com
 0.0.0.0 cv00387.juiceplus.com
 0.0.0.0 cvbehm.bemergroup.com
+0.0.0.0 cvproxy.naturessunshine.com
 0.0.0.0 cw.juiceplus.com
 0.0.0.0 cw27585.juiceplus.com
 0.0.0.0 cw30861.juiceplus.com
@@ -2751,6 +2762,7 @@
 0.0.0.0 ecolby.juiceplus.com
 0.0.0.0 ecolifestyle.myasealive.com
 0.0.0.0 ecomia.metagenics.com
+0.0.0.0 ecommerce.naturessunshine.com
 0.0.0.0 economides.juiceplus.com
 0.0.0.0 ed18589.juiceplus.com
 0.0.0.0 ed21034.juiceplus.com
@@ -2860,8 +2872,10 @@
 0.0.0.0 em64609.juiceplus.com
 0.0.0.0 email.arbonne.com
 0.0.0.0 email.doterra.com
+0.0.0.0 email.lifeextension.com
 0.0.0.0 email2.arbonne.com
 0.0.0.0 emaildev.doterra.com
+0.0.0.0 emails.lifeextension.com
 0.0.0.0 emails.vollara.com
 0.0.0.0 embodywellness.metagenics.com
 0.0.0.0 emea-mail1.herbalife.com
@@ -2929,6 +2943,7 @@
 0.0.0.0 ennofritz.bemergroup.com
 0.0.0.0 enrichinglife.canada.juiceplus.com
 0.0.0.0 enriqueg.myasealive.com
+0.0.0.0 enterpriseregistration.lifeextension.com
 0.0.0.0 enthusiast.myasealive.com
 0.0.0.0 envisionlakemary.bemergroup.com
 0.0.0.0 eo15345.juiceplus.com
@@ -3222,6 +3237,8 @@
 0.0.0.0 from-the-trenches-com.sbi1t.sitesell.com
 0.0.0.0 frugality-coach.sbi1t.sitesell.com
 0.0.0.0 fs.metagenics.com
+0.0.0.0 ftlmail.lifeextension.com
+0.0.0.0 ftp.lifeextension.com
 0.0.0.0 ftp.sitesell.com
 0.0.0.0 ftp.vollara.com
 0.0.0.0 fturk.metagenics.com
@@ -3628,10 +3645,12 @@
 0.0.0.0 healncure.metagenics.com
 0.0.0.0 health-care.bemergroup.com
 0.0.0.0 health.herbalife.com
+0.0.0.0 health.lifeextension.com
 0.0.0.0 health2cells.myasealive.com
 0.0.0.0 healthadvocates.myasealive.com
 0.0.0.0 healthandyou.myasealive.com
 0.0.0.0 healthbeat.metagenics.com
+0.0.0.0 healthbeta.naturessunshine.com
 0.0.0.0 healthcare.doterra.com
 0.0.0.0 healthcoach.bemergroup.com
 0.0.0.0 healthconsult.myasealive.com
@@ -3823,6 +3842,7 @@
 0.0.0.0 home-gardening.juiceplus.com
 0.0.0.0 home-grown.juiceplus.com
 0.0.0.0 home.sitesell.com
+0.0.0.0 home.sunrider.com
 0.0.0.0 homegrowing.juiceplus.com
 0.0.0.0 honors.myherbalife.com
 0.0.0.0 honubay.juiceplus.com
@@ -3889,6 +3909,7 @@
 0.0.0.0 ian-scott.bemergroup.com
 0.0.0.0 ianbryant.juiceplus.com
 0.0.0.0 ibfrye.bemergroup.com
+0.0.0.0 ibo.sunrider.com
 0.0.0.0 iccs.arbonne.com
 0.0.0.0 ichooselife.canada.juiceplus.com
 0.0.0.0 ichooselife.juiceplus.com
@@ -3955,6 +3976,7 @@
 0.0.0.0 indonesia.bemergroup.com
 0.0.0.0 inesslive.juiceplus.com
 0.0.0.0 infinie-sante.bemergroup.com
+0.0.0.0 info.lifeextension.com
 0.0.0.0 info.metagenics.com
 0.0.0.0 infopublishing.sitesell.com
 0.0.0.0 information.bemergroup.com
@@ -5274,6 +5296,7 @@
 0.0.0.0 lianecarmi.juiceplus.com
 0.0.0.0 liannecrawford.juiceplus.com
 0.0.0.0 libbyhurley.juiceplus.com
+0.0.0.0 libertystraightup.mynsp.com
 0.0.0.0 lichtblick-rodumer.bemergroup.com
 0.0.0.0 lichtblick.bemergroup.com
 0.0.0.0 liebesleiter.myasealive.com
@@ -5290,6 +5313,9 @@
 0.0.0.0 lifecaughtmyeye.myasealive.com
 0.0.0.0 lifecoachservice.metagenics.com
 0.0.0.0 lifeenergy.bemergroup.com
+0.0.0.0 lifeextension.com
+0.0.0.0 lifeextensionportal.lifeextension.com
+0.0.0.0 lifeextensionportal2.lifeextension.com
 0.0.0.0 lifefitnessacademy.myasealive.com
 0.0.0.0 lifeforcerays.bemergroup.com
 0.0.0.0 lifeimpuls.myasealive.com
@@ -5451,6 +5477,7 @@
 0.0.0.0 login.dev.juiceplus.com
 0.0.0.0 login.doterra.com
 0.0.0.0 login.juiceplus.com
+0.0.0.0 login.naturessunshine.com
 0.0.0.0 login.rc.juiceplus.com
 0.0.0.0 login.sitesell.com
 0.0.0.0 login.stage.juiceplus.com
@@ -5606,7 +5633,11 @@
 0.0.0.0 m-stalling.juiceplus.com
 0.0.0.0 m-t-weissenhorn.bemergroup.com
 0.0.0.0 m-t4.juiceplus.com
+0.0.0.0 m.emails.lifeextension.com
 0.0.0.0 m.myherbalife.com
+0.0.0.0 m1.emails.lifeextension.com
+0.0.0.0 m2.emails.lifeextension.com
+0.0.0.0 m3.emails.lifeextension.com
 0.0.0.0 ma10406.juiceplus.com
 0.0.0.0 ma57648.juiceplus.com
 0.0.0.0 maartenruisch.bemergroup.com
@@ -5688,6 +5719,7 @@
 0.0.0.0 mail4.juiceplus.com
 0.0.0.0 mail5.juiceplus.com
 0.0.0.0 mail6.juiceplus.com
+0.0.0.0 mailer.sunrider.com
 0.0.0.0 mailhost.healthrangerstore.com
 0.0.0.0 mailout.sitesell.com
 0.0.0.0 maintenance.doterra.com
@@ -5806,6 +5838,7 @@
 0.0.0.0 markbrungardt.juiceplus.com
 0.0.0.0 markdavis.juiceplus.com
 0.0.0.0 marketa-kratochvilova.bemergroup.com
+0.0.0.0 marketing.lifeextension.com
 0.0.0.0 marketing.metagenics.com
 0.0.0.0 markgraf.bemergroup.com
 0.0.0.0 markgs.juiceplus.com
@@ -6455,6 +6488,7 @@
 0.0.0.0 mybest.myasealive.com
 0.0.0.0 mybestlife.myasealive.com
 0.0.0.0 mybo.metagenics.com
+0.0.0.0 mycart.lifeextension.com
 0.0.0.0 mycash.myasealive.com
 0.0.0.0 mycps.sitesell.com
 0.0.0.0 mydrpam.metagenics.com
@@ -6475,6 +6509,7 @@
 0.0.0.0 myms.onlinecontract.myherbalife.com
 0.0.0.0 mynas-masters.sitesell.com
 0.0.0.0 mynas.sitesell.com
+0.0.0.0 mynsp.com
 0.0.0.0 myoffice.arbonne.com
 0.0.0.0 myofficepro.arbonne.com
 0.0.0.0 myown.juiceplus.com
@@ -6573,6 +6608,7 @@
 0.0.0.0 naturedoc.myasealive.com
 0.0.0.0 naturegrow.juiceplus.com
 0.0.0.0 naturespathway.myasealive.com
+0.0.0.0 naturessunshine.com
 0.0.0.0 naturheilpraxis-belz.bemergroup.com
 0.0.0.0 naturheilpraxis-christina-ohl.bemergroup.com
 0.0.0.0 naturheilpraxis-germering.bemergroup.com
@@ -6923,6 +6959,7 @@
 0.0.0.0 optimalhealthchiro.metagenics.com
 0.0.0.0 optimalwellness.metagenics.com
 0.0.0.0 optimizeme.bemergroup.com
+0.0.0.0 optimum.lifeextension.com
 0.0.0.0 optimumhealthsolution.bemergroup.com
 0.0.0.0 optimumwellness.metagenics.com
 0.0.0.0 optimyze.metagenics.com
@@ -7355,6 +7392,7 @@
 0.0.0.0 prism.bemergroup.com
 0.0.0.0 probe.bemergroup.com
 0.0.0.0 probiotics.healthrangerstore.com
+0.0.0.0 prod-suntraxapi-2012.naturessunshine.com
 0.0.0.0 product.bridgeoflight.myasealive.com
 0.0.0.0 product.joinasea.myasealive.com
 0.0.0.0 product.mcmayer.myasealive.com
@@ -7426,6 +7464,7 @@
 0.0.0.0 pysykunnossa.bemergroup.com
 0.0.0.0 pz64114.juiceplus.com
 0.0.0.0 qa.juiceplus.com
+0.0.0.0 qa2.lifeextension.com
 0.0.0.0 qaarticles.myherbalife.com
 0.0.0.0 qachatapi.doterra.com
 0.0.0.0 qiliving.myasealive.com
@@ -7452,6 +7491,8 @@
 0.0.0.0 r-sanford.juiceplus.com
 0.0.0.0 r-t2.juiceplus.com
 0.0.0.0 r4ruses.juiceplus.com
+0.0.0.0 r82.emails.lifeextension.com
+0.0.0.0 r84.emails.lifeextension.com
 0.0.0.0 ra23992.juiceplus.com
 0.0.0.0 ra30368.www.juiceplus.com
 0.0.0.0 rachaelheffner.juiceplus.com
@@ -7632,6 +7673,10 @@
 0.0.0.0 renewyouchiro.metagenics.com
 0.0.0.0 renu28margaret.myasealive.com
 0.0.0.0 replicatedsite.bydesign.com
+0.0.0.0 res.emails.lifeextension.com
+0.0.0.0 res1.emails.lifeextension.com
+0.0.0.0 res2.emails.lifeextension.com
+0.0.0.0 res3.emails.lifeextension.com
 0.0.0.0 research.aspx.silver.myasealive.com
 0.0.0.0 reset.arbonne.com
 0.0.0.0 resilienz.bemergroup.com
@@ -7952,6 +7997,7 @@
 0.0.0.0 sancri.bemergroup.com
 0.0.0.0 sanctity.bemergroup.com
 0.0.0.0 sandberg.juiceplus.com
+0.0.0.0 sandbox.naturessunshine.com
 0.0.0.0 sander17355.juiceplus.com
 0.0.0.0 sandersen.metagenics.com
 0.0.0.0 sandesouthworth.juiceplus.com
@@ -8353,6 +8399,7 @@
 0.0.0.0 se47540.juiceplus.com
 0.0.0.0 sealy.juiceplus.com
 0.0.0.0 seana.juiceplus.com
+0.0.0.0 search.lifeextension.com
 0.0.0.0 searchit.sitesell.com
 0.0.0.0 sears.juiceplus.com
 0.0.0.0 sebastiangebhardt.bemergroup.com
@@ -8847,7 +8894,10 @@
 0.0.0.0 sundhed-swt.myasealive.com
 0.0.0.0 suneschii.myasealive.com
 0.0.0.0 sunnytaylor.juiceplus.com
+0.0.0.0 sunrider.com
 0.0.0.0 sunstick.healthrangerstore.com
+0.0.0.0 suntraxapi-sandbox.naturessunshine.com
+0.0.0.0 suntraxapi.naturessunshine.com
 0.0.0.0 suomi.bemergroup.com
 0.0.0.0 superasea.myasealive.com
 0.0.0.0 superfood.healthrangerstore.com
@@ -8947,6 +8997,10 @@
 0.0.0.0 t-cox1.juiceplus.com
 0.0.0.0 t-n1.juiceplus.com
 0.0.0.0 t-t.juiceplus.com
+0.0.0.0 t.emails.lifeextension.com
+0.0.0.0 t1.emails.lifeextension.com
+0.0.0.0 t2.emails.lifeextension.com
+0.0.0.0 t3.emails.lifeextension.com
 0.0.0.0 tahneevanlaere.juiceplus.com
 0.0.0.0 tahtinen.bemergroup.com
 0.0.0.0 taieast.juiceplus.com
@@ -9184,6 +9238,7 @@
 0.0.0.0 tl83229.juiceplus.com
 0.0.0.0 tlchange.metagenics.com
 0.0.0.0 tlong.metagenics.com
+0.0.0.0 tlstest.lifeextension.com
 0.0.0.0 tlucky.myasealive.com
 0.0.0.0 tlund.metagenics.com
 0.0.0.0 tlynn.juiceplus.com
@@ -9354,6 +9409,7 @@
 0.0.0.0 uc2020.bydesign.com
 0.0.0.0 udo-koch.bemergroup.com
 0.0.0.0 ue-institut.bemergroup.com
+0.0.0.0 uexl.org
 0.0.0.0 uhealthsystems.metagenics.com
 0.0.0.0 uk.local.cs.myherbalife.com
 0.0.0.0 uk.myasealive.com
@@ -9566,6 +9622,7 @@
 0.0.0.0 vp10316.juiceplus.com
 0.0.0.0 vpatel.metagenics.com
 0.0.0.0 vpn.arbonne.com
+0.0.0.0 vpn.sunrider.com
 0.0.0.0 vpuente.juiceplus.com
 0.0.0.0 vr-fit.bemergroup.com
 0.0.0.0 vs11916.juiceplus.com
@@ -9639,6 +9696,7 @@
 0.0.0.0 welllife.metagenics.com
 0.0.0.0 wellness-choices.canada.juiceplus.com
 0.0.0.0 wellness-studio.bemergroup.com
+0.0.0.0 wellness-workshop.lifeextension.com
 0.0.0.0 wellness.metagenics.com
 0.0.0.0 wellness28.bemergroup.com
 0.0.0.0 wellnessall.metagenics.com
@@ -9656,6 +9714,8 @@
 0.0.0.0 wellnessrising.metagenics.com
 0.0.0.0 wellnesssprings.bemergroup.com
 0.0.0.0 wellnesstocentury.metagenics.com
+0.0.0.0 wellnessu-qa.lifeextension.com
+0.0.0.0 wellnessu.lifeextension.com
 0.0.0.0 wellontheway.bemergroup.com
 0.0.0.0 wellthforyou.juiceplus.com
 0.0.0.0 wellthychoices.myasealive.com
@@ -9764,6 +9824,7 @@
 0.0.0.0 wrichards.juiceplus.com
 0.0.0.0 wright.juiceplus.com
 0.0.0.0 wrumple.juiceplus.com
+0.0.0.0 ws.global.sunrider.com
 0.0.0.0 wscc.metagenics.com
 0.0.0.0 wsimonds.metagenics.com
 0.0.0.0 wsnaturalmed.metagenics.com
@@ -9980,6 +10041,7 @@
 0.0.0.0 www.eatgreen.juiceplus.com
 0.0.0.0 www.egoods.sitesell.com
 0.0.0.0 www.ellens.juiceplus.com
+0.0.0.0 www.emails.lifeextension.com
 0.0.0.0 www.emilyharris.juiceplus.com
 0.0.0.0 www.emithornton.juiceplus.com
 0.0.0.0 www.emmau.juiceplus.com
@@ -10134,6 +10196,7 @@
 0.0.0.0 www.leesears.juiceplus.com
 0.0.0.0 www.lhuseman.juiceplus.com
 0.0.0.0 www.lifeabundantly.juiceplus.com
+0.0.0.0 www.lifeextension.com
 0.0.0.0 www.lindalane.juiceplus.com
 0.0.0.0 www.lindaparker.juiceplus.com
 0.0.0.0 www.lindazeeman.juiceplus.com
@@ -10213,6 +10276,8 @@
 0.0.0.0 www.mwilliams.juiceplus.com
 0.0.0.0 www.myasealive.com
 0.0.0.0 www.myherbalife.com
+0.0.0.0 www.mynsp.com
+0.0.0.0 www.naturessunshine.com
 0.0.0.0 www.neiltews.juiceplus.com
 0.0.0.0 www.nengfue.juiceplus.com
 0.0.0.0 www.niu.juiceplus.com
@@ -10320,6 +10385,7 @@
 0.0.0.0 www.sueaery.juiceplus.com
 0.0.0.0 www.suebomberger.juiceplus.com
 0.0.0.0 www.sukhparmar.myasealive.com
+0.0.0.0 www.sunrider.com
 0.0.0.0 www.survey.arbonne.com
 0.0.0.0 www.suzannebonner.juiceplus.com
 0.0.0.0 www.suzybee.juiceplus.com
@@ -10346,6 +10412,7 @@
 0.0.0.0 www.tracyjuliao.juiceplus.com
 0.0.0.0 www.tracyruckman.juiceplus.com
 0.0.0.0 www.turnermiller.juiceplus.com
+0.0.0.0 www.uexl.org
 0.0.0.0 www.uk.arbonne.com
 0.0.0.0 www.us.arbonne.com
 0.0.0.0 www.valeo.juiceplus.com
@@ -10455,6 +10522,7 @@
 0.0.0.0 yvonne1.juiceplus.com
 0.0.0.0 yvonnepimentel.juiceplus.com
 0.0.0.0 yvonneros.myasealive.com
+0.0.0.0 yxdqnf.lifeextension.com
 0.0.0.0 z-p1.juiceplus.com
 0.0.0.0 za.myherbalife.com
 0.0.0.0 za.onlinecontract.myherbalife.com
