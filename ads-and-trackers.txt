@@ -392,6 +392,7 @@
 0.0.0.0 blog.adbutler.com
 0.0.0.0 blog.clickbooth.com
 0.0.0.0 blog.hasoffers.com
+0.0.0.0 blog.loox.io
 0.0.0.0 blog.ositracker.com
 0.0.0.0 blog.robly.com
 0.0.0.0 bloomnat.ositracker.com
@@ -562,6 +563,7 @@
 0.0.0.0 dev.trackerrr.com
 0.0.0.0 dev.warriorplus.com
 0.0.0.0 developers.hasoffers.com
+0.0.0.0 developers.loox.io
 0.0.0.0 developers.stage.tune.com
 0.0.0.0 developers.tune.com
 0.0.0.0 devisit-contsents.icu
@@ -728,6 +730,7 @@
 0.0.0.0 heattransfer.ositracker.com
 0.0.0.0 heegantimes.ositracker.com
 0.0.0.0 helination.ositracker.com
+0.0.0.0 help.loox.io
 0.0.0.0 help.stage.tune.com
 0.0.0.0 help.tune.com
 0.0.0.0 help.warriorplus.com
@@ -765,6 +768,7 @@
 0.0.0.0 idisplayit.ositracker.com
 0.0.0.0 iearn.hasoffers.com
 0.0.0.0 iforex.hasoffers.com
+0.0.0.0 ifrb.info
 0.0.0.0 igain.hasoffers.com
 0.0.0.0 igti.hasoffers.com
 0.0.0.0 ihostnetworks.hasoffers.com
@@ -773,6 +777,7 @@
 0.0.0.0 illumapen.ositracker.com
 0.0.0.0 ilogisticsus.ositracker.com
 0.0.0.0 iluv.clickbooth.com
+0.0.0.0 images.loox.io
 0.0.0.0 imcreator.hasoffers.com
 0.0.0.0 img.robly.com
 0.0.0.0 in.getclicky.com
@@ -815,6 +820,7 @@
 0.0.0.0 jglowacki.ositracker.com
 0.0.0.0 jira.corp.tune.com
 0.0.0.0 joahbox.ositracker.com
+0.0.0.0 jobs.loox.io
 0.0.0.0 jrpassltd.hasoffers.com
 0.0.0.0 js.tune.com
 0.0.0.0 justanswer.hasoffers.com
@@ -886,9 +892,11 @@
 0.0.0.0 login.tune.com
 0.0.0.0 logo.hasoffers.com
 0.0.0.0 loki.warriorplus.com
+0.0.0.0 loox.io
 0.0.0.0 lottmarket.hasoffers.com
 0.0.0.0 lottogopher.hasoffers.com
 0.0.0.0 loveitcoverit.hasoffers.com
+0.0.0.0 lp.loox.io
 0.0.0.0 luckystreakmedia.hasoffers.com
 0.0.0.0 lume.ositracker.com
 0.0.0.0 luxeads.hasoffers.com
@@ -908,6 +916,7 @@
 0.0.0.0 mail.validatingnow.com
 0.0.0.0 mailcatcher-qa.datspush.com
 0.0.0.0 mailer1.hasoffers.com
+0.0.0.0 mailtrack.loox.io
 0.0.0.0 malibustring.ositracker.com
 0.0.0.0 manageyourtwitter.hasoffers.com
 0.0.0.0 mapinfosolutions.com
@@ -1018,6 +1027,7 @@
 0.0.0.0 nuts.hasoffers.com
 0.0.0.0 nutsonline.hasoffers.com
 0.0.0.0 o1.email.robly.com
+0.0.0.0 o1.mail.loox.io
 0.0.0.0 o10.email.robly.com
 0.0.0.0 o12.email.robly.com
 0.0.0.0 o140.mail.robly.com
@@ -1083,6 +1093,7 @@
 0.0.0.0 paradisemoon.ositracker.com
 0.0.0.0 paramount.hasoffers.com
 0.0.0.0 parentmediagroup.hasoffers.com
+0.0.0.0 partners.loox.io
 0.0.0.0 partners.tune.com
 0.0.0.0 partnersedge.hasoffers.com
 0.0.0.0 patchnutrition.hasoffers.com
@@ -1105,6 +1116,7 @@
 0.0.0.0 pinsightmedia.hasoffers.com
 0.0.0.0 pinwheel.ositracker.com
 0.0.0.0 pitchouline.ositracker.com
+0.0.0.0 pixel1.loox.io
 0.0.0.0 placebubble.gimbal.com
 0.0.0.0 platfourmmedia.hasoffers.com
 0.0.0.0 playlist.ma.tune.com
@@ -1442,6 +1454,7 @@
 0.0.0.0 tightropeinteractive.com
 0.0.0.0 tilventisapps.hasoffers.com
 0.0.0.0 timr.stage.hasoffers.com
+0.0.0.0 tlc4.me
 0.0.0.0 tlmaffiliates.hasoffers.com
 0.0.0.0 tmpcompany.ositracker.com
 0.0.0.0 todaytix.hasoffers.com
@@ -1453,6 +1466,7 @@
 0.0.0.0 topmedias.hasoffers.com
 0.0.0.0 topsteptrader.hasoffers.com
 0.0.0.0 track.clickbooth.com
+0.0.0.0 track.vcdc.com
 0.0.0.0 trackerrr.com
 0.0.0.0 tracking.perftrk.com
 0.0.0.0 tracking.smartestlifestyletrends.com
@@ -1501,6 +1515,7 @@
 0.0.0.0 v33tw8d8.r.us-east-1.awstrack.me
 0.0.0.0 validatingnow.com
 0.0.0.0 vaporprofits.hasoffers.com
+0.0.0.0 vcdc.com
 0.0.0.0 vcm.hasoffers.com
 0.0.0.0 vefi.ositracker.com
 0.0.0.0 velocityleads.hasoffers.com
@@ -1516,6 +1531,7 @@
 0.0.0.0 vitre.hasoffers.com
 0.0.0.0 volcanonetwork.hasoffers.com
 0.0.0.0 votehimout.ositracker.com
+0.0.0.0 vpn-today.info
 0.0.0.0 w2mobile.hasoffers.com
 0.0.0.0 wadogo.hasoffers.com
 0.0.0.0 waffleye.ositracker.com
@@ -1616,11 +1632,13 @@
 0.0.0.0 www.grafikstudio-vonfroreich.de
 0.0.0.0 www.hasoffers.com
 0.0.0.0 www.hpprintersupportservice.com
+0.0.0.0 www.ifrb.info
 0.0.0.0 www.jexads.com
 0.0.0.0 www.jut7866.info
 0.0.0.0 www.keycote.com
 0.0.0.0 www.khs-food.de
 0.0.0.0 www.litemethod-revenue.life
+0.0.0.0 www.loox.io
 0.0.0.0 www.mapinfosolutions.com
 0.0.0.0 www.mario-scherzer.de
 0.0.0.0 www.marspics.de
@@ -1675,6 +1693,7 @@
 0.0.0.0 www.thewishsendonline.com
 0.0.0.0 www.throlsoninc.hasoffers.com
 0.0.0.0 www.tightropeinteractive.com
+0.0.0.0 www.tlc4.me
 0.0.0.0 www.togetherforwine.com
 0.0.0.0 www.tomtomgopre.online
 0.0.0.0 www.trackerrr.com
@@ -1686,6 +1705,8 @@
 0.0.0.0 www.twyne.io
 0.0.0.0 www.usawildseafood.com
 0.0.0.0 www.validatingnow.com
+0.0.0.0 www.vcdc.com
+0.0.0.0 www.vpn-today.info
 0.0.0.0 www.warriorplus.com
 0.0.0.0 www.webseed.com
 0.0.0.0 www.webseite-erstellen-koeln.de
