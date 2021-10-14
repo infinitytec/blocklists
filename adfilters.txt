@@ -1055,6 +1055,10 @@ www.paperrater.com##.ginger_btn_sprite.ginger_btn_up
 www.paperrater.com##[href^="/adv/click"]
 ||www.paperrater.com/images/ginger_btn_sprite.png$image
 
+! parentinfluence.com 
+parentinfluence.com##.ad_placeholder_m
+parentinfluence.com##.ad_placeholder_m_s
+
 ! petri.com
 www.petri.com##.inContent.contentHighlight
 www.petri.com##.webinar-ad
@@ -1112,16 +1116,7 @@ prodesigntools.com###southsidebar
 prodesigntools.com###wpfront-notification-bar
 prodesigntools.com##.content
 prodesigntools.com##.essb-subscribe-form-inline.essb-subscribe-form-1318057336.essb-subscribe-form
-prodesigntools.com##.essb-subscribe-from-design5.essb-subscribe-form-content
-||prodesigntools.com/wp-content/uploads/2014/05/adobe-student-and-teacher-editions-discount*.jpg$image
-||prodesigntools.com/wp-content/uploads/2016/01/adobe-cc-photoshop-lightroom-make-it-shine*.jpg$image
-||prodesigntools.com/wp-content/uploads/2018/02/adobe-stock-free-images-backpacker*.jpg$image
-||prodesigntools.com/wp-content/uploads/2018/11/download-new-adobe-cc.png$image
-||prodesigntools.com/wp-content/uploads/2018/12/get-ten-free-adobe-stock-images*.jpg$image
-||prodesigntools.com/wp-content/uploads/2018/12/make-it-with-adobe-stock-free-trial*.jpg$image
-||prodesigntools.com/wp-content/uploads/2019/02/kinsta-managed-wordpress-hosting.png$image
-||prodesigntools.com/wp-content/uploads/2019/09/adobe-stock-get-free-trial.jpg$image
-||prodesigntools.com/wp-content/uploads/2019/09/free-trial-adobe-stock*.jpg$image
+prodesigntools.com##.essb-subscribe-from-design5.essb-subscribe-form-content|prodesigntools.com/wp-content/uploads/2014/05/adobe-student-and-teacher-editions-discount*.jpg$image|prodesigntools.com/wp-content/uploads/2016/01/adobe-cc-photoshop-lightroom-make-it-shine*.jpg$image|prodesigntools.com/wp-content/uploads/2018/02/adobe-stock-free-images-backpacker*.jpg$image|prodesigntools.com/wp-content/uploads/2018/11/download-new-adobe-cc.png$image|prodesigntools.com/wp-content/uploads/2018/12/get-ten-free-adobe-stock-images*.jpg$image|prodesigntools.com/wp-content/uploads/2018/12/make-it-with-adobe-stock-free-trial*.jpg$image|prodesigntools.com/wp-content/uploads/2019/02/kinsta-managed-wordpress-hosting.png$image|prodesigntools.com/wp-content/uploads/2019/09/adobe-stock-get-free-trial.jpg$image|prodesigntools.com/wp-content/uploads/2019/09/free-trial-adobe-stock*.jpg$image
 
 ! project-syndicate.org
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
@@ -1373,6 +1368,9 @@ www.theaaronloy.com###custom_html-3
 ! thedaddest.com
 thedaddest.com###ad-mobile-bottom-placeholder
 thedaddest.com###ad-mobile-top-placeholder
+
+! thefader.com
+www.thefader.com##body > div:nth-of-type(2)
 
 ! theguardian.com
 www.theguardian.com##.css-9aekbr
