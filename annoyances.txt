@@ -4,20 +4,69 @@
 ! Released under the MIT license. 
 ! Expires: 4 days
 
+! 51sec.org
+www.51sec.org###custom_html-4
+
 ! adblockplus.org
 adblockplus.org##.cookiebar.cookie
+
+! addictivetips.com
+www.addictivetips.com##.newsletter
+
+! advantech.com
+buy.advantech.com###eStore_ccpa
+
+! adwareremoval.info
+adwareremoval.info##.closed
+adwareremoval.info##.coupon-box-wrap
+
+! akamaihd.net
+||kinja-vh.akamaihd.net/i/prod/186641/186641_,240p,480p,720p,1080p,.mp4.csmil/master.m3u8$media
+
+! alicdn.com
+||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
+||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
+
+! aliexpress.com
+campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container
+campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container > .smb-dialog-mask
+campaign.aliexpress.com###smb-ui-banner-id > .smb-banner__main
+m.aliexpress.com###smb-ui-banner-id > .smb-banner__main
+m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
+m.aliexpress.com##.download-bar
+
+! amazon.com
+smile.amazon.com###universal-detail-ilm
+www.amazon.com###universal-detail-ilm
+smile.amazon.com##.sparkle-open.sparkle-container
 
 ! amcrest.com
 amcrest.com###chat-widget
 amcrest.com###wd1_nlpopup
 amcrest.com###wd1_nlpopup_overlay
 
-! adwareremoval.info
-adwareremoval.info##.closed
-adwareremoval.info##.coupon-box-wrap
-
 ! amdfanstore.com
 amdfanstore.com##.css-10z1g2q
+
+! anoopcnair.com
+www.anoopcnair.com###ai_widget-2
+www.anoopcnair.com###ai_widget-3
+www.anoopcnair.com###ai_widget-4
+www.anoopcnair.com###ai_widget-5
+www.anoopcnair.com###ai_widget-6
+www.anoopcnair.com###ai_widget-7
+www.anoopcnair.com##.code-block-7.code-block
+www.anoopcnair.com##.code-block-8.code-block
+www.anoopcnair.com##.code-block-9.code-block
+www.anoopcnair.com##.entry-content > .code-block-1.code-block
+www.anoopcnair.com##.entry-content > .code-block-2.code-block
+www.anoopcnair.com##.entry-content > .code-block-3.code-block
+www.anoopcnair.com##.entry-content > .code-block-4.code-block
+www.anoopcnair.com##.entry-content > .code-block-5.code-block
+www.anoopcnair.com##.entry-content > .code-block-6.code-block
+
+! apple.com
+www.apple.com##.typography-caption.ribbon-content-wrapper
 
 ! archive.org
 archive.org##.js-donate-banner.row
@@ -29,42 +78,68 @@ askpython.dev##div.banner-side:nth-of-type(2)
 ! askubuntu.com
 askubuntu.com###js-gdpr-consent-banner
 
+! azcentral.com
+yourbusiness.azcentral.com###jwplayer-section
+
 ! babylonbee.com
 babylonbee.com##.mb-2.article-content > .d-sm-block.d-none
 babylonbee.com##.mb-4.p-3.h-100.article-cta-box
+
+! bbb.org
+www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
 
 ! beaconscan.com
 beaconscan.com##.mb-4.pl-xll-5.pl-lg-4.text-center.d-lg-none.d-block
 beaconscan.com##.mt-4.text-center
 beaconscan.com##.text-dark.position-relative.d-sm-none.d-inline-block > .rounded.img-fluid
 
-! techinline.com
-blog.techinline.com##.how-it-works
+! bestbuy.com
+www.bestbuy.com##.c-modal-grid
+
+! bhphotovideo.com
+www.bhphotovideo.com###notificationSubscribePop
 
 ! boonevilledemocrat.com
 boonevilledemocrat.com###dialog-message
 
+! britannica.com
+www.britannica.com##.pl-70.p-15
+||safe.britannica.com/safeimages/BFP_marketing_ads_300x90_C.jpg$image
+
+! business.com
+www.business.com##.css-md5sep-TransparentContainer
+
+! businessinsider.com
+||static.businessinsider.com/image/5dc428a57eece546b8629657$image
+
 ! butlercountytimesgazette.com
 butlercountytimesgazette.com###dialog-message
 
-! advantech.com
-buy.advantech.com###eStore_ccpa
+! calculatorsoup.com
+www.calculatorsoup.com###contentBlock > aside > .pages
 
-! aliexpress.com
-campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container
-campaign.aliexpress.com###smartbanner-main > .smartbanner-ui__dialog > .smb-dialog-container > .smb-dialog-mask
-campaign.aliexpress.com###smb-ui-banner-id > .smb-banner__main
-m.aliexpress.com###smb-ui-banner-id > .smb-banner__main
-m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
-m.aliexpress.com##.download-bar
+! citationmachine.net
+www.citationmachine.net##div[class ^= styled__SideView]
+
+! cnet.com
+www.cnet.com##.entered.dock.inviewElement
+
+! cnx-software.com
+www.cnx-software.com###cliSettingsPopup
+www.cnx-software.com###custom_html-2
+
+! coingecko.com
+www.coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
+
+! crn.com
+www.crn.com##.eupopup-color-default.eupopup-container-bottom.eupopup-container
 
 ! cgtips.org
 cgtips.org##.xlwXYROtlQoi-bg
 cgtips.org##.xlwXYROtlQoi-default
 
-! esquire.com
-classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10)
-classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10) > .cta_inner
+! columbiadailyherald.com
+columbiadailyherald.com###dialog-message
 
 ! coinmarketcap.com
 coinmarketcap.com##.bLdgZv.jltjox-0
@@ -73,8 +148,150 @@ coinmarketcap.com##.fpuWWI
 coinmarketcap.com##.jJisww
 coinmarketcap.com##.jltjox-0
 
-! columbiadailyherald.com
-columbiadailyherald.com###dialog-message
+! chownow.com
+direct.chownow.com##.styles_appBannerWrapper__3Cw4l
+
+! dailycitizen.news
+www.dailycitizen.news###ta_background
+www.dailycitizen.news##.ta_centralPopup.ta_popup
+
+! dell.com
+www.dell.com##.alert-warning.alert
+
+! digitalocean.com
+www.digitalocean.com##._panel_1nv7e_1
+
+! doityourself.com
+www.doityourself.com##.video-player
+
+! drugs.com
+www.drugs.com###ddc-toast
+www.drugs.com##.ddc-social-share
+
+! dummies.com
+www.dummies.com##.dummies-newsletter
+
+! decider.com
+decider.com##.nyp-sitewide-notice
+
+! devilslakejournal.com
+devilslakejournal.com###dialog-message
+
+! experts-exchange.com
+www.experts-exchange.com##.exitOverlay.featherlight
+
+! ecofriend.com
+ecofriend.com##df-messenger
+||ecofriend.com/wp-content/themes/soledad/images/no-image.jpg$image
+
+! ebaystatic.com
+||ir.ebaystatic.com/cr/v/c1/189400_041720_CHR_RRCharity_Doodle_150x30_FINAL.gif$image
+
+! esquire.com
+classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10)
+classic.esquire.com##div#shared_cta1.tinyPassActiveCTA.shared_footer_cta_primary:nth-of-type(10) > .cta_inner
+
+! everymac.com
+everymac.com##.prompt-bg
+everymac.com##.prompt-content-container
+
+! fileproinfo.com
+fileproinfo.com###form1 > div
+
+! foodnetwork.com
+www.foodnetwork.com##.o-FullAttribution.o-Capsule
+
+! forbes.com
+www.forbes.com##.video-placeholder
+||thumbor.forbes.com/thumbor/75x0/i.forbesimg.com/media/assets/logos/f-gray.png$image
+
+! foxnews.com
+www.foxnews.com##.notification-banner
+www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
+||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2019_american_patriots_2.jpg$image
+||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2020_American_Arenas.jpg$image
+
+! gadsentimes.com
+gadsdentimes.com###dialog-message
+
+! gizmodo.com
+gizmodo.com###\31 86641
+gizmodo.com###vjs_video_3
+gizmodo.com##.js_video-sticky__hide
+gizmodo.com##.js_video-sticky__label
+
+! geeksforgeeks.org
+||media.geeksforgeeks.org/wp-content/cdn-uploads/20200604102104/GFG-FSRNL-Article-2.png$image
+||media.geeksforgeeks.org/wp-content/cdn-uploads/20200812115607/GFG-RT-DSA-SP-Viral1.png$image
+
+! hackster.io
+www.hackster.io###hello-world
+www.hackster.io##.project_count_banner__container__1m4vf
+
+! hattiesburgamerican.com
+www.hattiesburgamerican.com##.gnt_em__el.gnt_em_vp__tavp.gnt_em
+
+! healthysimulation.com
+www.healthysimulation.com###cliSettingsPopup
+
+! howtogeek.com
+www.howtogeek.com###v2campaignpopup
+www.howtogeek.com###v2campaignpopup_backdrop
+www.howtogeek.com##.inner-border
+
+! hwinfo.com
+www.hwinfo.com##.cookie-agree-with-use
+
+! ifixit.com
+www.ifixit.com###REPAIR_ORG
+
+! insidehook.com
+www.insidehook.com##.sticky.signup
+www.insidehook.com##.tp-modal
+
+! interfacett.com
+www.interfacett.com##.mtsnb-fixed.mtsnb-top.mtsnb-shown.mtsnb-button.mtsnb-sp-right.mtsnb
+
+! investing.com
+www.investing.com###PromoteSignUpPopUp
+www.investing.com##.right
+
+! itingredients.com
+www.itingredients.com##.tve_flt
+
+! imdb.com
+m.imdb.com###regWallModal
+m.imdb.com##.reg-wall__modal
+m.imdb.com##.reg-wall__screen
+
+! journaldemocrat.com
+journaldemocrat.com###dialog-message
+
+! kansas.com
+www-1.kansas.com###ConnatixVideoAd
+www-1.kansas.com##.impact.banner-promo-link
+www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
+
+! kake.com
+www.kake.com##.csMon
+
+! kansas.com
+www.kansas.com###main-content > section:nth-of-type(1)
+www.kansas.com###onetrust-banner-sdk
+
+! kbb.com
+www.kbb.com##.css-nsnnj-StyledToolbar-default
+www.kbb.com##.has-shadow.animated.show.offset-top-0.bottom.padding-horizontal-2.justify-content-center.display-flex.sticky-container
+
+! khou.com
+www.khou.com##.notifications
+
+! kwch,com
+www.kwch.com##.flex-lg-fill.flex-column.d-flex.rail.\|.top-right-rail
+
+
+! techinline.com
+blog.techinline.com##.how-it-works
 
 ! spiceworks.com
 community.spiceworks.com##.dynamic-layout-sidebar
@@ -86,9 +303,6 @@ cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
 cpu.userbenchmark.com##div.col-xs-4:nth-of-type(3) > .be-caption
 cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
 
-! decider.com
-decider.com##.nyp-sitewide-notice
-
 ! microsoft.com
 developer.microsoft.com##.context-uhf.uhfc-universal-context.x-hidden-vp-mobile-st
 support.microsoft.com##.x-hidden-focus.win10m365_uhf.uhfupgradeBanner
@@ -98,15 +312,6 @@ www.microsoft.com###epb
 www.microsoft.com###uhfc-universal-context
 www.microsoft.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
 
-! devilslakejournal.com
-devilslakejournal.com###dialog-message
-
-! chownow.com
-direct.chownow.com##.styles_appBannerWrapper__3Cw4l
-
-! ecofriend.com
-ecofriend.com##df-messenger
-
 ! softonic.com
 en.softonic.com##.popup-newsletter
 
@@ -114,39 +319,16 @@ en.softonic.com##.popup-newsletter
 en.wikipedia.org###siteNotice
 en.wikipedia.org##.frb-country-US.frb-rml-enabled.frb
 
-! everymac.com
-everymac.com##.prompt-bg
-everymac.com##.prompt-content-container
-
-! fileproinfo.com
-fileproinfo.com###form1 > div
-
 ! proxmox.com
 forum.proxmox.com##.uix_noticeInner
 pve.proxmox.com##.mw-cookiewarning-container
 
-! gadsentimes.com
-gadsdentimes.com###dialog-message
-
-! gizmodo.com
-gizmodo.com###\31 86641
-gizmodo.com###vjs_video_3
-gizmodo.com##.js_video-sticky__hide
-gizmodo.com##.js_video-sticky__label
-
 ! online-convert.com
 image.online-convert.com##.show.extension-browser.toast
-
-! journaldemocrat.com
-journaldemocrat.com###dialog-message
 
 ! pressdemocrat.com
 legacy.pressdemocrat.com##.cph-ccpa_banner
 
-! imdb.com
-m.imdb.com###regWallModal
-m.imdb.com##.reg-wall__modal
-m.imdb.com##.reg-wall__screen
 
 ! mashable.com
 mashable.com##.inline-video-seealso
@@ -209,11 +391,6 @@ silicophilic.com###custom_html-9
 ! siskiyoudaily.com
 siskiyoudaily.com###dialog-message
 
-! amazon.com
-smile.amazon.com###universal-detail-ilm
-www.amazon.com###universal-detail-ilm
-smile.amazon.com##.sparkle-open.sparkle-container
-
 ! sourceforge.net
 sourceforge.net###newsletter-floating
 
@@ -257,158 +434,6 @@ whattomine.com##.when-adblock-detected
 ! winaero.com
 winaero.com###diodfoihdfsd
 winaero.com##.ramain-top
-
-! kansas.com
-www-1.kansas.com###ConnatixVideoAd
-www-1.kansas.com##.impact.banner-promo-link
-www-1.kansas.com##.pushly-prompt-slide.pushly_popover-box
-
-! 51sec.org
-www.51sec.org###custom_html-4
-
-! addictivetips.com
-www.addictivetips.com##.newsletter
-
-! anoopcnair.com
-www.anoopcnair.com###ai_widget-2
-www.anoopcnair.com###ai_widget-3
-www.anoopcnair.com###ai_widget-4
-www.anoopcnair.com###ai_widget-5
-www.anoopcnair.com###ai_widget-6
-www.anoopcnair.com###ai_widget-7
-www.anoopcnair.com##.code-block-7.code-block
-www.anoopcnair.com##.code-block-8.code-block
-www.anoopcnair.com##.code-block-9.code-block
-www.anoopcnair.com##.entry-content > .code-block-1.code-block
-www.anoopcnair.com##.entry-content > .code-block-2.code-block
-www.anoopcnair.com##.entry-content > .code-block-3.code-block
-www.anoopcnair.com##.entry-content > .code-block-4.code-block
-www.anoopcnair.com##.entry-content > .code-block-5.code-block
-www.anoopcnair.com##.entry-content > .code-block-6.code-block
-
-! apple.com
-www.apple.com##.typography-caption.ribbon-content-wrapper
-
-! bbb.org
-www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
-
-! bestbuy.com
-www.bestbuy.com##.c-modal-grid
-
-! bhphotovideo.com
-www.bhphotovideo.com###notificationSubscribePop
-
-! britannica.com
-www.britannica.com##.pl-70.p-15
-
-! business.com
-www.business.com##.css-md5sep-TransparentContainer
-
-! calculatorsoup.com
-www.calculatorsoup.com###contentBlock > aside > .pages
-
-! citationmachine.net
-www.citationmachine.net##div[class ^= styled__SideView]
-
-! cnet.com
-www.cnet.com##.entered.dock.inviewElement
-
-! cnx-software.com
-www.cnx-software.com###cliSettingsPopup
-www.cnx-software.com###custom_html-2
-
-! coingecko.com
-www.coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
-
-! crn.com
-www.crn.com##.eupopup-color-default.eupopup-container-bottom.eupopup-container
-
-! dailycitizen.news
-www.dailycitizen.news###ta_background
-www.dailycitizen.news##.ta_centralPopup.ta_popup
-
-! dell.com
-www.dell.com##.alert-warning.alert
-
-! digitalocean.com
-www.digitalocean.com##._panel_1nv7e_1
-
-! doityourself.com
-www.doityourself.com##.video-player
-
-! drugs.com
-www.drugs.com###ddc-toast
-www.drugs.com##.ddc-social-share
-
-! dummies.com
-www.dummies.com##.dummies-newsletter
-
-! experts-exchange.com
-www.experts-exchange.com##.exitOverlay.featherlight
-
-! foodnetwork.com
-www.foodnetwork.com##.o-FullAttribution.o-Capsule
-
-! forbes.com
-www.forbes.com##.video-placeholder
-
-! foxnews.com
-www.foxnews.com##.notification-banner
-www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
-||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2019_american_patriots_2.jpg$image
-||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2020_American_Arenas.jpg$image
-
-! hackster.io
-www.hackster.io###hello-world
-www.hackster.io##.project_count_banner__container__1m4vf
-
-! hattiesburgamerican.com
-www.hattiesburgamerican.com##.gnt_em__el.gnt_em_vp__tavp.gnt_em
-
-! healthysimulation.com
-www.healthysimulation.com###cliSettingsPopup
-
-! howtogeek.com
-www.howtogeek.com###v2campaignpopup
-www.howtogeek.com###v2campaignpopup_backdrop
-www.howtogeek.com##.inner-border
-
-! hwinfo.com
-www.hwinfo.com##.cookie-agree-with-use
-
-! ifixit.com
-www.ifixit.com###REPAIR_ORG
-
-! insidehook.com
-www.insidehook.com##.sticky.signup
-www.insidehook.com##.tp-modal
-
-! interfacett.com
-www.interfacett.com##.mtsnb-fixed.mtsnb-top.mtsnb-shown.mtsnb-button.mtsnb-sp-right.mtsnb
-
-! investing.com
-www.investing.com###PromoteSignUpPopUp
-www.investing.com##.right
-
-! itingredients.com
-www.itingredients.com##.tve_flt
-
-! kake.com
-www.kake.com##.csMon
-
-! kansas.com
-www.kansas.com###main-content > section:nth-of-type(1)
-www.kansas.com###onetrust-banner-sdk
-
-! kbb.com
-www.kbb.com##.css-nsnnj-StyledToolbar-default
-www.kbb.com##.has-shadow.animated.show.offset-top-0.bottom.padding-horizontal-2.justify-content-center.display-flex.sticky-container
-
-! khou.com
-www.khou.com##.notifications
-
-! kwch,com
-www.kwch.com##.flex-lg-fill.flex-column.d-flex.rail.\|.top-right-rail
 
 landscapingrockguys.com
 www.landscapingrockguys.com###overlay
@@ -619,42 +644,13 @@ www.wired.com###failsafe-clickthrough
 www.wired.com##.in-content
 www.wired.com##.journey-template--mpu.cm-rail-wrapper
 
-! azcentral.com
-yourbusiness.azcentral.com###jwplayer-section
-
-! alicdn.com
-||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
-||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
-
 ! tinypass.com
 ||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23bottom_ribbon&templateId=OTZ4C629BH2D&offerId=OFMI2KGAF0G5&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXS1F7IRJLF7&iframeId=offer-0-HtwD6&url=https%3A%2F%2Fwww.thedailybeast.com%2F&parentDualScreenLeft=-8&parentDualScreenTop=-8&parentWidth=1920&parentHeight=571&parentOuterHeight=1066&aid=SrmTGdXwNo&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_annoyed%22%3A%221%22%7D&hasLoginRequiredCallback=true&width=1920&_qh=310046664$subdocument
 ||buy.tinypass.com/checkout/offer/show?displayMode=inline&containerSelector=%23bottom_ribbon&templateId=OTZ4C629BH2D&offerId=OFMI2KGAF0G5&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXS1F7IRJLF7&iframeId=offer-0-Xz5NE&url=https%3A%2F%2Fwww.thedailybeast.com%2F&parentDualScreenLeft=-8&parentDualScreenTop=-8&parentWidth=1920&parentHeight=976&parentOuterHeight=1066&aid=SrmTGdXwNo&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&lang=en_US&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_annoyed%22%3A%221%22%7D&hasLoginRequiredCallback=true&width=1920&_qh=2917759204$subdocument
 ||buy.tinypass.com/checkout/template/show?displayMode=inline&containerSelector=.piano-fixed-footer-one&templateId=OTL6YI0EAEKH&templateVariantId=OTVPV3YIVFEKV&offerId=fakeOfferId&showCloseButton=false&trackingId=%7Bjcx%7DH4sIAAAAAAAAAI2Qy27CMBBF_8VrjPzIexfRIBBQUBsS0p2bDMQ0mBA7gFT13xsobYXURWc3c-4dzdx3JGSBAlTWpTUNs3bgoB6qxQYSCafxhTDCCCYUUxczim2OKcMWd_FOtA9bNaep1uaQrgCv88L2uOu8AsmLXPg58cFjvCh8izuOx7rFcK6hkaByuK6OVot0FvPH5YjbdzQ6Q94auVdXGfWIZ7aEgMakK9aYXc0c9SYZHMleE1JabHPnD_Mfsy73pxh2dSUMzJbPNJuG86fZYtS91VlKob8hCkzTQg-ZW391z-Opk41JFEaTEfpliWikUOYmSRYJz8bJMJoknSYXu1rIjdIoUG1V9dBRavklPeK_w_Swn2ZNvB8s2PCFVCo9_CdMWV-ycbw-tfw-o06fu9201dCEG1Cmg8VpfTnaVCigtutbxPZ96-MTH4NwnvMBAAA&experienceId=EXPWMT3NUH35&activeMeters=%5B%7B%22meterName%22%3A%22twt_meter_subs%22%2C%22views%22%3A1%2C%22viewsLeft%22%3A5%2C%22maxViews%22%3A6%2C%22totalViews%22%3A1%7D%5D&tbc=%7Bjzx%7DoniGMPS_EJvIpbnraPMD-2Ul0l-_z6AGNpppsT8ARueGIicrrzFo7_aINMcTOJrf5-Xs_tfjvbe9QW5MBLiy5fV5XTISfApWK2GucujkmjeiA64Xc0PwXnIsUZ_X6PUl60VreX0zQ7Qgm9ptgy9X_w&ifr$subdocument
 
-! ecofriend.com
-||ecofriend.com/wp-content/themes/soledad/images/no-image.jpg$image
-
-! ebaystatic.com
-||ir.ebaystatic.com/cr/v/c1/189400_041720_CHR_RRCharity_Doodle_150x30_FINAL.gif$image
-
-! akamaihd.net
-||kinja-vh.akamaihd.net/i/prod/186641/186641_,240p,480p,720p,1080p,.mp4.csmil/master.m3u8$media
-
-! geeksforgeeks.org
-||media.geeksforgeeks.org/wp-content/cdn-uploads/20200604102104/GFG-FSRNL-Article-2.png$image
-||media.geeksforgeeks.org/wp-content/cdn-uploads/20200812115607/GFG-RT-DSA-SP-Viral1.png$image
-
-! britannica.com
-||safe.britannica.com/safeimages/BFP_marketing_ads_300x90_C.jpg$image
-
-! businessinsider.com
-||static.businessinsider.com/image/5dc428a57eece546b8629657$image
-
 ! systemcenterdudes.com
 ||systemcenterdudes.com/Banner/index.html$subdocument
-
-! forbes.com
-||thumbor.forbes.com/thumbor/75x0/i.forbesimg.com/media/assets/logos/f-gray.png$image
 
 ! rawstory.com
 ||www.rawstory.com/wp-content/uploads/2020/01/Bill-Barr-poll-large.gif$image
