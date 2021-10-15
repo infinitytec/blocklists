@@ -1508,6 +1508,7 @@
 0.0.0.0 autodiscover.wisehomelife.org
 0.0.0.0 autodiscover.worldglobetrotters.com
 0.0.0.0 autodiscover.zinkmiraclec60.com
+0.0.0.0 autoimmunityresearch.org
 0.0.0.0 autoship.naturalnews.com
 0.0.0.0 av-lync.metagenics.com
 0.0.0.0 av.doterra.com
@@ -3447,6 +3448,7 @@
 0.0.0.0 cpanel.ascensionenergyprogram.com
 0.0.0.0 cpanel.ask-angels.com
 0.0.0.0 cpanel.atlc.org
+0.0.0.0 cpanel.autoimmunityresearch.org
 0.0.0.0 cpanel.avaate.org
 0.0.0.0 cpanel.awarriorcalls.com
 0.0.0.0 cpanel.aworldwithoutheartdisease.com
@@ -3884,6 +3886,7 @@
 0.0.0.0 cpcalendars.atlc.org
 0.0.0.0 cpcalendars.atomic-armor.com
 0.0.0.0 cpcalendars.autismonevirtualsummit.org
+0.0.0.0 cpcalendars.autoimmunityresearch.org
 0.0.0.0 cpcalendars.avaate.org
 0.0.0.0 cpcalendars.awarriorcalls.com
 0.0.0.0 cpcalendars.aworldwithoutheartdisease.com
@@ -4319,6 +4322,7 @@
 0.0.0.0 cpcontacts.atlc.org
 0.0.0.0 cpcontacts.attackonliberty.com
 0.0.0.0 cpcontacts.autismonevirtualsummit.org
+0.0.0.0 cpcontacts.autoimmunityresearch.org
 0.0.0.0 cpcontacts.avaate.org
 0.0.0.0 cpcontacts.awarriorcalls.com
 0.0.0.0 cpcontacts.ayanaproducts.com
@@ -10229,6 +10233,7 @@
 0.0.0.0 localhost.flybynews.com
 0.0.0.0 localhost.jesus-is-savior.com
 0.0.0.0 localhost.lightonconspiracies.com
+0.0.0.0 localhost.mpkb.org
 0.0.0.0 localhost.onegreenplanet.org
 0.0.0.0 localhost.preventdisease.com
 0.0.0.0 localhost.pukkaherbs.com
@@ -12053,6 +12058,7 @@
 0.0.0.0 mpeterson.metagenics.com
 0.0.0.0 mpimley.metagenics.com
 0.0.0.0 mpjwellness.myasealive.com
+0.0.0.0 mpkb.org
 0.0.0.0 mpn.frontlinemds.com
 0.0.0.0 mpro.myasealive.com
 0.0.0.0 mpvr.org
@@ -17322,6 +17328,7 @@
 0.0.0.0 translations.amazingdiscoveries.org
 0.0.0.0 trash.ehlinelaw.com
 0.0.0.0 traumeel.com
+0.0.0.0 travag.blog
 0.0.0.0 travel-scents.com
 0.0.0.0 travel.genesisradiobirmingham.com
 0.0.0.0 travel.mindbodygreen.com
@@ -17337,6 +17344,7 @@
 0.0.0.0 trends.gab.com
 0.0.0.0 trendsresearch.com
 0.0.0.0 tresnan2000.myctfo.com
+0.0.0.0 trevormarshall.com
 0.0.0.0 trey406.myctfo.com
 0.0.0.0 trialsitenews.com
 0.0.0.0 trianglehealthcenter.com
@@ -18194,6 +18202,7 @@
 0.0.0.0 webdisk.atomic-armor.com
 0.0.0.0 webdisk.attackonliberty.com
 0.0.0.0 webdisk.autismonevirtualsummit.org
+0.0.0.0 webdisk.autoimmunityresearch.org
 0.0.0.0 webdisk.avaate.org
 0.0.0.0 webdisk.awarriorcalls.com
 0.0.0.0 webdisk.aworldwithoutheartdisease.com
@@ -20057,6 +20066,7 @@
 0.0.0.0 www.autismrecoverysystem.com
 0.0.0.0 www.autismsupplementscenter.com
 0.0.0.0 www.autismtruthnews.com
+0.0.0.0 www.autoimmunityresearch.org
 0.0.0.0 www.avaate.org
 0.0.0.0 www.avenabotanicals.com
 0.0.0.0 www.aviator.news
@@ -23275,6 +23285,7 @@
 0.0.0.0 www.mountmadonnainstitute.org
 0.0.0.0 www.mp-22.com
 0.0.0.0 www.mp3.republicbroadcasting.org
+0.0.0.0 www.mpkb.org
 0.0.0.0 www.mpn.frontlinemds.com
 0.0.0.0 www.mpro.myasealive.com
 0.0.0.0 www.mpvr.org
@@ -25239,6 +25250,7 @@
 0.0.0.0 www.transhumanism.news
 0.0.0.0 www.trash.ehlinelaw.com
 0.0.0.0 www.traumeel.com
+0.0.0.0 www.travag.blog
 0.0.0.0 www.travel-scents.com
 0.0.0.0 www.treason.news
 0.0.0.0 www.treasureislandcoins.com
@@ -25248,6 +25260,7 @@
 0.0.0.0 www.trendingpolitics.com
 0.0.0.0 www.trendsresearch.com
 0.0.0.0 www.tresnan2000.myctfo.com
+0.0.0.0 www.trevormarshall.com
 0.0.0.0 www.trialsitenews.com
 0.0.0.0 www.trianglehealthcenter.com
 0.0.0.0 www.tricentennial.us
