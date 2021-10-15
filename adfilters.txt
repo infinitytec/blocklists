@@ -1372,6 +1372,12 @@ thedaddest.com###ad-mobile-top-placeholder
 ! thefader.com
 www.thefader.com##body > div:nth-of-type(2)
 
+! thegazette.news
+www.thegazette.news##.ad_container_bottom
+www.thegazette.news##.style1.fixed-me.sidebar_inner
+www.thegazette.news##.style1.widget_media_image.widget_block.widget
+www.thegazette.news##div[id^="ai_widget-"]
+
 ! theguardian.com
 www.theguardian.com##.css-9aekbr
 
