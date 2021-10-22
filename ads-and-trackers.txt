@@ -715,6 +715,7 @@
 0.0.0.0 greenpill.ositracker.com
 0.0.0.0 grf.clickbooth.com
 0.0.0.0 grimworkshop.ositracker.com
+0.0.0.0 grnep.com
 0.0.0.0 gwm1.hasoffers.com
 0.0.0.0 gwm2.hasoffers.com
 0.0.0.0 gwm3.hasoffers.com
@@ -878,6 +879,7 @@
 0.0.0.0 lfmedia.hasoffers.com
 0.0.0.0 lgcllc.hasoffers.com
 0.0.0.0 lgt.hasoffers.com
+0.0.0.0 librarysurf.com
 0.0.0.0 liferenew.hasoffers.com
 0.0.0.0 lifesproutbio.hasoffers.com
 0.0.0.0 lighthouseinsurance.hasoffers.com
@@ -1485,6 +1487,7 @@
 0.0.0.0 trilliuminteractive.hasoffers.com
 0.0.0.0 trkr5r5r5.com
 0.0.0.0 trktone.hasoffers.com
+0.0.0.0 trkwebs.com
 0.0.0.0 trudova.hasoffers.com
 0.0.0.0 truecolors.ositracker.com
 0.0.0.0 tulara.hasoffers.com
@@ -1630,6 +1633,7 @@
 0.0.0.0 www.goldbek-apotheke.de
 0.0.0.0 www.goodvideocard.com
 0.0.0.0 www.grafikstudio-vonfroreich.de
+0.0.0.0 www.grnep.com
 0.0.0.0 www.hasoffers.com
 0.0.0.0 www.hpprintersupportservice.com
 0.0.0.0 www.ifrb.info
@@ -1637,6 +1641,7 @@
 0.0.0.0 www.jut7866.info
 0.0.0.0 www.keycote.com
 0.0.0.0 www.khs-food.de
+0.0.0.0 www.librarysurf.com
 0.0.0.0 www.litemethod-revenue.life
 0.0.0.0 www.loox.io
 0.0.0.0 www.mapinfosolutions.com
@@ -1701,6 +1706,7 @@
 0.0.0.0 www.trackstream.club
 0.0.0.0 www.trierwirdwild.de
 0.0.0.0 www.trkr5r5r5.com
+0.0.0.0 www.trkwebs.com
 0.0.0.0 www.tune.com
 0.0.0.0 www.twyne.io
 0.0.0.0 www.usawildseafood.com
@@ -1732,9 +1738,3 @@
 0.0.0.0 zipneck.ositracker.com
 0.0.0.0 zncv1onfo8kuflf0n-kickstarter.siteintercept.qualtrics.com
 0.0.0.0 znet.hasoffers.com
-0.0.0.0 grnep.com
-0.0.0.0 librarysurf.com
-0.0.0.0 trkwebs.com
-0.0.0.0 www.grnep.com
-0.0.0.0 www.librarysurf.com
-0.0.0.0 www.trkwebs.com
