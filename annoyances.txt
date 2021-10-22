@@ -329,7 +329,6 @@ image.online-convert.com##.show.extension-browser.toast
 ! pressdemocrat.com
 legacy.pressdemocrat.com##.cph-ccpa_banner
 
-
 ! mashable.com
 mashable.com##.inline-video-seealso
 
@@ -354,6 +353,9 @@ office-watch.com##.code-block-3.code-block > div
 
 ! michaeloglesby.com
 ow.michaeloglesby.com##div > [href^="https://office-watch.com/product/windows-10-for-microsoft-office-users/"]
+
+! minitool.com
+www.minitool.com##.csebox.js-fixed-nav.fixed-nav.full-width
 
 ! pbcommercial.com
 pbcommercial.com###dialog-message
