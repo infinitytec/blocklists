@@ -953,6 +953,7 @@ www.minecraftforum.net##.server-forum-after-comment-ad.p-comments-b.p-comments >
 ! minitool.com
 www.minitool.com##.black-friday-bottom-banner
 www.minitool.com##.bottom-banner-wrapper.full-width
+www.minitool.com##.promotions-banner-wrap
 
 ! monoprice.com
 www.monoprice.com##.ad-container > .global-adsense
@@ -1122,6 +1123,11 @@ prodesigntools.com##.essb-subscribe-from-design5.essb-subscribe-form-content|pro
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.track-event
 
+! projectorcentral.com
+www.projectorcentral.com##.addDiv4
+www.projectorcentral.com##.ban10-width
+www.projectorcentral.com##.top-site-strip2
+
 ! publish0x.com
 www.publish0x.com##.brave-top-header
 ||www.publish0x.com/images/brave/Brave_Banner_*x90$image
@@ -1143,6 +1149,7 @@ raillynews.com###text-64
 raillynews.com###text-70 > .textwidget
 raillynews.com##.widget_custom_html.mh-header-2.mh-widget.widget_text
 raillynews.com##[href="https://www.muhabbet.org/"]
+
 ! raspberrypiprojects.com
 raspberrypiprojects.com##.pia_yearly
 raspberrypiprojects.com##.price-table__item--yearly.price-table__item
@@ -2218,6 +2225,7 @@ bloc10.hasoffers.com
 blog.adbutler.com
 blog.clickbooth.com
 blog.hasoffers.com
+blog.loox.io
 blog.ositracker.com
 blog.robly.com
 bloomnat.ositracker.com
@@ -2388,6 +2396,7 @@ dev.datspush.com
 dev.trackerrr.com
 dev.warriorplus.com
 developers.hasoffers.com
+developers.loox.io
 developers.stage.tune.com
 developers.tune.com
 devisit-contsents.icu
@@ -2539,6 +2548,7 @@ greenmommy.hasoffers.com
 greenpill.ositracker.com
 grf.clickbooth.com
 grimworkshop.ositracker.com
+grnep.com
 gwm1.hasoffers.com
 gwm2.hasoffers.com
 gwm3.hasoffers.com
@@ -2554,6 +2564,7 @@ healthysmoke.ositracker.com
 heattransfer.ositracker.com
 heegantimes.ositracker.com
 helination.ositracker.com
+help.loox.io
 help.stage.tune.com
 help.tune.com
 help.warriorplus.com
@@ -2591,6 +2602,7 @@ icedigitals.hasoffers.com
 idisplayit.ositracker.com
 iearn.hasoffers.com
 iforex.hasoffers.com
+ifrb.info
 igain.hasoffers.com
 igti.hasoffers.com
 ihostnetworks.hasoffers.com
@@ -2599,6 +2611,7 @@ ilikelocal.ositracker.com
 illumapen.ositracker.com
 ilogisticsus.ositracker.com
 iluv.clickbooth.com
+images.loox.io
 imcreator.hasoffers.com
 img.robly.com
 in.getclicky.com
@@ -2641,6 +2654,7 @@ jexads.com
 jglowacki.ositracker.com
 jira.corp.tune.com
 joahbox.ositracker.com
+jobs.loox.io
 jrpassltd.hasoffers.com
 js.tune.com
 justanswer.hasoffers.com
@@ -2698,6 +2712,7 @@ lexicoads.hasoffers.com
 lfmedia.hasoffers.com
 lgcllc.hasoffers.com
 lgt.hasoffers.com
+librarysurf.com
 liferenew.hasoffers.com
 lifesproutbio.hasoffers.com
 lighthouseinsurance.hasoffers.com
@@ -2712,9 +2727,11 @@ login.performcb.com
 login.tune.com
 logo.hasoffers.com
 loki.warriorplus.com
+loox.io
 lottmarket.hasoffers.com
 lottogopher.hasoffers.com
 loveitcoverit.hasoffers.com
+lp.loox.io
 luckystreakmedia.hasoffers.com
 lume.ositracker.com
 luxeads.hasoffers.com
@@ -2734,6 +2751,7 @@ mail.trackjumpr.com
 mail.validatingnow.com
 mailcatcher-qa.datspush.com
 mailer1.hasoffers.com
+mailtrack.loox.io
 malibustring.ositracker.com
 manageyourtwitter.hasoffers.com
 mapinfosolutions.com
@@ -2844,6 +2862,7 @@ nutreevit.ositracker.com
 nuts.hasoffers.com
 nutsonline.hasoffers.com
 o1.email.robly.com
+o1.mail.loox.io
 o10.email.robly.com
 o12.email.robly.com
 o140.mail.robly.com
@@ -2909,6 +2928,7 @@ panzermedia.hasoffers.com
 paradisemoon.ositracker.com
 paramount.hasoffers.com
 parentmediagroup.hasoffers.com
+partners.loox.io
 partners.tune.com
 partnersedge.hasoffers.com
 patchnutrition.hasoffers.com
@@ -2931,6 +2951,7 @@ pingdom.hasoffers.com
 pinsightmedia.hasoffers.com
 pinwheel.ositracker.com
 pitchouline.ositracker.com
+pixel1.loox.io
 placebubble.gimbal.com
 platfourmmedia.hasoffers.com
 playlist.ma.tune.com
@@ -3268,6 +3289,7 @@ tidiholding.hasoffers.com
 tightropeinteractive.com
 tilventisapps.hasoffers.com
 timr.stage.hasoffers.com
+tlc4.me
 tlmaffiliates.hasoffers.com
 tmpcompany.ositracker.com
 todaytix.hasoffers.com
@@ -3279,6 +3301,7 @@ top1mobi.hasoffers.com
 topmedias.hasoffers.com
 topsteptrader.hasoffers.com
 track.clickbooth.com
+track.vcdc.com
 trackerrr.com
 tracking.perftrk.com
 tracking.smartestlifestyletrends.com
@@ -3297,6 +3320,7 @@ trierwirdwild.de
 trilliuminteractive.hasoffers.com
 trkr5r5r5.com
 trktone.hasoffers.com
+trkwebs.com
 trudova.hasoffers.com
 truecolors.ositracker.com
 tulara.hasoffers.com
@@ -3327,6 +3351,7 @@ utahskis.ositracker.com
 v33tw8d8.r.us-east-1.awstrack.me
 validatingnow.com
 vaporprofits.hasoffers.com
+vcdc.com
 vcm.hasoffers.com
 vefi.ositracker.com
 velocityleads.hasoffers.com
@@ -3342,6 +3367,7 @@ vitalaffiliates.hasoffers.com
 vitre.hasoffers.com
 volcanonetwork.hasoffers.com
 votehimout.ositracker.com
+vpn-today.info
 w2mobile.hasoffers.com
 wadogo.hasoffers.com
 waffleye.ositracker.com
@@ -3440,13 +3466,17 @@ www.gimbal.com
 www.goldbek-apotheke.de
 www.goodvideocard.com
 www.grafikstudio-vonfroreich.de
+www.grnep.com
 www.hasoffers.com
 www.hpprintersupportservice.com
+www.ifrb.info
 www.jexads.com
 www.jut7866.info
 www.keycote.com
 www.khs-food.de
+www.librarysurf.com
 www.litemethod-revenue.life
+www.loox.io
 www.mapinfosolutions.com
 www.mario-scherzer.de
 www.marspics.de
@@ -3501,6 +3531,7 @@ www.therapie-lutzebaeck-berlin.de
 www.thewishsendonline.com
 www.throlsoninc.hasoffers.com
 www.tightropeinteractive.com
+www.tlc4.me
 www.togetherforwine.com
 www.tomtomgopre.online
 www.trackerrr.com
@@ -3508,10 +3539,13 @@ www.trackjumpr.com
 www.trackstream.club
 www.trierwirdwild.de
 www.trkr5r5r5.com
+www.trkwebs.com
 www.tune.com
 www.twyne.io
 www.usawildseafood.com
 www.validatingnow.com
+www.vcdc.com
+www.vpn-today.info
 www.warriorplus.com
 www.webseed.com
 www.webseite-erstellen-koeln.de
