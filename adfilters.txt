@@ -456,6 +456,12 @@ www.eurogamer.net##.game-spotlight-advertising
 www.eurogamer.net##.postArticleBanner
 www.eurogamer.net##.preArticle
 
+! eevblog.com
+www.eevblog.com###main_content_section > [href] > [src]
+www.eevblog.com###text-49
+www.eevblog.com###text-51
+www.eevblog.com###text-57
+
 ! fileerrors.com
 www.fileerrors.com###myModal
 www.fileerrors.com##.in.fade.modal-backdrop
@@ -1303,7 +1309,6 @@ www.techpowerup.com###page > .sidebar > section.mnnusjsddg.sidebar-item
 www.techpowerup.com###page > .sidebar > section.mnnusjsddg.sidebar-item > [href="https://www.techpowerup.com/images/3ff/1350.xlv"]
 www.techpowerup.com###page > .thesidebar > section.mnnusjsddg
 www.techpowerup.com###page > .thesidebar > section.mnnusjsddg > div > [href="https://www.techpowerup.com/images/3ff/1593.xlv"]
-www.techpowerup.com###viewport > span
 www.techpowerup.com##.cduv
 www.techpowerup.com##.content > .mnnuzjsddc
 www.techpowerup.com##.eiyanjcf
@@ -1316,37 +1321,37 @@ www.techpowerup.com##.nspy
 www.techpowerup.com##.ravqfx
 www.techpowerup.com##.sectioncontainer > div
 www.techpowerup.com##.zkybes
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1510.xlv"]
-www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1157.thx"]
-www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1498.thx"] > div
-www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1580.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1613.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1641.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1630.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1612.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1581.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1479.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1536.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1423.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1485.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1511.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1471.xvr"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1300.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1423.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1471.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1479.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1485.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1510.xlv"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1511.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1536.xvr"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1579.xvr"]
-www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1628.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1580.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1581.xvr"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1607.xvr"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1610.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1612.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1613.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1628.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1630.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1641.xvr"]
+www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1157.thx"]
+www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1498.thx"] > div
 www.techpowerup.com##[src="https://www.techpowerup.com/review/tyeac-75tyeac/images/b6ebd7e4.jpg"]
+www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(2)
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(3)
 ||tpucdn.com/review/*-1260988325*/images/*.jpg$image
-||www.techpowerup.com/review/styld-75styld/images/dd162198.jpg$image
-||www.techpowerup.com/review/rughqo-75rughqo/images/dd162198.jpg$image
-||www.techpowerup.com/review/xgevkqyu-75xgevkqyu/images/dd162198.jpg$image
-||www.techpowerup.com/review/vcjxrlg-75vcjxrlg/images/dd162198.jpg$image
-||www.techpowerup.com/review/lgwovujm-75lgwovujm/images/dd162198.jpg$image
 ||www.techpowerup.com/review/*/images/dd162198.jpg$image
+||www.techpowerup.com/review/lgwovujm-75lgwovujm/images/dd162198.jpg$image
+||www.techpowerup.com/review/rughqo-75rughqo/images/dd162198.jpg$image
+||www.techpowerup.com/review/styld-75styld/images/dd162198.jpg$image
+||www.techpowerup.com/review/vcjxrlg-75vcjxrlg/images/dd162198.jpg$image
+||www.techpowerup.com/review/xgevkqyu-75xgevkqyu/images/dd162198.jpg$image
 ||www.techpowerup.com/thlknzrjbv/f968aa85.jpg$image
 
 ! techradar.com
