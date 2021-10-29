@@ -1,6 +1,8 @@
 # A list to block a few NSFW sites.
 # Do not expect frequent updates to this list.
 
+0.0.0.0 3speak.tv
+0.0.0.0 auth.3speak.tv
 0.0.0.0 bigo.video
 0.0.0.0 ca.prosolutionpills.com
 0.0.0.0 canadaman2019.blogspot.com
@@ -20,10 +22,15 @@
 0.0.0.0 fr.prosolutionpills.com
 0.0.0.0 frombearcreek.com
 0.0.0.0 galdc.org
+0.0.0.0 granadaforum.com
 0.0.0.0 healthtruthrevealed.com
+0.0.0.0 hive-api.3speak.tv
 0.0.0.0 humanitarian.codyclarke.com
+0.0.0.0 ipfs.3speak.tv
 0.0.0.0 kinky-blogging.com
 0.0.0.0 legendsofbelial.net
+0.0.0.0 mail.shake-body.com
+0.0.0.0 nude.snapgirls.today
 0.0.0.0 order.prosolutionpills.com
 0.0.0.0 pbfcomics.com
 0.0.0.0 picrew.me
@@ -32,8 +39,15 @@
 0.0.0.0 privatematchfz.com
 0.0.0.0 prosolutionpills.com
 0.0.0.0 realindiefilmawards.codyclarke.com
+0.0.0.0 server-01.3speak.tv
+0.0.0.0 shake-body.com
 0.0.0.0 smugfilm.codyclarke.com
+0.0.0.0 snapgirls.today
+0.0.0.0 studio.3speak.tv
+0.0.0.0 support.3speak.tv
 0.0.0.0 support.picrew.me
+0.0.0.0 testnet.3speak.tv
+0.0.0.0 testnet.studio.3speak.tv
 0.0.0.0 uniqdatingplace.com
 0.0.0.0 vae.fyi
 0.0.0.0 voi.fyi
@@ -41,6 +55,7 @@
 0.0.0.0 webdisk.codyclarke.com
 0.0.0.0 webdisk.galdc.org
 0.0.0.0 webmail.galdc.org
+0.0.0.0 www.3speak.tv
 0.0.0.0 www.bigo.video
 0.0.0.0 www.canadaman2019.blogspot.com
 0.0.0.0 www.canadianmale.wordpress.com
@@ -51,6 +66,7 @@
 0.0.0.0 www.findyour-realsex2.com
 0.0.0.0 www.frombearcreek.com
 0.0.0.0 www.galdc.org
+0.0.0.0 www.granadaforum.com
 0.0.0.0 www.healthtruthrevealed.com
 0.0.0.0 www.humanitarian.codyclarke.com
 0.0.0.0 www.kinky-blogging.com
@@ -61,7 +77,9 @@
 0.0.0.0 www.privatematchfz.com
 0.0.0.0 www.prosolutionpills.com
 0.0.0.0 www.realindiefilmawards.codyclarke.com
+0.0.0.0 www.shake-body.com
 0.0.0.0 www.smugfilm.codyclarke.com
+0.0.0.0 www.snapgirls.today
 0.0.0.0 www.uniqdatingplace.com
 0.0.0.0 www.vae.fyi
 0.0.0.0 www.voi.fyi
