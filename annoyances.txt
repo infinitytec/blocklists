@@ -636,6 +636,9 @@ www.webmd.com##.top-picks
 ! wfmynews2.com
 www.wfmynews2.com##.notifications
 
+! wikihow.com
+www.wikihow.com###article_courses_banner
+
 ! windowscentral.com
 www.windowscentral.com###banneradspace
 www.windowscentral.com##.mobile-leaderboard-320-50
