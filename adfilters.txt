@@ -102,6 +102,11 @@ apnews.com##.persistent-ad > div > .Component-adTitle-0-2-13
 apnews.com##.persistent-ad > div > .Component-rectanglePlaceholderWrapper-0-2-17.Component-placeholderWrapper-0-2-16
 apnews.com##div.Component-dfp-0-2-181
 
+! arcadespot.com
+arcadespot.com###as-scroll-tounit > .as-unit-base
+arcadespot.com##.as-wrapper > .mb-3.mt-3.text-center.mx-auto > .as-unit > .as-unit-base
+arcadespot.com##.as-wrapper > .mb-3.mt-3.text-center.mx-auto > .pt-0.as-label
+
 ! arstechnica.com
 arstechnica.com###article_end_ad_footer
 arstechnica.com###outbrain-recs
