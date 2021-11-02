@@ -207,6 +207,7 @@ www.forbes.com##.video-placeholder
 
 ! foxnews.com
 www.foxnews.com##.notification-banner
+www.foxnews.com##.jsToAppClose.popup-modal
 www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
 ||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2019_american_patriots_2.jpg$image
 ||static.foxnews.com/static/orion/styles/img/fox-news/nation-promo/nation_promo_2020_American_Arenas.jpg$image
