@@ -1628,6 +1628,9 @@ www.wfmynews2.com##.grid__module-sizer_name_taboola.grid__module-sizer
 www.wfmynews2.com##div.grid__section:nth-of-type(1) > .grid__content_full-width_false.grid__content > .grid__main_full-width_false.grid__main_sticky_right.grid__main > .grid__cell_columns_2.grid__cell > div.grid__module_loaded_true.grid__module:nth-of-type(2) > .grid__module-sizer_name_taboola.grid__module-sizer
 ||www.wfmynews2.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 
+! wgme.com
+wgme.com##.advertisement
+
 ! whattomine.com
 whattomine.com##.my-2 > .centered-image-short
 whattomine.com##.table-vcenter.table-hover.table-sm.table .centered-image-short
