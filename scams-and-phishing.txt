@@ -421,6 +421,7 @@
 0.0.0.0 bitcoin20.org
 0.0.0.0 bitcointwopointzero.com
 0.0.0.0 bitgiveaways.com
+0.0.0.0 bitprize.net
 0.0.0.0 bizreview-online.com
 0.0.0.0 blackhatworld.com
 0.0.0.0 blankenburg-buero.de
@@ -449,6 +450,7 @@
 0.0.0.0 boot-upintenselypreciseproduct.icu
 0.0.0.0 booxtop.com
 0.0.0.0 botticellissouthcongress.com
+0.0.0.0 bprize.net
 0.0.0.0 bravads.g2afse.com
 0.0.0.0 breaking-cnn.com
 0.0.0.0 breatheco2mask.com
@@ -708,7 +710,9 @@
 0.0.0.0 creditunionlogin.yolasite.com
 0.0.0.0 criticaldownload.site
 0.0.0.0 crm.reimageplus.com
+0.0.0.0 crpyear.net
 0.0.0.0 crunchabs-stimulator.com
+0.0.0.0 crypmake.net
 0.0.0.0 crypto-event.info
 0.0.0.0 crypto360.info
 0.0.0.0 cryptoglobalnews.live
@@ -1121,6 +1125,7 @@
 0.0.0.0 hostmaster.bloghotro.com
 0.0.0.0 hostmaster.green8.com
 0.0.0.0 hostmaster.gtavfreemoney.co
+0.0.0.0 hot-pharm.com
 0.0.0.0 hotaccessoriesdealsnow.com
 0.0.0.0 hotconsumerdeals.com
 0.0.0.0 hotdealsnoffers.com
@@ -1209,6 +1214,7 @@
 0.0.0.0 litebucks.com
 0.0.0.0 litemethod-revenue.life
 0.0.0.0 litnbooks.club
+0.0.0.0 live-spacex.org
 0.0.0.0 live4fans.net
 0.0.0.0 lmlsxrojyk.3freescoresnow.com
 0.0.0.0 loas.world
@@ -1415,6 +1421,7 @@
 0.0.0.0 musicallyfame.co
 0.0.0.0 musk-events.com
 0.0.0.0 musk-live.com
+0.0.0.0 musk-spacex.org
 0.0.0.0 musk2021.info
 0.0.0.0 muskdoge.org
 0.0.0.0 muskdonate.top
@@ -1768,6 +1775,7 @@
 0.0.0.0 space-x.io
 0.0.0.0 space-x.pro
 0.0.0.0 spacepromo.net
+0.0.0.0 spacex-21.org
 0.0.0.0 spacex-events.com
 0.0.0.0 spacex-gift.com
 0.0.0.0 spacex-gift.org
@@ -1873,6 +1881,7 @@
 0.0.0.0 talc.injurynews.com
 0.0.0.0 tap2earn.co
 0.0.0.0 tastesoflizzyt.recipes
+0.0.0.0 tcurepair.com
 0.0.0.0 team-kolassa.de
 0.0.0.0 teamppv.jordanappvideoscanpy.us
 0.0.0.0 technicalinfo76.co.in
@@ -2568,6 +2577,7 @@
 0.0.0.0 www.bitcoin20.org
 0.0.0.0 www.bitcointwopointzero.com
 0.0.0.0 www.bitgiveaways.com
+0.0.0.0 www.bitprize.net
 0.0.0.0 www.bizreview-online.com
 0.0.0.0 www.blackhatworld.com
 0.0.0.0 www.blankenburg-buero.de
@@ -2590,6 +2600,7 @@
 0.0.0.0 www.boot-upintenselypreciseproduct.icu
 0.0.0.0 www.booxtop.com
 0.0.0.0 www.botticellissouthcongress.com
+0.0.0.0 www.bprize.net
 0.0.0.0 www.breaking-cnn.com
 0.0.0.0 www.breatheco2mask.com
 0.0.0.0 www.brmclick.com
@@ -2680,7 +2691,9 @@
 0.0.0.0 www.cpanel.buycocaineonline.se
 0.0.0.0 www.creditunionlogin.yolasite.com
 0.0.0.0 www.criticaldownload.site
+0.0.0.0 www.crpyear.net
 0.0.0.0 www.crunchabs-stimulator.com
+0.0.0.0 www.crypmake.net
 0.0.0.0 www.crypto-event.info
 0.0.0.0 www.crypto360.info
 0.0.0.0 www.cryptoglobalnews.live
@@ -3034,6 +3047,7 @@
 0.0.0.0 www.holotech.biz
 0.0.0.0 www.honestemf.com
 0.0.0.0 www.hoskodeals.us
+0.0.0.0 www.hot-pharm.com
 0.0.0.0 www.hotaccessoriesdealsnow.com
 0.0.0.0 www.hotconsumerdeals.com
 0.0.0.0 www.hotdealsnoffers.com
@@ -3102,6 +3116,7 @@
 0.0.0.0 www.litebucks.com
 0.0.0.0 www.litemethod-revenue.life
 0.0.0.0 www.litnbooks.club
+0.0.0.0 www.live-spacex.org
 0.0.0.0 www.live4fans.net
 0.0.0.0 www.login.aulterra.com
 0.0.0.0 www.longebooks.club
@@ -3191,6 +3206,7 @@
 0.0.0.0 www.musicallyfame.co
 0.0.0.0 www.musk-events.com
 0.0.0.0 www.musk-live.com
+0.0.0.0 www.musk-spacex.org
 0.0.0.0 www.musk2021.info
 0.0.0.0 www.muskdoge.org
 0.0.0.0 www.muskdonate.top
@@ -3426,6 +3442,7 @@
 0.0.0.0 www.space-x.io
 0.0.0.0 www.space-x.pro
 0.0.0.0 www.spacepromo.net
+0.0.0.0 www.spacex-21.org
 0.0.0.0 www.spacex-events.com
 0.0.0.0 www.spacex-gift.com
 0.0.0.0 www.spacex-gift.org
@@ -3487,6 +3504,7 @@
 0.0.0.0 www.takeprizenow.me
 0.0.0.0 www.tap2earn.co
 0.0.0.0 www.tastesoflizzyt.recipes
+0.0.0.0 www.tcurepair.com
 0.0.0.0 www.team-kolassa.de
 0.0.0.0 www.technicalinfo76.co.in
 0.0.0.0 www.teenpattigoldhack.info
@@ -3691,6 +3709,7 @@
 0.0.0.0 www.yougame.com
 0.0.0.0 www.yourmedcart.com
 0.0.0.0 www.youtubebaixar.bid
+0.0.0.0 www.youtubelivestreams.com
 0.0.0.0 www.youtuberandroid.wordpress.com
 0.0.0.0 www.yugster.com
 0.0.0.0 www.zantac.consultationclaims.com
@@ -3722,6 +3741,7 @@
 0.0.0.0 yougame.com
 0.0.0.0 yourmedcart.com
 0.0.0.0 youtubebaixar.bid
+0.0.0.0 youtubelivestreams.com
 0.0.0.0 youtuberandroid.wordpress.com
 0.0.0.0 ytzphn.uk.com
 0.0.0.0 yugster.com
