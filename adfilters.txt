@@ -1575,6 +1575,12 @@ videocardz.com###vc-maincontainer-midad
 videocardz.com##.google-main-ad.adsbygoogle
 videocardz.com##.google-mid-ad.adsbygoogle
 
+! vivalearning.com
+vivalearning.com##.top-banner > div
+vivalearning.com##[src="https://cdn.vivarep.com/contrib/va/ads/photo_205_begviva_400_200.20180905153902586.jpg"]
+vivalearning.com##[src="https://cdn.vivarep.com/contrib/va/ads/photo_704_q1q2tiva2195x80.20210322221041960.jpg"]
+||cdn.vivarep.com/contrib/va/ads/photo_43_optim1_195x80.20171229215421819.jpg$image
+
 ! walletinvestor.com
 walletinvestor.com###bio_ep_bg
 walletinvestor.com###bio_ep_close
@@ -2464,6 +2470,7 @@ emotion-captured.de
 entrepreneur.ositracker.com
 envatostudio.hasoffers.com
 epicmedia.hasoffers.com
+ept.ms
 equilibriumnutrition.hasoffers.com
 ereflect.hasoffers.com
 espire.hasoffers.com
@@ -3462,6 +3469,7 @@ www.dr-med-feustel.de
 www.ek-arbeitsvermittlung.de
 www.electronicprofs.de
 www.emotion-captured.de
+www.ept.ms
 www.f.appcmpn.com
 www.fahrschulewolff.de
 www.farbraum-berlin.de
