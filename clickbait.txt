@@ -34,6 +34,7 @@
 0.0.0.0 mail.zoopy.com
 0.0.0.0 mycampusgist.com
 0.0.0.0 mysql.breaking911.com
+0.0.0.0 mysteriousthing.com
 0.0.0.0 ns1.verietyinfo.com
 0.0.0.0 petworld-online.com
 0.0.0.0 reviewsdir.com
@@ -61,6 +62,7 @@
 0.0.0.0 www.ifrb.info
 0.0.0.0 www.latestcelebarticles.com
 0.0.0.0 www.mycampusgist.com
+0.0.0.0 www.mysteriousthing.com
 0.0.0.0 www.petworld-online.com
 0.0.0.0 www.reviewsdir.com
 0.0.0.0 www.tekdeeps.com
