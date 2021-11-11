@@ -3237,6 +3237,7 @@
 0.0.0.0 collagenmct.naturalnews.com
 0.0.0.0 collagenpeptides.healthrangerstore.com
 0.0.0.0 collagenpeptides.naturalnews.com
+0.0.0.0 collagenpeptidesandoptimsm.healthrangerstore.com
 0.0.0.0 collapse.news
 0.0.0.0 collapsifornia.com
 0.0.0.0 collective-evolution.com
@@ -7903,6 +7904,7 @@
 0.0.0.0 gript.ie
 0.0.0.0 grocery.news
 0.0.0.0 grocerycures.com
+0.0.0.0 groovybeecollagenpeptides.healthrangerstore.com
 0.0.0.0 groovybeemctoil.healthrangerstore.com
 0.0.0.0 groovybeemctoil.naturalnews.com
 0.0.0.0 grothmanclinic.metagenics.com
@@ -13327,6 +13329,7 @@
 0.0.0.0 nondairymilkalternatives.naturalnews.com
 0.0.0.0 nonewnormal.win
 0.0.0.0 nongmoshoppingguide.com
+0.0.0.0 noniextract.healthrangerstore.com
 0.0.0.0 nontinfoilemf.com
 0.0.0.0 nontoxicnow.myctfo.com
 0.0.0.0 nonvenipacem.com
@@ -13931,6 +13934,7 @@
 0.0.0.0 optimalhealthchiro.metagenics.com
 0.0.0.0 optimalintegrativehealth.healthcoach1.integrativenutrition.com
 0.0.0.0 optimalwellness.metagenics.com
+0.0.0.0 optimsm.healthrangerstore.com
 0.0.0.0 optimum.lifeextension.com
 0.0.0.0 optimumhealth7.myctfo.com
 0.0.0.0 optimumwellness.metagenics.com
@@ -13971,6 +13975,7 @@
 0.0.0.0 organicbaobabsuperfruitsnacks.naturalnews.com
 0.0.0.0 organicbeepollen.healthrangerstore.com
 0.0.0.0 organicbeepollen.naturalnews.com
+0.0.0.0 organicbeetjuicepowder.healthrangerstore.com
 0.0.0.0 organicblueberries.healthrangerstore.com
 0.0.0.0 organicbodydetox.com
 0.0.0.0 organicbodyessentials.com
@@ -13987,6 +13992,7 @@
 0.0.0.0 organiccinnamonbarkessentialoil.naturalnews.com
 0.0.0.0 organiccitronellaessentialoil.healthrangerstore.com
 0.0.0.0 organiccitronellaessentialoil.naturalnews.com
+0.0.0.0 organiccocoaenergize.healthrangerstore.com
 0.0.0.0 organiccoconutmilkpowder.healthrangerstore.com
 0.0.0.0 organiccoconutmilkpowder.naturalnews.com
 0.0.0.0 organiccoconutoil.naturalnews.com
@@ -14032,6 +14038,7 @@
 0.0.0.0 organiclentils.naturalnews.com
 0.0.0.0 organiclifestylemagazine.com
 0.0.0.0 organicliving.thegoodinside.com
+0.0.0.0 organiclucumapowder.healthrangerstore.com
 0.0.0.0 organiclucumapowder.naturalnews.com
 0.0.0.0 organicmango.healthrangerstore.com
 0.0.0.0 organicmangoslices.healthrangerstore.com
@@ -14077,6 +14084,7 @@
 0.0.0.0 organicsoap.naturalnews.com
 0.0.0.0 organicsproutedradiance.healthrangerstore.com
 0.0.0.0 organicsprouts.naturalnews.com
+0.0.0.0 organicsteviaextractpowder.healthrangerstore.com
 0.0.0.0 organicsulfur4health.com
 0.0.0.0 organicsupercberryblend.healthrangerstore.com
 0.0.0.0 organicsupercberryblend.naturalnews.com
