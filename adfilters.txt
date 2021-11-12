@@ -749,6 +749,9 @@ m.huffpost.com##[class^=index__adWrapper]
 www.i-dont-care-about-cookies.eu###partners
 www.i-dont-care-about-cookies.eu##.px-0.text-center.col-lg-12 > div
 
+! iharare.com
+iharare.com##.mrf-adv__wrapper-framed
+
 ! imdb.com
 m.imdb.com###inline40
 m.imdb.com###inline40_inline_wrapper
@@ -782,11 +785,29 @@ www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-7
 www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-8
 www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-9
 
+! irprice.com
+itprice.com##.partner
+
 ! instructables.com
 www.instructables.com###gpt-ad-m-inline
 www.instructables.com###gpt-ad-m-rect
 www.instructables.com###gpt-bottom1_m
 www.instructables.com###gpt-step1-m
+
+! jalopnik.com
+jalopnik.com##div.movable-ad
+
+! jezebel.com
+jezebel.com##.js_movable_ad_slot
+
+! imageonline.co
+joingif.imageonline.co##.col-md-12 > p
+
+! journaldemocrat.com
+journaldemocrat.com##.ad-container
+
+! jsfiddle.net
+jsfiddle.net###keep-us-running
 
 ! kake.com
 www.kake.com###WNAd101
@@ -796,6 +817,9 @@ www.kake.com###WNAd107
 www.kake.com###WNAd107-1
 www.kake.com###WNAd107-2-1
 www.kake.com##.iframely-responsive
+
+! kamilslab.com
+kamilslab.com###text-9
 
 ! kansas.com
 www-1.kansas.com###cnx-adUnit-overlay
@@ -850,6 +874,12 @@ www.kbb.com###toolbarAdLabel
 www.kbb.com##.css-1sivlbc-kbbAdsFct
 www.kbb.com##.css-wdm52e-kbbAdsFct-fctTop
 
+! keepvid.com
+keepvid.com##.text-center.py-4 > .container
+
+! kittyexpert.com
+kittyexpert.com##.main-header > .container
+
 ! knowyourmeme.com
 knowyourmeme.com###entry-body > .complex-ad-wrapper.content-unit-wrapper
 knowyourmeme.com###entry-body > hr.hr-text:nth-of-type(1)
@@ -863,6 +893,9 @@ knowyourmeme.com##.shemedia-ad-wrapper
 knowyourmeme.com##hr.hr-text:nth-of-type(5)
 knowyourmeme.com##hr.hr-text:nth-of-type(6)
 
+! komonews.com
+komonews.com##.index-module_container__2uhm
+
 ! kotaku.com
 kotaku.com##.ad-commerce
 kotaku.com##.ad-mobile
@@ -872,6 +905,9 @@ kotaku.com##div.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic.
 ! krebsonsecurity.com
 krebsonsecurity.com###sidebar > [href^="https://www.akamai.com/us/en/what-we-do/intelligent-platform/"]
 krebsonsecurity.com###sidebar-box > .a-img
+
+! kutv.com
+kutv.com##div[id^=interstory_]
 
 ! kwch.com
 www.kwch.com##.ad-type-cube
@@ -911,12 +947,18 @@ www.lifenews.com##div[class^="uts-ads"]
 www.lifenews.com##div[class^="widget-"]
 www.lifenews.com##div[id^="uts-ads"]
 
+! linuxize.com
+linuxize.com##.sticky-affiliate.sideblock
+
 ! linuxmint.com
 linuxmint.com##.ads
 linuxmint.com##.sponsors
 linuxmint.com##h3:nth-of-type(2)
 linuxmint.com##h3:nth-of-type(3)
 ||linuxmint.com/img/sponsor/logos/216.gif$image
+
+! liveandletsfly.com
+liveandletsfly.com##div.widget_custom_html.sidebar-widget.widget.widget_text:nth-of-type(2)
 
 ! makezine.com
 makezine.com###makezine_ad_widget-7
@@ -1309,6 +1351,9 @@ www.steamboatpilot.com##.module-ad
 ! strawpoll.com
 strawpoll.com##.adsbygoogle
 strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsbygoogle
+
+! stuff.co.nz
+i.stuff.co.nz##.sics-component__ad-placeholder__content
 
 ! tampermonkey.net
 www.tampermonkey.net##.ad-changelog-block
@@ -1741,22 +1786,6 @@ www.zoopy.com##div#div_block-4-31407.nitro-offscreen.ct-div-block
 
 
 ! UNSORTED FILTERS
-
-i.stuff.co.nz##.sics-component__ad-placeholder__content
-iharare.com##.mrf-adv__wrapper-framed
-itprice.com##.partner
-jalopnik.com##div.movable-ad
-jezebel.com##.js_movable_ad_slot
-joingif.imageonline.co##.col-md-12 > p
-journaldemocrat.com##.ad-container
-jsfiddle.net###keep-us-running
-kamilslab.com###text-9
-keepvid.com##.text-center.py-4 > .container
-kittyexpert.com##.main-header > .container
-komonews.com##.index-module_container__2uhm
-kutv.com##div[id^=interstory_]
-linuxize.com##.sticky-affiliate.sideblock
-liveandletsfly.com##div.widget_custom_html.sidebar-widget.widget.widget_text:nth-of-type(2)
 lmgtfy.com##div:nth-of-type(1) > iframe
 mashable.com##.inline-video-seealso
 msendpointmgr.com##.gridlove-sidebar
@@ -1867,6 +1896,8 @@ yourbusiness.azcentral.com##.partner-placement
 ||www.isomedia.com/banner/3-Play-1.gif$image
 ||www.minitool.com/promotions/images/2020-black-friday/black-friday-bottom-banner.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
+
+
 
 
 
