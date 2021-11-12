@@ -3343,6 +3343,7 @@
 0.0.0.0 conservative-caucus.com
 0.0.0.0 conservative.news
 0.0.0.0 conservativeangle.com
+0.0.0.0 conservativebeaver.com
 0.0.0.0 conservativebusinessjournal.com
 0.0.0.0 conservativechoicecampaign.com
 0.0.0.0 conservativemarketplace.com
@@ -21459,6 +21460,7 @@
 0.0.0.0 www.conservative-caucus.com
 0.0.0.0 www.conservative.news
 0.0.0.0 www.conservativeangle.com
+0.0.0.0 www.conservativebeaver.com
 0.0.0.0 www.conservativebusinessjournal.com
 0.0.0.0 www.conservativechoicecampaign.com
 0.0.0.0 www.conservativemarketplace.com
