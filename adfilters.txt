@@ -501,9 +501,12 @@ www.forbes.com###article-0-ad-3
 www.forbes.com###article-0-ad-4
 www.forbes.com###article-0-ad-5
 www.forbes.com###article-0-ad-6
+www.forbes.com###article-1-ad-0
 www.forbes.com###article-1-ad-1
 www.forbes.com###article-1-ad-2
+www.forbes.com###article-1-ad-3
 www.forbes.com###article-1-ad-4
+www.forbes.com###article-1-ad-5
 www.forbes.com###article-1-ad-6
 www.forbes.com###article-1-ad-7
 www.forbes.com###article-1-ad-8
@@ -526,6 +529,8 @@ www.forbes.com###article-3-ad-9
 www.forbes.com###article-4-ad-1
 www.forbes.com###article-4-ad-2
 www.forbes.com###article-4-ad-3
+www.forbes.com###brandvoice-inline-0-wrapper
+www.forbes.com###brandvoice-inline-1-wrapper
 www.forbes.com###inline-article-0-ad-1
 www.forbes.com###inline-article-0-ad-2
 www.forbes.com##.ad-rail
