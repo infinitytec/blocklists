@@ -3,6 +3,7 @@
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # URL: https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt
+# Some items were found by Jim Browning (https://www.youtube.com/c/JimBrowning/featured) and @BitcoinPhishing on Twitter.
 
 0.0.0.0 0.steplersforsunshine.tw
 0.0.0.0 1.steplersforsunshine.tw
@@ -54,6 +55,7 @@
 0.0.0.0 2chpara.com
 0.0.0.0 2d6.io
 0.0.0.0 2vidyo.com
+0.0.0.0 2xevent.net
 0.0.0.0 30765.freefifa17coins.net
 0.0.0.0 31177.freefifa17coins.net
 0.0.0.0 35555.gtavfreemoney.co
@@ -75,6 +77,7 @@
 0.0.0.0 5gradiation.net
 0.0.0.0 5grezotoneshield.com
 0.0.0.0 5iav.me
+0.0.0.0 6000loan.com
 0.0.0.0 60472.freefifa17coins.net
 0.0.0.0 615onyo.com
 0.0.0.0 632558.com.cn
@@ -127,6 +130,7 @@
 0.0.0.0 activatehulu.com
 0.0.0.0 actualidadesmexico.mx
 0.0.0.0 acuafil.es
+0.0.0.0 ada-themoon.info
 0.0.0.0 adafork.live
 0.0.0.0 adblocklists.onelaunch.com
 0.0.0.0 adeaperu.org
@@ -193,6 +197,7 @@
 0.0.0.0 aliexpres.com
 0.0.0.0 allaboutagaming.wordpress.com
 0.0.0.0 allaboutgamingsite.tumblr.com
+0.0.0.0 alleth.live
 0.0.0.0 allmedkart.com
 0.0.0.0 alloverchemist.uk
 0.0.0.0 allsuper.biz
@@ -416,6 +421,7 @@
 0.0.0.0 biggiveway.na4u.ru
 0.0.0.0 bigtitits.uno
 0.0.0.0 bikersrides.blogspot.com
+0.0.0.0 binance.emtc.edu.sa
 0.0.0.0 binom.napoletoss.ru
 0.0.0.0 bioelectricshield.com
 0.0.0.0 bioenergyshop.com
@@ -450,10 +456,12 @@
 0.0.0.0 bonverahq.com
 0.0.0.0 booking4free.com
 0.0.0.0 booksmain.club
+0.0.0.0 boost-and-clean.club
 0.0.0.0 boostertelechargementfortnite.blogspot.com
 0.0.0.0 boot-upintenselypreciseproduct.icu
 0.0.0.0 booxtop.com
 0.0.0.0 botticellissouthcongress.com
+0.0.0.0 bountyclaim.net
 0.0.0.0 bprize.net
 0.0.0.0 bprize.site
 0.0.0.0 bravads.g2afse.com
@@ -463,10 +471,12 @@
 0.0.0.0 btcevent.info
 0.0.0.0 btcevent.top
 0.0.0.0 btcrefund.org
+0.0.0.0 btcxinvite.com
 0.0.0.0 bucket.cpabuild.com
 0.0.0.0 bugzilla.tightropeinteractive.com
 0.0.0.0 buildmoneywithcpa.com
 0.0.0.0 bulletproofhome.org
+0.0.0.0 buterin2021.net
 0.0.0.0 buttheme.org
 0.0.0.0 buttworkout.pro
 0.0.0.0 buxgod.com
@@ -492,12 +502,14 @@
 0.0.0.0 campusmediaaward.de
 0.0.0.0 canmake.de
 0.0.0.0 canonprinterhelplinenumber.com
+0.0.0.0 caphaiks.com
 0.0.0.0 captchas.freebitco.in
 0.0.0.0 carcamhd.com
 0.0.0.0 caroline.googleadultseo.com
 0.0.0.0 carsloanhelp.com
 0.0.0.0 cash4clickz.com
 0.0.0.0 casino-se.buzz
+0.0.0.0 cathiewood.live
 0.0.0.0 cbd.connersclinic.com
 0.0.0.0 cbdoil.recipes
 0.0.0.0 cctrx2.com
@@ -512,6 +524,7 @@
 0.0.0.0 cellfood.microwaterman.com
 0.0.0.0 cellularhealth.technology
 0.0.0.0 centralparksoap.com
+0.0.0.0 ceo-found.com
 0.0.0.0 certifiedrecognitionto-learntoday.info
 0.0.0.0 chance-value.com
 0.0.0.0 changemysoftwarefreedownload.wordpress.com
@@ -543,6 +556,7 @@
 0.0.0.0 clickbookface.com
 0.0.0.0 clk.l5srv.net
 0.0.0.0 clobucks.g2afse.com
+0.0.0.0 clohubit.com
 0.0.0.0 cloud.cpabuild.com
 0.0.0.0 cloudfront.templatesearch.net
 0.0.0.0 cloudtheamericansurvey.com
@@ -553,6 +567,7 @@
 0.0.0.0 coinf4u.club
 0.0.0.0 com-com-mobi.com
 0.0.0.0 competition0384.nonameonln47.live
+0.0.0.0 comptrue.com
 0.0.0.0 confl.3freescoresnow.com
 0.0.0.0 confluence.3freescoresnow.com
 0.0.0.0 confluence.wozinga.com
@@ -628,6 +643,7 @@
 0.0.0.0 cpanel.thevisualhouse.in
 0.0.0.0 cpanel.trackjumpr.com
 0.0.0.0 cpanel.twodollarcourse.com
+0.0.0.0 cpanel.vibrancywater.ca
 0.0.0.0 cpanel.winsysdev.com
 0.0.0.0 cpanel.yk33lz.cc
 0.0.0.0 cpanel.ziverdo-kit.us
@@ -667,6 +683,7 @@
 0.0.0.0 cpcalendars.saylorevent.org
 0.0.0.0 cpcalendars.trackjumpr.com
 0.0.0.0 cpcalendars.twodollarcourse.com
+0.0.0.0 cpcalendars.vibrancywater.ca
 0.0.0.0 cpcalendars.websitesforfreestuff.com
 0.0.0.0 cpcalendars.winsysdev.com
 0.0.0.0 cpcalendars.wintersupplement.com
@@ -710,6 +727,7 @@
 0.0.0.0 cpcontacts.saylorevent.org
 0.0.0.0 cpcontacts.trackjumpr.com
 0.0.0.0 cpcontacts.twodollarcourse.com
+0.0.0.0 cpcontacts.vibrancywater.ca
 0.0.0.0 cpcontacts.websitesforfreestuff.com
 0.0.0.0 cpcontacts.winsysdev.com
 0.0.0.0 cpcontacts.wintersupplement.com
@@ -717,14 +735,21 @@
 0.0.0.0 cpcontacts.yk33lz.cc
 0.0.0.0 cpcontacts.ziverdo-kit.us
 0.0.0.0 creditunionlogin.yolasite.com
+0.0.0.0 crew-spacex.com
 0.0.0.0 criticaldownload.site
 0.0.0.0 crm.reimageplus.com
 0.0.0.0 crpyear.net
+0.0.0.0 crteam.net
 0.0.0.0 crunchabs-stimulator.com
 0.0.0.0 crypmake.net
+0.0.0.0 crypto-elon.org
 0.0.0.0 crypto-event.info
+0.0.0.0 crypto2event.net
 0.0.0.0 crypto360.info
+0.0.0.0 cryptobenefita.com
+0.0.0.0 cryptoelonx.com
 0.0.0.0 cryptoglobalnews.live
+0.0.0.0 cryptomst.com
 0.0.0.0 crystalbluesales.com
 0.0.0.0 crystalbluewatersolutions.com
 0.0.0.0 crystalinsights-net.3dcartstores.com
@@ -788,6 +813,7 @@
 0.0.0.0 devtechiewebmine.icu
 0.0.0.0 dfkcpbjvnf.3freescoresnow.com
 0.0.0.0 digigiveaways.com
+0.0.0.0 digital-events.us
 0.0.0.0 digital-experts.tech
 0.0.0.0 digitalive.world
 0.0.0.0 diplompsychologehench.de
@@ -814,11 +840,13 @@
 0.0.0.0 driver.reimageplus.com
 0.0.0.0 driverprinterdownloads.wordpress.com
 0.0.0.0 drivezone.cz
+0.0.0.0 drop-seo.com
 0.0.0.0 dwnlds.com
 0.0.0.0 dwnloads.co
 0.0.0.0 dynamic-newsletter.stylesforless.com
 0.0.0.0 e.promotionsonlineusa.com
 0.0.0.0 earthcalm.com
+0.0.0.0 easygetcr.com
 0.0.0.0 easyglutenfree.recipes
 0.0.0.0 eaweb-dev.ch
 0.0.0.0 eaweb-dev3.ch
@@ -875,6 +903,7 @@
 0.0.0.0 emfsol.com
 0.0.0.0 emlapi.l5srv.net
 0.0.0.0 emotion-captured.de
+0.0.0.0 emtc.edu.sa
 0.0.0.0 emvbescherming.nl
 0.0.0.0 energydots.com
 0.0.0.0 energyinbalance.com.au
@@ -887,8 +916,11 @@
 0.0.0.0 epsondrivers4.com
 0.0.0.0 errorcodeoffice.blogspot.com
 0.0.0.0 escort-themes.googleadultseo.com
+0.0.0.0 ethereum-events.net
+0.0.0.0 event-meta.com
 0.0.0.0 event-musk.com
 0.0.0.0 eventelon.net
+0.0.0.0 events-live.us
 0.0.0.0 eventspacex.com
 0.0.0.0 eventspacex.info
 0.0.0.0 eventspacex.io
@@ -944,6 +976,7 @@
 0.0.0.0 forum.gdvplanet.com
 0.0.0.0 foryoupromo.com
 0.0.0.0 foryoupromo.net
+0.0.0.0 found-ceo.com
 0.0.0.0 foundmoneyguide.com
 0.0.0.0 fpkdz.com
 0.0.0.0 fractalwater.com
@@ -1065,7 +1098,9 @@
 0.0.0.0 giveawaysyou.com
 0.0.0.0 giveawayszoom.com
 0.0.0.0 gladplacespin.xyz
+0.0.0.0 globalbtc.live
 0.0.0.0 globalemedia.g2afse.com
+0.0.0.0 globalshiba.live
 0.0.0.0 glyphosatetaskforce.org
 0.0.0.0 gmnnet.xyz
 0.0.0.0 go.getsmartdots.io
@@ -1181,6 +1216,7 @@
 0.0.0.0 isafetyd.blogspot.com
 0.0.0.0 j.promotionsonlineusa.com
 0.0.0.0 jabx.net
+0.0.0.0 jackdorsey.live
 0.0.0.0 jeewangarg.com
 0.0.0.0 jenkins.synergyscience.com
 0.0.0.0 jenkins.wozinga.com
@@ -1228,9 +1264,11 @@
 0.0.0.0 litebucks.com
 0.0.0.0 litemethod-revenue.life
 0.0.0.0 litnbooks.club
+0.0.0.0 live-saylor.com
 0.0.0.0 live-spacex.org
 0.0.0.0 live4fans.net
 0.0.0.0 lmlsxrojyk.3freescoresnow.com
+0.0.0.0 loanshubonline.com
 0.0.0.0 loas.world
 0.0.0.0 login.aulterra.com
 0.0.0.0 login.tacticalusa.com
@@ -1274,6 +1312,7 @@
 0.0.0.0 mail.buycocaineonline.se
 0.0.0.0 mail.carcamhd.com
 0.0.0.0 mail.cellularhealth.technology
+0.0.0.0 mail.clohubit.com
 0.0.0.0 mail.com-com-mobi.com
 0.0.0.0 mail.costsavingsdirect.com
 0.0.0.0 mail.directdiscountproducts.com
@@ -1371,6 +1410,7 @@
 0.0.0.0 metagiveaways.com
 0.0.0.0 mi.wozinga.com
 0.0.0.0 michaelsaunders.com.au
+0.0.0.0 michaelsaylor.win
 0.0.0.0 microsoft-help-numbers.com
 0.0.0.0 microsoft-office-errors.blogspot.com
 0.0.0.0 microsoft-support-tech.blogspot.com
@@ -1421,8 +1461,11 @@
 0.0.0.0 moveforward-oct.net
 0.0.0.0 movie2020-joss.blogspot.com
 0.0.0.0 ms-gives.net
+0.0.0.0 msbit.info
+0.0.0.0 msbonus.net
 0.0.0.0 mschatsupport.com
 0.0.0.0 mslivehelp.com
+0.0.0.0 mstr-bit.com
 0.0.0.0 mta-sts.5gdefense.com
 0.0.0.0 mta-sts.mail.green8.com
 0.0.0.0 mta1.p.banyanhill.com
@@ -1439,6 +1482,7 @@
 0.0.0.0 musk-events.com
 0.0.0.0 musk-live.com
 0.0.0.0 musk-spacex.org
+0.0.0.0 musk.claims
 0.0.0.0 musk2021.info
 0.0.0.0 muskdoge.org
 0.0.0.0 muskdonate.top
@@ -1474,6 +1518,7 @@
 0.0.0.0 net-web.news
 0.0.0.0 netcore.g2afse.com
 0.0.0.0 new.stylesforless.com
+0.0.0.0 new.teslsagive.repl.co
 0.0.0.0 newdeaths.com
 0.0.0.0 neweracocktailmixers.com
 0.0.0.0 newprojectelon.com
@@ -1561,6 +1606,7 @@
 0.0.0.0 oncohiv.com
 0.0.0.0 oneclickwebpro.com
 0.0.0.0 onelaunch.com
+0.0.0.0 oneoff-october.com
 0.0.0.0 ongiveaways.com
 0.0.0.0 online-dating-portale.de
 0.0.0.0 onlinepcfix.net
@@ -1589,6 +1635,7 @@
 0.0.0.0 payingsocialmediajobs.co
 0.0.0.0 pdfgoal.com
 0.0.0.0 pepperblack.cellularhealth.technology
+0.0.0.0 perabett496.com
 0.0.0.0 perdue-coupons.com
 0.0.0.0 perfectmedicinestore.com
 0.0.0.0 pesoaniz.com
@@ -1596,6 +1643,7 @@
 0.0.0.0 placesiteb.xyz
 0.0.0.0 planet-digitalization.com
 0.0.0.0 planet-tachyon.com
+0.0.0.0 plasmaenergysolution.com
 0.0.0.0 playinghacks.com
 0.0.0.0 pliusinfo.com
 0.0.0.0 ponduweb.com
@@ -1685,6 +1733,7 @@
 0.0.0.0 results.fitnessrant.com
 0.0.0.0 retailproductsusa.com
 0.0.0.0 revitalizingskinshop.com
+0.0.0.0 reward-event.com
 0.0.0.0 reward3spot.com
 0.0.0.0 rewards-locker.com
 0.0.0.0 rewardsavenue.net
@@ -1747,6 +1796,8 @@
 0.0.0.0 share.shopqlink.com
 0.0.0.0 sharktanksupplements.com
 0.0.0.0 shib-xxi.com
+0.0.0.0 shibacoin2021.com
+0.0.0.0 shibmax.net
 0.0.0.0 shieldheadwear.com
 0.0.0.0 shieldyourbody.com
 0.0.0.0 shop.connersclinic.com
@@ -1793,10 +1844,12 @@
 0.0.0.0 solved.winsysdev.com
 0.0.0.0 somavedic.com
 0.0.0.0 soundmindsoundbodyshop.com
+0.0.0.0 space-x-bounty.buonty.repl.co
 0.0.0.0 space-x.io
 0.0.0.0 space-x.pro
 0.0.0.0 spacepromo.net
 0.0.0.0 spacex-21.org
+0.0.0.0 spacex-and-tesla-bounty.xxbounty.repl.co
 0.0.0.0 spacex-events.com
 0.0.0.0 spacex-gift.com
 0.0.0.0 spacex-gift.org
@@ -1914,6 +1967,10 @@
 0.0.0.0 templatesearch.net
 0.0.0.0 templatesearch.org
 0.0.0.0 tesgity.com
+0.0.0.0 tesla-foundation.net
+0.0.0.0 tesla21.io
+0.0.0.0 teslabtc.space
+0.0.0.0 teslaleaks.com
 0.0.0.0 test.3freescoresnow.com
 0.0.0.0 test.choicegoldcard.com
 0.0.0.0 test.dc-efb26bfb7cee.buycocaineonline.se
@@ -2010,6 +2067,7 @@
 0.0.0.0 trygiveaways.com
 0.0.0.0 trygreenape.com
 0.0.0.0 trypharmalitexspremiumketo.com
+0.0.0.0 tslacrp.com
 0.0.0.0 turisllanes.com
 0.0.0.0 twgzqax.xyz
 0.0.0.0 twodollarcourse.com
@@ -2035,6 +2093,7 @@
 0.0.0.0 uq40.com.cn
 0.0.0.0 urmavite.com
 0.0.0.0 us-testhead.foryoupromo.com
+0.0.0.0 us.boost-and-clean.club
 0.0.0.0 us.energydots.com
 0.0.0.0 usascholarshipguide.com
 0.0.0.0 usconcealedonline.com
@@ -2059,6 +2118,7 @@
 0.0.0.0 variantverdict.com
 0.0.0.0 verygiveaways.com
 0.0.0.0 vgiveaways.com
+0.0.0.0 vibrancywater.ca
 0.0.0.0 video.getfitnos.com
 0.0.0.0 video.hotconsumerdeals.com
 0.0.0.0 videolan-free.com
@@ -2149,6 +2209,7 @@
 0.0.0.0 webdisk.thevisualhouse.in
 0.0.0.0 webdisk.trackjumpr.com
 0.0.0.0 webdisk.twodollarcourse.com
+0.0.0.0 webdisk.vibrancywater.ca
 0.0.0.0 webdisk.websitesforfreestuff.com
 0.0.0.0 webdisk.winsysdev.com
 0.0.0.0 webdisk.wintersupplement.com
@@ -2203,6 +2264,7 @@
 0.0.0.0 webmail.trackjumpr.com
 0.0.0.0 webmail.turisllanes.com
 0.0.0.0 webmail.twodollarcourse.com
+0.0.0.0 webmail.vibrancywater.ca
 0.0.0.0 webmail.websitesforfreestuff.com
 0.0.0.0 webmail.winsysdev.com
 0.0.0.0 webmail.wozinga.com
@@ -2309,6 +2371,7 @@
 0.0.0.0 www.2chpara.com
 0.0.0.0 www.2d6.io
 0.0.0.0 www.2vidyo.com
+0.0.0.0 www.2xevent.net
 0.0.0.0 www.3d-dm.at
 0.0.0.0 www.3dprinterreviews2018.com
 0.0.0.0 www.3freescoresnow.com
@@ -2323,6 +2386,7 @@
 0.0.0.0 www.5gradiation.net
 0.0.0.0 www.5grezotoneshield.com
 0.0.0.0 www.5iav.me
+0.0.0.0 www.6000loan.com
 0.0.0.0 www.615onyo.com
 0.0.0.0 www.632558.com.cn
 0.0.0.0 www.662938.com.cn
@@ -2367,6 +2431,7 @@
 0.0.0.0 www.activatehulu.com
 0.0.0.0 www.actualidadesmexico.mx
 0.0.0.0 www.acuafil.es
+0.0.0.0 www.ada-themoon.info
 0.0.0.0 www.adafork.live
 0.0.0.0 www.adeaperu.org
 0.0.0.0 www.adeyction.com
@@ -2416,6 +2481,7 @@
 0.0.0.0 www.aliexpres.com
 0.0.0.0 www.allaboutagaming.wordpress.com
 0.0.0.0 www.allaboutgamingsite.tumblr.com
+0.0.0.0 www.alleth.live
 0.0.0.0 www.allmedkart.com
 0.0.0.0 www.alloverchemist.uk
 0.0.0.0 www.allsuper.biz
@@ -2596,6 +2662,7 @@
 0.0.0.0 www.biggiveway.na4u.ru
 0.0.0.0 www.bigtitits.uno
 0.0.0.0 www.bikersrides.blogspot.com
+0.0.0.0 www.binance.emtc.edu.sa
 0.0.0.0 www.binom.napoletoss.ru
 0.0.0.0 www.bioelectricshield.com
 0.0.0.0 www.bioenergyshop.com
@@ -2624,10 +2691,12 @@
 0.0.0.0 www.bonverahq.com
 0.0.0.0 www.booking4free.com
 0.0.0.0 www.booksmain.club
+0.0.0.0 www.boost-and-clean.club
 0.0.0.0 www.boostertelechargementfortnite.blogspot.com
 0.0.0.0 www.boot-upintenselypreciseproduct.icu
 0.0.0.0 www.booxtop.com
 0.0.0.0 www.botticellissouthcongress.com
+0.0.0.0 www.bountyclaim.net
 0.0.0.0 www.bprize.net
 0.0.0.0 www.bprize.site
 0.0.0.0 www.breaking-cnn.com
@@ -2636,8 +2705,10 @@
 0.0.0.0 www.btcevent.info
 0.0.0.0 www.btcevent.top
 0.0.0.0 www.btcrefund.org
+0.0.0.0 www.btcxinvite.com
 0.0.0.0 www.buildmoneywithcpa.com
 0.0.0.0 www.bulletproofhome.org
+0.0.0.0 www.buterin2021.net
 0.0.0.0 www.buttheme.org
 0.0.0.0 www.buttworkout.pro
 0.0.0.0 www.buxgod.com
@@ -2660,11 +2731,13 @@
 0.0.0.0 www.campusmediaaward.de
 0.0.0.0 www.canmake.de
 0.0.0.0 www.canonprinterhelplinenumber.com
+0.0.0.0 www.caphaiks.com
 0.0.0.0 www.carcamhd.com
 0.0.0.0 www.caroline.googleadultseo.com
 0.0.0.0 www.carsloanhelp.com
 0.0.0.0 www.cash4clickz.com
 0.0.0.0 www.casino-se.buzz
+0.0.0.0 www.cathiewood.live
 0.0.0.0 www.cbdoil.recipes
 0.0.0.0 www.cctrx2.com
 0.0.0.0 www.cctvcameradealersinhyderabad.com
@@ -2672,6 +2745,7 @@
 0.0.0.0 www.cdchospital.com
 0.0.0.0 www.cellularhealth.technology
 0.0.0.0 www.centralparksoap.com
+0.0.0.0 www.ceo-found.com
 0.0.0.0 www.certifiedrecognitionto-learntoday.info
 0.0.0.0 www.chance-value.com
 0.0.0.0 www.changemysoftwarefreedownload.wordpress.com
@@ -2688,6 +2762,7 @@
 0.0.0.0 www.click4riches.com
 0.0.0.0 www.click4salesriches.com
 0.0.0.0 www.clickbookface.com
+0.0.0.0 www.clohubit.com
 0.0.0.0 www.cloudtheamericansurvey.com
 0.0.0.0 www.cnewcomer.com
 0.0.0.0 www.cocmodservers.net
@@ -2695,6 +2770,7 @@
 0.0.0.0 www.codemagnet.us
 0.0.0.0 www.coinf4u.club
 0.0.0.0 www.com-com-mobi.com
+0.0.0.0 www.comptrue.com
 0.0.0.0 www.connectme2soft.com
 0.0.0.0 www.connersclinic.com
 0.0.0.0 www.consciousspaces.com
@@ -2719,13 +2795,20 @@
 0.0.0.0 www.cpamarketinggroup.com
 0.0.0.0 www.cpanel.buycocaineonline.se
 0.0.0.0 www.creditunionlogin.yolasite.com
+0.0.0.0 www.crew-spacex.com
 0.0.0.0 www.criticaldownload.site
 0.0.0.0 www.crpyear.net
+0.0.0.0 www.crteam.net
 0.0.0.0 www.crunchabs-stimulator.com
 0.0.0.0 www.crypmake.net
+0.0.0.0 www.crypto-elon.org
 0.0.0.0 www.crypto-event.info
+0.0.0.0 www.crypto2event.net
 0.0.0.0 www.crypto360.info
+0.0.0.0 www.cryptobenefita.com
+0.0.0.0 www.cryptoelonx.com
 0.0.0.0 www.cryptoglobalnews.live
+0.0.0.0 www.cryptomst.com
 0.0.0.0 www.crystalbluesales.com
 0.0.0.0 www.crystalbluewatersolutions.com
 0.0.0.0 www.crystalinsights-net.3dcartstores.com
@@ -2772,6 +2855,7 @@
 0.0.0.0 www.devisit-contsents.icu
 0.0.0.0 www.devtechiewebmine.icu
 0.0.0.0 www.digigiveaways.com
+0.0.0.0 www.digital-events.us
 0.0.0.0 www.digital-experts.tech
 0.0.0.0 www.digitalive.world
 0.0.0.0 www.diplompsychologehench.de
@@ -2793,9 +2877,11 @@
 0.0.0.0 www.dr-med-feustel.de
 0.0.0.0 www.driverprinterdownloads.wordpress.com
 0.0.0.0 www.drivezone.cz
+0.0.0.0 www.drop-seo.com
 0.0.0.0 www.dwnlds.com
 0.0.0.0 www.dwnloads.co
 0.0.0.0 www.earthcalm.com
+0.0.0.0 www.easygetcr.com
 0.0.0.0 www.easyglutenfree.recipes
 0.0.0.0 www.eaweb-dev.ch
 0.0.0.0 www.eaweb-dev3.ch
@@ -2846,6 +2932,7 @@
 0.0.0.0 www.emfshieldprotect.com
 0.0.0.0 www.emfsol.com
 0.0.0.0 www.emotion-captured.de
+0.0.0.0 www.emtc.edu.sa
 0.0.0.0 www.emvbescherming.nl
 0.0.0.0 www.energydots.com
 0.0.0.0 www.energyinbalance.com.au
@@ -2858,8 +2945,11 @@
 0.0.0.0 www.errorcodeoffice.blogspot.com
 0.0.0.0 www.escort-themes.googleadultseo.com
 0.0.0.0 www.escorts-theme.googleadultseo.com
+0.0.0.0 www.ethereum-events.net
+0.0.0.0 www.event-meta.com
 0.0.0.0 www.event-musk.com
 0.0.0.0 www.eventelon.net
+0.0.0.0 www.events-live.us
 0.0.0.0 www.eventspacex.com
 0.0.0.0 www.eventspacex.info
 0.0.0.0 www.eventspacex.io
@@ -2910,6 +3000,7 @@
 0.0.0.0 www.forum.gdvplanet.com
 0.0.0.0 www.foryoupromo.com
 0.0.0.0 www.foryoupromo.net
+0.0.0.0 www.found-ceo.com
 0.0.0.0 www.foundmoneyguide.com
 0.0.0.0 www.fpkdz.com
 0.0.0.0 www.fractalwater.com
@@ -3021,6 +3112,8 @@
 0.0.0.0 www.giveawaysyou.com
 0.0.0.0 www.giveawayszoom.com
 0.0.0.0 www.gladplacespin.xyz
+0.0.0.0 www.globalbtc.live
+0.0.0.0 www.globalshiba.live
 0.0.0.0 www.glyphosatetaskforce.org
 0.0.0.0 www.gmnnet.xyz
 0.0.0.0 www.goldbek-apotheke.de
@@ -3113,6 +3206,7 @@
 0.0.0.0 www.iphongthuynet.buzzsprout.com
 0.0.0.0 www.isafetyd.blogspot.com
 0.0.0.0 www.jabx.net
+0.0.0.0 www.jackdorsey.live
 0.0.0.0 www.jeewangarg.com
 0.0.0.0 www.joblifestyles.com
 0.0.0.0 www.johnstyles365.com
@@ -3150,8 +3244,10 @@
 0.0.0.0 www.litebucks.com
 0.0.0.0 www.litemethod-revenue.life
 0.0.0.0 www.litnbooks.club
+0.0.0.0 www.live-saylor.com
 0.0.0.0 www.live-spacex.org
 0.0.0.0 www.live4fans.net
+0.0.0.0 www.loanshubonline.com
 0.0.0.0 www.login.aulterra.com
 0.0.0.0 www.longebooks.club
 0.0.0.0 www.lootcoupons.com
@@ -3196,6 +3292,7 @@
 0.0.0.0 www.mercury-freedrugs.org
 0.0.0.0 www.metagiveaways.com
 0.0.0.0 www.michaelsaunders.com.au
+0.0.0.0 www.michaelsaylor.win
 0.0.0.0 www.microsoft-help-numbers.com
 0.0.0.0 www.microsoft-office-errors.blogspot.com
 0.0.0.0 www.microsoft-support-tech.blogspot.com
@@ -3237,12 +3334,16 @@
 0.0.0.0 www.moveforward-oct.net
 0.0.0.0 www.movie2020-joss.blogspot.com
 0.0.0.0 www.ms-gives.net
+0.0.0.0 www.msbit.info
+0.0.0.0 www.msbonus.net
 0.0.0.0 www.mschatsupport.com
 0.0.0.0 www.mslivehelp.com
+0.0.0.0 www.mstr-bit.com
 0.0.0.0 www.musicallyfame.co
 0.0.0.0 www.musk-events.com
 0.0.0.0 www.musk-live.com
 0.0.0.0 www.musk-spacex.org
+0.0.0.0 www.musk.claims
 0.0.0.0 www.musk2021.info
 0.0.0.0 www.muskdoge.org
 0.0.0.0 www.muskdonate.top
@@ -3266,6 +3367,7 @@
 0.0.0.0 www.ncseculogin.wordpress.com
 0.0.0.0 www.net-jobs-online.com
 0.0.0.0 www.net-web.news
+0.0.0.0 www.new.teslsagive.repl.co
 0.0.0.0 www.newdeaths.com
 0.0.0.0 www.neweracocktailmixers.com
 0.0.0.0 www.newprojectelon.com
@@ -3314,6 +3416,7 @@
 0.0.0.0 www.oncohiv.com
 0.0.0.0 www.oneclickwebpro.com
 0.0.0.0 www.onelaunch.com
+0.0.0.0 www.oneoff-october.com
 0.0.0.0 www.ongiveaways.com
 0.0.0.0 www.online-dating-portale.de
 0.0.0.0 www.onlinepcfix.net
@@ -3330,6 +3433,7 @@
 0.0.0.0 www.panachehautecouture.com
 0.0.0.0 www.payingsocialmediajobs.co
 0.0.0.0 www.pdfgoal.com
+0.0.0.0 www.perabett496.com
 0.0.0.0 www.perdue-coupons.com
 0.0.0.0 www.perfectmedicinestore.com
 0.0.0.0 www.pesoaniz.com
@@ -3337,6 +3441,7 @@
 0.0.0.0 www.placesiteb.xyz
 0.0.0.0 www.planet-digitalization.com
 0.0.0.0 www.planet-tachyon.com
+0.0.0.0 www.plasmaenergysolution.com
 0.0.0.0 www.playinghacks.com
 0.0.0.0 www.pliusinfo.com
 0.0.0.0 www.ponduweb.com
@@ -3401,6 +3506,7 @@
 0.0.0.0 www.restaurant-im-kolpinghaus-bochum.de
 0.0.0.0 www.retailproductsusa.com
 0.0.0.0 www.revitalizingskinshop.com
+0.0.0.0 www.reward-event.com
 0.0.0.0 www.reward3spot.com
 0.0.0.0 www.rewards-locker.com
 0.0.0.0 www.rewardsavenue.net
@@ -3445,6 +3551,8 @@
 0.0.0.0 www.shake-body.com
 0.0.0.0 www.sharktanksupplements.com
 0.0.0.0 www.shib-xxi.com
+0.0.0.0 www.shibacoin2021.com
+0.0.0.0 www.shibmax.net
 0.0.0.0 www.shieldheadwear.com
 0.0.0.0 www.shop.dc-efb26bfb7cee.buycocaineonline.se
 0.0.0.0 www.shop.emfshieldprotect.com
@@ -3479,10 +3587,12 @@
 0.0.0.0 www.solved.winsysdev.com
 0.0.0.0 www.somavedic.com
 0.0.0.0 www.soundmindsoundbodyshop.com
+0.0.0.0 www.space-x-bounty.buonty.repl.co
 0.0.0.0 www.space-x.io
 0.0.0.0 www.space-x.pro
 0.0.0.0 www.spacepromo.net
 0.0.0.0 www.spacex-21.org
+0.0.0.0 www.spacex-and-tesla-bounty.xxbounty.repl.co
 0.0.0.0 www.spacex-events.com
 0.0.0.0 www.spacex-gift.com
 0.0.0.0 www.spacex-gift.org
@@ -3555,6 +3665,10 @@
 0.0.0.0 www.templatesearch.net
 0.0.0.0 www.templatesearch.org
 0.0.0.0 www.tesgity.com
+0.0.0.0 www.tesla-foundation.net
+0.0.0.0 www.tesla21.io
+0.0.0.0 www.teslabtc.space
+0.0.0.0 www.teslaleaks.com
 0.0.0.0 www.test.dc-efb26bfb7cee.buycocaineonline.se
 0.0.0.0 www.test.lightlounge.life
 0.0.0.0 www.test.lime.buycocaineonline.se
@@ -3638,6 +3752,7 @@
 0.0.0.0 www.trygiveaways.com
 0.0.0.0 www.trygreenape.com
 0.0.0.0 www.trypharmalitexspremiumketo.com
+0.0.0.0 www.tslacrp.com
 0.0.0.0 www.turisllanes.com
 0.0.0.0 www.twgzqax.xyz
 0.0.0.0 www.twodollarcourse.com
@@ -3670,6 +3785,7 @@
 0.0.0.0 www.variantverdict.com
 0.0.0.0 www.verygiveaways.com
 0.0.0.0 www.vgiveaways.com
+0.0.0.0 www.vibrancywater.ca
 0.0.0.0 www.video.hotconsumerdeals.com
 0.0.0.0 www.videolan-free.com
 0.0.0.0 www.videopal.io
@@ -3743,6 +3859,7 @@
 0.0.0.0 www.xgeeksquad.com
 0.0.0.0 www.xgiveaways.com
 0.0.0.0 www.xlus0606xs6o.xyz
+0.0.0.0 www.xtesla.org
 0.0.0.0 www.y333reviews.com
 0.0.0.0 www.yeswecoupon.com
 0.0.0.0 www.yk33lz.cc
@@ -3763,6 +3880,7 @@
 0.0.0.0 www.ziverdokit.us
 0.0.0.0 www.ziverdokitonline.com
 0.0.0.0 www.ziverdokits.com
+0.0.0.0 www.zuckerberg.io
 0.0.0.0 www10.3freescoresnow.com
 0.0.0.0 www5.3freescoresnow.com
 0.0.0.0 www6.mobile-illustration.com
@@ -3773,6 +3891,7 @@
 0.0.0.0 xgeeksquad.com
 0.0.0.0 xgiveaways.com
 0.0.0.0 xlus0606xs6o.xyz
+0.0.0.0 xtesla.org
 0.0.0.0 y.promotionsonlineusa.com
 0.0.0.0 y333reviews.com
 0.0.0.0 yeswecoupon.com
@@ -3799,3 +3918,4 @@
 0.0.0.0 ziverdokitonline.com
 0.0.0.0 ziverdokits.com
 0.0.0.0 zorka.g2afse.com
+0.0.0.0 zuckerberg.io
