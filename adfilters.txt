@@ -115,6 +115,7 @@ arstechnica.com###article_end_ad_footer
 arstechnica.com###outbrain-recs
 arstechnica.com##.ad_instream
 arstechnica.com##.instream-container
+arstechnica.com##.superscroll-ad
 arstechnica.com##div.instream-wrap
 
 ! arthritis-health.com
@@ -209,6 +210,9 @@ chicago.cbslocal.com###featured-media
 chicago.cbslocal.com###ym_69700033
 chicago.cbslocal.com###ym_69700034
 chicago.cbslocal.com##.anvato.video-wrapper
+
+! ccleaner.com
+www.ccleaner.com##.cc-browser-banner.display-block
 
 ! ccm.net
 ccm.net##.ccm_pugoo__sponso
@@ -799,6 +803,9 @@ www.instructables.com###gpt-ad-m-rect
 www.instructables.com###gpt-bottom1_m
 www.instructables.com###gpt-step1-m
 
+! ipwithease.com
+ipwithease.com##.ipwit-adlabel
+
 ! jalopnik.com
 jalopnik.com##div.movable-ad
 
@@ -962,6 +969,9 @@ linuxmint.com##h3:nth-of-type(2)
 linuxmint.com##h3:nth-of-type(3)
 ||linuxmint.com/img/sponsor/logos/216.gif$image
 
+! listoffreeware.com
+listoffreeware.com##.text-center.bannerimg > [href]
+
 ! liveandletsfly.com
 liveandletsfly.com##div.widget_custom_html.sidebar-widget.widget.widget_text:nth-of-type(2)
 
@@ -1048,6 +1058,10 @@ www.nbcnews.com##.js-global-nav-insert.global-insert
 ! ndtv.com
 www.ndtv.com##.content > .add-section > .add__wrp
 www.ndtv.com##body > .add-section > .add__wrp
+
+! neowin.net
+www.neowin.net##.header-banner-advertising
+www.neowin.net###news-content > div
 
 ! news-medical.net
 www.news-medical.net###div-gpt-mobile-bottom-mrec
@@ -1318,6 +1332,11 @@ www.smokymountainnews.com##.moduletable > .bannergroup
 ! snopes.com
 www.snopes.com##.smg-zone-widget-ads-placement
 
+! socialblade.com
+socialblade.com##div.cas-container:nth-of-type(1)
+socialblade.com##.cas-wide-container
+socialblade.com###socialblade-user-content > div:nth-of-type(5) > div:nth-of-type(3)
+
 ! softexia.com
 www.softexia.com##.banner-link
 www.softexia.com##div.offer
@@ -1384,6 +1403,7 @@ www.techpowerup.com##.content > .mnnuzjsddc
 www.techpowerup.com##.eiyanjcf
 www.techpowerup.com##.ejpbl
 www.techpowerup.com##.mnmuzjsddc
+www.techpowerup.com##.mnnusjsddd
 www.techpowerup.com##.mnnuzjsddc
 www.techpowerup.com##.nkuzlfvdywj
 www.techpowerup.com##.nkuztfvdswe
@@ -1391,6 +1411,7 @@ www.techpowerup.com##.nspy
 www.techpowerup.com##.ravqfx
 www.techpowerup.com##.sectioncontainer > div
 www.techpowerup.com##.zkybes
+www.techpowerup.com##[href="/jutrfbvhjhred/807.thx"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1300.xvr"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1423.xvr"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1471.xvr"]
@@ -1416,6 +1437,7 @@ www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(2)
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(3)
 ||tpucdn.com/review/*-1260988325*/images/*.jpg$image
+||www.techpowerup.com/jutrfbvhjhred/*.jpg$image
 ||www.techpowerup.com/review/*/images/dd162198.jpg$image
 ||www.techpowerup.com/review/lgwovujm-75lgwovujm/images/dd162198.jpg$image
 ||www.techpowerup.com/review/rughqo-75rughqo/images/dd162198.jpg$image
@@ -1759,6 +1781,10 @@ www.wintips.org##div:nth-of-type(6) > center > .adsbygoogle
 www.woculus.com###wocul-104518175
 www.woculus.com##.custom-html-widget.textwidget
 www.woculus.com##.wocul-adlabel
+
+! wonderfulengineering.com
+wonderfulengineering.com###quads-ad1
+wonderfulengineering.com##.quads-ad2
 
 ! worldatlas.com
 www.worldatlas.com###adStickyAside
