@@ -118,6 +118,9 @@ butlercountytimesgazette.com###dialog-message
 ! calculatorsoup.com
 www.calculatorsoup.com###contentBlock > aside > .pages
 
+! careerkarma.com
+careerkarma.com###fast-track-modal-window
+
 ! citationmachine.net
 www.citationmachine.net##div[class ^= styled__SideView]
 
