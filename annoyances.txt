@@ -249,6 +249,9 @@ www.hwinfo.com##.cookie-agree-with-use
 ! ifixit.com
 www.ifixit.com###REPAIR_ORG
 
+! inforisktoday.com
+www.inforisktoday.com###popup-interstitial-full-page
+
 ! insidehook.com
 www.insidehook.com##.sticky.signup
 www.insidehook.com##.tp-modal
