@@ -467,6 +467,7 @@
 0.0.0.0 clicknetwork.hasoffers.com
 0.0.0.0 clicks2offer.hasoffers.com
 0.0.0.0 clicksfx.hasoffers.com
+0.0.0.0 clickstream.grubhub.com
 0.0.0.0 clicktr.hasoffers.com
 0.0.0.0 clickxpay.hasoffers.com
 0.0.0.0 clivedecarle.ositracker.com
