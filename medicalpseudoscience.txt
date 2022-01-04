@@ -24,6 +24,7 @@
 0.0.0.0 12-weeks.bioptimizers.com
 0.0.0.0 1215.org
 0.0.0.0 12160.info
+0.0.0.0 125682-app1.www.alipac.us
 0.0.0.0 129354.youngevityonline.com
 0.0.0.0 12bytes.org
 0.0.0.0 12muur.myctfo.com
@@ -123,6 +124,7 @@
 0.0.0.0 2020conservative.com
 0.0.0.0 2020news.corona-ausschuss.de
 0.0.0.0 2020news.de
+0.0.0.0 2021.theevent.global
 0.0.0.0 209-206-167-151.ghmx1.metagenics.com
 0.0.0.0 21a86421-c3e0-461b-83c2-cfe4628dfadc.filesusr.com
 0.0.0.0 21cir.com
@@ -140,6 +142,7 @@
 0.0.0.0 220-vps2.howestreet.com
 0.0.0.0 22moon.com
 0.0.0.0 24248901.youngevityonline.com
+0.0.0.0 245588-app2.alipac.us
 0.0.0.0 247worldradio.com
 0.0.0.0 24h.myasealive.com
 0.0.0.0 25.elle.com
@@ -361,6 +364,7 @@
 0.0.0.0 accounts.elephantjournal.com
 0.0.0.0 accounts.patriotssoapbox.com
 0.0.0.0 accreditation.foodforthebrain.org
+0.0.0.0 acctintake.afa.net
 0.0.0.0 accudocurgentcare.com
 0.0.0.0 aceves1.myctfo.com
 0.0.0.0 achievewellness.myasealive.com
@@ -372,6 +376,7 @@
 0.0.0.0 acrutch.youngevityonline.com
 0.0.0.0 act.wayofleaf.com
 0.0.0.0 actingpersonblog.wordpress.com
+0.0.0.0 action.afa.net
 0.0.0.0 action.ewg.org
 0.0.0.0 action.freedomnewsusa.com
 0.0.0.0 action.news
@@ -380,6 +385,7 @@
 0.0.0.0 actionagainst5g.org
 0.0.0.0 actionplusredox.myasealive.com
 0.0.0.0 actions.teapartypac.org
+0.0.0.0 activate.afa.net
 0.0.0.0 activatehumanity.com
 0.0.0.0 activeataltitude.myasealive.com
 0.0.0.0 activeathlete.myasealive.com
@@ -429,7 +435,10 @@
 0.0.0.0 admin-stage-a178d7.gaia.com
 0.0.0.0 admin-wiki.solari.com
 0.0.0.0 admin.additudemag.com
+0.0.0.0 admin.afa.net
+0.0.0.0 admin.afajournal.org
 0.0.0.0 admin.afn.net
+0.0.0.0 admin.aier.org
 0.0.0.0 admin.americanthinker.com
 0.0.0.0 admin.bettermankind.com
 0.0.0.0 admin.biodynamicsolutions.org
@@ -449,7 +458,9 @@
 0.0.0.0 admin.naturalnews.com
 0.0.0.0 admin.oceanslab.com
 0.0.0.0 admin.onenewsnow.com
+0.0.0.0 admin.pray.afa.net
 0.0.0.0 admin.redstate.com
+0.0.0.0 admin.streamer1.afa.net
 0.0.0.0 admin.taylormarshall.com
 0.0.0.0 admin.truthout.org
 0.0.0.0 admin.wirelesseducation.org
@@ -470,6 +481,7 @@
 0.0.0.0 ads.organicfacts.net
 0.0.0.0 ads.shopholistic.com
 0.0.0.0 adserve.jbs.org
+0.0.0.0 adserver.afa.net
 0.0.0.0 adserver.asiatatler.com
 0.0.0.0 adserver.herbalcollective.news
 0.0.0.0 adv-massage.biomatnetwork.com
@@ -497,6 +509,11 @@
 0.0.0.0 aekk.thegoodinside.com
 0.0.0.0 aestheticsadvisor.com
 0.0.0.0 af.sputniknews.com
+0.0.0.0 afa.net
+0.0.0.0 afajournal.org
+0.0.0.0 afapledge.afa.net
+0.0.0.0 afastore.afa.net
+0.0.0.0 afastoret.afa.net
 0.0.0.0 afdclinics.metagenics.com
 0.0.0.0 affiliate-center.bioptimizers.com
 0.0.0.0 affiliate.ceflix.org
@@ -533,6 +550,7 @@
 0.0.0.0 afpstore.americanfreepress.net
 0.0.0.0 africa.tm.org
 0.0.0.0 africancrisis.info
+0.0.0.0 afs.afa.net
 0.0.0.0 aftermathnews.wordpress.com
 0.0.0.0 aftershipdirect.eirmed360.com
 0.0.0.0 afterthecrash.dollarcollapse.com
@@ -582,6 +600,7 @@
 0.0.0.0 aidlives.myctfo.com
 0.0.0.0 aidspharmaceuticals.eirmed360.com
 0.0.0.0 aier.org
+0.0.0.0 aierwave.aier.org
 0.0.0.0 aiglebleu.myasealive.com
 0.0.0.0 aim2win.youngevityonline.com
 0.0.0.0 aim4truth.org
@@ -649,6 +668,7 @@
 0.0.0.0 alimentosmascotas.mercola.com
 0.0.0.0 alimentossaludables.mercola.com
 0.0.0.0 alinagraham.myasealive.com
+0.0.0.0 alipac.us
 0.0.0.0 alisonwellness.metagenics.com
 0.0.0.0 alissa-braggins.healthcoach.integrativenutrition.com
 0.0.0.0 alissablack.myctfo.com
@@ -791,6 +811,7 @@
 0.0.0.0 aminutetomidnite.com
 0.0.0.0 amireiki.reikiranch.net
 0.0.0.0 amj.myctfo.com
+0.0.0.0 aml.afa.net
 0.0.0.0 amma-pozzi.healthcoach1.integrativenutrition.com
 0.0.0.0 ammoland.com
 0.0.0.0 amnesiaclinic.wordpress.com
@@ -1007,11 +1028,14 @@
 0.0.0.0 app.thebl.com
 0.0.0.0 app.upgradelabs.com
 0.0.0.0 app.wozinga.com
+0.0.0.0 app4.alipac.us
+0.0.0.0 app5.alipac.us
 0.0.0.0 appel5gappeal.ca
 0.0.0.0 appletonoffer.thewellnessway.com
 0.0.0.0 appliedwellness.myasealive.com
 0.0.0.0 appliedwisdom.myasealive.com
 0.0.0.0 appointment.askdrshah.com
+0.0.0.0 apppush.afa.net
 0.0.0.0 apprequest.charismanews.com
 0.0.0.0 apprequest.charismapodcastnetwork.com
 0.0.0.0 apprequest.ministrytodaymag.com
@@ -1047,6 +1071,8 @@
 0.0.0.0 arcchiro.metagenics.com
 0.0.0.0 arch.kla.tv
 0.0.0.0 archiva.flux.md
+0.0.0.0 archive.afa.net
+0.0.0.0 archive.aier.org
 0.0.0.0 archive.chopra.com
 0.0.0.0 archive.davidlynchfoundation.org
 0.0.0.0 archive.doctordoni.com
@@ -1080,6 +1106,7 @@
 0.0.0.0 archives2016.gcnlive.com
 0.0.0.0 archives2017.gcnlive.com
 0.0.0.0 archives2018.gcnlive.com
+0.0.0.0 archyde.com
 0.0.0.0 ares-word1.emersonecologics.com
 0.0.0.0 aresauth.emersonecologics.com
 0.0.0.0 arevaccinessafe.org
@@ -1092,6 +1119,7 @@
 0.0.0.0 arizona.yourmedcart.com
 0.0.0.0 arizonaadvancedmedicine.com
 0.0.0.0 arizonahomeopathic.org
+0.0.0.0 arizonasuntimes.com
 0.0.0.0 arkansansforinformedconsent.blogspot.com
 0.0.0.0 arley.myctfo.com
 0.0.0.0 armenia.tm.org
@@ -1319,6 +1347,7 @@
 0.0.0.0 autodiscover.anaturopath.com
 0.0.0.0 autodiscover.annieappleseedproject.org
 0.0.0.0 autodiscover.anti-old.com
+0.0.0.0 autodiscover.archyde.com
 0.0.0.0 autodiscover.armswatch.com
 0.0.0.0 autodiscover.ascensionenergyprogram.com
 0.0.0.0 autodiscover.asiapacifictoday.tv
@@ -1440,6 +1469,7 @@
 0.0.0.0 autodiscover.freenorth.news
 0.0.0.0 autodiscover.fromdusktildawn.org.uk
 0.0.0.0 autodiscover.frontlinemds.com
+0.0.0.0 autodiscover.frontlinesohio.com
 0.0.0.0 autodiscover.futuregenerationssd.com
 0.0.0.0 autodiscover.g2church239.org
 0.0.0.0 autodiscover.g2sacraments.org
@@ -1455,6 +1485,7 @@
 0.0.0.0 autodiscover.grandtheftworld.com
 0.0.0.0 autodiscover.grassrootsliberty.com
 0.0.0.0 autodiscover.greenfieldwater.com
+0.0.0.0 autodiscover.guardiansofmedicalchoice.com
 0.0.0.0 autodiscover.gumshoenews.com
 0.0.0.0 autodiscover.handsofhopewalton.org
 0.0.0.0 autodiscover.healing-yourself.com
@@ -1558,6 +1589,7 @@
 0.0.0.0 autodiscover.policeforfreedom.org
 0.0.0.0 autodiscover.portaltoawakening.com
 0.0.0.0 autodiscover.portofwinlock.com
+0.0.0.0 autodiscover.porttownsendfreepress.com
 0.0.0.0 autodiscover.prayeriswarfare.com
 0.0.0.0 autodiscover.prayformychild.org
 0.0.0.0 autodiscover.presscalifornia.com
@@ -2116,6 +2148,7 @@
 0.0.0.0 biostructuredsilver.healthrangerstore.com
 0.0.0.0 biostructuredsilver.naturalnews.com
 0.0.0.0 biotech.news
+0.0.0.0 biotechexpressmag.com
 0.0.0.0 bioterrorism.news
 0.0.0.0 bioticsresearch.com
 0.0.0.0 biotin.healthrangerstore.com
@@ -2139,6 +2172,7 @@
 0.0.0.0 bitcoincrash.news
 0.0.0.0 biteradio.me
 0.0.0.0 bitnami.gnews.org
+0.0.0.0 bitrix.afa.net
 0.0.0.0 bitstream.binary-systems.com
 0.0.0.0 bittube.app
 0.0.0.0 bittube.tv
@@ -2393,6 +2427,8 @@
 0.0.0.0 breakthroughinmedical.myasealive.com
 0.0.0.0 breastcancerconqueror.com
 0.0.0.0 breastfeed.news
+0.0.0.0 breathemd.org
+0.0.0.0 breathesw.com
 0.0.0.0 breathinglady.myasealive.com
 0.0.0.0 breathofmusic.myasealive.com
 0.0.0.0 breathwork.thegoodinside.com
@@ -3276,6 +3312,7 @@
 0.0.0.0 claris.mountainroseherbs.com
 0.0.0.0 clarity.emersonecologics.com
 0.0.0.0 claritypress.com
+0.0.0.0 clarkcountytoday.com
 0.0.0.0 clarksburgmed.com
 0.0.0.0 clashdaily.com
 0.0.0.0 classcredits.accessconsciousness.com
@@ -3323,6 +3360,7 @@
 0.0.0.0 click2.inhresearch.com
 0.0.0.0 click2.p.freedomwire.com
 0.0.0.0 client2.metagenics.com
+0.0.0.0 climate-science.press
 0.0.0.0 climate.newrepublic.com
 0.0.0.0 climate.news
 0.0.0.0 climatealarmism.news
@@ -3468,6 +3506,7 @@
 0.0.0.0 colleen-pea.healthcoach1.integrativenutrition.com
 0.0.0.0 colleenf.myctfo.com
 0.0.0.0 colleenhuber.com
+0.0.0.0 colleenhuber.substack.com
 0.0.0.0 collgen2.com
 0.0.0.0 colliervilleorthopedics.metagenics.com
 0.0.0.0 colloidalsilver-supply.com
@@ -3505,6 +3544,7 @@
 0.0.0.0 comments.whatfinger.com
 0.0.0.0 commentsapi.thebl.com
 0.0.0.0 commonground.ca
+0.0.0.0 commonlawnews.com
 0.0.0.0 commonsenseevaluation.com
 0.0.0.0 commonsensehome.com
 0.0.0.0 commonsensesummit.com
@@ -3541,6 +3581,7 @@
 0.0.0.0 conciergehealthnetwork.com
 0.0.0.0 concisepolitics.com
 0.0.0.0 condemnedlabz.com
+0.0.0.0 conejoguardian.org
 0.0.0.0 conem.org
 0.0.0.0 conference.autismone.org
 0.0.0.0 conferences.howestreet.com
@@ -3787,6 +3828,7 @@
 0.0.0.0 cpanel.anthonycolpo.com
 0.0.0.0 cpanel.api.bioptimizers.com
 0.0.0.0 cpanel.aquarius-prolife.com
+0.0.0.0 cpanel.arizonasuntimes.com
 0.0.0.0 cpanel.armswatch.com
 0.0.0.0 cpanel.arnica.org.uk
 0.0.0.0 cpanel.ascensionenergyprogram.com
@@ -3850,12 +3892,14 @@
 0.0.0.0 cpanel.christianmedianetwork.com
 0.0.0.0 cpanel.citizenfreepress.com
 0.0.0.0 cpanel.civilianintelligencenetwork.ca
+0.0.0.0 cpanel.clarkcountytoday.com
 0.0.0.0 cpanel.climatechangedispatch.com
 0.0.0.0 cpanel.clone.brasscheck.com
 0.0.0.0 cpanel.cmevt.com
 0.0.0.0 cpanel.cmri.tv
 0.0.0.0 cpanel.colloidalsilverzone.com
 0.0.0.0 cpanel.comm.tm.org
+0.0.0.0 cpanel.commonlawnews.com
 0.0.0.0 cpanel.commonsensehome.com
 0.0.0.0 cpanel.communications.tm.org
 0.0.0.0 cpanel.confinedtosuccess.com
@@ -3984,6 +4028,7 @@
 0.0.0.0 cpanel.greenfieldwater.com
 0.0.0.0 cpanel.gregcaton.com
 0.0.0.0 cpanel.gript.ie
+0.0.0.0 cpanel.guardiansofmedicalchoice.com
 0.0.0.0 cpanel.handofhelp.com
 0.0.0.0 cpanel.healing-yourself.com
 0.0.0.0 cpanel.healingcancernaturally.com
@@ -4016,6 +4061,7 @@
 0.0.0.0 cpanel.ijvtpr.com
 0.0.0.0 cpanel.ilads.org
 0.0.0.0 cpanel.illinoisvaccineawareness.org
+0.0.0.0 cpanel.imcwc.bpl.fyi
 0.0.0.0 cpanel.in-this-together.com
 0.0.0.0 cpanel.in5d.com
 0.0.0.0 cpanel.inmycommunity.com.au
@@ -4029,6 +4075,7 @@
 0.0.0.0 cpanel.irisbell.com
 0.0.0.0 cpanel.irishfreedom.ie
 0.0.0.0 cpanel.irishsavant.net
+0.0.0.0 cpanel.italytravelideas.com
 0.0.0.0 cpanel.ivantic.info
 0.0.0.0 cpanel.jamaica.tm.org
 0.0.0.0 cpanel.jameslico.com
@@ -4186,15 +4233,18 @@
 0.0.0.0 cpanel.shiftfrequency.com
 0.0.0.0 cpanel.shopfreemart.com
 0.0.0.0 cpanel.shoprbn.com
+0.0.0.0 cpanel.skirsch.com
 0.0.0.0 cpanel.slaveplanet.net
 0.0.0.0 cpanel.smoking-mirrors.com
 0.0.0.0 cpanel.smombiegate.org
 0.0.0.0 cpanel.sociallydistant.us
 0.0.0.0 cpanel.speakingaboutnews.com
 0.0.0.0 cpanel.springintegrativehealth.com
+0.0.0.0 cpanel.staging.clarkcountytoday.com
 0.0.0.0 cpanel.staging.handofhelp.com
 0.0.0.0 cpanel.staging.herbhealers.com
 0.0.0.0 cpanel.staging.water-for-health.co.uk
+0.0.0.0 cpanel.starnewseducationfoundation.org
 0.0.0.0 cpanel.stateofliz.com
 0.0.0.0 cpanel.steverotter.com
 0.0.0.0 cpanel.stop007.org
@@ -4331,6 +4381,7 @@
 0.0.0.0 cpcalendars.anthonycolpo.com
 0.0.0.0 cpcalendars.anti-old.com
 0.0.0.0 cpcalendars.api.bioptimizers.com
+0.0.0.0 cpcalendars.arizonasuntimes.com
 0.0.0.0 cpcalendars.armswatch.com
 0.0.0.0 cpcalendars.arnica.org.uk
 0.0.0.0 cpcalendars.asiapacifictoday.tv
@@ -4392,12 +4443,14 @@
 0.0.0.0 cpcalendars.christiannetworknews.com
 0.0.0.0 cpcalendars.circleofmamas.com
 0.0.0.0 cpcalendars.citizenfreepress.com
+0.0.0.0 cpcalendars.clarkcountytoday.com
 0.0.0.0 cpcalendars.climatechangedispatch.com
 0.0.0.0 cpcalendars.clone.brasscheck.com
 0.0.0.0 cpcalendars.cmri.tv
 0.0.0.0 cpcalendars.cogforlife.org
 0.0.0.0 cpcalendars.colloidalsilverzone.com
 0.0.0.0 cpcalendars.comm.tm.org
+0.0.0.0 cpcalendars.commonlawnews.com
 0.0.0.0 cpcalendars.communications.tm.org
 0.0.0.0 cpcalendars.connoils.com
 0.0.0.0 cpcalendars.conservativeplaylist.com
@@ -4498,6 +4551,7 @@
 0.0.0.0 cpcalendars.freenorth.news
 0.0.0.0 cpcalendars.frontlinemds.com
 0.0.0.0 cpcalendars.frontlinemedicaldoctors.com
+0.0.0.0 cpcalendars.frontlinesohio.com
 0.0.0.0 cpcalendars.futuregenerationssd.com
 0.0.0.0 cpcalendars.g2church239.org
 0.0.0.0 cpcalendars.g2sacraments.org
@@ -4521,6 +4575,7 @@
 0.0.0.0 cpcalendars.greatreject.org
 0.0.0.0 cpcalendars.greenfieldwater.com
 0.0.0.0 cpcalendars.greenmms.com
+0.0.0.0 cpcalendars.guardiansofmedicalchoice.com
 0.0.0.0 cpcalendars.gumshoenews.com
 0.0.0.0 cpcalendars.handofhelp.com
 0.0.0.0 cpcalendars.handsofhopewalton.org
@@ -4561,6 +4616,7 @@
 0.0.0.0 cpcalendars.ijvtpr.com
 0.0.0.0 cpcalendars.ilads.org
 0.0.0.0 cpcalendars.illinoisvaccineawareness.org
+0.0.0.0 cpcalendars.imcwc.bpl.fyi
 0.0.0.0 cpcalendars.in5d.com
 0.0.0.0 cpcalendars.infoarmed.com
 0.0.0.0 cpcalendars.intranet.wozinga.com
@@ -4572,6 +4628,7 @@
 0.0.0.0 cpcalendars.irisbell.com
 0.0.0.0 cpcalendars.irishfreedom.ie
 0.0.0.0 cpcalendars.irishsavant.net
+0.0.0.0 cpcalendars.italytravelideas.com
 0.0.0.0 cpcalendars.itnshow.com
 0.0.0.0 cpcalendars.ivantic.info
 0.0.0.0 cpcalendars.jamaica.tm.org
@@ -4687,6 +4744,7 @@
 0.0.0.0 cpcalendars.policeforfreedom.org
 0.0.0.0 cpcalendars.portaltoawakening.com
 0.0.0.0 cpcalendars.portofwinlock.com
+0.0.0.0 cpcalendars.porttownsendfreepress.com
 0.0.0.0 cpcalendars.prayeriswarfare.com
 0.0.0.0 cpcalendars.prayformychild.org
 0.0.0.0 cpcalendars.presscalifornia.com
@@ -4731,6 +4789,7 @@
 0.0.0.0 cpcalendars.shoprbn.com
 0.0.0.0 cpcalendars.silverlungs.com
 0.0.0.0 cpcalendars.sinkswimchicago.com
+0.0.0.0 cpcalendars.skirsch.com
 0.0.0.0 cpcalendars.slaveplanet.net
 0.0.0.0 cpcalendars.smartmetereducationnetwork.com
 0.0.0.0 cpcalendars.sociallydistant.us
@@ -4738,9 +4797,11 @@
 0.0.0.0 cpcalendars.speakingaboutnews.com
 0.0.0.0 cpcalendars.spiritsillumination.com
 0.0.0.0 cpcalendars.springintegrativehealth.com
+0.0.0.0 cpcalendars.staging.clarkcountytoday.com
 0.0.0.0 cpcalendars.staging.handofhelp.com
 0.0.0.0 cpcalendars.staging.herbhealers.com
 0.0.0.0 cpcalendars.staging.water-for-health.co.uk
+0.0.0.0 cpcalendars.starnewseducationfoundation.org
 0.0.0.0 cpcalendars.stateofliz.com
 0.0.0.0 cpcalendars.steverotter.com
 0.0.0.0 cpcalendars.stop007.org
@@ -4871,6 +4932,7 @@
 0.0.0.0 cpcontacts.anthonycolpo.com
 0.0.0.0 cpcontacts.anti-old.com
 0.0.0.0 cpcontacts.api.bioptimizers.com
+0.0.0.0 cpcontacts.arizonasuntimes.com
 0.0.0.0 cpcontacts.armswatch.com
 0.0.0.0 cpcontacts.arnica.org.uk
 0.0.0.0 cpcontacts.asiapacifictoday.tv
@@ -4936,11 +4998,13 @@
 0.0.0.0 cpcontacts.circleofmamas.com
 0.0.0.0 cpcontacts.citizenfreepress.com
 0.0.0.0 cpcontacts.civilianintelligencenetwork.ca
+0.0.0.0 cpcontacts.clarkcountytoday.com
 0.0.0.0 cpcontacts.climatechangedispatch.com
 0.0.0.0 cpcontacts.clone.brasscheck.com
 0.0.0.0 cpcontacts.cmevt.com
 0.0.0.0 cpcontacts.colloidalsilverzone.com
 0.0.0.0 cpcontacts.comm.tm.org
+0.0.0.0 cpcontacts.commonlawnews.com
 0.0.0.0 cpcontacts.communications.tm.org
 0.0.0.0 cpcontacts.confinedtosuccess.com
 0.0.0.0 cpcontacts.connoils.com
@@ -5045,6 +5109,7 @@
 0.0.0.0 cpcontacts.freenorth.news
 0.0.0.0 cpcontacts.frontlinemds.com
 0.0.0.0 cpcontacts.frontlinemedicaldoctors.com
+0.0.0.0 cpcontacts.frontlinesohio.com
 0.0.0.0 cpcontacts.futuregenerationssd.com
 0.0.0.0 cpcontacts.g2church239.org
 0.0.0.0 cpcontacts.g2sacraments.org
@@ -5070,6 +5135,7 @@
 0.0.0.0 cpcontacts.greenfieldwater.com
 0.0.0.0 cpcontacts.greenmms.com
 0.0.0.0 cpcontacts.gregcaton.com
+0.0.0.0 cpcontacts.guardiansofmedicalchoice.com
 0.0.0.0 cpcontacts.gumshoenews.com
 0.0.0.0 cpcontacts.handofhelp.com
 0.0.0.0 cpcontacts.handsofhopewalton.org
@@ -5107,6 +5173,7 @@
 0.0.0.0 cpcontacts.idahodispatch.com
 0.0.0.0 cpcontacts.ilads.org
 0.0.0.0 cpcontacts.illinoisvaccineawareness.org
+0.0.0.0 cpcontacts.imcwc.bpl.fyi
 0.0.0.0 cpcontacts.in5d.com
 0.0.0.0 cpcontacts.infoarmed.com
 0.0.0.0 cpcontacts.inmycommunity.com.au
@@ -5120,6 +5187,7 @@
 0.0.0.0 cpcontacts.irisbell.com
 0.0.0.0 cpcontacts.irishfreedom.ie
 0.0.0.0 cpcontacts.irishsavant.net
+0.0.0.0 cpcontacts.italytravelideas.com
 0.0.0.0 cpcontacts.itnshow.com
 0.0.0.0 cpcontacts.ivantic.info
 0.0.0.0 cpcontacts.jamaica.tm.org
@@ -5235,6 +5303,7 @@
 0.0.0.0 cpcontacts.pointsofreturnacupuncture.com
 0.0.0.0 cpcontacts.portaltoawakening.com
 0.0.0.0 cpcontacts.portofwinlock.com
+0.0.0.0 cpcontacts.porttownsendfreepress.com
 0.0.0.0 cpcontacts.prayeriswarfare.com
 0.0.0.0 cpcontacts.prayformychild.org
 0.0.0.0 cpcontacts.prepperwebsite.com
@@ -5284,6 +5353,7 @@
 0.0.0.0 cpcontacts.shoprbn.com
 0.0.0.0 cpcontacts.silverlungs.com
 0.0.0.0 cpcontacts.sinkswimchicago.com
+0.0.0.0 cpcontacts.skirsch.com
 0.0.0.0 cpcontacts.slaveplanet.net
 0.0.0.0 cpcontacts.smartmetereducationnetwork.com
 0.0.0.0 cpcontacts.smombiegate.org
@@ -5292,8 +5362,10 @@
 0.0.0.0 cpcontacts.speakingaboutnews.com
 0.0.0.0 cpcontacts.spiritsillumination.com
 0.0.0.0 cpcontacts.springintegrativehealth.com
+0.0.0.0 cpcontacts.staging.clarkcountytoday.com
 0.0.0.0 cpcontacts.staging.handofhelp.com
 0.0.0.0 cpcontacts.staging.water-for-health.co.uk
+0.0.0.0 cpcontacts.starnewseducationfoundation.org
 0.0.0.0 cpcontacts.stephanieseneff.net
 0.0.0.0 cpcontacts.steverotter.com
 0.0.0.0 cpcontacts.stop007.org
@@ -5408,6 +5480,7 @@
 0.0.0.0 cpld.nl
 0.0.0.0 cpocpac.org
 0.0.0.0 cprice.metagenics.com
+0.0.0.0 cpsnewsnetwork.com
 0.0.0.0 cptg.metagenics.com
 0.0.0.0 cracknewz.com
 0.0.0.0 craigdavis.myctfo.com
@@ -5673,6 +5746,7 @@
 0.0.0.0 david.thegoodinside.com
 0.0.0.0 davidbennett.metagenics.com
 0.0.0.0 davidbrandel.thegoodinside.com
+0.0.0.0 daviddaniels.com
 0.0.0.0 davidex.myctfo.com
 0.0.0.0 davidford.myasealive.com
 0.0.0.0 davidfulton3.wordpress.com
@@ -6014,6 +6088,7 @@
 0.0.0.0 demo.karelianheritage.com
 0.0.0.0 demo.naturalnews.com
 0.0.0.0 demo.totalhealthmagazine.com
+0.0.0.0 demo.weliveconscious.com
 0.0.0.0 democide.news
 0.0.0.0 democracydeclaration.com
 0.0.0.0 democratsagainstunagenda21.com
@@ -6069,9 +6144,13 @@
 0.0.0.0 dev.abovetopsecret.com
 0.0.0.0 dev.academy.mises.org
 0.0.0.0 dev.admin.charismapodcastnetwork.com
+0.0.0.0 dev.adserver.afa.net
+0.0.0.0 dev.afa.net
+0.0.0.0 dev.afajournal.org
 0.0.0.0 dev.allianceforadvancedhealth.com
 0.0.0.0 dev.amazingdiscoveries.tv
 0.0.0.0 dev.app.21daybraindetox.com
+0.0.0.0 dev.apppush.afa.net
 0.0.0.0 dev.asiatatler.com
 0.0.0.0 dev.ask-angels.com
 0.0.0.0 dev.awakecanada.org
@@ -6138,6 +6217,7 @@
 0.0.0.0 dev.ijr.com
 0.0.0.0 dev.institutefornaturalhealing.com
 0.0.0.0 dev.integrativenutrition.com
+0.0.0.0 dev.intranet.afa.net
 0.0.0.0 dev.irate4x4.com
 0.0.0.0 dev.journal-neo.org
 0.0.0.0 dev.juicing-for-health.com
@@ -6177,6 +6257,7 @@
 0.0.0.0 dev.physiciansforinformedconsent.org
 0.0.0.0 dev.pjhlaw.co.uk
 0.0.0.0 dev.prairiehealthwellness.com
+0.0.0.0 dev.pray.afa.net
 0.0.0.0 dev.prisonplanet.com
 0.0.0.0 dev.prn.fm
 0.0.0.0 dev.prohealth.com
@@ -6200,6 +6281,7 @@
 0.0.0.0 dev.stevegruber.com
 0.0.0.0 dev.strangesounds.org
 0.0.0.0 dev.strategic-culture.org
+0.0.0.0 dev.streaming.afa.net
 0.0.0.0 dev.synergyscience.com
 0.0.0.0 dev.templetonlist.com
 0.0.0.0 dev.tetramedic.com
@@ -6241,6 +6323,7 @@
 0.0.0.0 dev2.ph.asiatatler.com
 0.0.0.0 dev2.revolver.news
 0.0.0.0 dev2.sg.asiatatler.com
+0.0.0.0 dev2.streaming.afa.net
 0.0.0.0 dev2.thecbdistillery.com
 0.0.0.0 dev2.thenewamerican.com
 0.0.0.0 dev2.tw.asiatatler.com
@@ -6274,6 +6357,7 @@
 0.0.0.0 devserver.howestreet.com
 0.0.0.0 devshop.chopra.com
 0.0.0.0 devstage.rumble.com
+0.0.0.0 devstore1.afa.net
 0.0.0.0 devtest.infowars.com
 0.0.0.0 devtest.onegreenplanet.org
 0.0.0.0 dewhealthy.myctfo.com
@@ -6483,6 +6567,7 @@
 0.0.0.0 domesticterrorism.com
 0.0.0.0 dominionfoodie.ca
 0.0.0.0 donald-defelice-jr.healthcoach1.integrativenutrition.com
+0.0.0.0 donate.afa.net
 0.0.0.0 donate.davidlynchfoundation.org
 0.0.0.0 donate.ewg.org
 0.0.0.0 donate.firepowerministry.org
@@ -6492,6 +6577,10 @@
 0.0.0.0 donate.revolver.news
 0.0.0.0 donate.tnc.news
 0.0.0.0 donate.wearechange.org
+0.0.0.0 donateapi.afa.net
+0.0.0.0 donateapiinternal.afa.net
+0.0.0.0 donateapitgj.afa.net
+0.0.0.0 donatetestapi.afa.net
 0.0.0.0 donations.ronpaulinstitute.org
 0.0.0.0 donations.solari.com
 0.0.0.0 donboys.cstnews.com
@@ -6502,6 +6591,7 @@
 0.0.0.0 donnamcfarland.healthcoach.integrativenutrition.com
 0.0.0.0 donnavogel.ylsocial.net
 0.0.0.0 donovangiraud.myctfo.com
+0.0.0.0 donpaulwearerev.com
 0.0.0.0 donturner1959.myasealive.com
 0.0.0.0 doo.doomandbloom.net
 0.0.0.0 doodyfreegirl.metagenics.com
@@ -7317,6 +7407,7 @@
 0.0.0.0 eprofitmarket.myctfo.com
 0.0.0.0 equijuri.myasealive.com
 0.0.0.0 equilibrium.metagenics.com
+0.0.0.0 equip.afa.net
 0.0.0.0 eraoflight.com
 0.0.0.0 erfolgscoach.myasealive.com
 0.0.0.0 eric-levy.healthcoach1.integrativenutrition.com
@@ -7424,6 +7515,7 @@
 0.0.0.0 evenjdrage.myasealive.com
 0.0.0.0 event.davidlynchfoundation.org
 0.0.0.0 event.vaccineeducation.org
+0.0.0.0 events.aier.org
 0.0.0.0 events.amazingdiscoveries.org
 0.0.0.0 events.coachdavelive.com
 0.0.0.0 events.heel.com
@@ -7451,6 +7543,7 @@
 0.0.0.0 ewihealth.metagenics.com
 0.0.0.0 exchange.g2sacraments.org
 0.0.0.0 exchange.heartland.org
+0.0.0.0 exchange2010.afa.net
 0.0.0.0 exclusive.foodmatters.com
 0.0.0.0 executivereasoning.com
 0.0.0.0 exhibitor.integrativepractitioner.com
@@ -7718,6 +7811,7 @@
 0.0.0.0 flipman.metagenics.com
 0.0.0.0 florahealth.com
 0.0.0.0 florida.tenthamendmentcenter.com
+0.0.0.0 floridacapitalstar.com
 0.0.0.0 floridahemp.myctfo.com
 0.0.0.0 flow01.gcnlive.com
 0.0.0.0 flow02.gcnlive.com
@@ -7867,6 +7961,7 @@
 0.0.0.0 fr01tvp001.drsha.com
 0.0.0.0 fr01tvp002.drsha.com
 0.0.0.0 fr1.craigmurray.org.uk
+0.0.0.0 fr24news.com
 0.0.0.0 fracking.news
 0.0.0.0 frackingwatch.com
 0.0.0.0 fractal.org
@@ -7999,6 +8094,7 @@
 0.0.0.0 frontlinecanada.ca
 0.0.0.0 frontlinemds.com
 0.0.0.0 frontlinemedicaldoctors.com
+0.0.0.0 frontlinesohio.com
 0.0.0.0 frontpagemag.com
 0.0.0.0 frot.co.nz
 0.0.0.0 fructose.mercola.com
@@ -8014,6 +8110,7 @@
 0.0.0.0 ftp.369news.net
 0.0.0.0 ftp.5gappeal.eu
 0.0.0.0 ftp.acupuncture.com
+0.0.0.0 ftp.afa.net
 0.0.0.0 ftp.ahealedplanet.net
 0.0.0.0 ftp.askdrshah.com
 0.0.0.0 ftp.astroawani.com
@@ -8216,10 +8313,12 @@
 0.0.0.0 georgevalah.wordpress.com
 0.0.0.0 georgia.tenthamendmentcenter.com
 0.0.0.0 georgiarecord.com
+0.0.0.0 georgiastarnews.com
 0.0.0.0 georgiavaxchoice.org
 0.0.0.0 georgina-seeck.healthcoach.integrativenutrition.com
 0.0.0.0 geowatchapp.com
 0.0.0.0 geraldtaze.myctfo.com
+0.0.0.0 gerardrennick.com.au
 0.0.0.0 german.mercola.com
 0.0.0.0 germanshepherddaily.roxytube.com
 0.0.0.0 gerri-kaufmann.healthcoach1.integrativenutrition.com
@@ -8308,6 +8407,7 @@
 0.0.0.0 gitlab.charismamedia.com
 0.0.0.0 gitlab.rt.com
 0.0.0.0 giuliab.myctfo.com
+0.0.0.0 give.afa.net
 0.0.0.0 give.drsyedhaider.com
 0.0.0.0 give.lifesitenews.com
 0.0.0.0 givesendgo.com
@@ -8589,6 +8689,7 @@
 0.0.0.0 gttidcsmtp02mx1.mercola.com
 0.0.0.0 gtv.genesisradiobirmingham.com
 0.0.0.0 guardian.inmycommunity.com.au
+0.0.0.0 guardiansofmedicalchoice.com
 0.0.0.0 gudin.rt.com
 0.0.0.0 guest.davidlynchfoundation.org
 0.0.0.0 guidelines.lymenet.org
@@ -8640,6 +8741,7 @@
 0.0.0.0 handwritingpractice.chem-tox.com
 0.0.0.0 hangthecensors.com
 0.0.0.0 hankstuff.myctfo.com
+0.0.0.0 hannahroselaw.co.uk
 0.0.0.0 hannasofia.myasealive.com
 0.0.0.0 hannenabintuherland.com
 0.0.0.0 hapbee.com
@@ -8952,6 +9054,7 @@
 0.0.0.0 healthywealthydiva.youngevityonline.com
 0.0.0.0 healthywhole.thegoodinside.com
 0.0.0.0 healthywildandfree.com
+0.0.0.0 healthyyouapi.afa.net
 0.0.0.0 healthzzz.com
 0.0.0.0 healyourlife.com
 0.0.0.0 hear-the-watchmen.myshopify.com
@@ -9020,6 +9123,7 @@
 0.0.0.0 help.rumble.com
 0.0.0.0 help.solari.com
 0.0.0.0 help.tenthamendmentcenter.com
+0.0.0.0 help.weliveconscious.com
 0.0.0.0 help.wozinga.com
 0.0.0.0 helpdesk.infowars.com
 0.0.0.0 helpforcells.myasealive.com
@@ -9261,6 +9365,7 @@
 0.0.0.0 host.americanfreepress.net
 0.0.0.0 host.catholicism.org
 0.0.0.0 host.childrenshealthdefense.org
+0.0.0.0 host.clarkcountytoday.com
 0.0.0.0 host.commonsensehome.com
 0.0.0.0 host.doctormurray.com
 0.0.0.0 host.dogsnaturallymagazine.com
@@ -9746,6 +9851,7 @@
 0.0.0.0 iceh.thegoodinside.com
 0.0.0.0 ichbinanderermeinung.de
 0.0.0.0 ickonic.com
+0.0.0.0 icnmnaturopathy.eu
 0.0.0.0 iconzhealth.myctfo.com
 0.0.0.0 icpa4kids.com
 0.0.0.0 icrl.org
@@ -9826,6 +9932,7 @@
 0.0.0.0 imap.kla.tv
 0.0.0.0 imap.pensarcovid.com
 0.0.0.0 imap.visiontimes.com
+0.0.0.0 imcwc.bpl.fyi
 0.0.0.0 imedianetwork.org
 0.0.0.0 imeof.org
 0.0.0.0 img.abovetopsecret.com
@@ -9910,6 +10017,7 @@
 0.0.0.0 infoarmed.com
 0.0.0.0 infoclashnews.com
 0.0.0.0 infonbites.com
+0.0.0.0 inform.afa.net
 0.0.0.0 information.iherb.com
 0.0.0.0 informationclearinghouse.info
 0.0.0.0 informationliberation.com
@@ -10015,6 +10123,7 @@
 0.0.0.0 intothelight.news
 0.0.0.0 intractablepainsyndrome.com
 0.0.0.0 intramail.naturesway.com
+0.0.0.0 intranet.afa.net
 0.0.0.0 intranet.falls.md
 0.0.0.0 intranet.healthydirections.com
 0.0.0.0 intranet.pennybrohn.org.uk
@@ -10035,6 +10144,7 @@
 0.0.0.0 ion.ac.uk
 0.0.0.0 ionity-104.nunm.edu
 0.0.0.0 iotwreport.com
+0.0.0.0 iowaclimate.org
 0.0.0.0 iowansforinformedconsent.com
 0.0.0.0 ip5.clearskymedical.com
 0.0.0.0 ipakfocus.com
@@ -10094,6 +10204,8 @@
 0.0.0.0 it.sputniknews.com
 0.0.0.0 itaintholywater.blogspot.com
 0.0.0.0 italiano.mercola.com
+0.0.0.0 italy24news.com
+0.0.0.0 italytravelideas.com
 0.0.0.0 itchangeslives.myctfo.com
 0.0.0.0 ithacannabis.myctfo.com
 0.0.0.0 ithelp.hippocratesinst.org
@@ -10110,6 +10222,7 @@
 0.0.0.0 iva.ivas.org
 0.0.0.0 ivantic.info
 0.0.0.0 ivas.org
+0.0.0.0 ivermectin.africa
 0.0.0.0 ivermectin4covid.com
 0.0.0.0 ivermectincan.com
 0.0.0.0 ivermectinscience.com
@@ -10401,6 +10514,7 @@
 0.0.0.0 joandearc.churchmilitant.com
 0.0.0.0 joanna-puciata.healthcoach1.integrativenutrition.com
 0.0.0.0 joanne-rafalo.healthcoach1.integrativenutrition.com
+0.0.0.0 joannenova.com.au
 0.0.0.0 jobs.wozinga.com
 0.0.0.0 jocelyn-brown.healthcoach.integrativenutrition.com
 0.0.0.0 jodibaglien.biomatnetwork.com
@@ -10475,6 +10589,7 @@
 0.0.0.0 journal.hpathy.com
 0.0.0.0 journal.iabdm.org
 0.0.0.0 journal.thriveglobal.com
+0.0.0.0 journalapi.afa.net
 0.0.0.0 journalism.catholicism.org
 0.0.0.0 journalism.news
 0.0.0.0 journals.hpathy.com
@@ -10506,6 +10621,7 @@
 0.0.0.0 jreardon.metagenics.com
 0.0.0.0 jrickys.myctfo.com
 0.0.0.0 jrseco.com
+0.0.0.0 jrsguardianvoice.com
 0.0.0.0 js.sustainablepulse.com
 0.0.0.0 jsamson.myctfo.com
 0.0.0.0 jsbody.stylecraze.com
@@ -11197,6 +11313,7 @@
 0.0.0.0 links.iherb.com
 0.0.0.0 links.savecanada.army
 0.0.0.0 linkshare.whatfinger.com
+0.0.0.0 linktree.daviddaniels.com
 0.0.0.0 linn.myasealive.com
 0.0.0.0 lionrob.myctfo.com
 0.0.0.0 lionsfuel.com
@@ -11236,6 +11353,7 @@
 0.0.0.0 listen.warroom.org
 0.0.0.0 listeninghand.myctfo.com
 0.0.0.0 listmonk.grimerica.ca
+0.0.0.0 lists.alipac.us
 0.0.0.0 lists.ezinearticles.com
 0.0.0.0 lists.infowars.com
 0.0.0.0 lists.norml.org
@@ -11367,6 +11485,7 @@
 0.0.0.0 locust.us-west-2.stcf.infowars.com
 0.0.0.0 loftcoin.net
 0.0.0.0 log.logisticsmonster.com
+0.0.0.0 login.afa.net
 0.0.0.0 login.aulterra.com
 0.0.0.0 login.doterra.com
 0.0.0.0 login.integrativenutrition.com
@@ -11517,6 +11636,7 @@
 0.0.0.0 m.emails.lifeextension.com
 0.0.0.0 m.emersonecologics.com
 0.0.0.0 m.emfservices.com
+0.0.0.0 m.fr24news.com
 0.0.0.0 m.freedomclubusa.org
 0.0.0.0 m.handofhelp.com
 0.0.0.0 m.iherb.com
@@ -11671,8 +11791,10 @@
 0.0.0.0 mail.anticancermom.com
 0.0.0.0 mail.api.bioptimizers.com
 0.0.0.0 mail.ar15.com
+0.0.0.0 mail.archyde.com
 0.0.0.0 mail.areyouwalkingtall.com
 0.0.0.0 mail.arizonaadvancedmedicine.com
+0.0.0.0 mail.arizonasuntimes.com
 0.0.0.0 mail.armswatch.com
 0.0.0.0 mail.asiapacifictoday.tv
 0.0.0.0 mail.ask-angels.com
@@ -11708,6 +11830,7 @@
 0.0.0.0 mail.bioelectromagnetics.org
 0.0.0.0 mail.biohackinfo.com
 0.0.0.0 mail.bioptimizers.com
+0.0.0.0 mail.biotechexpressmag.com
 0.0.0.0 mail.bioticsresearch.com
 0.0.0.0 mail.birthpsychology.com
 0.0.0.0 mail.bittube.tv
@@ -11775,6 +11898,7 @@
 0.0.0.0 mail.colediagnostics.com
 0.0.0.0 mail.colorado-center.com
 0.0.0.0 mail.comm.tm.org
+0.0.0.0 mail.commonlawnews.com
 0.0.0.0 mail.commonsenseevaluation.com
 0.0.0.0 mail.communications.tm.org
 0.0.0.0 mail.concerneddoctors.org
@@ -11932,6 +12056,7 @@
 0.0.0.0 mail.fromdusktildawn.org.uk
 0.0.0.0 mail.frontlinemds.com
 0.0.0.0 mail.frontlinemedicaldoctors.com
+0.0.0.0 mail.frontlinesohio.com
 0.0.0.0 mail.functionalmedicinecoaching.org
 0.0.0.0 mail.futuregenerationssd.com
 0.0.0.0 mail.g2church239.org
@@ -11977,6 +12102,7 @@
 0.0.0.0 mail.greenmms.com
 0.0.0.0 mail.grimerica.ca
 0.0.0.0 mail.gript.ie
+0.0.0.0 mail.guardiansofmedicalchoice.com
 0.0.0.0 mail.gumshoenews.com
 0.0.0.0 mail.handsofhopewalton.org
 0.0.0.0 mail.hartgroup.org
@@ -12036,6 +12162,7 @@
 0.0.0.0 mail.ijr.com
 0.0.0.0 mail.ilads.org
 0.0.0.0 mail.illinoisvaccineawareness.org
+0.0.0.0 mail.imcwc.bpl.fyi
 0.0.0.0 mail.imeof.org
 0.0.0.0 mail.imjustcharlie.com
 0.0.0.0 mail.in-this-together.com
@@ -12053,6 +12180,7 @@
 0.0.0.0 mail.ion.ac.uk
 0.0.0.0 mail.iridologycollege.org
 0.0.0.0 mail.israelshamir.net
+0.0.0.0 mail.italytravelideas.com
 0.0.0.0 mail.itnshow.com
 0.0.0.0 mail.itnt.news
 0.0.0.0 mail.jamaica.tm.org
@@ -12250,6 +12378,7 @@
 0.0.0.0 mail.policeforfreedom.org
 0.0.0.0 mail.portaltoawakening.com
 0.0.0.0 mail.portofwinlock.com
+0.0.0.0 mail.porttownsendfreepress.com
 0.0.0.0 mail.powerwatch.org.uk
 0.0.0.0 mail.prayformychild.org
 0.0.0.0 mail.prepforthat.com
@@ -12384,6 +12513,7 @@
 0.0.0.0 mail.thecognitiveman.com
 0.0.0.0 mail.thecompleteherbalguide.com
 0.0.0.0 mail.thecrystalgarden.com
+0.0.0.0 mail.thedailyblog.co.nz
 0.0.0.0 mail.thedailycoin.org
 0.0.0.0 mail.theendoftimes.news
 0.0.0.0 mail.thefreedomarticles.com
@@ -12447,6 +12577,7 @@
 0.0.0.0 mail.unifythepeople.ca
 0.0.0.0 mail.unitedpushback.com
 0.0.0.0 mail.unshackledminds.com
+0.0.0.0 mail.usaradiohealth.com
 0.0.0.0 mail.usawatchdog.com
 0.0.0.0 mail.usfreedomflyers.org
 0.0.0.0 mail.vaccinatieschade.be
@@ -12845,6 +12976,7 @@
 0.0.0.0 medfoxpub.com
 0.0.0.0 medfreedom-int.org
 0.0.0.0 media.abovetopsecret.com
+0.0.0.0 media.afa.net
 0.0.0.0 media.doterra.com
 0.0.0.0 media.essentialformulas.com
 0.0.0.0 media.ezinearticles.com
@@ -12875,6 +13007,7 @@
 0.0.0.0 mediafactwatch.com
 0.0.0.0 mediafilelibrary.myasealive.com
 0.0.0.0 mediakit.asiatatler.com
+0.0.0.0 mediaserver3.afa.net
 0.0.0.0 mediaservices.drsha.com
 0.0.0.0 mediaverite.blogspot.com
 0.0.0.0 medical.hpathy.com
@@ -12958,6 +13091,7 @@
 0.0.0.0 melody345.myctfo.com
 0.0.0.0 melville.inmycommunity.com.au
 0.0.0.0 member.greensmoothie.com
+0.0.0.0 members.aier.org
 0.0.0.0 members.amymyersmd.com
 0.0.0.0 members.carenotcuts.ca
 0.0.0.0 members.dogsnaturallymagazine.com
@@ -13391,6 +13525,7 @@
 0.0.0.0 mrichichi.metagenics.com
 0.0.0.0 mrichman.metagenics.com
 0.0.0.0 mrimail1.gcnlive.com
+0.0.0.0 mrkevinlau.medium.com
 0.0.0.0 mrsuite.healthpost.co.nz
 0.0.0.0 mrtnate.myctfo.com
 0.0.0.0 mrtony.youngevityonline.com
@@ -13706,6 +13841,7 @@
 0.0.0.0 mystreetmychoice.com
 0.0.0.0 mysunrisecenter.com
 0.0.0.0 mysupplementadvice.com
+0.0.0.0 mytheworldtoday.blogspot.com
 0.0.0.0 myuniquewellness.com
 0.0.0.0 myvitalc.com
 0.0.0.0 myway14.myctfo.com
@@ -13768,6 +13904,7 @@
 0.0.0.0 national-coalition.catholicism.org
 0.0.0.0 national-health-federation.rallycongress.net
 0.0.0.0 national-taskforce.org
+0.0.0.0 nationalconstitutionbee.org
 0.0.0.0 nationaldailyng.com
 0.0.0.0 nationaldebt.news
 0.0.0.0 nationaldirectors.tm.org
@@ -13895,7 +14032,10 @@
 0.0.0.0 naturopathic.org
 0.0.0.0 naturopathicdoctorforyou.com
 0.0.0.0 naturopathicmedicineinstitute.org
+0.0.0.0 naturopathicpediatrics.com
 0.0.0.0 naturopathicproducts.youngevityonline.com
+0.0.0.0 naturopathicst.wpengine.com
+0.0.0.0 naturopathicstandards.org
 0.0.0.0 naturopaths.gcrn.org.uk
 0.0.0.0 naturopathvet.com
 0.0.0.0 naturopathy-uk.com
@@ -14157,6 +14297,7 @@
 0.0.0.0 newsletters.mercola.com
 0.0.0.0 newsletters.ministrytodaymag.com
 0.0.0.0 newslive.space
+0.0.0.0 newsmediainquiry.wordpress.com
 0.0.0.0 newsofinterest.tv
 0.0.0.0 newsoz.org
 0.0.0.0 newspunch.com
@@ -14165,6 +14306,7 @@
 0.0.0.0 newstarget.com
 0.0.0.0 newsteam.rt.com
 0.0.0.0 newstore.drhyman.com
+0.0.0.0 newstreason.com
 0.0.0.0 newsview.gr
 0.0.0.0 newsvoice.se
 0.0.0.0 newswars.com
@@ -14210,6 +14352,7 @@
 0.0.0.0 nicholasveniamin.com
 0.0.0.0 nick-oddo.healthcoach.integrativenutrition.com
 0.0.0.0 nick-oddo.healthcoach1.integrativenutrition.com
+0.0.0.0 nick.afapledge.afa.net
 0.0.0.0 nickklein.metagenics.com
 0.0.0.0 nickv.live
 0.0.0.0 nickv.uk
@@ -14316,6 +14459,7 @@
 0.0.0.0 normanpilon.com
 0.0.0.0 norml.org
 0.0.0.0 northcarolina.tenthamendmentcenter.com
+0.0.0.0 northcarolinadailystar.com
 0.0.0.0 northcoast.inmycommunity.com.au
 0.0.0.0 northeastacupuncture.metagenics.com
 0.0.0.0 northerntruthseeker.blogspot.com
@@ -14376,6 +14520,7 @@
 0.0.0.0 ns1.breastcancerconqueror.com
 0.0.0.0 ns1.childrenshealthdefense.org
 0.0.0.0 ns1.childrenshealthdefense.org.
+0.0.0.0 ns1.clarkcountytoday.com
 0.0.0.0 ns1.csnn.ca
 0.0.0.0 ns1.defendingtherepublic.org
 0.0.0.0 ns1.designsforhealth.com
@@ -14453,6 +14598,7 @@
 0.0.0.0 ns1.stopfattyliver.com
 0.0.0.0 ns1.strangesounds.org
 0.0.0.0 ns1.thecompleteherbalguide.com
+0.0.0.0 ns1.thedailyblog.co.nz
 0.0.0.0 ns1.theeconomiccollapseblog.com
 0.0.0.0 ns1.thehocatt.com
 0.0.0.0 ns1.thelibertyloft.com
@@ -14481,6 +14627,7 @@
 0.0.0.0 ns2.breastcancerconqueror.com
 0.0.0.0 ns2.childrenshealthdefense.org
 0.0.0.0 ns2.childrenshealthdefense.org.
+0.0.0.0 ns2.clarkcountytoday.com
 0.0.0.0 ns2.csnn.ca
 0.0.0.0 ns2.defendingtherepublic.org
 0.0.0.0 ns2.designsforhealth.com
@@ -14557,6 +14704,7 @@
 0.0.0.0 ns2.stopfattyliver.com
 0.0.0.0 ns2.strangesounds.org
 0.0.0.0 ns2.thecompleteherbalguide.com
+0.0.0.0 ns2.thedailyblog.co.nz
 0.0.0.0 ns2.theeconomiccollapseblog.com
 0.0.0.0 ns2.thehocatt.com
 0.0.0.0 ns2.thelibertyloft.com
@@ -14614,6 +14762,7 @@
 0.0.0.0 nuevamedicinaperu.blogspot.com
 0.0.0.0 nunm.edu
 0.0.0.0 nurembergtrials.net
+0.0.0.0 nurembergvip.net
 0.0.0.0 nurishinghope.healthfulliving.org
 0.0.0.0 nurseerinwellness.wpcomstaging.com
 0.0.0.0 nursepat.myctfo.com
@@ -14917,6 +15066,7 @@
 0.0.0.0 op.hippocratesinst.org
 0.0.0.0 opal.frontlinemds.com
 0.0.0.0 opal2.kla.tv
+0.0.0.0 opalcallers.afa.net
 0.0.0.0 opednews.com
 0.0.0.0 openborders.news
 0.0.0.0 openid-server.awsvoprd.youngliving.com
@@ -15179,6 +15329,9 @@
 0.0.0.0 ourworldisawakening.net
 0.0.0.0 ourworldlegends.com
 0.0.0.0 outbound-mx-1.designsforhealth.com
+0.0.0.0 outbound.afa.net
+0.0.0.0 outbound2.afa.net
+0.0.0.0 outbound3.afa.net
 0.0.0.0 outbound53.renewedright.com
 0.0.0.0 outbound54.renewedright.com
 0.0.0.0 outbound55.renewedright.com
@@ -15270,6 +15423,7 @@
 0.0.0.0 pandemicdebate.com
 0.0.0.0 pandemictimeline.com
 0.0.0.0 pandora-foundation.eu
+0.0.0.0 panel.archyde.com
 0.0.0.0 panel.pensarcovid.com
 0.0.0.0 panic.news
 0.0.0.0 pankaj.thegoodinside.com
@@ -15421,6 +15575,7 @@
 0.0.0.0 pemftraining.com
 0.0.0.0 pendulumstudiosla.com
 0.0.0.0 pennsylvania.tenthamendmentcenter.com
+0.0.0.0 pennsylvaniadailystar.com
 0.0.0.0 penny.thegoodinside.com
 0.0.0.0 pennybrohn.org.uk
 0.0.0.0 pennyforyourthoughts2.blogspot.com
@@ -15531,6 +15686,7 @@
 0.0.0.0 photos.metrotimes.com
 0.0.0.0 php.namelyliberty.com
 0.0.0.0 phplist.healingcrystals.com
+0.0.0.0 phpmyadmin.archyde.com
 0.0.0.0 phyll41.myctfo.com
 0.0.0.0 phyllis-timoll.healthcoach1.integrativenutrition.com
 0.0.0.0 physiciansforinformedconsent.org
@@ -15555,6 +15711,7 @@
 0.0.0.0 pinholeglasses.naturalnews.com
 0.0.0.0 pinnaclemed.metagenics.com
 0.0.0.0 pinter.youngevityonline.com
+0.0.0.0 piotrbein.net
 0.0.0.0 pippipower.myasealive.com
 0.0.0.0 pittsburghalternativehealth.com
 0.0.0.0 pizzandy.myctfo.com
@@ -15693,6 +15850,10 @@
 0.0.0.0 polt.metagenics.com
 0.0.0.0 polymva.com
 0.0.0.0 pomegranate.naturalnews.com
+0.0.0.0 ponyexpress1.afa.net
+0.0.0.0 ponyexpress2.afa.net
+0.0.0.0 ponyexpress3.afa.net
+0.0.0.0 ponyexpress4.afa.net
 0.0.0.0 pookster.ozonewithoutborders.ngo
 0.0.0.0 poorrichardsnews.com
 0.0.0.0 pop.12bytes.org
@@ -15724,6 +15885,7 @@
 0.0.0.0 portal.vaccineinjury.info
 0.0.0.0 portaltoawakening.com
 0.0.0.0 portofwinlock.com
+0.0.0.0 porttownsendfreepress.com
 0.0.0.0 portugalsalutar.myasealive.com
 0.0.0.0 portugalsaudavel.myasealive.com
 0.0.0.0 portuguese.mercola.com
@@ -15769,9 +15931,11 @@
 0.0.0.0 praiseworkshealthwellness.myasealive.com
 0.0.0.0 pratherdeal.com
 0.0.0.0 pravda.infowars.com
+0.0.0.0 pray.afa.net
 0.0.0.0 prayeriswarfare.com
 0.0.0.0 prayerline.firepowerministry.org
 0.0.0.0 prayformychild.org
+0.0.0.0 pre.afapledge.afa.net
 0.0.0.0 precious8.myctfo.com
 0.0.0.0 preciousorganics.com.au
 0.0.0.0 preferences.nutraingredients-usa.com
@@ -15819,6 +15983,7 @@
 0.0.0.0 prevenzionesalutebellezza.myasealive.com
 0.0.0.0 preview.drhyman.com
 0.0.0.0 preview.truthout.org
+0.0.0.0 preview.weliveconscious.com
 0.0.0.0 price.hpathy.com
 0.0.0.0 priceless.myctfo.com
 0.0.0.0 primadonna.myasealive.com
@@ -15948,6 +16113,7 @@
 0.0.0.0 pugetsound.metagenics.com
 0.0.0.0 pukkaherbs.com
 0.0.0.0 pukkawifi.pukkaherbs.com
+0.0.0.0 pulseway.afa.net
 0.0.0.0 puppet.organixx.com
 0.0.0.0 pupshouse.myctfo.com
 0.0.0.0 purahome.com
@@ -16241,6 +16407,7 @@
 0.0.0.0 redpillpodcasts.com
 0.0.0.0 redpills.tv
 0.0.0.0 redpilluniversity.org
+0.0.0.0 redress4dummies.wordpress.com
 0.0.0.0 redrockchiropractic.metagenics.com
 0.0.0.0 redrose.myctfo.com
 0.0.0.0 redseacbd.thegoodinside.com
@@ -16253,6 +16420,7 @@
 0.0.0.0 reelcbd.myctfo.com
 0.0.0.0 refer.bioactivec60.com
 0.0.0.0 referral.rumble.com
+0.0.0.0 reflexivityspace.org
 0.0.0.0 reflexyoursole.ylsocial.net
 0.0.0.0 reformwithrachel.healthcoach.integrativenutrition.com
 0.0.0.0 reformwithrachel.healthcoach1.integrativenutrition.com
@@ -16365,6 +16533,7 @@
 0.0.0.0 resisttyranny.youngevityonline.com
 0.0.0.0 resjr59.myctfo.com
 0.0.0.0 resonateintowellness.com
+0.0.0.0 resources.afa.net
 0.0.0.0 resources.healthydirections.com
 0.0.0.0 resources.kimeralabs.com
 0.0.0.0 resources.ministrytodaymag.com
@@ -16426,6 +16595,7 @@
 0.0.0.0 rfidblockingwalletandsleeves.naturalnews.com
 0.0.0.0 rfidwallet.naturalnews.com
 0.0.0.0 rflorio.myasealive.com
+0.0.0.0 rforresistance.wordpress.com
 0.0.0.0 rfsafe.com
 0.0.0.0 rgreathouse48.myctfo.com
 0.0.0.0 rguerreso.metagenics.com
@@ -16543,6 +16713,7 @@
 0.0.0.0 rogerl.thegoodinside.com
 0.0.0.0 roguemale.org
 0.0.0.0 roguenews.com
+0.0.0.0 roguereview.net
 0.0.0.0 roland-mills.healthcoach.integrativenutrition.com
 0.0.0.0 roland-mills.healthcoach1.integrativenutrition.com
 0.0.0.0 rolanz.myasealive.com
@@ -16566,6 +16737,7 @@
 0.0.0.0 rooseveltcbdforall.myctfo.com
 0.0.0.0 rootcause.medfoxpub.com
 0.0.0.0 rootedinhealth.metagenics.com
+0.0.0.0 rootforamerica.com
 0.0.0.0 rootforliberty.com
 0.0.0.0 rootschiropractic.metagenics.com
 0.0.0.0 rosanne-st-bernard.healthcoach1.integrativenutrition.com
@@ -16650,6 +16822,7 @@
 0.0.0.0 runningironperformance.metagenics.com
 0.0.0.0 runstrong.myasealive.com
 0.0.0.0 rupart10.myctfo.com
+0.0.0.0 rupreparing.com
 0.0.0.0 rus.rt.com
 0.0.0.0 rusdak46.myctfo.com
 0.0.0.0 rusipedia.rt.com
@@ -16678,6 +16851,7 @@
 0.0.0.0 rweiner.metagenics.com
 0.0.0.0 rwellness.metagenics.com
 0.0.0.0 rwmalonemd.com
+0.0.0.0 rwmalonemd.substack.com
 0.0.0.0 rwongdc.metagenics.com
 0.0.0.0 rwwl.myctfo.com
 0.0.0.0 rx2go.com
@@ -16933,6 +17107,8 @@
 0.0.0.0 secretspaceprogram.org
 0.0.0.0 secretteacher.myctfo.com
 0.0.0.0 secure.action.news
+0.0.0.0 secure.afa.net
+0.0.0.0 secure.alipac.us
 0.0.0.0 secure.anthroposophy.org
 0.0.0.0 secure.ar15.com
 0.0.0.0 secure.beta.mindbodygreen.com
@@ -17143,6 +17319,7 @@
 0.0.0.0 share.nccaom.org
 0.0.0.0 share.newwaymba.com
 0.0.0.0 share.shopqlink.com
+0.0.0.0 shareathonwebhook.afa.net
 0.0.0.0 shares.nutritionstudies.org
 0.0.0.0 sharewithothers.myctfo.com
 0.0.0.0 sharingnatural.com
@@ -17374,6 +17551,31 @@
 0.0.0.0 sisenterprises.myasealive.com
 0.0.0.0 sisifocansado.blogspot.com
 0.0.0.0 site.parentsaganinstmandatoryvaccines.net
+0.0.0.0 site1.adserver.afa.net
+0.0.0.0 site1.afa.net
+0.0.0.0 site1.afajournal.org
+0.0.0.0 site1.afapledge.afa.net
+0.0.0.0 site1.apppush.afa.net
+0.0.0.0 site1.donate.afa.net
+0.0.0.0 site1.donateapi.afa.net
+0.0.0.0 site1.donateapitgj.afa.net
+0.0.0.0 site1.intranet.afa.net
+0.0.0.0 site1.pray.afa.net
+0.0.0.0 site1.streamer1.afa.net
+0.0.0.0 site1.wufooapi.afa.net
+0.0.0.0 site2.adserver.afa.net
+0.0.0.0 site2.afa.net
+0.0.0.0 site2.afajournal.org
+0.0.0.0 site2.afapledge.afa.net
+0.0.0.0 site2.apppush.afa.net
+0.0.0.0 site2.donate.afa.net
+0.0.0.0 site2.donateapi.afa.net
+0.0.0.0 site2.donateapitgj.afa.net
+0.0.0.0 site2.intranet.afa.net
+0.0.0.0 site2.pray.afa.net
+0.0.0.0 site2.streamer1.afa.net
+0.0.0.0 site2.streamingwebhook.afa.net
+0.0.0.0 site2.wufooapi.afa.net
 0.0.0.0 sites.ifw.io
 0.0.0.0 sites.livehealthybewell.com
 0.0.0.0 sivanaspirit.com
@@ -17390,7 +17592,9 @@
 0.0.0.0 skinnerup.myasealive.com
 0.0.0.0 skinsideout.myasealive.com
 0.0.0.0 skintuition.biomatnetwork.com
+0.0.0.0 skirsch.com
 0.0.0.0 skirsch.io
+0.0.0.0 skirsch.wordpress.com
 0.0.0.0 skivin.myctfo.com
 0.0.0.0 skquintela.myctfo.com
 0.0.0.0 skullcbd.myctfo.com
@@ -17456,6 +17660,7 @@
 0.0.0.0 smoothienurse.thegoodinside.com
 0.0.0.0 smoothlanding.myasealive.com
 0.0.0.0 smr.raphaelmedicine.com
+0.0.0.0 sms.afa.net
 0.0.0.0 smtp.12bytes.org
 0.0.0.0 smtp.alsearsmd.com
 0.0.0.0 smtp.askdrshah.com
@@ -17597,6 +17802,7 @@
 0.0.0.0 spaceship.institute
 0.0.0.0 spacetourism.news
 0.0.0.0 spacetravel.news
+0.0.0.0 spaceworms.substack.com
 0.0.0.0 spam.healthydirections.com
 0.0.0.0 spam.stylecraze.com
 0.0.0.0 spamariana.ylsocial.net
@@ -17606,6 +17812,7 @@
 0.0.0.0 sparclainemd.metagenics.com
 0.0.0.0 speakers.heartland.org
 0.0.0.0 speakers.tenthamendmentcenter.com
+0.0.0.0 speakfreely.substack.com
 0.0.0.0 speakingaboutnews.com
 0.0.0.0 speakingmoistly.co
 0.0.0.0 speakwithanmd.cadencehealth.us
@@ -17751,6 +17958,7 @@
 0.0.0.0 staging.canaryparty.org
 0.0.0.0 staging.ccp.flfe.net
 0.0.0.0 staging.christianpost.com
+0.0.0.0 staging.clarkcountytoday.com
 0.0.0.0 staging.clinicaleducation.org
 0.0.0.0 staging.cms.hk.asiatatler.com
 0.0.0.0 staging.cms.my.asiatatler.com
@@ -17832,6 +18040,7 @@
 0.0.0.0 staging.quadrant.org.au
 0.0.0.0 staging.raphaelmedicine.com
 0.0.0.0 staging.republicbroadcasting.org
+0.0.0.0 staging.rootforamerica.com
 0.0.0.0 staging.safespaceprotection.com
 0.0.0.0 staging.saraacarter.com
 0.0.0.0 staging.selfhacked.com
@@ -17858,6 +18067,7 @@
 0.0.0.0 staging.worldslastchance.com
 0.0.0.0 staging.wozinga.com
 0.0.0.0 staging.yournews.com
+0.0.0.0 staging02.weliveconscious.com
 0.0.0.0 staging1.5gdefense.com
 0.0.0.0 staging1.aulterra.com
 0.0.0.0 staging1.betterhealthguy.com
@@ -17902,12 +18112,14 @@
 0.0.0.0 staging5.truehealthinitiative.org
 0.0.0.0 staging6.urbanpump.com
 0.0.0.0 staging7.urbanpump.com
+0.0.0.0 stagingcct.clarkcountytoday.com
 0.0.0.0 staginglatest.thegoodinside.com
 0.0.0.0 stagingnew.thegoodinside.com
 0.0.0.0 stagingsecure.thetruthaboutcancer.com
 0.0.0.0 stagingtest.infowars.com
 0.0.0.0 stand4thee.com
 0.0.0.0 standforhealthfreedom.com
+0.0.0.0 standingforfreedom.com
 0.0.0.0 standupcalifornia.com
 0.0.0.0 standupcanada.solutions
 0.0.0.0 standupdefend.org
@@ -17918,6 +18130,7 @@
 0.0.0.0 starjob.healthydirections.com
 0.0.0.0 starkmanapproved.com
 0.0.0.0 starnationsnews.com
+0.0.0.0 starnewseducationfoundation.org
 0.0.0.0 starseeds.net
 0.0.0.0 start.amazingdiscoveries.org
 0.0.0.0 startafreeonlinebusiness.myctfo.com
@@ -17966,6 +18179,7 @@
 0.0.0.0 statusdata.librti.com
 0.0.0.0 stavoren.solari.com
 0.0.0.0 stayadamant.myctfo.com
+0.0.0.0 stayfree.ie
 0.0.0.0 staythecourseradio.org
 0.0.0.0 staywell.metagenics.com
 0.0.0.0 stcf.infowars.com
@@ -18172,6 +18386,8 @@
 0.0.0.0 stream1.infowars.com
 0.0.0.0 stream2.eurofolkradio.com
 0.0.0.0 stream2.infowars.com
+0.0.0.0 streamer1.afa.net
+0.0.0.0 streaming.afa.net
 0.0.0.0 streaming.drsha.com
 0.0.0.0 streaming.vcyamerica.org
 0.0.0.0 streams.c.infowars.com
@@ -18200,6 +18416,7 @@
 0.0.0.0 stylecraze.com
 0.0.0.0 stylewithinreach.net
 0.0.0.0 su2hd.myctfo.com
+0.0.0.0 subcount.afa.net
 0.0.0.0 subliminal.news
 0.0.0.0 subs.justthenews.com
 0.0.0.0 subscribe.healthrangerstore.com
@@ -18526,6 +18743,7 @@
 0.0.0.0 tender.tenthamendmentcenter.com
 0.0.0.0 tennessee.tenthamendmentcenter.com
 0.0.0.0 tennesseestands.org
+0.0.0.0 tennesseestar.com
 0.0.0.0 tenpennyfiles.podbean.com
 0.0.0.0 tenpennyimc.com
 0.0.0.0 tenpennyresearchlibrary.com
@@ -18544,6 +18762,7 @@
 0.0.0.0 test-tcreporting.drsha.com
 0.0.0.0 test-v3-preview.selfhacked.com
 0.0.0.0 test.agoravox.fr
+0.0.0.0 test.aier.org
 0.0.0.0 test.americanfaith.com
 0.0.0.0 test.askdrshah.com
 0.0.0.0 test.c60purplepower.com
@@ -18611,6 +18830,8 @@
 0.0.0.0 testopc.oildisplaycases.com
 0.0.0.0 testshop.mercola.com
 0.0.0.0 testsite.garydbarnett.com
+0.0.0.0 teststreamer.afa.net
+0.0.0.0 testwufooapi.afa.net
 0.0.0.0 tetrahedron.org
 0.0.0.0 tetramedic.com
 0.0.0.0 tetryonics.scienceoflife.nl
@@ -18691,6 +18912,7 @@
 0.0.0.0 thechaoscat.wordpress.com
 0.0.0.0 thechaoscat71.blogspot.com
 0.0.0.0 thecharmingtouch.youngevityonline.com
+0.0.0.0 thechristianrevolution.net
 0.0.0.0 thechristianview.tv
 0.0.0.0 thechroniclifediet.com
 0.0.0.0 thecoach.thegoodinside.com
@@ -18712,9 +18934,11 @@
 0.0.0.0 thecrowhouse.com
 0.0.0.0 thecrystalgarden.com
 0.0.0.0 thedailybell.com
+0.0.0.0 thedailyblog.co.nz
 0.0.0.0 thedailycoin.org
 0.0.0.0 thedailysheeple.com
 0.0.0.0 thedeadgenetoday.wordpress.com
+0.0.0.0 thedeplorablepatriot.com
 0.0.0.0 thedesertreview.com
 0.0.0.0 thedoctorwithin.com
 0.0.0.0 thedogplace.org
@@ -18732,6 +18956,7 @@
 0.0.0.0 theendoftimes.news
 0.0.0.0 theenergynd.myasealive.com
 0.0.0.0 theethicalskeptic.com
+0.0.0.0 theevent.global
 0.0.0.0 theexpose.uk
 0.0.0.0 thefallingdarkness.com
 0.0.0.0 thefatemperor.com
@@ -18815,9 +19040,11 @@
 0.0.0.0 themelkshow.com
 0.0.0.0 themelkshow.podbean.com
 0.0.0.0 themetabolismclinic.metagenics.com
+0.0.0.0 themichiganstar.com
 0.0.0.0 themightymiracleman.myasealive.com
 0.0.0.0 themillenniumreport.com
 0.0.0.0 themineralman.youngevityonline.com
+0.0.0.0 theminnesotasun.com
 0.0.0.0 themodelhealthshow.com
 0.0.0.0 themoneymanifesto.com
 0.0.0.0 themossreport.com
@@ -18834,6 +19061,7 @@
 0.0.0.0 thenewatlas.org
 0.0.0.0 thenhf.com
 0.0.0.0 thenutritionrevolution.store
+0.0.0.0 theohiostar.com
 0.0.0.0 theoilywitch.co.uk
 0.0.0.0 theokinawatonic.com
 0.0.0.0 theoneshotketo.com
@@ -18906,10 +19134,12 @@
 0.0.0.0 thespirit.team
 0.0.0.0 thestampedenews.1215.org
 0.0.0.0 thestandardsc.org
+0.0.0.0 thestarnewsnetwork.com
 0.0.0.0 thesteelereport.com
 0.0.0.0 thesurvivalpodcast.com
 0.0.0.0 thetahealth.co.za
 0.0.0.0 thetappingsolution.com
+0.0.0.0 thetexaslonestar.com
 0.0.0.0 thethinkingconservative.com
 0.0.0.0 thethriveclinic.com
 0.0.0.0 thetimeisnowproject.birthingthefuture.org
@@ -18932,6 +19162,7 @@
 0.0.0.0 thevibrantchange.myctfo.com
 0.0.0.0 theviennareport.us
 0.0.0.0 thevinnyeastwoodshow.com
+0.0.0.0 thevirginiastar.com
 0.0.0.0 thevitaminherbalstore.thecompleteherbalguide.com
 0.0.0.0 thewallwillfall.org
 0.0.0.0 thewarrengebertgallery.iotwreport.com
@@ -19438,6 +19669,7 @@
 0.0.0.0 uniqueestates.howestreet.com
 0.0.0.0 uniquestereotype.hebrew4christians.com
 0.0.0.0 unite.standupcalifornia.com
+0.0.0.0 unite4truth.com
 0.0.0.0 uniteamericafirst.com
 0.0.0.0 unitedagainstmindcontrol.wordpress.com
 0.0.0.0 unitedlovenlight.wordpress.com
@@ -19488,6 +19720,7 @@
 0.0.0.0 uprising.news
 0.0.0.0 uprootedpalestinians.wordpress.com
 0.0.0.0 upsale.bioptimizers.com
+0.0.0.0 uptime.afa.net
 0.0.0.0 uptownacupuncture.metagenics.com
 0.0.0.0 uptownwellness.metagenics.com
 0.0.0.0 upyournosedrops.com
@@ -19508,6 +19741,7 @@
 0.0.0.0 us.myherbalife.com
 0.0.0.0 us.naturalfactors.com
 0.0.0.0 usamagazinestudio.com
+0.0.0.0 usaradiohealth.com
 0.0.0.0 usatomorrow.live
 0.0.0.0 usawatchdog.com
 0.0.0.0 usda.fetch.news
@@ -19720,6 +19954,7 @@
 0.0.0.0 vets4life.myctfo.com
 0.0.0.0 vi.sott.net
 0.0.0.0 viaeuropa.solari.com
+0.0.0.0 vianovamedia.com
 0.0.0.0 vibeheadzzz.com
 0.0.0.0 vibeketiller.myasealive.com
 0.0.0.0 vibeslifestyle.myctfo.com
@@ -19785,6 +20020,7 @@
 0.0.0.0 villapane.myctfo.com
 0.0.0.0 vimandvigor.com
 0.0.0.0 vimedicine.metagenics.com
+0.0.0.0 vinayprasadmdmph.substack.com
 0.0.0.0 vincecbd.myctfo.com
 0.0.0.0 vinceiori.org
 0.0.0.0 vincentparetti.myctfo.com
@@ -20002,6 +20238,7 @@
 0.0.0.0 waterpurifiers.news
 0.0.0.0 watertreatmentdrops.reikiranch.net
 0.0.0.0 waterwars.news
+0.0.0.0 wattsupwiththat.com
 0.0.0.0 wave.mindbodygreen.com
 0.0.0.0 wavegenetic.ru
 0.0.0.0 wavegenetics.org
@@ -20134,6 +20371,8 @@
 0.0.0.0 webdisk.anti-old.com
 0.0.0.0 webdisk.api.bioptimizers.com
 0.0.0.0 webdisk.aquarius-prolife.com
+0.0.0.0 webdisk.archyde.com
+0.0.0.0 webdisk.arizonasuntimes.com
 0.0.0.0 webdisk.armswatch.com
 0.0.0.0 webdisk.arnica.org.uk
 0.0.0.0 webdisk.ascensionenergyprogram.com
@@ -20206,12 +20445,14 @@
 0.0.0.0 webdisk.circleofmamas.com
 0.0.0.0 webdisk.citizenfreepress.com
 0.0.0.0 webdisk.civilianintelligencenetwork.ca
+0.0.0.0 webdisk.clarkcountytoday.com
 0.0.0.0 webdisk.climatechangedispatch.com
 0.0.0.0 webdisk.clone.brasscheck.com
 0.0.0.0 webdisk.cmri.tv
 0.0.0.0 webdisk.cogforlife.org
 0.0.0.0 webdisk.colloidalsilverzone.com
 0.0.0.0 webdisk.comm.tm.org
+0.0.0.0 webdisk.commonlawnews.com
 0.0.0.0 webdisk.communications.tm.org
 0.0.0.0 webdisk.confinedtosuccess.com
 0.0.0.0 webdisk.connoils.com
@@ -20336,6 +20577,7 @@
 0.0.0.0 webdisk.fromdusktildawn.org.uk
 0.0.0.0 webdisk.frontlinemds.com
 0.0.0.0 webdisk.frontlinemedicaldoctors.com
+0.0.0.0 webdisk.frontlinesohio.com
 0.0.0.0 webdisk.frot.co.nz
 0.0.0.0 webdisk.futuregenerationssd.com
 0.0.0.0 webdisk.g2church239.org
@@ -20365,6 +20607,7 @@
 0.0.0.0 webdisk.greenmms.com
 0.0.0.0 webdisk.gregcaton.com
 0.0.0.0 webdisk.gript.ie
+0.0.0.0 webdisk.guardiansofmedicalchoice.com
 0.0.0.0 webdisk.gumshoenews.com
 0.0.0.0 webdisk.handofhelp.com
 0.0.0.0 webdisk.handsofhopewalton.org
@@ -20404,6 +20647,7 @@
 0.0.0.0 webdisk.ijvtpr.com
 0.0.0.0 webdisk.ilads.org
 0.0.0.0 webdisk.illinoisvaccineawareness.org
+0.0.0.0 webdisk.imcwc.bpl.fyi
 0.0.0.0 webdisk.in-this-together.com
 0.0.0.0 webdisk.in5d.com
 0.0.0.0 webdisk.infoarmed.com
@@ -20419,6 +20663,7 @@
 0.0.0.0 webdisk.irisbell.com
 0.0.0.0 webdisk.irishfreedom.ie
 0.0.0.0 webdisk.irishsavant.net
+0.0.0.0 webdisk.italytravelideas.com
 0.0.0.0 webdisk.itnshow.com
 0.0.0.0 webdisk.ivantic.info
 0.0.0.0 webdisk.jamaica.tm.org
@@ -20552,6 +20797,7 @@
 0.0.0.0 webdisk.pointsofreturnacupuncture.com
 0.0.0.0 webdisk.policeforfreedom.org
 0.0.0.0 webdisk.portaltoawakening.com
+0.0.0.0 webdisk.porttownsendfreepress.com
 0.0.0.0 webdisk.prayeriswarfare.com
 0.0.0.0 webdisk.prayformychild.org
 0.0.0.0 webdisk.prepperwebsite.com
@@ -20606,6 +20852,7 @@
 0.0.0.0 webdisk.shopfreemart.com
 0.0.0.0 webdisk.silverlungs.com
 0.0.0.0 webdisk.sinkswimchicago.com
+0.0.0.0 webdisk.skirsch.com
 0.0.0.0 webdisk.smartmetereducationnetwork.com
 0.0.0.0 webdisk.smoking-mirrors.com
 0.0.0.0 webdisk.smombiegate.org
@@ -20613,6 +20860,7 @@
 0.0.0.0 webdisk.soundhealthoptions.com
 0.0.0.0 webdisk.spiritsillumination.com
 0.0.0.0 webdisk.springintegrativehealth.com
+0.0.0.0 webdisk.staging.clarkcountytoday.com
 0.0.0.0 webdisk.staging.handofhelp.com
 0.0.0.0 webdisk.staging.herbhealers.com
 0.0.0.0 webdisk.staging.water-for-health.co.uk
@@ -20748,6 +20996,7 @@
 0.0.0.0 webdisk.ziverdo-kit.us
 0.0.0.0 webdisk.zpenergy.com
 0.0.0.0 webf.boiron.fr
+0.0.0.0 webhook.streaming.afa.net
 0.0.0.0 webinar.drrachael.com
 0.0.0.0 weblyf.com
 0.0.0.0 webm.boiron.fr
@@ -20769,11 +21018,13 @@
 0.0.0.0 webmail.additudemag.com
 0.0.0.0 webmail.advance.tm.org
 0.0.0.0 webmail.advanced.tm.org
+0.0.0.0 webmail.afa.net
 0.0.0.0 webmail.affiliate-center.bioptimizers.com
 0.0.0.0 webmail.ag-usa.net
 0.0.0.0 webmail.ahealedplanet.net
 0.0.0.0 webmail.alexjoneswasright.com
 0.0.0.0 webmail.algora.com
+0.0.0.0 webmail.alipac.us
 0.0.0.0 webmail.allnewspipeline.com
 0.0.0.0 webmail.allureimports.com
 0.0.0.0 webmail.alsearsmd.com
@@ -20794,6 +21045,7 @@
 0.0.0.0 webmail.api.bioptimizers.com
 0.0.0.0 webmail.aquarius-prolife.com
 0.0.0.0 webmail.areyouwalkingtall.com
+0.0.0.0 webmail.arizonasuntimes.com
 0.0.0.0 webmail.armswatch.com
 0.0.0.0 webmail.arnica.org.uk
 0.0.0.0 webmail.ascensionenergyprogram.com
@@ -20855,6 +21107,7 @@
 0.0.0.0 webmail.christianmedianetwork.com
 0.0.0.0 webmail.citizenfreepress.com
 0.0.0.0 webmail.civilianintelligencenetwork.ca
+0.0.0.0 webmail.clarkcountytoday.com
 0.0.0.0 webmail.climatechangedispatch.com
 0.0.0.0 webmail.clone.brasscheck.com
 0.0.0.0 webmail.cmevt.com
@@ -20863,6 +21116,7 @@
 0.0.0.0 webmail.cogiito.com
 0.0.0.0 webmail.colloidalsilverzone.com
 0.0.0.0 webmail.comm.tm.org
+0.0.0.0 webmail.commonlawnews.com
 0.0.0.0 webmail.communications.tm.org
 0.0.0.0 webmail.confinedtosuccess.com
 0.0.0.0 webmail.conservativeangle.com
@@ -20994,6 +21248,7 @@
 0.0.0.0 webmail.greenfieldwater.com
 0.0.0.0 webmail.gregcaton.com
 0.0.0.0 webmail.gript.ie
+0.0.0.0 webmail.guardiansofmedicalchoice.com
 0.0.0.0 webmail.gunsinthenews.com
 0.0.0.0 webmail.gutresolution.com
 0.0.0.0 webmail.handofhelp.com
@@ -21032,6 +21287,7 @@
 0.0.0.0 webmail.ijvtpr.com
 0.0.0.0 webmail.ilads.org
 0.0.0.0 webmail.illinoisvaccineawareness.org
+0.0.0.0 webmail.imcwc.bpl.fyi
 0.0.0.0 webmail.imjustcharlie.com
 0.0.0.0 webmail.in-this-together.com
 0.0.0.0 webmail.in5d.com
@@ -21046,6 +21302,7 @@
 0.0.0.0 webmail.irisbell.com
 0.0.0.0 webmail.irishfreedom.ie
 0.0.0.0 webmail.irishsavant.net
+0.0.0.0 webmail.italytravelideas.com
 0.0.0.0 webmail.ivantic.info
 0.0.0.0 webmail.jamaica.tm.org
 0.0.0.0 webmail.jameslico.com
@@ -21223,6 +21480,7 @@
 0.0.0.0 webmail.shiftfrequency.com
 0.0.0.0 webmail.shopfreemart.com
 0.0.0.0 webmail.shoprbn.com
+0.0.0.0 webmail.skirsch.com
 0.0.0.0 webmail.skyhorsepublishing.com
 0.0.0.0 webmail.slaveplanet.net
 0.0.0.0 webmail.smoking-mirrors.com
@@ -21230,8 +21488,10 @@
 0.0.0.0 webmail.sociallydistant.us
 0.0.0.0 webmail.soundhealthoptions.com
 0.0.0.0 webmail.springintegrativehealth.com
+0.0.0.0 webmail.staging.clarkcountytoday.com
 0.0.0.0 webmail.staging.handofhelp.com
 0.0.0.0 webmail.staging.water-for-health.co.uk
+0.0.0.0 webmail.starnewseducationfoundation.org
 0.0.0.0 webmail.stateofliz.com
 0.0.0.0 webmail.steverotter.com
 0.0.0.0 webmail.stopsmartmeters.com.au
@@ -21256,6 +21516,7 @@
 0.0.0.0 webmail.thatvitaminmovie.com
 0.0.0.0 webmail.the-heal-yourself-series.com
 0.0.0.0 webmail.thecrystalgarden.com
+0.0.0.0 webmail.thedailyblog.co.nz
 0.0.0.0 webmail.thedailycoin.org
 0.0.0.0 webmail.theeconomiccollapseblog.com
 0.0.0.0 webmail.theeconomicstandard.com
@@ -21377,6 +21638,7 @@
 0.0.0.0 welcome.hope4cancer.com
 0.0.0.0 welcome.thegoodinside.com
 0.0.0.0 welcons.myasealive.com
+0.0.0.0 weliveconscious.com
 0.0.0.0 weliveinamadworld.com
 0.0.0.0 well2day.myasealive.com
 0.0.0.0 wellandgood.com
@@ -21503,6 +21765,7 @@
 0.0.0.0 whm.holding.water-for-health.co.uk
 0.0.0.0 whm.host2.catholicism.org
 0.0.0.0 whm.idahodispatch.com
+0.0.0.0 whm.imcwc.bpl.fyi
 0.0.0.0 whm.in5d.com
 0.0.0.0 whm.irate4x4.com
 0.0.0.0 whm.kirlianresearch.com
@@ -21611,6 +21874,7 @@
 0.0.0.0 wirelesswatchblog.org
 0.0.0.0 wirralinittogether.blog
 0.0.0.0 wisconsin.tenthamendmentcenter.com
+0.0.0.0 wisconsindailystar.com
 0.0.0.0 wisconsinforvaccinechoice.org
 0.0.0.0 wisconsinunitedforfreedom.org
 0.0.0.0 wisdomofhealth.metagenics.com
@@ -21751,6 +22015,7 @@
 0.0.0.0 wtfstudy.com
 0.0.0.0 wtrainer.myctfo.com
 0.0.0.0 wtrainer.thegoodinside.com
+0.0.0.0 wufooapi.afa.net
 0.0.0.0 wuiui.cosevatrs.com
 0.0.0.0 wvforhealthfreedom.com
 0.0.0.0 ww.agoravox.fr
@@ -21812,6 +22077,7 @@
 0.0.0.0 wwash.myctfo.com
 0.0.0.0 wwg1wga-tv.de
 0.0.0.0 wwiii.news
+0.0.0.0 wws.alipac.us
 0.0.0.0 wwv.ca.tm.org
 0.0.0.0 wwv.tm.org
 0.0.0.0 www-balancer.mindbodygreen.com
@@ -21980,6 +22246,8 @@
 0.0.0.0 www.advocate.inmycommunity.com.au
 0.0.0.0 www.aestheticsadvisor.com
 0.0.0.0 www.aevans.metagenics.com
+0.0.0.0 www.afa.net
+0.0.0.0 www.afajournal.org
 0.0.0.0 www.affiliate-center.bioptimizers.com
 0.0.0.0 www.afinalwarning.com
 0.0.0.0 www.aflds.com
@@ -22033,6 +22301,7 @@
 0.0.0.0 www.alicespringstomind.wordpress.com
 0.0.0.0 www.alignlife.com
 0.0.0.0 www.alinef.metagenics.com
+0.0.0.0 www.alipac.us
 0.0.0.0 www.alivenhealthy.com
 0.0.0.0 www.allaboutmms.wordpress.com
 0.0.0.0 www.allfiredupforfreedom.com
@@ -22219,12 +22488,14 @@
 0.0.0.0 www.archive.energydots.com
 0.0.0.0 www.archive.patriotssoapbox.com
 0.0.0.0 www.archive.responsibletechnology.org
+0.0.0.0 www.archyde.com
 0.0.0.0 www.arevaccinessafe.org
 0.0.0.0 www.areyouwalkingtall.com
 0.0.0.0 www.argonauta.pl
 0.0.0.0 www.arisefreedomtour.com
 0.0.0.0 www.arizonaadvancedmedicine.com
 0.0.0.0 www.arizonahomeopathic.org
+0.0.0.0 www.arizonasuntimes.com
 0.0.0.0 www.arkansansforinformedconsent.blogspot.com
 0.0.0.0 www.armstrongeconomics.com
 0.0.0.0 www.armswatch.com
@@ -22507,6 +22778,7 @@
 0.0.0.0 www.biosil.wordpress.com
 0.0.0.0 www.biosludge.news
 0.0.0.0 www.biotech.news
+0.0.0.0 www.biotechexpressmag.com
 0.0.0.0 www.bioterrorism.news
 0.0.0.0 www.bioticsresearch.com
 0.0.0.0 www.biotite.h3o2water.com
@@ -22631,6 +22903,8 @@
 0.0.0.0 www.breakthrough.news
 0.0.0.0 www.breastcancerconqueror.com
 0.0.0.0 www.breastfeed.news
+0.0.0.0 www.breathemd.org
+0.0.0.0 www.breathesw.com
 0.0.0.0 www.breesmedia.co.uk
 0.0.0.0 www.breggin.com
 0.0.0.0 www.bretweinstein.net
@@ -22981,6 +23255,7 @@
 0.0.0.0 www.civilianintelligencenetwork.ca
 0.0.0.0 www.civilwar.news
 0.0.0.0 www.claritypress.com
+0.0.0.0 www.clarkcountytoday.com
 0.0.0.0 www.clarksburgmed.com
 0.0.0.0 www.clashdaily.com
 0.0.0.0 www.clayandiron.com
@@ -22995,6 +23270,7 @@
 0.0.0.0 www.clearnewswire.com
 0.0.0.0 www.clearskymedical.com
 0.0.0.0 www.client2.metagenics.com
+0.0.0.0 www.climate-science.press
 0.0.0.0 www.climate.news
 0.0.0.0 www.climatealarmism.news
 0.0.0.0 www.climatechangeagenda.com
@@ -23038,6 +23314,7 @@
 0.0.0.0 www.collective-evolution.com
 0.0.0.0 www.collective-spark.xyz
 0.0.0.0 www.colleenhuber.com
+0.0.0.0 www.colleenhuber.substack.com
 0.0.0.0 www.collgen2.com
 0.0.0.0 www.colloidalsilver-supply.com
 0.0.0.0 www.colloidalsilverhowto.com
@@ -23052,6 +23329,7 @@
 0.0.0.0 www.commdiginews.com
 0.0.0.0 www.comment.inmycommunity.com.au
 0.0.0.0 www.commonground.ca
+0.0.0.0 www.commonlawnews.com
 0.0.0.0 www.commonsenseevaluation.com
 0.0.0.0 www.commonsensehome.com
 0.0.0.0 www.commonsensenaturalmedicine-org.brightmedicineclinic.com
@@ -23072,6 +23350,7 @@
 0.0.0.0 www.conciergehealthnetwork.com
 0.0.0.0 www.concisepolitics.com
 0.0.0.0 www.condemnedlabz.com
+0.0.0.0 www.conejoguardian.org
 0.0.0.0 www.conem.org
 0.0.0.0 www.confinedtosuccess.com
 0.0.0.0 www.connect.karenkingston.com
@@ -23206,6 +23485,7 @@
 0.0.0.0 www.cplaction.com
 0.0.0.0 www.cpld.nl
 0.0.0.0 www.cpocpac.org
+0.0.0.0 www.cpsnewsnetwork.com
 0.0.0.0 www.cracknewz.com
 0.0.0.0 www.craigmurray.org.uk
 0.0.0.0 www.cranialacademy.org
@@ -23320,6 +23600,7 @@
 0.0.0.0 www.davejanda.com
 0.0.0.0 www.davelevineonline.com
 0.0.0.0 www.daveracer.com
+0.0.0.0 www.daviddaniels.com
 0.0.0.0 www.davidex.myctfo.com
 0.0.0.0 www.davidfulton3.wordpress.com
 0.0.0.0 www.davidgorski.news
@@ -23543,6 +23824,7 @@
 0.0.0.0 www.donate.firepowerministry.org
 0.0.0.0 www.donate.wearechange.org
 0.0.0.0 www.donboys.cstnews.com
+0.0.0.0 www.donpaulwearerev.com
 0.0.0.0 www.doomandbloom.net
 0.0.0.0 www.dossier.substack.com
 0.0.0.0 www.dotcomnieuws.com
@@ -24093,6 +24375,7 @@
 0.0.0.0 www.flickr.com.howestreet.com
 0.0.0.0 www.florahealth.com
 0.0.0.0 www.florida.tenthamendmentcenter.com
+0.0.0.0 www.floridacapitalstar.com
 0.0.0.0 www.flp13.shopfreemart.com
 0.0.0.0 www.flp14.shopfreemart.com
 0.0.0.0 www.flp15.shopfreemart.com
@@ -24162,6 +24445,7 @@
 0.0.0.0 www.fourleafrover.com
 0.0.0.0 www.fourwinds10.com
 0.0.0.0 www.foxhypno.falseflag.info
+0.0.0.0 www.fr24news.com
 0.0.0.0 www.fracking.news
 0.0.0.0 www.frackingwatch.com
 0.0.0.0 www.fractal.org
@@ -24260,6 +24544,7 @@
 0.0.0.0 www.frontlinecanada.ca
 0.0.0.0 www.frontlinemds.com
 0.0.0.0 www.frontlinemedicaldoctors.com
+0.0.0.0 www.frontlinesohio.com
 0.0.0.0 www.frontpagemag.com
 0.0.0.0 www.frot.co.nz
 0.0.0.0 www.fruit-powered.com
@@ -24357,8 +24642,10 @@
 0.0.0.0 www.georgepierce.myctfo.com
 0.0.0.0 www.georgevalah.wordpress.com
 0.0.0.0 www.georgiarecord.com
+0.0.0.0 www.georgiastarnews.com
 0.0.0.0 www.georgiavaxchoice.org
 0.0.0.0 www.geowatchapp.com
+0.0.0.0 www.gerardrennick.com.au
 0.0.0.0 www.germanshepherddaily.roxytube.com
 0.0.0.0 www.gerson.org
 0.0.0.0 www.gersonmedia.com
@@ -24537,6 +24824,7 @@
 0.0.0.0 www.growweedeasy.com
 0.0.0.0 www.growyourmedicine.com
 0.0.0.0 www.guardian.inmycommunity.com.au
+0.0.0.0 www.guardiansofmedicalchoice.com
 0.0.0.0 www.gulfcoastoilers.ylsocial.net
 0.0.0.0 www.gumshoenews.com
 0.0.0.0 www.guns.news
@@ -24564,6 +24852,7 @@
 0.0.0.0 www.handwriting-practice.chem-tox.com
 0.0.0.0 www.handwritingpractice.chem-tox.com
 0.0.0.0 www.hangthecensors.com
+0.0.0.0 www.hannahroselaw.co.uk
 0.0.0.0 www.hannenabintuherland.com
 0.0.0.0 www.hapbee.com
 0.0.0.0 www.happen.network
@@ -24881,6 +25170,7 @@
 0.0.0.0 www.hopepressworks.org
 0.0.0.0 www.hormonesmatter.com
 0.0.0.0 www.hoshanarabbah.org
+0.0.0.0 www.host.clarkcountytoday.com
 0.0.0.0 www.host.thedailycoin.org
 0.0.0.0 www.host.tsarizm.com
 0.0.0.0 www.host2.catholicism.org
@@ -24940,6 +25230,7 @@
 0.0.0.0 www.iceagenow.info
 0.0.0.0 www.ichbinanderermeinung.de
 0.0.0.0 www.ickonic.com
+0.0.0.0 www.icnmnaturopathy.eu
 0.0.0.0 www.icpa4kids.com
 0.0.0.0 www.icrl.org
 0.0.0.0 www.icwaadvocacy.org
@@ -24969,6 +25260,7 @@
 0.0.0.0 www.imacogindewheeloflife.com
 0.0.0.0 www.images.charismapodcastnetwork.com
 0.0.0.0 www.images.hpathy.com
+0.0.0.0 www.imcwc.bpl.fyi
 0.0.0.0 www.imedianetwork.org
 0.0.0.0 www.imeof.org
 0.0.0.0 www.imjustcharlie.com
@@ -25089,6 +25381,7 @@
 0.0.0.0 www.invigoratedwater.com
 0.0.0.0 www.ion.ac.uk
 0.0.0.0 www.iotwreport.com
+0.0.0.0 www.iowaclimate.org
 0.0.0.0 www.iowansforinformedconsent.com
 0.0.0.0 www.ipakfocus.com
 0.0.0.0 www.ipaknowledge.org
@@ -25117,6 +25410,8 @@
 0.0.0.0 www.israelunwired.com
 0.0.0.0 www.issues.shopfreemart.com
 0.0.0.0 www.itaintholywater.blogspot.com
+0.0.0.0 www.italy24news.com
+0.0.0.0 www.italytravelideas.com
 0.0.0.0 www.itioh.internationaltraininginstituteofhealth.com
 0.0.0.0 www.itnshow.com
 0.0.0.0 www.itnt.news
@@ -25124,6 +25419,7 @@
 0.0.0.0 www.iusinitinere.it
 0.0.0.0 www.ivantic.info
 0.0.0.0 www.ivas.org
+0.0.0.0 www.ivermectin.africa
 0.0.0.0 www.ivermectin4covid.com
 0.0.0.0 www.ivermectincan.com
 0.0.0.0 www.ivermectinscience.com
@@ -25197,6 +25493,7 @@
 0.0.0.0 www.jmkhlmnop.wixsite.com
 0.0.0.0 www.joana-today.1215.org
 0.0.0.0 www.joana.1215.org
+0.0.0.0 www.joannenova.com.au
 0.0.0.0 www.joannewulfekuhle.myctfo.com
 0.0.0.0 www.joebiden.news
 0.0.0.0 www.joedubs.com
@@ -25231,6 +25528,7 @@
 0.0.0.0 www.jpibiodynamics.org
 0.0.0.0 www.jprager9.wixsite.com
 0.0.0.0 www.jrseco.com
+0.0.0.0 www.jrsguardianvoice.com
 0.0.0.0 www.jshealthwellness.myctfo.com
 0.0.0.0 www.jubilee.myctfo.com
 0.0.0.0 www.jughandlesfatfarm.com
@@ -25907,6 +26205,7 @@
 0.0.0.0 www.mpvr.org
 0.0.0.0 www.mpwhi.com
 0.0.0.0 www.mrajroberts.com
+0.0.0.0 www.mrkevinlau.medium.com
 0.0.0.0 www.mrwatergeek.com
 0.0.0.0 www.msagainstmandates.org
 0.0.0.0 www.msg.news
@@ -25966,6 +26265,7 @@
 0.0.0.0 www.mystreetmychoice.com
 0.0.0.0 www.mysunrisecenter.com
 0.0.0.0 www.mysupplementadvice.com
+0.0.0.0 www.mytheworldtoday.blogspot.com
 0.0.0.0 www.myuniquewellness.com
 0.0.0.0 www.myvitalc.com
 0.0.0.0 www.mywellnessdoctors.com
@@ -25994,6 +26294,7 @@
 0.0.0.0 www.national-coalition.catholicism.org
 0.0.0.0 www.national-health-federation.rallycongress.net
 0.0.0.0 www.national-taskforce.org
+0.0.0.0 www.nationalconstitutionbee.org
 0.0.0.0 www.nationaldailyng.com
 0.0.0.0 www.nationaldebt.news
 0.0.0.0 www.nationaldirectors.tm.org
@@ -26086,6 +26387,9 @@
 0.0.0.0 www.naturopathic.org
 0.0.0.0 www.naturopathicdoctorforyou.com
 0.0.0.0 www.naturopathicmedicineinstitute.org
+0.0.0.0 www.naturopathicpediatrics.com
+0.0.0.0 www.naturopathicst.wpengine.com
+0.0.0.0 www.naturopathicstandards.org
 0.0.0.0 www.naturopaths.gcrn.org.uk
 0.0.0.0 www.naturopathvet.com
 0.0.0.0 www.naturopathy-uk.com
@@ -26158,12 +26462,14 @@
 0.0.0.0 www.newsletters.charismamedia.com
 0.0.0.0 www.newsletters.ministrytodaymag.com
 0.0.0.0 www.newslive.space
+0.0.0.0 www.newsmediainquiry.wordpress.com
 0.0.0.0 www.newsofinterest.tv
 0.0.0.0 www.newsoz.org
 0.0.0.0 www.newspunch.com
 0.0.0.0 www.newsrescue.com
 0.0.0.0 www.newsroom.patriotssoapbox.com
 0.0.0.0 www.newstarget.com
+0.0.0.0 www.newstreason.com
 0.0.0.0 www.newsview.gr
 0.0.0.0 www.newsvoice.se
 0.0.0.0 www.newswars.com
@@ -26242,6 +26548,7 @@
 0.0.0.0 www.nordicnaturals.com
 0.0.0.0 www.normanpilon.com
 0.0.0.0 www.norml.org
+0.0.0.0 www.northcarolinadailystar.com
 0.0.0.0 www.northcoast.inmycommunity.com.au
 0.0.0.0 www.northerntruthseeker.blogspot.com
 0.0.0.0 www.northportwellnesscenter.com
@@ -26272,6 +26579,7 @@
 0.0.0.0 www.nuevamedicinaperu.blogspot.com
 0.0.0.0 www.nunm.edu
 0.0.0.0 www.nurembergtrials.net
+0.0.0.0 www.nurembergvip.net
 0.0.0.0 www.nurishinghope.healthfulliving.org
 0.0.0.0 www.nurseerinwellness.wpcomstaging.com
 0.0.0.0 www.nursesagainstmandatoryvaccines.wordpress.com
@@ -26574,6 +26882,7 @@
 0.0.0.0 www.pemfreviews.blog
 0.0.0.0 www.pemftraining.com
 0.0.0.0 www.pendulumstudiosla.com
+0.0.0.0 www.pennsylvaniadailystar.com
 0.0.0.0 www.penny.thegoodinside.com
 0.0.0.0 www.pennybrohn.org.uk
 0.0.0.0 www.pennyforyourthoughts2.blogspot.com
@@ -26636,6 +26945,7 @@
 0.0.0.0 www.pilled.net
 0.0.0.0 www.ping.alsearsmd.com
 0.0.0.0 www.pinter.youngevityonline.com
+0.0.0.0 www.piotrbein.net
 0.0.0.0 www.pittsburghalternativehealth.com
 0.0.0.0 www.pjhlaw.co.uk
 0.0.0.0 www.pjmedia.com
@@ -26692,6 +27002,7 @@
 0.0.0.0 www.portal.drpaulapproved.com
 0.0.0.0 www.portaltoawakening.com
 0.0.0.0 www.portofwinlock.com
+0.0.0.0 www.porttownsendfreepress.com
 0.0.0.0 www.positivemed.com
 0.0.0.0 www.postsustainabilityinstitute.org
 0.0.0.0 www.potency.hpathy.com
@@ -26922,9 +27233,11 @@
 0.0.0.0 www.redpillpodcasts.com
 0.0.0.0 www.redpills.tv
 0.0.0.0 www.redpilluniversity.org
+0.0.0.0 www.redress4dummies.wordpress.com
 0.0.0.0 www.redstate.com
 0.0.0.0 www.redvoicemedia.com
 0.0.0.0 www.redwoodcoastparks.presscalifornia.com
+0.0.0.0 www.reflexivityspace.org
 0.0.0.0 www.regardingcaroline.com
 0.0.0.0 www.regeneratehealthmc.com
 0.0.0.0 www.regenmedky.com
@@ -26999,6 +27312,7 @@
 0.0.0.0 www.rewirewater.com
 0.0.0.0 www.rexresearch.com
 0.0.0.0 www.rezotone.com
+0.0.0.0 www.rforresistance.wordpress.com
 0.0.0.0 www.rfsafe.com
 0.0.0.0 www.rgrover.metagenics.com
 0.0.0.0 www.rica.drstellamd.com
@@ -27050,6 +27364,7 @@
 0.0.0.0 www.rofl.news
 0.0.0.0 www.roguemale.org
 0.0.0.0 www.roguenews.com
+0.0.0.0 www.roguereview.net
 0.0.0.0 www.romanbaber.ca
 0.0.0.0 www.romanceuniversity.org
 0.0.0.0 www.ronabbass.com
@@ -27058,6 +27373,7 @@
 0.0.0.0 www.ronpaulhomeschool.com
 0.0.0.0 www.ronpaulinstitute.org
 0.0.0.0 www.rootcause.medfoxpub.com
+0.0.0.0 www.rootforamerica.com
 0.0.0.0 www.rootforliberty.com
 0.0.0.0 www.rosellecare.com
 0.0.0.0 www.rosemaryfrei.ca
@@ -27082,6 +27398,7 @@
 0.0.0.0 www.rumormillnews.com
 0.0.0.0 www.rumormillnews.jurak.com
 0.0.0.0 www.rundumwohl.myasealive.com
+0.0.0.0 www.rupreparing.com
 0.0.0.0 www.rusopedia.rt.com
 0.0.0.0 www.russian.rt.com
 0.0.0.0 www.rutherford.org
@@ -27090,6 +27407,7 @@
 0.0.0.0 www.rvr.medfoxpub.com
 0.0.0.0 www.rvr2.medfoxpub.com
 0.0.0.0 www.rwmalonemd.com
+0.0.0.0 www.rwmalonemd.substack.com
 0.0.0.0 www.rx2go.com
 0.0.0.0 www.rxforliberty.com
 0.0.0.0 www.rxisk.org
@@ -27312,7 +27630,9 @@
 0.0.0.0 www.sivanaspirit.com
 0.0.0.0 www.sixsenseshealing.com
 0.0.0.0 www.skeptics.news
+0.0.0.0 www.skirsch.com
 0.0.0.0 www.skirsch.io
+0.0.0.0 www.skirsch.wordpress.com
 0.0.0.0 www.skyhorsepublishing.com
 0.0.0.0 www.skywatchtv.com
 0.0.0.0 www.skywatchtvstore.com
@@ -27393,6 +27713,8 @@
 0.0.0.0 www.spaceship.institute
 0.0.0.0 www.spacetourism.news
 0.0.0.0 www.spacetravel.news
+0.0.0.0 www.spaceworms.substack.com
+0.0.0.0 www.speakfreely.substack.com
 0.0.0.0 www.speakingaboutnews.com
 0.0.0.0 www.speakingmoistly.co
 0.0.0.0 www.speakwithanmd.cadencehealth.us
@@ -27481,8 +27803,10 @@
 0.0.0.0 www.staging5.truehealthinitiative.org
 0.0.0.0 www.staging6.urbanpump.com
 0.0.0.0 www.staging7.urbanpump.com
+0.0.0.0 www.stagingcct.clarkcountytoday.com
 0.0.0.0 www.stand4thee.com
 0.0.0.0 www.standforhealthfreedom.com
+0.0.0.0 www.standingforfreedom.com
 0.0.0.0 www.standupcalifornia.com
 0.0.0.0 www.standupcanada.solutions
 0.0.0.0 www.standupdefend.org
@@ -27491,6 +27815,7 @@
 0.0.0.0 www.stargatenewsletter.blogspot.com
 0.0.0.0 www.starkmanapproved.com
 0.0.0.0 www.starnationsnews.com
+0.0.0.0 www.starnewseducationfoundation.org
 0.0.0.0 www.starseeds.net
 0.0.0.0 www.startersite.thegnmsolution.com
 0.0.0.0 www.starvation.news
@@ -27499,6 +27824,7 @@
 0.0.0.0 www.stateoftoday.com
 0.0.0.0 www.static1.thelibertybeacon.com
 0.0.0.0 www.statins.news
+0.0.0.0 www.stayfree.ie
 0.0.0.0 www.staythecourseradio.org
 0.0.0.0 www.staywell.metagenics.com
 0.0.0.0 www.steeltruth.com
@@ -27706,6 +28032,7 @@
 0.0.0.0 www.templetonlist.com
 0.0.0.0 www.templisaquaria.com
 0.0.0.0 www.tennesseestands.org
+0.0.0.0 www.tennesseestar.com
 0.0.0.0 www.tenpennyimc.com
 0.0.0.0 www.tenpennyresearchlibrary.com
 0.0.0.0 www.tenthamendmentcenter.com
@@ -27786,6 +28113,7 @@
 0.0.0.0 www.thechaoscat.wordpress.com
 0.0.0.0 www.thechaoscat71.blogspot.com
 0.0.0.0 www.thechildsafeschool.grassrootsinfo.org
+0.0.0.0 www.thechristianrevolution.net
 0.0.0.0 www.thechristianview.tv
 0.0.0.0 www.thechroniclifediet.com
 0.0.0.0 www.thecognitiveman.com
@@ -27806,9 +28134,11 @@
 0.0.0.0 www.thecrowhouse.com
 0.0.0.0 www.thecrystalgarden.com
 0.0.0.0 www.thedailybell.com
+0.0.0.0 www.thedailyblog.co.nz
 0.0.0.0 www.thedailycoin.org
 0.0.0.0 www.thedailysheeple.com
 0.0.0.0 www.thedeadgenetoday.wordpress.com
+0.0.0.0 www.thedeplorablepatriot.com
 0.0.0.0 www.thedesertreview.com
 0.0.0.0 www.thedoctorwithin.com
 0.0.0.0 www.thedogplace.org
@@ -27824,6 +28154,7 @@
 0.0.0.0 www.theemfguy.com
 0.0.0.0 www.theendoftimes.news
 0.0.0.0 www.theethicalskeptic.com
+0.0.0.0 www.theevent.global
 0.0.0.0 www.theexpose.uk
 0.0.0.0 www.thefallingdarkness.com
 0.0.0.0 www.thefatemperor.com
@@ -27896,8 +28227,10 @@
 0.0.0.0 www.themedicinedocumentary.com
 0.0.0.0 www.themelkshow.com
 0.0.0.0 www.themelkshow.podbean.com
+0.0.0.0 www.themichiganstar.com
 0.0.0.0 www.themillenniumreport.com
 0.0.0.0 www.themineralman.youngevityonline.com
+0.0.0.0 www.theminnesotasun.com
 0.0.0.0 www.themodelhealthshow.com
 0.0.0.0 www.themoneymanifesto.com
 0.0.0.0 www.themossreport.com
@@ -27912,6 +28245,7 @@
 0.0.0.0 www.thenewatlas.org
 0.0.0.0 www.thenhf.com
 0.0.0.0 www.thenutritionrevolution.store
+0.0.0.0 www.theohiostar.com
 0.0.0.0 www.theoilywitch.co.uk
 0.0.0.0 www.theokinawatonic.com
 0.0.0.0 www.theoneshotketo.com
@@ -27970,10 +28304,12 @@
 0.0.0.0 www.thespirit.team
 0.0.0.0 www.thestampedenews.1215.org
 0.0.0.0 www.thestandardsc.org
+0.0.0.0 www.thestarnewsnetwork.com
 0.0.0.0 www.thesteelereport.com
 0.0.0.0 www.thesurvivalpodcast.com
 0.0.0.0 www.thetahealth.co.za
 0.0.0.0 www.thetappingsolution.com
+0.0.0.0 www.thetexaslonestar.com
 0.0.0.0 www.thethinkingconservative.com
 0.0.0.0 www.thethriveclinic.com
 0.0.0.0 www.thetimeisnowproject.birthingthefuture.org
@@ -27995,6 +28331,7 @@
 0.0.0.0 www.thevaccinereaction.org
 0.0.0.0 www.theviennareport.us
 0.0.0.0 www.thevinnyeastwoodshow.com
+0.0.0.0 www.thevirginiastar.com
 0.0.0.0 www.thevitaminherbalstore.thecompleteherbalguide.com
 0.0.0.0 www.thewallwillfall.org
 0.0.0.0 www.thewarrengebertgallery.iotwreport.com
@@ -28248,6 +28585,7 @@
 0.0.0.0 www.unifiedalliance.world
 0.0.0.0 www.unifythepeople.ca
 0.0.0.0 www.uniquestereotype.hebrew4christians.com
+0.0.0.0 www.unite4truth.com
 0.0.0.0 www.uniteamericafirst.com
 0.0.0.0 www.unitedagainstmindcontrol.wordpress.com
 0.0.0.0 www.unitedlovenlight.wordpress.com
@@ -28281,6 +28619,7 @@
 0.0.0.0 www.urbanpump.com
 0.0.0.0 www.urjauday.ascensionenergyprogram.com
 0.0.0.0 www.usamagazinestudio.com
+0.0.0.0 www.usaradiohealth.com
 0.0.0.0 www.usatomorrow.live
 0.0.0.0 www.usawatchdog.com
 0.0.0.0 www.usdawatch.com
@@ -28427,6 +28766,7 @@
 0.0.0.0 www.verumetinventa.wordpress.com
 0.0.0.0 www.verveforever.com
 0.0.0.0 www.veteranstoday.news
+0.0.0.0 www.vianovamedia.com
 0.0.0.0 www.vibeheadzzz.com
 0.0.0.0 www.vibrancywater.ca
 0.0.0.0 www.vibranthealth.staging.water-for-health.co.uk
@@ -28442,6 +28782,7 @@
 0.0.0.0 www.viewfromthewing.com
 0.0.0.0 www.vigilantcitizen.com
 0.0.0.0 www.vimandvigor.com
+0.0.0.0 www.vinayprasadmdmph.substack.com
 0.0.0.0 www.vinceiori.org
 0.0.0.0 www.vinovolve.silverlungs.com
 0.0.0.0 www.violence.news
@@ -28536,6 +28877,7 @@
 0.0.0.0 www.waterpurifiers.news
 0.0.0.0 www.watertreatmentdrops.reikiranch.net
 0.0.0.0 www.waterwars.news
+0.0.0.0 www.wattsupwiththat.com
 0.0.0.0 www.wavegenetic.ru
 0.0.0.0 www.wavegenetics.org
 0.0.0.0 www.waveguard.com
@@ -28584,6 +28926,7 @@
 0.0.0.0 www.weepinitiative.org
 0.0.0.0 www.weirdsciencenews.com
 0.0.0.0 www.weiyuanacupuncture.yurkovsky.com
+0.0.0.0 www.weliveconscious.com
 0.0.0.0 www.weliveinamadworld.com
 0.0.0.0 www.wellandgood.com
 0.0.0.0 www.wellaware1.com
@@ -28674,6 +29017,7 @@
 0.0.0.0 www.wirelesseducation.org
 0.0.0.0 www.wirelesswatchblog.org
 0.0.0.0 www.wirralinittogether.blog
+0.0.0.0 www.wisconsindailystar.com
 0.0.0.0 www.wisconsinforvaccinechoice.org
 0.0.0.0 www.wisconsinunitedforfreedom.org
 0.0.0.0 www.wisehomelife.org
@@ -28741,6 +29085,7 @@
 0.0.0.0 www.wwg1wga-tv.de
 0.0.0.0 www.wwiii.news
 0.0.0.0 www.www.airestech.com
+0.0.0.0 www.www.alipac.us
 0.0.0.0 www.www.dissidentvoice.org
 0.0.0.0 www.www.herbalgram.org
 0.0.0.0 www.www.newstarget.com
@@ -28813,6 +29158,7 @@
 0.0.0.0 www.zeolitehealth.thegoodinside.com
 0.0.0.0 www.zero-gmo.com
 0.0.0.0 www.zero5g.com
+0.0.0.0 www.zeroanthropology.net
 0.0.0.0 www.zerogeoengineering.com
 0.0.0.0 www.zerohedge.com
 0.0.0.0 www.zeromandatoryvaxx.com
@@ -28871,6 +29217,7 @@
 0.0.0.0 www6.whale.to
 0.0.0.0 www7.kla.tv
 0.0.0.0 wwwancien.maisonsaine.ca
+0.0.0.0 wwwl.alipac.us
 0.0.0.0 wwwstopsmoking.news
 0.0.0.0 wwwus.myherbalife.com
 0.0.0.0 wwww.agoravox.fr
@@ -29033,6 +29380,7 @@
 0.0.0.0 zentmaier.myasealive.com
 0.0.0.0 zero-gmo.com
 0.0.0.0 zero5g.com
+0.0.0.0 zeroanthropology.net
 0.0.0.0 zerogeoengineering.com
 0.0.0.0 zerohedge.com
 0.0.0.0 zeromandatoryvaxx.com
@@ -29074,77 +29422,3 @@
 0.0.0.0 zstacklife.com
 0.0.0.0 zzyzx.myctfo.com
 0.0.0.0 zzz.glutenfreesociety.org
-
-0.0.0.0 2021.theevent.global
-0.0.0.0 afa.net
-0.0.0.0 afajournal.org
-0.0.0.0 aier.org
-0.0.0.0 alipac.us
-0.0.0.0 archyde.com
-0.0.0.0 biotechexpressmag.com
-0.0.0.0 climate-science.press
-0.0.0.0 commonlawnews.com
-0.0.0.0 cpsnewsnetwork.com
-0.0.0.0 daviddaniels.com
-0.0.0.0 frontlinesohio.com
-0.0.0.0 hannahroselaw.co.uk
-0.0.0.0 iowaclimate.org
-0.0.0.0 italytravelideas.com
-0.0.0.0 joannenova.com.au
-0.0.0.0 mrkevinlau.medium.com
-0.0.0.0 mytheworldtoday.blogspot.com
-0.0.0.0 newsmediainquiry.wordpress.com
-0.0.0.0 newstreason.com
-0.0.0.0 nurembergvip.net
-0.0.0.0 redress4dummies.wordpress.com
-0.0.0.0 reflexivityspace.org
-0.0.0.0 rforresistance.wordpress.com
-0.0.0.0 roguereview.net
-0.0.0.0 rootforamerica.com
-0.0.0.0 rwmalonemd.substack.com
-0.0.0.0 standingforfreedom.com
-0.0.0.0 stayfree.ie
-0.0.0.0 thedailyblog.co.nz
-0.0.0.0 thedeplorablepatriot.com
-0.0.0.0 theevent.global
-0.0.0.0 usaradiohealth.com
-0.0.0.0 vianovamedia.com
-0.0.0.0 vinayprasadmdmph.substack.com
-0.0.0.0 wattsupwiththat.com
-0.0.0.0 www.afa.net
-0.0.0.0 www.afajournal.org
-0.0.0.0 www.aier.org
-0.0.0.0 www.alipac.us
-0.0.0.0 www.archyde.com
-0.0.0.0 www.biotechexpressmag.com
-0.0.0.0 www.climate-science.press
-0.0.0.0 www.commonlawnews.com
-0.0.0.0 www.cpsnewsnetwork.com
-0.0.0.0 www.daviddaniels.com
-0.0.0.0 www.frontlinesohio.com
-0.0.0.0 www.hannahroselaw.co.uk
-0.0.0.0 www.iowaclimate.org
-0.0.0.0 www.italytravelideas.com
-0.0.0.0 www.joannenova.com.au
-0.0.0.0 www.mrkevinlau.medium.com
-0.0.0.0 www.mytheworldtoday.blogspot.com
-0.0.0.0 www.newsmediainquiry.wordpress.com
-0.0.0.0 www.newstreason.com
-0.0.0.0 www.nurembergvip.net
-0.0.0.0 www.redress4dummies.wordpress.com
-0.0.0.0 www.reflexivityspace.org
-0.0.0.0 www.rforresistance.wordpress.com
-0.0.0.0 www.roguereview.net
-0.0.0.0 www.rootforamerica.com
-0.0.0.0 www.rwmalonemd.substack.com
-0.0.0.0 www.standingforfreedom.com
-0.0.0.0 www.stayfree.ie
-0.0.0.0 www.thedailyblog.co.nz
-0.0.0.0 www.thedeplorablepatriot.com
-0.0.0.0 www.theevent.global
-0.0.0.0 www.usaradiohealth.com
-0.0.0.0 www.vianovamedia.com
-0.0.0.0 www.vinayprasadmdmph.substack.com
-0.0.0.0 www.wattsupwiththat.com
-0.0.0.0 www.zeroanthropology.net
-0.0.0.0 zeroanthropology.net
