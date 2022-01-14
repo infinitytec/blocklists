@@ -298,8 +298,10 @@ www.cnet.com###mobile-mpu-native-4
 www.cnx-software.com###custom_html-2
 www.cnx-software.com###text-20 > .textwidget
 www.cnx-software.com##.aborted-97.gborted-single > div
+www.cnx-software.com##.axmas-26.gxmas-single
 www.cnx-software.com##.garduin
 www.cnx-software.com##.gborted-4.gborted
+www.cnx-software.com##.gxmas-5.gxmas
 
 ! coinfomania.com
 coinfomania.com##.thecontent > p:nth-of-type(2)
@@ -1434,6 +1436,7 @@ www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1157.thx"]
 www.techpowerup.com##[href="https://www.techpowerup.com/thlknzrjbv/1498.thx"] > div
 www.techpowerup.com##[src="https://www.techpowerup.com/review/tyeac-75tyeac/images/b6ebd7e4.jpg"]
 www.techpowerup.com##a[href="/images/43d/1766ec"]
+www.techpowerup.com##a[href="/images/43d/1766ec"]:nth-of-type(1)
 www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(2)
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(3)
@@ -1934,7 +1937,7 @@ yourbusiness.azcentral.com##.partner-placement
 ||www.isomedia.com/banner/3-Play-1.gif$image
 ||www.minitool.com/promotions/images/2020-black-friday/black-friday-bottom-banner.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
-
+thishosting.rocks##[href^="https://go.nitra.do/click"] > picture
 
 
 
