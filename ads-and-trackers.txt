@@ -303,6 +303,7 @@
 0.0.0.0 api.tune.com
 0.0.0.0 api.twyne.io
 0.0.0.0 api.warriorplus.com
+0.0.0.0 api.wavebrowser.co
 0.0.0.0 apirest.qa.datspush.com
 0.0.0.0 apogee.ositracker.com
 0.0.0.0 app.anstrex.com
@@ -585,6 +586,7 @@
 0.0.0.0 donkeymale.hasoffers.com
 0.0.0.0 donorschoose.hasoffers.com
 0.0.0.0 double2.hasoffers.com
+0.0.0.0 download.wavebrowser.co
 0.0.0.0 dr-med-feustel.de
 0.0.0.0 drbeleven.hasoffers.com
 0.0.0.0 dreamawake.ositracker.com
@@ -720,6 +722,7 @@
 0.0.0.0 grf.clickbooth.com
 0.0.0.0 grimworkshop.ositracker.com
 0.0.0.0 grnep.com
+0.0.0.0 groupmeredir.me
 0.0.0.0 gwm1.hasoffers.com
 0.0.0.0 gwm2.hasoffers.com
 0.0.0.0 gwm3.hasoffers.com
@@ -1491,6 +1494,7 @@
 0.0.0.0 triadmedia.hasoffers.com
 0.0.0.0 trierwirdwild.de
 0.0.0.0 trilliuminteractive.hasoffers.com
+0.0.0.0 trk.groupmeredir.me
 0.0.0.0 trkr5r5r5.com
 0.0.0.0 trktone.hasoffers.com
 0.0.0.0 trkwebs.com
@@ -1547,6 +1551,7 @@
 0.0.0.0 walabaster.ositracker.com
 0.0.0.0 wanderlust.ositracker.com
 0.0.0.0 warriorplus.com
+0.0.0.0 wavebrowser.co
 0.0.0.0 wavvesinc.ositracker.com
 0.0.0.0 wbf.hasoffers.com
 0.0.0.0 wealthfit.hasoffers.com
@@ -1643,6 +1648,7 @@
 0.0.0.0 www.goodvideocard.com
 0.0.0.0 www.grafikstudio-vonfroreich.de
 0.0.0.0 www.grnep.com
+0.0.0.0 www.groupmeredir.me
 0.0.0.0 www.hasoffers.com
 0.0.0.0 www.hpprintersupportservice.com
 0.0.0.0 www.ifrb.info
@@ -1725,6 +1731,7 @@
 0.0.0.0 www.vcdc.com
 0.0.0.0 www.vpn-today.info
 0.0.0.0 www.warriorplus.com
+0.0.0.0 www.wavebrowser.co
 0.0.0.0 www.webseed.com
 0.0.0.0 www.webseite-erstellen-koeln.de
 0.0.0.0 www.wifiextenderhelp.com
