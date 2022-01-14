@@ -239,6 +239,7 @@
 0.0.0.0 api.rewards-locker.com
 0.0.0.0 api.super-surveys.co
 0.0.0.0 api.unclaimed-moneysearch.com
+0.0.0.0 api.wavebrowser.co
 0.0.0.0 api.xxpxkj.com
 0.0.0.0 apiliq.wozinga.com
 0.0.0.0 apistub.wozinga.com
@@ -847,6 +848,7 @@
 0.0.0.0 donate-musk.com
 0.0.0.0 download.criticaldownload.site
 0.0.0.0 download.onelaunch.com
+0.0.0.0 download.wavebrowser.co
 0.0.0.0 downloadplayerz.com
 0.0.0.0 downloadthelatest.com
 0.0.0.0 downloadunogamefree.blogspot.com
@@ -1196,6 +1198,7 @@
 0.0.0.0 hotaccessoriesdealsnow.com
 0.0.0.0 hotconsumerdeals.com
 0.0.0.0 hotdealsnoffers.com
+0.0.0.0 hotel-ds.com
 0.0.0.0 hotmailsignip0565.blogspot.com
 0.0.0.0 hp123.com
 0.0.0.0 hprinterofficial.com
@@ -2186,6 +2189,7 @@
 0.0.0.0 warszawa.zagadywacz.pl
 0.0.0.0 waschsauger-test24.de
 0.0.0.0 watchvideoonline.com
+0.0.0.0 wavebrowser.co
 0.0.0.0 waveguard.com
 0.0.0.0 waverider.emfrequency.com
 0.0.0.0 waveriderhk.emfrequency.com
@@ -3227,6 +3231,7 @@
 0.0.0.0 www.hotaccessoriesdealsnow.com
 0.0.0.0 www.hotconsumerdeals.com
 0.0.0.0 www.hotdealsnoffers.com
+0.0.0.0 www.hotel-ds.com
 0.0.0.0 www.hotmailsignip0565.blogspot.com
 0.0.0.0 www.hp123.com
 0.0.0.0 www.hprinterofficial.com
@@ -3876,6 +3881,7 @@
 0.0.0.0 www.warszawa.zagadywacz.pl
 0.0.0.0 www.waschsauger-test24.de
 0.0.0.0 www.watchvideoonline.com
+0.0.0.0 www.wavebrowser.co
 0.0.0.0 www.waveguard.com
 0.0.0.0 www.waverider.emfrequency.com
 0.0.0.0 www.waveriderhk.emfrequency.com
