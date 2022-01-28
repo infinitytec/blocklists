@@ -29,7 +29,7 @@ Blocks sites such as antivax sites and misleading medical information and "snake
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt)
 
-## Multi-Level Marketing
+## Multi-Level Marketing (MLM)
 This is in many ways a companion list to the Medical Pseudoscience list. Blocks MLM groups. 
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/mlm.txt)
