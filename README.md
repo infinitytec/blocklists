@@ -29,6 +29,14 @@ Blocks sites such as antivax sites and misleading medical information and "snake
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt)
 
+## Multi-Level Marketing
+This is in many ways a companion list to the Medical Pseudoscience list. Blocks MLM groups. 
+
+[Hosts file format}(https://github.com/infinitytec/blocklists/raw/master/mlm.txt)
+
+## Clickbait
+Coming soon...
+
 ## Possibilities
 Domains that may be problematic. If anyone knows anything about these, please let me know. I do not recommend using this on a daily basis, as they may just break things.
 
@@ -47,7 +55,7 @@ Create an issue letting me know. If you make a good case for why I should remove
 You don't need to argue too hard about it though. I don't bite and want to remove as many false positives possible.
 
 # A note on bias/selection criteria:
-I am a conservative and try to look at possible misinformation sites from a objective and scientific point of view. Due to my beliefs I may not see eye-to-eye on some topics however.
+I try to look at possible misinformation sites from a objective and scientific point of view. Due to my beliefs I may not see eye-to-eye on some topic.
 In an effort to maintain balance and not get too many people mad at me, I refrain from placing any mainstream media sites (including Fox and CNN for example) on any blocklists (I am still open to filtering ads and tracking from these sites still, including blocking domains and subdomains from them). Any news sites that are on my lists in entirety seem to me to be fringe and/or smaller sites that have good reason to be on them.
 If you feel I have incorrectly blocked a site, please do let me know and I will look into it. 
 
