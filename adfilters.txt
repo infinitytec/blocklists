@@ -6,6 +6,11 @@
 
 ! FILTERS
 
+! 2themighty.com
+themighty.com##.ad-display
+themighty.com##.content-ad
+themighty.com##.tm-ads
+
 ! 3dprint.com
 3dprint.com##.btn--sponsor
 3dprint.com##.lap-block-items
@@ -123,6 +128,9 @@ www.arthritis-health.com###block-vh-dfp-dfp-ad-left > .clearfix.block-inner > .b
 www.arthritis-health.com###block-vh-dfp-dfp-ad-r1 > .clearfix.block-inner > .block__title
 www.arthritis-health.com###block-vh-dfp-dfp-ad-r2 > .clearfix.block-inner
 www.arthritis-health.com##.block--vh-footer-ads-vh-footer-ads.block--vh-footer-ads.block
+
+! automd.com
+www.automd.com##.amd-ad
 
 ! avclub.com
 film.avclub.com##.movable-ad
@@ -337,6 +345,10 @@ contactform7.com##.count-2.cf7com-adsense
 coryrylan.com##.av-banner-web-component-essentials
 coryrylan.com##.av-side-web-component-essentials.card
 
+! cpu-benchmark.org
+cpu-benchmark.org##.bn-hero
+cpu-benchmark.org##.mb-3.mt-3.container
+
 ! cryptlife.com
 www.cryptlife.com##article > div:nth-of-type(3)
 www.cryptlife.com##div:nth-of-type(2) > font > center
@@ -439,6 +451,10 @@ local.dmv.org##.zdzoneBottom
 local.dmv.org##.zdzoneLeftRail
 local.dmv.org##.zdzoneTop
 
+! dr1.com
+||solopor.com/SOLOPOR/5107754464098674898.gif$image
+dr1.com##[href="https://drlawyer.com/"]
+
 ! dummies.com
 www.dummies.com##.ads
 
@@ -540,25 +556,20 @@ www.forbes.com###brandvoice-inline-1-wrapper
 www.forbes.com###inline-article-0-ad-1
 www.forbes.com###inline-article-0-ad-2
 www.forbes.com##.ad-rail
+www.forbes.com##.fbs-ad--topx-wrapper
 www.forbes.com##div[id^="article-0-ad-"]
 www.forbes.com##div[id^="article-1-ad-"]
 www.forbes.com##div[id^="article-2-ad-"]
 www.forbes.com##div[id^="article-3-ad-"]
-www.forbes.com##fbs-ad#article-1-ad-3.article-mobile-ad:nth-of-type(3)
-www.forbes.com##fbs-ad#article-1-ad-3.article-mobile-ad:nth-of-type(7)
-www.forbes.com##fbs-ad#article-1-ad-3.article-mobile-ad:nth-of-type(9)
-www.forbes.com##fbs-ad#article-1-ad-4.article-mobile-ad:nth-of-type(2)
-www.forbes.com##fbs-ad#article-1-ad-4.article-mobile-ad:nth-of-type(6)
-www.forbes.com##fbs-ad#article-1-ad-4.article-mobile-ad:nth-of-type(8)
-www.forbes.com##fbs-ad#article-1-ad-5.article-mobile-ad:nth-of-type(10)
-www.forbes.com##fbs-ad#article-1-ad-5.article-mobile-ad:nth-of-type(4)
+www.forbes.com##fbs-ad#article-1-ad-3.article-mobile-ad
+www.forbes.com##fbs-ad#article-1-ad-4.article-mobile-ad
+www.forbes.com##fbs-ad#article-1-ad-5.article-mobile-ad
 
 ! foxbusiness.com
 www.foxbusiness.com###ad-desktop-970x250-970x66-728x90
 www.foxbusiness.com##.9e50yzmdbhl2
 www.foxbusiness.com##.ad
-www.foxbusiness.com##.ad-container.desktop
-www.foxbusiness.com##.ad-container.snapshot
+www.foxbusiness.com##.ad-container
 www.foxbusiness.com##.ad.gpt
 www.foxbusiness.com##.advert
 www.foxbusiness.com##.advert-txt
@@ -578,8 +589,7 @@ www.foxbusiness.com##.r4hn728tepnf
 www.foxbusiness.com##.t03nb4wbdhx3
 www.foxbusiness.com##.uokmic236xqp
 www.foxbusiness.com##.wbwlbca97u5p
-www.foxbusiness.com##div.advert:nth-of-type(1) > .desktop.ad-container > .advert-txt
-www.foxbusiness.com##div.advert:nth-of-type(2) > .desktop.ad-container > .advert-txt
+www.foxbusiness.com##div.advert
 www.foxbusiness.com##div[id^="ad-desktop"]
 
 ! foxnews.com
@@ -589,6 +599,8 @@ www.foxnews.com##.40743aacrnbk
 www.foxnews.com##.4hrvwbx3om6t
 www.foxnews.com##.5y5jzryx9rt3
 www.foxnews.com##.7x82swmagu49
+www.foxnews.com##.ad
+www.foxnews.com##.ad-container
 www.foxnews.com##.ad-container.desktop
 www.foxnews.com##.ad.gpt
 www.foxnews.com##.advert-txt
@@ -688,6 +700,9 @@ www.gjsentinel.com##div[id^="ad-"]
 ! goqr.me
 goqr.me###zazzle-widget
 
+! gpucomparison.org
+gpucomparison.org##.bn-hero
+
 ! graphicscardhub.com
 graphicscardhub.com##.ai_widget.widget
 
@@ -762,6 +777,9 @@ www.i-dont-care-about-cookies.eu##.px-0.text-center.col-lg-12 > div
 
 ! iharare.com
 iharare.com##.mrf-adv__wrapper-framed
+
+! illumeably.com
+www.illumeably.com##.ad-label
 
 ! imdb.com
 m.imdb.com###inline40
@@ -920,6 +938,9 @@ kotaku.com##div.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic.
 krebsonsecurity.com###sidebar > [href^="https://www.akamai.com/us/en/what-we-do/intelligent-platform/"]
 krebsonsecurity.com###sidebar-box > .a-img
 
+! ksat.com
+www.ksat.com##.zeusAdWrapper
+
 ! kutv.com
 kutv.com##div[id^=interstory_]
 
@@ -1042,6 +1063,11 @@ www.msn.com##.civic-ad
 www.msn.com##.csw-ae-sponsor
 www.msn.com##.poll.nativead a
 
+! myownadmin.com
+myownadmin.com##.lazyloaded.ls-is-cached.wp-image-14654.tve_image
+myownadmin.com##.tve-sticky-default.tve-scroll-sticky.tve-height-update.thrv-page-section.thrv_wrapper > .tve-page-section-out
+||myownadmin.com/wp-content/uploads/2021/10/mmo-widget.png$image
+
 ! nasaspaceflight.com
 www.nasaspaceflight.com###custom_html-3 > .custom-html-widget.textwidget > div
 www.nasaspaceflight.com###custom_html-4 > .custom-html-widget.textwidget > div
@@ -1120,6 +1146,12 @@ www.onhealth.com##section.article-section:nth-of-type(1) > .article-section-cont
 ! online-convert.com
 www.online-convert.com##.float-left.float-lg-left.float-md-left.float-sm-none.m-0.responsive_ad_top
 www.online-convert.com##.responsive_ad_top
+
+! oregonlive.com
+www.oregonlive.com##.ad
+www.oregonlive.com##.ad--in-article
+www.oregonlive.com##.module__ad-small
+www.oregonlive.com##.module__ad-wide
 
 ! pandora.com
 www.pandora.com##.DisplayAdController
@@ -1262,6 +1294,9 @@ www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.13
 ||s3.reutersmedia.net/resources/r/?m=02&d=20151117&t=2&i=9308725039&w=760&fh=&fw=&ll=&pl=&sq=&r=1489LYNXMPGOS8788$image
 ||s3.reutersmedia.net/resources/r/?m=02&d=20160405&t=2&i=6524429309&w=380&fh=&fw=&ll=&pl=&sq=&r=1489LYNXMPGYV8788$image
 
+! reviewgeek.com
+www.reviewgeek.com##.adfullwrap
+
 ! rockpapershotgun.com
 www.rockpapershotgun.com###mobile-ads
 www.rockpapershotgun.com##.collapsible.mpu
@@ -1369,6 +1404,11 @@ spaceweather.com##td > table > tbody > tr:nth-of-type(2) > td:nth-of-type(4) > d
 ! spiceworks.com
 community.spiceworks.com##.gekko_leaderboard
 community.spiceworks.com##.slot-1-wrapper
+
+! stayathomemum.com.au 
+www.stayathomemum.com.au##.post-content-ad
+www.stayathomemum.com.au##.sahm-ad-wrapper
+www.stayathomemum.com.au##.widget-sidebar-advertisement
 
 ! steamboatpilot.com
 www.steamboatpilot.com##.ad-top-wrapper
