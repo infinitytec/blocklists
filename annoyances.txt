@@ -84,6 +84,10 @@ yourbusiness.azcentral.com###jwplayer-section
 ! babylonbee.com
 babylonbee.com##.mb-2.article-content > .d-sm-block.d-none
 babylonbee.com##.mb-4.p-3.h-100.article-cta-box
+babylonbee.com##.opacity-75.bg-gray-500.inset-0.absolute
+babylonbee.com##.relative.scrolling-touch.overflow-y-auto.max-h-screen-minus-header.sm\:w-full.sm\:max-w-screen-md.transition-all.transform.shadow-xl.rounded-lg.py-3.dark\:bg-gray-800.bg-gray-50
+babylonbee.com##.sm\:flex.z-50.sm\:justify-center.sm\:items-center.sm\:inset-0.pb-4.px-4.sm\:top-0.top-5.inset-x-0.bottom-0.fixed
+babylonbee.com##.transition-opacity.inset-0.fixed
 
 ! bbb.org
 www.bbb.org##.zJTCO.styles__DrawerContent-sc-11mt4zm-0
@@ -364,6 +368,9 @@ ow.michaeloglesby.com##div > [href^="https://office-watch.com/product/windows-10
 ! minitool.com
 www.minitool.com##.csebox.js-fixed-nav.fixed-nav.full-width
 
+! newegg.com 
+www.newegg.com##.bell-container
+
 ! pbcommercial.com
 pbcommercial.com###dialog-message
 
@@ -604,6 +611,7 @@ www.thewindowsclub.com###text-422067543
 www.thewindowsclub.com###text-422067543 > .textwidget > center
 
 ! tomsguide.com
+forums.tomsguide.com##.jw-flag-user-inactive.jw-floating-dismissible.jw-breakpoint-4.jw-flag-aspect-mode.jw-stretch-uniform.jw-state-idle.jw-reset.jwplayer
 www.tomsguide.com##.future__jwplayer--carousel
 
 ! tomshardware.com
