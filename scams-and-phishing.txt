@@ -653,6 +653,7 @@
 0.0.0.0 cloudfront.templatesearch.net
 0.0.0.0 cloudtheamericansurvey.com
 0.0.0.0 cnewcomer.com
+0.0.0.0 cnnnewscctvfootage55.wixsite.com
 0.0.0.0 cocmodservers.net
 0.0.0.0 cocopalmcandles.com
 0.0.0.0 codemagnet.us
@@ -1220,6 +1221,7 @@
 0.0.0.0 foryoupromo.net
 0.0.0.0 found-ceo.com
 0.0.0.0 foundmoneyguide.com
+0.0.0.0 foxnews081.wixsite.com
 0.0.0.0 fpkdz.com
 0.0.0.0 fractalwater.com
 0.0.0.0 free-apps.me
@@ -1723,6 +1725,7 @@
 0.0.0.0 mail.netflixupdateaccount.servebbs.org
 0.0.0.0 mail.newdeaths.com
 0.0.0.0 mail.nigastream.com
+0.0.0.0 mail.nursingjournals.net
 0.0.0.0 mail.onlinevefifhan.servebbs.org
 0.0.0.0 mail.orgoneffectsaustralia.com.au
 0.0.0.0 mail.pepperblack.cellularhealth.technology
@@ -1801,6 +1804,7 @@
 0.0.0.0 makemoneyfromcpa.com
 0.0.0.0 makemoneywithcpa.com
 0.0.0.0 managemydocuhghes.secpssotel.us
+0.0.0.0 manuscriptpublication.org
 0.0.0.0 marcusbaer.com
 0.0.0.0 marilyn.googleadultseo.com
 0.0.0.0 mario-scherzer.de
@@ -2069,6 +2073,7 @@
 0.0.0.0 ns8.removehotmail.com
 0.0.0.0 nszwangsarbeit.de
 0.0.0.0 ntflixin20218915.servebbs.org
+0.0.0.0 nursingjournals.net
 0.0.0.0 nuxtrax.com
 0.0.0.0 nwb.ngo
 0.0.0.0 o.promotionsonlineusa.com
@@ -2597,6 +2602,7 @@
 0.0.0.0 test.ogads.com
 0.0.0.0 test.owa.buycocaineonline.se
 0.0.0.0 test.stylesforless.com
+0.0.0.0 testedforyou.net
 0.0.0.0 tet.bloghotro.com
 0.0.0.0 teutschebein.de
 0.0.0.0 thaibis.com
@@ -3533,6 +3539,7 @@
 0.0.0.0 www.clohubit.com
 0.0.0.0 www.cloudtheamericansurvey.com
 0.0.0.0 www.cnewcomer.com
+0.0.0.0 www.cnnnewscctvfootage55.wixsite.com
 0.0.0.0 www.cocmodservers.net
 0.0.0.0 www.cocopalmcandles.com
 0.0.0.0 www.codemagnet.us
@@ -3835,6 +3842,7 @@
 0.0.0.0 www.foryoupromo.net
 0.0.0.0 www.found-ceo.com
 0.0.0.0 www.foundmoneyguide.com
+0.0.0.0 www.foxnews081.wixsite.com
 0.0.0.0 www.fpkdz.com
 0.0.0.0 www.fractalwater.com
 0.0.0.0 www.free-apps.me
@@ -4168,6 +4176,7 @@
 0.0.0.0 www.mailterminal.de
 0.0.0.0 www.makemoneyfromcpa.com
 0.0.0.0 www.makemoneywithcpa.com
+0.0.0.0 www.manuscriptpublication.org
 0.0.0.0 www.marcusbaer.com
 0.0.0.0 www.marilyn.googleadultseo.com
 0.0.0.0 www.mario-scherzer.de
@@ -4314,6 +4323,7 @@
 0.0.0.0 www.noticedispense.club
 0.0.0.0 www.noxtrack.com
 0.0.0.0 www.nszwangsarbeit.de
+0.0.0.0 www.nursingjournals.net
 0.0.0.0 www.nuxtrax.com
 0.0.0.0 www.nwb.ngo
 0.0.0.0 www.occules-storsary.com
@@ -4653,6 +4663,7 @@
 0.0.0.0 www.test.lightlounge.life
 0.0.0.0 www.test.lime.buycocaineonline.se
 0.0.0.0 www.test.owa.buycocaineonline.se
+0.0.0.0 www.testedforyou.net
 0.0.0.0 www.teutschebein.de
 0.0.0.0 www.thaibis.com
 0.0.0.0 www.the-bloodbalance.com
