@@ -1099,6 +1099,7 @@
 0.0.0.0 elon-spacex.net
 0.0.0.0 elon12.top
 0.0.0.0 elon5.us
+0.0.0.0 elonark.net
 0.0.0.0 elonassist.com
 0.0.0.0 eloncrypto.net
 0.0.0.0 elongift3.repl.co
@@ -1295,6 +1296,7 @@
 0.0.0.0 get-norton.com
 0.0.0.0 get.gnomicfun.com
 0.0.0.0 get.popplunder.com
+0.0.0.0 get.securesearchnow.com
 0.0.0.0 get2.gnomicfun.com
 0.0.0.0 get3mdl.info
 0.0.0.0 getaways.vacationvip.com
@@ -1425,6 +1427,7 @@
 0.0.0.0 healthmatreview.com
 0.0.0.0 healthyusepro.com
 0.0.0.0 hedronemfprotection.com
+0.0.0.0 helix-life.com
 0.0.0.0 help.law
 0.0.0.0 help.mydigitalsurvey.com
 0.0.0.0 help.reimageplus.com
@@ -2335,6 +2338,7 @@
 0.0.0.0 secure.cybereveryday02.space
 0.0.0.0 secure.moneyandmarkets.com
 0.0.0.0 secure2043062726.grabmydealtoday.com
+0.0.0.0 securesearchnow.com
 0.0.0.0 securitymobile.club
 0.0.0.0 securitystatus.de
 0.0.0.0 sendercert.com
@@ -2725,6 +2729,7 @@
 0.0.0.0 uceprotect.org
 0.0.0.0 ueyoficiyx.3freescoresnow.com
 0.0.0.0 uggk.ga
+0.0.0.0 ukhelpz.com
 0.0.0.0 ultimatediscountselection.com
 0.0.0.0 ultrasonicrepeller.com
 0.0.0.0 unc0ver.vip
@@ -3740,6 +3745,7 @@
 0.0.0.0 www.elon-spacex.net
 0.0.0.0 www.elon12.top
 0.0.0.0 www.elon5.us
+0.0.0.0 www.elonark.net
 0.0.0.0 www.elonassist.com
 0.0.0.0 www.eloncrypto.net
 0.0.0.0 www.elonmusk.egate1.repl.co
@@ -4014,6 +4020,7 @@
 0.0.0.0 www.healthmatreview.com
 0.0.0.0 www.healthyusepro.com
 0.0.0.0 www.hedronemfprotection.com
+0.0.0.0 www.helix-life.com
 0.0.0.0 www.help.law
 0.0.0.0 www.help.wozinga.com
 0.0.0.0 www.help123hp.blogspot.com
@@ -4493,6 +4500,7 @@
 0.0.0.0 www.searches.benefitsdepot.net
 0.0.0.0 www.secpssotel.us
 0.0.0.0 www.secure.buycocaineonline.se
+0.0.0.0 www.securesearchnow.com
 0.0.0.0 www.securitymobile.club
 0.0.0.0 www.securitystatus.de
 0.0.0.0 www.sendercert.com
@@ -4768,6 +4776,7 @@
 0.0.0.0 www.uceprotect.net
 0.0.0.0 www.uceprotect.org
 0.0.0.0 www.uggk.ga
+0.0.0.0 www.ukhelpz.com
 0.0.0.0 www.ultimatediscountselection.com
 0.0.0.0 www.ultrasonicrepeller.com
 0.0.0.0 www.unc0ver.vip
