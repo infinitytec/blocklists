@@ -4,6 +4,7 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 
+
 0.0.0.0 100pure.ositracker.com
 0.0.0.0 10kadnetwork.hasoffers.com
 0.0.0.0 1460320609597786623.1371230.acm-test.ops.tune.com
@@ -1491,6 +1492,7 @@
 0.0.0.0 trainingcamp.tune.com
 0.0.0.0 transfitness.ositracker.com
 0.0.0.0 trendyblendy.hasoffers.com
+0.0.0.0 trhcz.com
 0.0.0.0 triadmedia.hasoffers.com
 0.0.0.0 trierwirdwild.de
 0.0.0.0 trilliuminteractive.hasoffers.com
@@ -1721,6 +1723,7 @@
 0.0.0.0 www.trackerrr.com
 0.0.0.0 www.trackjumpr.com
 0.0.0.0 www.trackstream.club
+0.0.0.0 www.trhcz.com
 0.0.0.0 www.trierwirdwild.de
 0.0.0.0 www.trkr5r5r5.com
 0.0.0.0 www.trkwebs.com
