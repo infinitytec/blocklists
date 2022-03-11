@@ -108,6 +108,7 @@
 0.0.0.0 a.dollarsurvey.org
 0.0.0.0 a.profitsurvey365.org
 0.0.0.0 a.promotionsonlineusa.com
+0.0.0.0 a.waronfakes.com
 0.0.0.0 a2satblog.com
 0.0.0.0 a2zbooks.in
 0.0.0.0 ababiestouch.com
@@ -152,6 +153,7 @@
 0.0.0.0 admin.rich-script.com
 0.0.0.0 admin.templatesearch.org
 0.0.0.0 admin.thepiratefilmes.com
+0.0.0.0 admin.waronfakes.com
 0.0.0.0 admins-websecurity.at
 0.0.0.0 admins-websecurity.com
 0.0.0.0 admins-websecurity.de
@@ -616,6 +618,7 @@
 0.0.0.0 changemysoftwarefreedownload.wordpress.com
 0.0.0.0 charm.servebbs.org
 0.0.0.0 chat.microsoftchat.net
+0.0.0.0 chat.waronfakes.com
 0.0.0.0 chaudrhy.olympicname.com
 0.0.0.0 check-windows-forcleaning.life
 0.0.0.0 checkrain.org
@@ -1549,6 +1552,7 @@
 0.0.0.0 kedarnathyatrabookingtriizza.arrowaircraft.com
 0.0.0.0 keepmobi.g2afse.com
 0.0.0.0 kefu.spacexbigevent.com
+0.0.0.0 kefu.waronfakes.com
 0.0.0.0 kerumal.com
 0.0.0.0 keshefoundation.org
 0.0.0.0 ketoburnadvantage.com
@@ -1558,6 +1562,7 @@
 0.0.0.0 keymadness.com
 0.0.0.0 keymcafee.com
 0.0.0.0 kf.spacexbigevent.com
+0.0.0.0 kf.waronfakes.com
 0.0.0.0 khs-food.de
 0.0.0.0 king-holloway.reinstatementcurbs.com
 0.0.0.0 king-sizedcomforters.com
@@ -1607,6 +1612,7 @@
 0.0.0.0 login-pay0pal6.servebbs.org
 0.0.0.0 login.aulterra.com
 0.0.0.0 login.tacticalusa.com
+0.0.0.0 login.waronfakes.com
 0.0.0.0 logodesignconcepts.com
 0.0.0.0 longebooks.club
 0.0.0.0 lootcoupons.com
@@ -1772,6 +1778,7 @@
 0.0.0.0 mail.wahlen-bayern.de
 0.0.0.0 mail.wakeuptocash.com
 0.0.0.0 mail.wallail.servebbs.org
+0.0.0.0 mail.waronfakes.com
 0.0.0.0 mail.webfilmsite.com
 0.0.0.0 mail.welcometocornerstone.com
 0.0.0.0 mail.winsysdev.com
@@ -1781,6 +1788,7 @@
 0.0.0.0 mail.yk33lz.cc
 0.0.0.0 mail.youtubecenter.net
 0.0.0.0 mail1.freebitco.in
+0.0.0.0 mail1.waronfakes.com
 0.0.0.0 mail2.freebitco.in
 0.0.0.0 mail3.freebitco.in
 0.0.0.0 mail4.freebitco.in
@@ -2568,6 +2576,7 @@
 0.0.0.0 system.fudtroll.com
 0.0.0.0 t.affiliclk.org
 0.0.0.0 t.promotionsonlineusa.com
+0.0.0.0 t.waronfakes.com
 0.0.0.0 tac5237iop.com
 0.0.0.0 tactical.rebelamerica.shop
 0.0.0.0 tacticalusa.com
@@ -2824,6 +2833,7 @@
 0.0.0.0 wakeuptocash.com
 0.0.0.0 wallail.servebbs.org
 0.0.0.0 wallet.wozinga.com
+0.0.0.0 waronfakes.com
 0.0.0.0 warranty.shieldyourbody.com
 0.0.0.0 warriorsuccessmethod.com
 0.0.0.0 warszawa.zagadywacz.pl
@@ -3133,6 +3143,7 @@
 0.0.0.0 www.Live10x.net
 0.0.0.0 www.MuskDonate.vip
 0.0.0.0 www.a.buycocaineonline.se
+0.0.0.0 www.a.waronfakes.com
 0.0.0.0 www.a2satblog.com
 0.0.0.0 www.a2zbooks.in
 0.0.0.0 www.ababiestouch.com
@@ -3166,6 +3177,7 @@
 0.0.0.0 www.adios-akne.de
 0.0.0.0 www.adjengsuharno2019.com
 0.0.0.0 www.admin.rich-script.com
+0.0.0.0 www.admin.waronfakes.com
 0.0.0.0 www.admins-websecurity.at
 0.0.0.0 www.admins-websecurity.com
 0.0.0.0 www.admins-websecurity.de
@@ -3524,6 +3536,7 @@
 0.0.0.0 www.certifiedrecognitionto-learntoday.info
 0.0.0.0 www.chance-value.com
 0.0.0.0 www.changemysoftwarefreedownload.wordpress.com
+0.0.0.0 www.chat.waronfakes.com
 0.0.0.0 www.check-windows-forcleaning.life
 0.0.0.0 www.checkra1n.cc
 0.0.0.0 www.checkrain.org
@@ -4102,6 +4115,7 @@
 0.0.0.0 www.kaspersky-activate.com.com
 0.0.0.0 www.kd-ol.live
 0.0.0.0 www.kefu.spacexbigevent.com
+0.0.0.0 www.kefu.waronfakes.com
 0.0.0.0 www.kerumal.com
 0.0.0.0 www.keshefoundation.org
 0.0.0.0 www.ketoburnadvantage.com
@@ -4111,6 +4125,7 @@
 0.0.0.0 www.keymadness.com
 0.0.0.0 www.keymcafee.com
 0.0.0.0 www.kf.spacexbigevent.com
+0.0.0.0 www.kf.waronfakes.com
 0.0.0.0 www.khs-food.de
 0.0.0.0 www.king-sizedcomforters.com
 0.0.0.0 www.kitchensouffle.com
@@ -4145,6 +4160,7 @@
 0.0.0.0 www.live4fans.net
 0.0.0.0 www.loanshubonline.com
 0.0.0.0 www.login.aulterra.com
+0.0.0.0 www.login.waronfakes.com
 0.0.0.0 www.logodesignconcepts.com
 0.0.0.0 www.longebooks.club
 0.0.0.0 www.lootcoupons.com
@@ -4165,6 +4181,8 @@
 0.0.0.0 www.magento.spacexbigevent.com
 0.0.0.0 www.mail.buycocaineonline.se
 0.0.0.0 www.mail.mail.gdvplanet.com
+0.0.0.0 www.mail.waronfakes.com
+0.0.0.0 www.mail1.waronfakes.com
 0.0.0.0 www.mailabuse.de
 0.0.0.0 www.mailabuse.eu
 0.0.0.0 www.mailagency.net
@@ -4644,6 +4662,7 @@
 0.0.0.0 www.synergyscience.com
 0.0.0.0 www.syntex.one
 0.0.0.0 www.t.affiliclk.org
+0.0.0.0 www.t.waronfakes.com
 0.0.0.0 www.tac5237iop.com
 0.0.0.0 www.tacticalusa.com
 0.0.0.0 www.takeprize.me
@@ -4839,6 +4858,7 @@
 0.0.0.0 www.wahlen-bayern.de
 0.0.0.0 www.wakeuptocash.com
 0.0.0.0 www.wallail.servebbs.org
+0.0.0.0 www.waronfakes.com
 0.0.0.0 www.warranty.shieldyourbody.com
 0.0.0.0 www.warriorsuccessmethod.com
 0.0.0.0 www.warszawa.zagadywacz.pl
