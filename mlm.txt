@@ -5832,6 +5832,7 @@
 0.0.0.0 helga-kopiczinski.bemergroup.com
 0.0.0.0 helgabarkhuizen.juiceplus.com
 0.0.0.0 heliossanchis.bemergroup.com
+0.0.0.0 helix-life.com
 0.0.0.0 helizondo.myrandf.com
 0.0.0.0 hello-nurse.sbi1t.sitesell.com
 0.0.0.0 hellohappyface.myrandf.com
@@ -11314,6 +11315,7 @@
 0.0.0.0 pure-wellness.juiceplus.com
 0.0.0.0 pureandsimplehealing.youngevity.com
 0.0.0.0 purebalance.metagenics.com
+0.0.0.0 purecapspro.com
 0.0.0.0 purecells.myasealive.com
 0.0.0.0 pureenchantment.myasealive.com
 0.0.0.0 puregoodness.juiceplus.com
@@ -15012,6 +15014,7 @@
 0.0.0.0 www.heathers.juiceplus.com
 0.0.0.0 www.heatherstehman.myrandf.com
 0.0.0.0 www.heidifarmer.juiceplus.com
+0.0.0.0 www.helix-life.com
 0.0.0.0 www.hello-nurse.sbi1t.sitesell.com
 0.0.0.0 www.herbalife.com
 0.0.0.0 www.herbalmana.com
@@ -15341,6 +15344,7 @@
 0.0.0.0 www.pruim.juiceplus.com
 0.0.0.0 www.pssm.metagenics.com
 0.0.0.0 www.pthaden.juiceplus.com
+0.0.0.0 www.purecapspro.com
 0.0.0.0 www.pureimpact.arbonne.com
 0.0.0.0 www.purvinder.juiceplus.com
 0.0.0.0 www.qiliving.myasealive.com
