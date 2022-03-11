@@ -246,6 +246,7 @@ www.healthysimulation.com###cliSettingsPopup
 www.howtogeek.com###v2campaignpopup
 www.howtogeek.com###v2campaignpopup_backdrop
 www.howtogeek.com##.inner-border
+www.howtogeek.com##.webpush_wrap
 
 ! hwinfo.com
 www.hwinfo.com##.cookie-agree-with-use
@@ -355,6 +356,9 @@ mtshastanews.com###dialog-message
 
 ! multimonitorcomputer.com
 multimonitorcomputer.com##.top-cta-row
+
+! newegg.com 
+www.newegg.com##.bell-container
 
 ! newstribune.info
 newstribune.info###dialog-message
