@@ -47,6 +47,9 @@ addisfortune.news##body > .container > .row
 ||addisfortune.news/adf*$image
 ||addisfortune.news/adfimages/web_ad_united_insurance.png$image
 
+! aerotime.aero
+www.aerotime.aero##.advertisement
+
 ! alicdn.com
 ||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
@@ -199,6 +202,10 @@ www.britannica.com##.video-ad-container.ora-tv-container
 ! bronx.news12.com
 bronx.news12.com##.section-5c6c979d2d350613f88611118713bec4.section
 bronx.news12.com##div.banner-sidebar.banner
+
+! businessinsider.com
+www.businessinsider.com###taboola-below-article
+www.businessinsider.com##div.only-desktop
 
 !butlercountytimesgazette.com
 butlercountytimesgazette.com##.ad-container
@@ -367,6 +374,9 @@ www.cyberciti.biz##center
 ! dailydot.com
 www.dailydot.com##.taboola-in-plug-wrap
 www.dailydot.com##.text-center.footer-in-plug.in-plug-holder
+
+! dailyfx.com
+www.dailyfx.com##.dfx-ad
 
 ! dailywire.com
 www.dailywire.com###csci-da522ee51914-5fb1eb20-d24e0c7d-03a07fc3-59126ea72df55f4b
@@ -817,6 +827,9 @@ www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-9
 ! irprice.com
 itprice.com##.partner
 
+! israelnationalnews.com
+www.israelnationalnews.com##.banner-top
+
 ! instructables.com
 www.instructables.com###gpt-ad-m-inline
 www.instructables.com###gpt-ad-m-rect
@@ -992,6 +1005,9 @@ linuxmint.com##h3:nth-of-type(2)
 linuxmint.com##h3:nth-of-type(3)
 ||linuxmint.com/img/sponsor/logos/216.gif$image
 
+! listalternatives.com
+www.listalternatives.com##.pb-3.col-12 > .text-center.w-100
+
 ! listoffreeware.com
 listoffreeware.com##.text-center.bannerimg > [href]
 
@@ -1079,6 +1095,10 @@ www.nationalgeographic.com###photography_ancestor_photography_article_infinitefe
 www.nationalgeographic.com##.adSlotDynamic-slot
 www.nationalgeographic.com##.adunit
 
+! nationalpost.com
+nationalpost.com##.ad__section-border
+nationalpost.com##.article-content__ad-group
+
 ! nbcnews.com
 www.nbcnews.com##.global
 www.nbcnews.com##.js-global-nav-insert.global-insert
@@ -1131,6 +1151,9 @@ www.newsweek.com##div[id^="dfp-ad-lazyads"]
 ! niallbrady.com
 www.niallbrady.com##[href^="https://adaptiva.com/products/onesite-intune-edition/"]
 www.niallbrady.com##[href^="https://www.1e.com/solutions/remote-employee-experience/"]
+
+! nocable.org
+nocable.org##.sticky-banner-section
 
 ! onemileatatime.com
 onemileatatime.com##.widget_omaat_advertising
@@ -1654,6 +1677,10 @@ www.tomshardware.com##.slot-topOfSidebar > .bordeaux-slot-root
 www.tomshardware.com##.sponsored-post
 www.tomshardware.com##.slot-afterPopularBox
 
+! topbestalternatives.com
+www.topbestalternatives.com##.container > .top.label
+www.topbestalternatives.com##.list-content > div.app.section
+
 ! tradingcharts.com
 futures.tradingcharts.com###mrABMessage_box_85995
 futures.tradingcharts.com###mrABMessage_top_85995
@@ -1907,7 +1934,7 @@ www.androidpolice.com##.adslot_ap2_trending_posts.adslot.adsbygoogle
 www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
 www.att.com##.advertisementpanel
 www.azcentral.com##.taboola-sidebar
-www.businessinsider.com###taboola-below-article
+
 www.c-sharpcorner.com###NewsArticleAdBox
 www.cars.com##.ads-finance-bottom.ads
 www.cbc.ca##.ad-detail
