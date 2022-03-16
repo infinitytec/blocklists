@@ -233,6 +233,7 @@
 0.0.0.0 amattechnologies.com
 0.0.0.0 amazemarketplace.com
 0.0.0.0 amazing-team.com
+0.0.0.0 amazingdiscountbudget.com
 0.0.0.0 amazingfakts.com
 0.0.0.0 amazonaffiliatemillionaire.com
 0.0.0.0 amazonmascotas.com
@@ -299,6 +300,7 @@
 0.0.0.0 auth1.tightropeinteractive.com
 0.0.0.0 auth2.tightropeinteractive.com
 0.0.0.0 autodiscover.5gdefense.com
+0.0.0.0 autodiscover.amazingdiscountbudget.com
 0.0.0.0 autodiscover.atomic-armor.com
 0.0.0.0 autodiscover.ayanaproducts.com
 0.0.0.0 autodiscover.bioenergyshop.com
@@ -310,11 +312,19 @@
 0.0.0.0 autodiscover.gdvplanet.com
 0.0.0.0 autodiscover.gethacks.net
 0.0.0.0 autodiscover.greenfieldwater.com
+0.0.0.0 autodiscover.highlyratedgadgets.com
 0.0.0.0 autodiscover.karmawhores.com
 0.0.0.0 autodiscover.luxury-products.biz
 0.0.0.0 autodiscover.my5gblocker.com
+0.0.0.0 autodiscover.newlyratedgadgets.com
+0.0.0.0 autodiscover.perfectshopdiscount.com
 0.0.0.0 autodiscover.rich-script.com
 0.0.0.0 autodiscover.saylorevent.org
+0.0.0.0 autodiscover.smartfashiondaily.com
+0.0.0.0 autodiscover.techbuydiscountstore.com
+0.0.0.0 autodiscover.trendydiscountgoods.com
+0.0.0.0 autodiscover.trulyessentialgoods.com
+0.0.0.0 autodiscover.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 autodiscover.twodollarcourse.com
 0.0.0.0 autodiscover.websitesforfreestuff.com
 0.0.0.0 autumnsales.co.uk
@@ -328,6 +338,7 @@
 0.0.0.0 b.promotionsonlineusa.com
 0.0.0.0 backbelong.com
 0.0.0.0 backscatterer.org
+0.0.0.0 ballerswatches.com
 0.0.0.0 bank-crypto.rich-script.com
 0.0.0.0 banyanhill.com
 0.0.0.0 battertr.eu.org
@@ -558,6 +569,7 @@
 0.0.0.0 buydigitalcrypto.com
 0.0.0.0 buydiscountoffer.com
 0.0.0.0 buyextensions.net
+0.0.0.0 buygohardxl.com
 0.0.0.0 buyinbudget.in
 0.0.0.0 buying.cool
 0.0.0.0 buyiphone.com.au
@@ -567,6 +579,8 @@
 0.0.0.0 buyivermectinforsale.com
 0.0.0.0 buyketonow.com
 0.0.0.0 buyotohits.com
+0.0.0.0 buyraindropfarms.com
+0.0.0.0 buytrunature.com
 0.0.0.0 buzzworthyoffers.com
 0.0.0.0 byshepherdat.olympicname.com
 0.0.0.0 bythomas.olympicname.com
@@ -703,6 +717,7 @@
 0.0.0.0 cpanel.5gmicroshield.com
 0.0.0.0 cpanel.aboutthedomain.com
 0.0.0.0 cpanel.accountantsoftwares.com
+0.0.0.0 cpanel.amazingdiscountbudget.com
 0.0.0.0 cpanel.ayanaproducts.com
 0.0.0.0 cpanel.becomelimitless-now.com
 0.0.0.0 cpanel.bioenergyshop.com
@@ -722,6 +737,7 @@
 0.0.0.0 cpanel.emfshieldprotect.com
 0.0.0.0 cpanel.energydots.com
 0.0.0.0 cpanel.epicgamecheats.com
+0.0.0.0 cpanel.flagshipstoresale.com
 0.0.0.0 cpanel.followjapan.servebbs.org
 0.0.0.0 cpanel.freefifa17coins.net
 0.0.0.0 cpanel.freeonlineworkshop.com
@@ -733,6 +749,7 @@
 0.0.0.0 cpanel.googleadultseo.com
 0.0.0.0 cpanel.greenfieldwater.com
 0.0.0.0 cpanel.help.law
+0.0.0.0 cpanel.highlyratedgadgets.com
 0.0.0.0 cpanel.hybridrastamama.com
 0.0.0.0 cpanel.intranet.wozinga.com
 0.0.0.0 cpanel.jailbreaktoday.com
@@ -747,14 +764,21 @@
 0.0.0.0 cpanel.myoffice-setup.com
 0.0.0.0 cpanel.mytraffic.biz
 0.0.0.0 cpanel.netflixupdateaccount.servebbs.org
+0.0.0.0 cpanel.newlyratedgadgets.com
 0.0.0.0 cpanel.onlinevefifhan.servebbs.org
+0.0.0.0 cpanel.perfectshopdiscount.com
 0.0.0.0 cpanel.ppl-edynloginsynlogi.servebbs.org
 0.0.0.0 cpanel.reimage.us.com
 0.0.0.0 cpanel.rfsafe.com
 0.0.0.0 cpanel.rich-script.com
 0.0.0.0 cpanel.service-department-support7.servebbs.org
+0.0.0.0 cpanel.smartfashiondaily.com
+0.0.0.0 cpanel.techbuydiscountstore.com
 0.0.0.0 cpanel.thevisualhouse.in
 0.0.0.0 cpanel.trackjumpr.com
+0.0.0.0 cpanel.trendydiscountgoods.com
+0.0.0.0 cpanel.trulyessentialgoods.com
+0.0.0.0 cpanel.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 cpanel.twodollarcourse.com
 0.0.0.0 cpanel.vibrancywater.ca
 0.0.0.0 cpanel.wallail.servebbs.org
@@ -764,6 +788,7 @@
 0.0.0.0 cpanel.ziverdo-kit.us
 0.0.0.0 cpcalendars.3ds.servebbs.org
 0.0.0.0 cpcalendars.5gmicroshield.com
+0.0.0.0 cpcalendars.amazingdiscountbudget.com
 0.0.0.0 cpcalendars.atomic-armor.com
 0.0.0.0 cpcalendars.ayanaproducts.com
 0.0.0.0 cpcalendars.becomelimitless-now.com
@@ -781,6 +806,7 @@
 0.0.0.0 cpcalendars.energydots.com
 0.0.0.0 cpcalendars.epicgamecheats.com
 0.0.0.0 cpcalendars.fastnewbiecash.com
+0.0.0.0 cpcalendars.flagshipstoresale.com
 0.0.0.0 cpcalendars.followjapan.servebbs.org
 0.0.0.0 cpcalendars.freeonlineworkshop.com
 0.0.0.0 cpcalendars.galdc.org
@@ -790,6 +816,7 @@
 0.0.0.0 cpcalendars.goldenhealthcenters.com
 0.0.0.0 cpcalendars.googleadultseo.com
 0.0.0.0 cpcalendars.greenfieldwater.com
+0.0.0.0 cpcalendars.highlyratedgadgets.com
 0.0.0.0 cpcalendars.honestemf.com
 0.0.0.0 cpcalendars.hybridrastamama.com
 0.0.0.0 cpcalendars.intranet.wozinga.com
@@ -803,13 +830,20 @@
 0.0.0.0 cpcalendars.myoffice-setup.com
 0.0.0.0 cpcalendars.mytraffic.biz
 0.0.0.0 cpcalendars.netflixupdateaccount.servebbs.org
+0.0.0.0 cpcalendars.newlyratedgadgets.com
 0.0.0.0 cpcalendars.onlinevefifhan.servebbs.org
+0.0.0.0 cpcalendars.perfectshopdiscount.com
 0.0.0.0 cpcalendars.ppl-edynloginsynlogi.servebbs.org
 0.0.0.0 cpcalendars.reimage.us.com
 0.0.0.0 cpcalendars.rich-script.com
 0.0.0.0 cpcalendars.saylorevent.org
 0.0.0.0 cpcalendars.service-department-support7.servebbs.org
+0.0.0.0 cpcalendars.smartfashiondaily.com
+0.0.0.0 cpcalendars.techbuydiscountstore.com
 0.0.0.0 cpcalendars.trackjumpr.com
+0.0.0.0 cpcalendars.trendydiscountgoods.com
+0.0.0.0 cpcalendars.trulyessentialgoods.com
+0.0.0.0 cpcalendars.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 cpcalendars.twodollarcourse.com
 0.0.0.0 cpcalendars.vibrancywater.ca
 0.0.0.0 cpcalendars.wallail.servebbs.org
@@ -822,6 +856,7 @@
 0.0.0.0 cpcontacts.3ds.servebbs.org
 0.0.0.0 cpcontacts.5gmicroshield.com
 0.0.0.0 cpcontacts.aboutthedomain.com
+0.0.0.0 cpcontacts.amazingdiscountbudget.com
 0.0.0.0 cpcontacts.ayanaproducts.com
 0.0.0.0 cpcontacts.becomelimitless-now.com
 0.0.0.0 cpcontacts.bioenergyshop.com
@@ -849,6 +884,7 @@
 0.0.0.0 cpcontacts.goldenhealthcenters.com
 0.0.0.0 cpcontacts.googleadultseo.com
 0.0.0.0 cpcontacts.greenfieldwater.com
+0.0.0.0 cpcontacts.highlyratedgadgets.com
 0.0.0.0 cpcontacts.honestemf.com
 0.0.0.0 cpcontacts.hybridrastamama.com
 0.0.0.0 cpcontacts.intranet.wozinga.com
@@ -862,13 +898,20 @@
 0.0.0.0 cpcontacts.myoffice-setup.com
 0.0.0.0 cpcontacts.mytraffic.biz
 0.0.0.0 cpcontacts.netflixupdateaccount.servebbs.org
+0.0.0.0 cpcontacts.newlyratedgadgets.com
 0.0.0.0 cpcontacts.onlinevefifhan.servebbs.org
+0.0.0.0 cpcontacts.perfectshopdiscount.com
 0.0.0.0 cpcontacts.ppl-edynloginsynlogi.servebbs.org
 0.0.0.0 cpcontacts.reimage.us.com
 0.0.0.0 cpcontacts.rich-script.com
 0.0.0.0 cpcontacts.saylorevent.org
 0.0.0.0 cpcontacts.service-department-support7.servebbs.org
+0.0.0.0 cpcontacts.smartfashiondaily.com
+0.0.0.0 cpcontacts.techbuydiscountstore.com
 0.0.0.0 cpcontacts.trackjumpr.com
+0.0.0.0 cpcontacts.trendydiscountgoods.com
+0.0.0.0 cpcontacts.trulyessentialgoods.com
+0.0.0.0 cpcontacts.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 cpcontacts.twodollarcourse.com
 0.0.0.0 cpcontacts.vibrancywater.ca
 0.0.0.0 cpcontacts.wallail.servebbs.org
@@ -1031,6 +1074,7 @@
 0.0.0.0 digitalive.world
 0.0.0.0 diplompsychologehench.de
 0.0.0.0 directdiscountproducts.com
+0.0.0.0 directfactorygadgets.com
 0.0.0.0 directfactorymall.com
 0.0.0.0 diyhealthyhomeremedies.com
 0.0.0.0 dms.servebbs.org
@@ -1068,6 +1112,7 @@
 0.0.0.0 dwnlds.com
 0.0.0.0 dwnloads.co
 0.0.0.0 dynamic-newsletter.stylesforless.com
+0.0.0.0 dys2.platinumprizezone.com
 0.0.0.0 e.promotionsonlineusa.com
 0.0.0.0 earthcalm.com
 0.0.0.0 easygetcr.com
@@ -1200,6 +1245,7 @@
 0.0.0.0 financialgrowth.biz
 0.0.0.0 fincasonbaro.de
 0.0.0.0 find.usascholarshipguide.com
+0.0.0.0 findyourdealtoday.com
 0.0.0.0 firee.rich-script.com
 0.0.0.0 firefoxadsbusiness.com
 0.0.0.0 firewall.swissox.ch
@@ -1210,7 +1256,9 @@
 0.0.0.0 fix69.com
 0.0.0.0 fixemails.com
 0.0.0.0 fixmyerror.com
+0.0.0.0 flagshipstoresale.com
 0.0.0.0 flixluv.com
+0.0.0.0 fluxsnaks.com
 0.0.0.0 followjapan.servebbs.org
 0.0.0.0 food.olympicname.com
 0.0.0.0 footnote.servebbs.org
@@ -1440,6 +1488,7 @@
 0.0.0.0 helpubuy4less.com
 0.0.0.0 helpwithlogin.com
 0.0.0.0 hidrom.servebbs.org
+0.0.0.0 highlyratedgadgets.com
 0.0.0.0 hitgiveaways.com
 0.0.0.0 hive.olympicname.com
 0.0.0.0 hollandfranklin.com
@@ -1501,6 +1550,7 @@
 0.0.0.0 imali.g2afse.com
 0.0.0.0 imgvieweriri.com
 0.0.0.0 imwinningtoday.com
+0.0.0.0 incarnetionfive.com
 0.0.0.0 indiantravelstore.com
 0.0.0.0 infinitepowersolutions.com
 0.0.0.0 infopakarbet.blogspot.com
@@ -1653,6 +1703,7 @@
 0.0.0.0 mail.7spins.com
 0.0.0.0 mail.aibot.org
 0.0.0.0 mail.allspammers.com
+0.0.0.0 mail.amazingdiscountbudget.com
 0.0.0.0 mail.ayanaproducts.com
 0.0.0.0 mail.bayernpartei-oberpfalz.de
 0.0.0.0 mail.becomelimitless-now.com
@@ -1674,6 +1725,7 @@
 0.0.0.0 mail.crypto-speed.vip
 0.0.0.0 mail.deutshpost-zollgebuhren.com
 0.0.0.0 mail.directdiscountproducts.com
+0.0.0.0 mail.directfactorygadgets.com
 0.0.0.0 mail.dnsdl.org
 0.0.0.0 mail.edir.de
 0.0.0.0 mail.emf-guard.com
@@ -1686,6 +1738,8 @@
 0.0.0.0 mail.fantules.com
 0.0.0.0 mail.faucet.get-brave.com
 0.0.0.0 mail.fbonlinecoach.com
+0.0.0.0 mail.findyourdealtoday.com
+0.0.0.0 mail.flagshipstoresale.com
 0.0.0.0 mail.followjapan.servebbs.org
 0.0.0.0 mail.foryoupromo.com
 0.0.0.0 mail.freefifa17coins.net
@@ -1701,6 +1755,7 @@
 0.0.0.0 mail.green8.com
 0.0.0.0 mail.healthmatreview.com
 0.0.0.0 mail.help.law
+0.0.0.0 mail.highlyratedgadgets.com
 0.0.0.0 mail.honestemf.com
 0.0.0.0 mail.hostdeluxe.de
 0.0.0.0 mail.hostedserver.de
@@ -1733,12 +1788,14 @@
 0.0.0.0 mail.my5gblocker.com
 0.0.0.0 mail.netflixupdateaccount.servebbs.org
 0.0.0.0 mail.newdeaths.com
+0.0.0.0 mail.newlyratedgadgets.com
 0.0.0.0 mail.nigastream.com
 0.0.0.0 mail.nursingjournals.net
 0.0.0.0 mail.onlinevefifhan.servebbs.org
 0.0.0.0 mail.orgoneffectsaustralia.com.au
 0.0.0.0 mail.pepperblack.cellularhealth.technology
 0.0.0.0 mail.perfectmedicinestore.com
+0.0.0.0 mail.perfectshopdiscount.com
 0.0.0.0 mail.perserbaby.de
 0.0.0.0 mail.perserparadies.de
 0.0.0.0 mail.ppl-edynloginsynlogi.servebbs.org
@@ -1751,6 +1808,8 @@
 0.0.0.0 mail.scg-bs.com
 0.0.0.0 mail.service-department-support7.servebbs.org
 0.0.0.0 mail.shake-body.com
+0.0.0.0 mail.shopnaturesnutritions.com
+0.0.0.0 mail.smartfashiondaily.com
 0.0.0.0 mail.spamfrei.org
 0.0.0.0 mail.spamsucks.de
 0.0.0.0 mail.staatsraeson.de
@@ -1765,10 +1824,16 @@
 0.0.0.0 mail.syntex.one
 0.0.0.0 mail.tacticalusa.com
 0.0.0.0 mail.tanisc.com
+0.0.0.0 mail.techbuydiscountstore.com
+0.0.0.0 mail.techratedgadgets.com
 0.0.0.0 mail.theokinawatonic.com
+0.0.0.0 mail.topcentralsavings.com
 0.0.0.0 mail.trackjumpr.com
+0.0.0.0 mail.trendydiscountgoods.com
+0.0.0.0 mail.trulyessentialgoods.com
 0.0.0.0 mail.trustlevel.org
 0.0.0.0 mail.trybandoo.com
+0.0.0.0 mail.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 mail.turisllanes.com
 0.0.0.0 mail.uceprotect.de
 0.0.0.0 mail.unc0ver.vip
@@ -1829,6 +1894,8 @@
 0.0.0.0 mb.moneyandmarkets.com
 0.0.0.0 mbahandroid.com
 0.0.0.0 mdksuuioapk.servebbs.org
+0.0.0.0 media.highlyratedgadgets.com
+0.0.0.0 media.newlyratedgadgets.com
 0.0.0.0 media.productreportcard.com
 0.0.0.0 mediaplayer10.com
 0.0.0.0 medicationplace.com
@@ -1908,6 +1975,7 @@
 0.0.0.0 moneyandmarkets.com
 0.0.0.0 moneyfinderusacentral.com
 0.0.0.0 moneygenie.co
+0.0.0.0 monkermist.com
 0.0.0.0 moranoosa.com
 0.0.0.0 moreebooks.club
 0.0.0.0 morse.olympicname.com
@@ -2002,6 +2070,7 @@
 0.0.0.0 new.teslsagive.repl.co
 0.0.0.0 newdeaths.com
 0.0.0.0 neweracocktailmixers.com
+0.0.0.0 newlyratedgadgets.com
 0.0.0.0 newprojectelon.com
 0.0.0.0 news.junkie
 0.0.0.0 newsandpromotions.com
@@ -2018,6 +2087,7 @@
 0.0.0.0 nioohaa.com
 0.0.0.0 nirvana.admins.ws
 0.0.0.0 nocifs.olympicname.com
+0.0.0.0 node.supershopsaver.com
 0.0.0.0 node.usconcealedonline.com
 0.0.0.0 node1.luxury-products.biz
 0.0.0.0 node1.usconcealedonline.com
@@ -2036,6 +2106,7 @@
 0.0.0.0 nortonsetup-keys.com
 0.0.0.0 nospamgooglemail.com
 0.0.0.0 nospams.eu
+0.0.0.0 notepadstairs.com
 0.0.0.0 noticedispense.club
 0.0.0.0 notification-acces.servebbs.org
 0.0.0.0 notiz.olympicname.com
@@ -2159,10 +2230,12 @@
 0.0.0.0 payments4u.org
 0.0.0.0 pdfgoal.com
 0.0.0.0 pearson-mendoza.scratchfolks.com
+0.0.0.0 peaxup.com
 0.0.0.0 pepperblack.cellularhealth.technology
 0.0.0.0 perabett496.com
 0.0.0.0 perdue-coupons.com
 0.0.0.0 perfectmedicinestore.com
+0.0.0.0 perfectshopdiscount.com
 0.0.0.0 perserbaby.de
 0.0.0.0 perserparadies.de
 0.0.0.0 pesoaniz.com
@@ -2175,6 +2248,7 @@
 0.0.0.0 planet-tachyon.com
 0.0.0.0 planet.olympicname.com
 0.0.0.0 plasmaenergysolution.com
+0.0.0.0 platinumprizezone.com
 0.0.0.0 playinghacks.com
 0.0.0.0 playstation.olympicname.com
 0.0.0.0 pliusinfo.com
@@ -2308,6 +2382,7 @@
 0.0.0.0 rocketlab.g2afse.com
 0.0.0.0 rodriguez.scratchfolks.com
 0.0.0.0 rogers.airplanecohort.com
+0.0.0.0 romainedesign.com
 0.0.0.0 romebooks.club
 0.0.0.0 rootserver844.ml
 0.0.0.0 rossmanndealls.de
@@ -2316,6 +2391,7 @@
 0.0.0.0 roundup-y-linfoma.caso-calificado.com
 0.0.0.0 roxy.servebbs.org
 0.0.0.0 rrbrecruitmenthelp.co.in
+0.0.0.0 rubiron.com
 0.0.0.0 rws-dorsten.de
 0.0.0.0 ryba.servebbs.org
 0.0.0.0 rylee.googleadultseo.com
@@ -2353,6 +2429,7 @@
 0.0.0.0 sendercert.de
 0.0.0.0 sendercert.eu
 0.0.0.0 sendercert.net
+0.0.0.0 sensaionalgirls.wtf
 0.0.0.0 seq.theamericansurvey.com
 0.0.0.0 seq.thepersonalfinancialguide.com
 0.0.0.0 servbbse.servebbs.org
@@ -2361,6 +2438,7 @@
 0.0.0.0 server.logodesignconcepts.com
 0.0.0.0 server.rfsafe.com
 0.0.0.0 server1.a0ndi.cn
+0.0.0.0 server1.highlyratedgadgets.com
 0.0.0.0 server1.wozinga.com
 0.0.0.0 service-department-support7.servebbs.org
 0.0.0.0 servicecenterapple.wordpress.com
@@ -2391,6 +2469,7 @@
 0.0.0.0 shop.lime.buycocaineonline.se
 0.0.0.0 shop.owa.buycocaineonline.se
 0.0.0.0 shop.spacexbigevent.com
+0.0.0.0 shopnaturesnutritions.com
 0.0.0.0 shoppingstylepros.com
 0.0.0.0 shopqlink.com
 0.0.0.0 shoptruuburndiet.com
@@ -2416,6 +2495,7 @@
 0.0.0.0 skytrackerz.com
 0.0.0.0 smartestbrand.com
 0.0.0.0 smartestoptions.com
+0.0.0.0 smartfashiondaily.com
 0.0.0.0 smarthouse.com
 0.0.0.0 smartislife.de
 0.0.0.0 smartislife.dk
@@ -2473,6 +2553,7 @@
 0.0.0.0 spnccrzone.com
 0.0.0.0 springboard.surveyjobs.us
 0.0.0.0 sprkcvr.com
+0.0.0.0 spycam.peaxup.com
 0.0.0.0 ss.buyketofastnow.com
 0.0.0.0 ss.buyketonow.com
 0.0.0.0 staatsraeson.de
@@ -2549,6 +2630,7 @@
 0.0.0.0 superdimensionalfolder.com
 0.0.0.0 superhacktool.com
 0.0.0.0 superiorpodsnow.com
+0.0.0.0 supershopsaver.com
 0.0.0.0 support.101sweets.com
 0.0.0.0 support.gnomicfun.com
 0.0.0.0 support.reimageplus.com
@@ -2591,7 +2673,9 @@
 0.0.0.0 team-kolassa.de
 0.0.0.0 teamppv.jordanappvideoscanpy.us
 0.0.0.0 tease.olympicname.com
+0.0.0.0 techbuydiscountstore.com
 0.0.0.0 technicalinfo76.co.in
+0.0.0.0 techratedgadgets.com
 0.0.0.0 teenpattigoldhack.info
 0.0.0.0 telecomservation.com
 0.0.0.0 telefonsex1.bravesites.com
@@ -2663,6 +2747,7 @@
 0.0.0.0 top10units.com
 0.0.0.0 topb1og24-7.info
 0.0.0.0 topbestcases.com
+0.0.0.0 topcentralsavings.com
 0.0.0.0 topconsumerdeals.com
 0.0.0.0 topelevenreviews.com
 0.0.0.0 topendheadphoneschoice.com
@@ -2700,6 +2785,7 @@
 0.0.0.0 travel-cibola.business.site
 0.0.0.0 trc.fbonlinecoach.com
 0.0.0.0 trendsndeals.com
+0.0.0.0 trendydiscountgoods.com
 0.0.0.0 trierwirdwild.de
 0.0.0.0 triosex.de
 0.0.0.0 trk-rankmyapp.g2afse.com
@@ -2710,6 +2796,7 @@
 0.0.0.0 trk10.com
 0.0.0.0 trkr5r5r5.com
 0.0.0.0 tron24.io
+0.0.0.0 trulyessentialgoods.com
 0.0.0.0 trung.servebbs.org
 0.0.0.0 trustedpush.com
 0.0.0.0 trustlevel.org
@@ -2717,9 +2804,12 @@
 0.0.0.0 trybandoo.com
 0.0.0.0 trygiveaways.com
 0.0.0.0 trygreenape.com
+0.0.0.0 tryhealthtechtoyssavingsdirect.com
 0.0.0.0 trypharmalitexspremiumketo.com
+0.0.0.0 tryslimcorex.com
 0.0.0.0 tslacrp.com
 0.0.0.0 turisllanes.com
+0.0.0.0 twearbudspromo.com
 0.0.0.0 tweet.olympicname.com
 0.0.0.0 twgzqax.xyz
 0.0.0.0 twodollarcourse.com
@@ -2797,6 +2887,9 @@
 0.0.0.0 vibrancywater.ca
 0.0.0.0 video.getfitnos.com
 0.0.0.0 video.hotconsumerdeals.com
+0.0.0.0 video.techbuydiscountstore.com
+0.0.0.0 video.topcentralsavings.com
+0.0.0.0 video.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 videolan-free.com
 0.0.0.0 videopal.io
 0.0.0.0 videopal.me
@@ -2858,6 +2951,7 @@
 0.0.0.0 webdisk.5gdefense.com
 0.0.0.0 webdisk.5gmicroshield.com
 0.0.0.0 webdisk.accountantsoftwares.com
+0.0.0.0 webdisk.amazingdiscountbudget.com
 0.0.0.0 webdisk.atomic-armor.com
 0.0.0.0 webdisk.ayanaproducts.com
 0.0.0.0 webdisk.becomelimitless-now.com
@@ -2881,6 +2975,7 @@
 0.0.0.0 webdisk.energydots.com
 0.0.0.0 webdisk.epicgamecheats.com
 0.0.0.0 webdisk.fastnewbiecash.com
+0.0.0.0 webdisk.flagshipstoresale.com
 0.0.0.0 webdisk.followjapan.servebbs.org
 0.0.0.0 webdisk.freefifa17coins.net
 0.0.0.0 webdisk.freeonlineworkshop.com
@@ -2890,6 +2985,7 @@
 0.0.0.0 webdisk.gethacks.net
 0.0.0.0 webdisk.goldenhealthcenters.com
 0.0.0.0 webdisk.googleadultseo.com
+0.0.0.0 webdisk.highlyratedgadgets.com
 0.0.0.0 webdisk.honestemf.com
 0.0.0.0 webdisk.hybridrastamama.com
 0.0.0.0 webdisk.intranet.wozinga.com
@@ -2904,15 +3000,22 @@
 0.0.0.0 webdisk.myedpill.com
 0.0.0.0 webdisk.myoffice-setup.com
 0.0.0.0 webdisk.netflixupdateaccount.servebbs.org
+0.0.0.0 webdisk.newlyratedgadgets.com
 0.0.0.0 webdisk.onlinevefifhan.servebbs.org
+0.0.0.0 webdisk.perfectshopdiscount.com
 0.0.0.0 webdisk.ppl-edynloginsynlogi.servebbs.org
 0.0.0.0 webdisk.reimage.us.com
 0.0.0.0 webdisk.rfsafe.com
 0.0.0.0 webdisk.rich-script.com
 0.0.0.0 webdisk.saylorevent.org
 0.0.0.0 webdisk.service-department-support7.servebbs.org
+0.0.0.0 webdisk.smartfashiondaily.com
+0.0.0.0 webdisk.techbuydiscountstore.com
 0.0.0.0 webdisk.thevisualhouse.in
 0.0.0.0 webdisk.trackjumpr.com
+0.0.0.0 webdisk.trendydiscountgoods.com
+0.0.0.0 webdisk.trulyessentialgoods.com
+0.0.0.0 webdisk.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 webdisk.twodollarcourse.com
 0.0.0.0 webdisk.vibrancywater.ca
 0.0.0.0 webdisk.wallail.servebbs.org
@@ -2929,6 +3032,7 @@
 0.0.0.0 webmail.5gdefense.com
 0.0.0.0 webmail.5gmicroshield.com
 0.0.0.0 webmail.aboutthedomain.com
+0.0.0.0 webmail.amazingdiscountbudget.com
 0.0.0.0 webmail.atomic-armor.com
 0.0.0.0 webmail.ayanaproducts.com
 0.0.0.0 webmail.becomelimitless-now.com
@@ -2950,6 +3054,7 @@
 0.0.0.0 webmail.energydots.com
 0.0.0.0 webmail.epicgamecheats.com
 0.0.0.0 webmail.fastnewbiecash.com
+0.0.0.0 webmail.flagshipstoresale.com
 0.0.0.0 webmail.followjapan.servebbs.org
 0.0.0.0 webmail.freefifa17coins.net
 0.0.0.0 webmail.freeonlineworkshop.com
@@ -2961,6 +3066,7 @@
 0.0.0.0 webmail.greenfieldwater.com
 0.0.0.0 webmail.healthmatreview.com
 0.0.0.0 webmail.help.law
+0.0.0.0 webmail.highlyratedgadgets.com
 0.0.0.0 webmail.hybridrastamama.com
 0.0.0.0 webmail.intranet.wozinga.com
 0.0.0.0 webmail.jailbreaktoday.com
@@ -2976,14 +3082,22 @@
 0.0.0.0 webmail.myoffice-setup.com
 0.0.0.0 webmail.mytraffic.biz
 0.0.0.0 webmail.netflixupdateaccount.servebbs.org
+0.0.0.0 webmail.newlyratedgadgets.com
 0.0.0.0 webmail.onlinevefifhan.servebbs.org
+0.0.0.0 webmail.perfectshopdiscount.com
 0.0.0.0 webmail.ppl-edynloginsynlogi.servebbs.org
 0.0.0.0 webmail.rfsafe.com
 0.0.0.0 webmail.rich-script.com
 0.0.0.0 webmail.saylorevent.org
 0.0.0.0 webmail.service-department-support7.servebbs.org
+0.0.0.0 webmail.smartfashiondaily.com
+0.0.0.0 webmail.techbuydiscountstore.com
 0.0.0.0 webmail.thevisualhouse.in
+0.0.0.0 webmail.topcentralsavings.com
 0.0.0.0 webmail.trackjumpr.com
+0.0.0.0 webmail.trendydiscountgoods.com
+0.0.0.0 webmail.trulyessentialgoods.com
+0.0.0.0 webmail.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 webmail.turisllanes.com
 0.0.0.0 webmail.twodollarcourse.com
 0.0.0.0 webmail.vibrancywater.ca
@@ -3247,6 +3361,7 @@
 0.0.0.0 www.amattechnologies.com
 0.0.0.0 www.amazemarketplace.com
 0.0.0.0 www.amazing-team.com
+0.0.0.0 www.amazingdiscountbudget.com
 0.0.0.0 www.amazingfakts.com
 0.0.0.0 www.amazonaffiliatemillionaire.com
 0.0.0.0 www.amazonmascotas.com
@@ -3296,6 +3411,7 @@
 0.0.0.0 www.ayanaproducts.com
 0.0.0.0 www.backbelong.com
 0.0.0.0 www.backscatterer.org
+0.0.0.0 www.ballerswatches.com
 0.0.0.0 www.bank-crypto.rich-script.com
 0.0.0.0 www.banyanhill.com
 0.0.0.0 www.battertr.eu.org
@@ -3497,6 +3613,7 @@
 0.0.0.0 www.buydigitalcrypto.com
 0.0.0.0 www.buydiscountoffer.com
 0.0.0.0 www.buyextensions.net
+0.0.0.0 www.buygohardxl.com
 0.0.0.0 www.buyinbudget.in
 0.0.0.0 www.buying.cool
 0.0.0.0 www.buyiphone.com.au
@@ -3507,6 +3624,8 @@
 0.0.0.0 www.buyketofastnow.com
 0.0.0.0 www.buyketonow.com
 0.0.0.0 www.buyotohits.com
+0.0.0.0 www.buyraindropfarms.com
+0.0.0.0 www.buytrunature.com
 0.0.0.0 www.buzzworthyoffers.com
 0.0.0.0 www.callcrypto.org
 0.0.0.0 www.campusmediaaward.de
@@ -3703,6 +3822,7 @@
 0.0.0.0 www.digitalive.world
 0.0.0.0 www.diplompsychologehench.de
 0.0.0.0 www.directdiscountproducts.com
+0.0.0.0 www.directfactorygadgets.com
 0.0.0.0 www.directfactorymall.com
 0.0.0.0 www.diyhealthyhomeremedies.com
 0.0.0.0 www.dnsdl.org
@@ -3841,6 +3961,7 @@
 0.0.0.0 www.files.shieldyourbody.com
 0.0.0.0 www.financialgrowth.biz
 0.0.0.0 www.fincasonbaro.de
+0.0.0.0 www.findyourdealtoday.com
 0.0.0.0 www.firee.rich-script.com
 0.0.0.0 www.firefoxadsbusiness.com
 0.0.0.0 www.fitnessrant.com
@@ -3848,7 +3969,9 @@
 0.0.0.0 www.fix69.com
 0.0.0.0 www.fixemails.com
 0.0.0.0 www.fixmyerror.com
+0.0.0.0 www.flagshipstoresale.com
 0.0.0.0 www.flixluv.com
+0.0.0.0 www.fluxsnaks.com
 0.0.0.0 www.followjapan.servebbs.org
 0.0.0.0 www.forgiveaways.com
 0.0.0.0 www.forms.wozinga.com
@@ -4039,6 +4162,7 @@
 0.0.0.0 www.help123hp.blogspot.com
 0.0.0.0 www.helpubuy4less.com
 0.0.0.0 www.helpwithlogin.com
+0.0.0.0 www.highlyratedgadgets.com
 0.0.0.0 www.hitgiveaways.com
 0.0.0.0 www.hollandfranklin.com
 0.0.0.0 www.holotech.biz
@@ -4081,6 +4205,7 @@
 0.0.0.0 www.igotthekeys.xyz
 0.0.0.0 www.imgvieweriri.com
 0.0.0.0 www.imwinningtoday.com
+0.0.0.0 www.incarnetionfive.com
 0.0.0.0 www.indiantravelstore.com
 0.0.0.0 www.infinitepowersolutions.com
 0.0.0.0 www.infopakarbet.blogspot.com
@@ -4271,6 +4396,7 @@
 0.0.0.0 www.moneyandmarkets.com
 0.0.0.0 www.moneyfinderusacentral.com
 0.0.0.0 www.moneygenie.co
+0.0.0.0 www.monkermist.com
 0.0.0.0 www.moranoosa.com
 0.0.0.0 www.moreebooks.club
 0.0.0.0 www.motoringnostalgia.com
@@ -4318,6 +4444,7 @@
 0.0.0.0 www.new.teslsagive.repl.co
 0.0.0.0 www.newdeaths.com
 0.0.0.0 www.neweracocktailmixers.com
+0.0.0.0 www.newlyratedgadgets.com
 0.0.0.0 www.newprojectelon.com
 0.0.0.0 www.news.junkie
 0.0.0.0 www.newsandpromotions.com
@@ -4329,6 +4456,7 @@
 0.0.0.0 www.nigastream.com
 0.0.0.0 www.nikb.ga
 0.0.0.0 www.nioohaa.com
+0.0.0.0 www.node.supershopsaver.com
 0.0.0.0 www.node.usconcealedonline.com
 0.0.0.0 www.node1.luxury-products.biz
 0.0.0.0 www.nofrndofmine.com
@@ -4345,6 +4473,7 @@
 0.0.0.0 www.nortonsetup-keys.com
 0.0.0.0 www.nospamgooglemail.com
 0.0.0.0 www.nospams.eu
+0.0.0.0 www.notepadstairs.com
 0.0.0.0 www.noticedispense.club
 0.0.0.0 www.noxtrack.com
 0.0.0.0 www.nszwangsarbeit.de
@@ -4394,9 +4523,11 @@
 0.0.0.0 www.payingsocialmediajobs.co
 0.0.0.0 www.payments4u.org
 0.0.0.0 www.pdfgoal.com
+0.0.0.0 www.peaxup.com
 0.0.0.0 www.perabett496.com
 0.0.0.0 www.perdue-coupons.com
 0.0.0.0 www.perfectmedicinestore.com
+0.0.0.0 www.perfectshopdiscount.com
 0.0.0.0 www.perserbaby.de
 0.0.0.0 www.perserparadies.de
 0.0.0.0 www.pesoaniz.com
@@ -4406,6 +4537,7 @@
 0.0.0.0 www.planet-digitalization.com
 0.0.0.0 www.planet-tachyon.com
 0.0.0.0 www.plasmaenergysolution.com
+0.0.0.0 www.platinumprizezone.com
 0.0.0.0 www.playinghacks.com
 0.0.0.0 www.pliusinfo.com
 0.0.0.0 www.pold.ga
@@ -4495,10 +4627,12 @@
 0.0.0.0 www.rich-script.rich-script.com
 0.0.0.0 www.robotic-arm-news.com
 0.0.0.0 www.robuxglobal.com
+0.0.0.0 www.romainedesign.com
 0.0.0.0 www.romebooks.club
 0.0.0.0 www.rootserver844.ml
 0.0.0.0 www.rossmanndealls.de
 0.0.0.0 www.rrbrecruitmenthelp.co.in
+0.0.0.0 www.rubiron.com
 0.0.0.0 www.rws-dorsten.de
 0.0.0.0 www.rylee.googleadultseo.com
 0.0.0.0 www.ryoku.network
@@ -4525,6 +4659,7 @@
 0.0.0.0 www.sendercert.de
 0.0.0.0 www.sendercert.eu
 0.0.0.0 www.sendercert.net
+0.0.0.0 www.sensaionalgirls.wtf
 0.0.0.0 www.servebbs.org
 0.0.0.0 www.service-department-support7.servebbs.org
 0.0.0.0 www.servicecenterapple.wordpress.com
@@ -4550,6 +4685,7 @@
 0.0.0.0 www.shop.lime.buycocaineonline.se
 0.0.0.0 www.shop.owa.buycocaineonline.se
 0.0.0.0 www.shop.spacexbigevent.com
+0.0.0.0 www.shopnaturesnutritions.com
 0.0.0.0 www.shoppingstylepros.com
 0.0.0.0 www.shopqlink.com
 0.0.0.0 www.shoptruuburndiet.com
@@ -4563,6 +4699,7 @@
 0.0.0.0 www.skytrackerz.com
 0.0.0.0 www.smartestbrand.com
 0.0.0.0 www.smartestoptions.com
+0.0.0.0 www.smartfashiondaily.com
 0.0.0.0 www.smarthouse.com
 0.0.0.0 www.smartislife.de
 0.0.0.0 www.smartislife.dk
@@ -4644,6 +4781,7 @@
 0.0.0.0 www.superdimensionalfolder.com
 0.0.0.0 www.superhacktool.com
 0.0.0.0 www.superiorpodsnow.com
+0.0.0.0 www.supershopsaver.com
 0.0.0.0 www.support.wozinga.com
 0.0.0.0 www.supporttv.net
 0.0.0.0 www.surveyjobs.us
@@ -4673,7 +4811,9 @@
 0.0.0.0 www.tastesoflizzyt.recipes
 0.0.0.0 www.tcurepair.com
 0.0.0.0 www.team-kolassa.de
+0.0.0.0 www.techbuydiscountstore.com
 0.0.0.0 www.technicalinfo76.co.in
+0.0.0.0 www.techratedgadgets.com
 0.0.0.0 www.teenpattigoldhack.info
 0.0.0.0 www.telecomservation.com
 0.0.0.0 www.telefonsex1.bravesites.com
@@ -4733,6 +4873,7 @@
 0.0.0.0 www.top10units.com
 0.0.0.0 www.topb1og24-7.info
 0.0.0.0 www.topbestcases.com
+0.0.0.0 www.topcentralsavings.com
 0.0.0.0 www.topconsumerdeals.com
 0.0.0.0 www.topelevenreviews.com
 0.0.0.0 www.topendheadphoneschoice.com
@@ -4766,20 +4907,25 @@
 0.0.0.0 www.trahes.site
 0.0.0.0 www.travel-cibola.business.site
 0.0.0.0 www.trendsndeals.com
+0.0.0.0 www.trendydiscountgoods.com
 0.0.0.0 www.trierwirdwild.de
 0.0.0.0 www.triosex.de
 0.0.0.0 www.trk.out-model-own-cent.xyz
 0.0.0.0 www.trk10.com
 0.0.0.0 www.trkr5r5r5.com
 0.0.0.0 www.tron24.io
+0.0.0.0 www.trulyessentialgoods.com
 0.0.0.0 www.trustedpush.com
 0.0.0.0 www.trustlevel.org
 0.0.0.0 www.trybandoo.com
 0.0.0.0 www.trygiveaways.com
 0.0.0.0 www.trygreenape.com
+0.0.0.0 www.tryhealthtechtoyssavingsdirect.com
 0.0.0.0 www.trypharmalitexspremiumketo.com
+0.0.0.0 www.tryslimcorex.com
 0.0.0.0 www.tslacrp.com
 0.0.0.0 www.turisllanes.com
+0.0.0.0 www.twearbudspromo.com
 0.0.0.0 www.twgzqax.xyz
 0.0.0.0 www.twodollarcourse.com
 0.0.0.0 www.tyblk.info
