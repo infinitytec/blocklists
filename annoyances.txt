@@ -134,6 +134,7 @@ www.cnet.com##.entered.dock.inviewElement
 ! cnx-software.com
 www.cnx-software.com###cliSettingsPopup
 www.cnx-software.com###custom_html-2
+www.cnx-software.com##.jhfdiuh0.fixedmbar
 
 ! coingecko.com
 www.coingecko.com##.tw-items-center.tw-justify-center.tw-flex.tw-p-0.top-header
@@ -298,9 +299,8 @@ www.kbb.com##.has-shadow.animated.show.offset-top-0.bottom.padding-horizontal-2.
 ! khou.com
 www.khou.com##.notifications
 
-! kwch,com
+! kwch.com
 www.kwch.com##.flex-lg-fill.flex-column.d-flex.rail.\|.top-right-rail
-
 
 ! techinline.com
 blog.techinline.com##.how-it-works
@@ -323,6 +323,9 @@ techcommunity.microsoft.com##.ui-widget-overlay
 www.microsoft.com###epb
 www.microsoft.com###uhfc-universal-context
 www.microsoft.com##.b-white.theme-light.epb-container.f-information.c-uhfh-alert
+
+! saltwire.com
+www.saltwire.com##.primis_1
 
 ! softonic.com
 en.softonic.com##.popup-newsletter
