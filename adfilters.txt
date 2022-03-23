@@ -750,6 +750,9 @@ www.hackster.io##.hckui__layout__marginTop10.hckui__layout__marginBottom10
 ! harveycountynow.com
 harveycountynow.com##.sidebar
 
+! healthing.ca
+www.healthing.ca##.ad
+
 ! healthnacity.com
 www.healthnacity.com##.eds-headline
 www.healthnacity.com##.eds-ul.hny-ed-sl-ul
