@@ -2254,6 +2254,7 @@
 0.0.0.0 mta6.p.banyanhill.com
 0.0.0.0 mta7.p.banyanhill.com
 0.0.0.0 mta8.p.banyanhill.com
+0.0.0.0 mugclp.severalbandcolony.xyz
 0.0.0.0 musicallyfame.co
 0.0.0.0 musk-events.com
 0.0.0.0 musk-live.com
@@ -2735,6 +2736,7 @@
 0.0.0.0 setup-antivirus.com
 0.0.0.0 setup123hp.wordpress.com
 0.0.0.0 setuphp-123.xyz
+0.0.0.0 severalbandcolony.xyz
 0.0.0.0 sexberts.net
 0.0.0.0 sextool.info
 0.0.0.0 shake-body.com
@@ -5227,6 +5229,7 @@
 0.0.0.0 www.setup-antivirus.com
 0.0.0.0 www.setup123hp.wordpress.com
 0.0.0.0 www.setuphp-123.xyz
+0.0.0.0 www.severalbandcolony.xyz
 0.0.0.0 www.sexberts.net
 0.0.0.0 www.sextool.info
 0.0.0.0 www.shake-body.com
