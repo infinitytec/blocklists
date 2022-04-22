@@ -4494,7 +4494,6 @@
 0.0.0.0 cpanel.in-this-together.com
 0.0.0.0 cpanel.in5d.com
 0.0.0.0 cpanel.inmycommunity.com.au
-0.0.0.0 cpanel.insideeko.com
 0.0.0.0 cpanel.intranet.wozinga.com
 0.0.0.0 cpanel.invest.bioptimizers.com
 0.0.0.0 cpanel.invexnews.com
@@ -5805,7 +5804,6 @@
 0.0.0.0 cpcontacts.in5d.com
 0.0.0.0 cpcontacts.infoarmed.com
 0.0.0.0 cpcontacts.inmycommunity.com.au
-0.0.0.0 cpcontacts.insideeko.com
 0.0.0.0 cpcontacts.intranet.wozinga.com
 0.0.0.0 cpcontacts.invest.bioptimizers.com
 0.0.0.0 cpcontacts.invexnews.com
@@ -6538,7 +6536,6 @@
 0.0.0.0 dc-37d517131dbd.thedailycoin.org
 0.0.0.0 dc-3a64dba348ba.freedomfirstnetwork.com
 0.0.0.0 dc-3ae8b82a58cb.conservativeplaylist.com
-0.0.0.0 dc-3c0641e50d2b.insideeko.com
 0.0.0.0 dc-40945a28.daystar.com
 0.0.0.0 dc-440ba7249510.wearethene.ws
 0.0.0.0 dc-46a44a09d6b8.sodaliteminds.com
@@ -8313,6 +8310,7 @@
 0.0.0.0 energyman.jurak.com
 0.0.0.0 energymedicinewoman.com
 0.0.0.0 energymuse.com
+0.0.0.0 energywave.com
 0.0.0.0 enews.upledger.com
 0.0.0.0 enformtk.u-aizu.ac.jp
 0.0.0.0 eng-001.develop.gab.com
@@ -9042,6 +9040,7 @@
 0.0.0.0 freedomman.org
 0.0.0.0 freedommed.org
 0.0.0.0 freedomminds.com
+0.0.0.0 freedommovement.nz
 0.0.0.0 freedommychoice.ca
 0.0.0.0 freedomnewsusa.com
 0.0.0.0 freedomns.ca
@@ -11209,6 +11208,7 @@
 0.0.0.0 ingersoll.myctfo.com
 0.0.0.0 ingredients.news
 0.0.0.0 inhealth.metagenics.com
+0.0.0.0 inhere.org
 0.0.0.0 inhomeo.hpathy.com
 0.0.0.0 inhresearch.com
 0.0.0.0 inhresearch2.com
@@ -11240,7 +11240,6 @@
 0.0.0.0 insanity.news
 0.0.0.0 insanitybytes2.wordpress.com
 0.0.0.0 insearchofliberty.com
-0.0.0.0 insideeko.com
 0.0.0.0 insight.energymuse.com
 0.0.0.0 insight.vermontcountrystore.com
 0.0.0.0 insight2health.ehealthpro.com
@@ -12461,6 +12460,7 @@
 0.0.0.0 lifesaver.myctfo.com
 0.0.0.0 lifescape.metagenics.com
 0.0.0.0 lifesitenews.com
+0.0.0.0 lifespirit.org
 0.0.0.0 lifestream.metagenics.com
 0.0.0.0 lifestreammed.com
 0.0.0.0 lifestreamrx.ehealthpro.com
@@ -13503,7 +13503,6 @@
 0.0.0.0 mail.infowars.com
 0.0.0.0 mail.iniciaweb.com
 0.0.0.0 mail.innersites.com
-0.0.0.0 mail.insideeko.com
 0.0.0.0 mail.internationalskeptics.com
 0.0.0.0 mail.intothelight.news
 0.0.0.0 mail.invest.bioptimizers.com
@@ -14628,6 +14627,7 @@
 0.0.0.0 merrilynhope.com
 0.0.0.0 merritt-tracy.healthcoach1.integrativenutrition.com
 0.0.0.0 mersmtp01.mercola.com
+0.0.0.0 merylnass.substack.com
 0.0.0.0 merylnassmd.com
 0.0.0.0 meschalmers.ehealthpro.com
 0.0.0.0 mesh.childrenshealthdefense.org
@@ -18456,6 +18456,7 @@
 0.0.0.0 rich2kid.myctfo.com
 0.0.0.0 richardalanmiller.com
 0.0.0.0 richardcyoung.com
+0.0.0.0 richardhanania.substack.com
 0.0.0.0 richardk.metagenics.com
 0.0.0.0 richardlmor1.myctfo.com
 0.0.0.0 richardpan.news
@@ -19325,6 +19326,7 @@
 0.0.0.0 shop.eluxemagazine.com
 0.0.0.0 shop.emfshieldprotect.com
 0.0.0.0 shop.energymuse.com
+0.0.0.0 shop.energywave.com
 0.0.0.0 shop.extremehealthradio.com
 0.0.0.0 shop.ezinearticles.com
 0.0.0.0 shop.gab.com
@@ -21673,6 +21675,7 @@
 0.0.0.0 truth-memes.com
 0.0.0.0 truth.news
 0.0.0.0 truth11.com
+0.0.0.0 truthaboutcoronavirus.com
 0.0.0.0 truthaboutgardasil.org
 0.0.0.0 truthaboutgod.net
 0.0.0.0 truthactionproject.org
@@ -22342,6 +22345,7 @@
 0.0.0.0 vitaminc4covid.com
 0.0.0.0 vitamincandd.naturalnews.com
 0.0.0.0 vitamincfoundation.org
+0.0.0.0 vitaminconsultancy.com
 0.0.0.0 vitamind.mercola.com
 0.0.0.0 vitamind.naturalnews.com
 0.0.0.0 vitamind.news
@@ -22349,6 +22353,7 @@
 0.0.0.0 vitamind3.naturalnews.com
 0.0.0.0 vitamind4all.org
 0.0.0.0 vitamindwiki.com
+0.0.0.0 vitaminlawyer.com
 0.0.0.0 vitamins.thegoodinside.com
 0.0.0.0 vitelometry.com
 0.0.0.0 vithoulkas.hpathy.com
@@ -23002,7 +23007,6 @@
 0.0.0.0 webdisk.in5d.com
 0.0.0.0 webdisk.infoarmed.com
 0.0.0.0 webdisk.inmycommunity.com.au
-0.0.0.0 webdisk.insideeko.com
 0.0.0.0 webdisk.intractablepainsyndrome.com
 0.0.0.0 webdisk.intranet.wozinga.com
 0.0.0.0 webdisk.invest.bioptimizers.com
@@ -23753,7 +23757,6 @@
 0.0.0.0 webmail.in-this-together.com
 0.0.0.0 webmail.in5d.com
 0.0.0.0 webmail.inmycommunity.com.au
-0.0.0.0 webmail.insideeko.com
 0.0.0.0 webmail.intranet.wozinga.com
 0.0.0.0 webmail.invest.bioptimizers.com
 0.0.0.0 webmail.invexnews.com
@@ -27129,6 +27132,7 @@
 0.0.0.0 www.energyintegrity.com
 0.0.0.0 www.energymedicinewoman.com
 0.0.0.0 www.energymuse.com
+0.0.0.0 www.energywave.com
 0.0.0.0 www.enformtk.u-aizu.ac.jp
 0.0.0.0 www.engystol.com
 0.0.0.0 www.enhancedewellness.metagenics.com
@@ -28435,7 +28439,6 @@
 0.0.0.0 www.insanity.news
 0.0.0.0 www.insanitybytes2.wordpress.com
 0.0.0.0 www.insearchofliberty.com
-0.0.0.0 www.insideeko.com
 0.0.0.0 www.insightastro.com
 0.0.0.0 www.inspades.news
 0.0.0.0 www.inspirationpulmonaryhealth.com
@@ -32463,9 +32466,11 @@
 0.0.0.0 www.vitaminb17.org
 0.0.0.0 www.vitaminc4covid.com
 0.0.0.0 www.vitamincfoundation.org
+0.0.0.0 www.vitaminconsultancy.com
 0.0.0.0 www.vitamind.news
 0.0.0.0 www.vitamind4all.org
 0.0.0.0 www.vitamindwiki.com
+0.0.0.0 www.vitaminlawyer.com
 0.0.0.0 www.vitelometry.com
 0.0.0.0 www.vithoulkas.hpathy.com
 0.0.0.0 www.vivation.com
