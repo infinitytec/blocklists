@@ -1444,12 +1444,16 @@ smallseo.tools##form > p
 
 ! smallseotools.com
 smallseotools.com##.__h1a1ammm_ha3a_
-smallseotools.com##._h1aammm_
-smallseotools.com##div.text-center.row.col-md-12 > ._h1aammm_
+smallseotools.com##._h1aammm_smallseotools.com##.box_shadow_border.tool_box > .row.col-md-12 > .fuc__
+smallseotools.com##.fuc_
+smallseotools.com##.fuc__
+smallseotools.com##.hone_a_box
+smallseotools.com##.pn.mainpart.col-sm-12
 
 ! smartseotools.org
 smartseotools.org##.mb30.mt20.text-center.col-md-12
 smartseotools.org##div.mt20.text-center.col-md-12:nth-of-type(5)
+smallseotools.com##div.text-center.row.col-md-12 > ._h1aammm_
 
 ! smokymountainnews.com
 www.smokymountainnews.com###jsn-pos-banner > .jsn-modulecontainer > .jsn-modulecontainer_inner > .jsn-modulecontent > .bannergroup
