@@ -681,3 +681,22 @@ www.wired.com##.journey-template--mpu.cm-rail-wrapper
 
 ! rawstory.com
 ||www.rawstory.com/wp-content/uploads/2020/01/Bill-Barr-poll-large.gif$image
+
+! reviewgeek.com
+www.reviewgeek.com##.webpush_wrap
+
+! joplinglobe.com
+www.joplinglobe.com###ta_background
+www.joplinglobe.com##.ta_centralPopup.ta_popup
+
+! careerkarma.com
+careerkarma.com###fast-track-modal-window
+
+! arnnet.com.au
+www.arnnet.com.au##.lo-header_top
+
+! androidauthority.com
+www.androidauthority.com##.-S.-Q.-R
+
+! linuxcapable.com
+www.linuxcapable.com###beforepost
