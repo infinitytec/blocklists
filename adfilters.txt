@@ -87,6 +87,9 @@ allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
 www.amazon.com##div.aw-campaigns
 smile.amazon.com###pdagSparkleAdFeedback
 
+! ambientweather.net
+ambientweather.net##.component-generic-ad
+
 ! ancient-origins.net
 www.ancient-origins.net###block-block-59 > .block-inner > .content
 www.ancient-origins.net###page > .container_12.page-inner > .page-inner-inner > .clearfix.header-wrapper > .grid_12.header-wrapper-inner > header > .header_inner_area > .clearfix.top-add-block-wrapper
@@ -151,6 +154,12 @@ babylonbee.com###app > .row > .col-12
 babylonbee.com###div-gpt-ad-1560348589511-0
 babylonbee.com##.mid-article-ad
 babylonbee.com##.text-center.sticky-footer-image
+
+! backlinkr.net
+www.backlinkr.net###stats > center
+www.backlinkr.net##.floating-container > center > div.blockerimage > [href]
+www.backlinkr.net##[src="/img/adblock-bidvertiser2.gif"]
+www.backlinkr.net##center > .fiverr1
 
 ! bartlesvilleradio.com
 www.bartlesvilleradio.com###banner
@@ -836,6 +845,11 @@ m.imdb.com###inlinebottom_sponsored
 m.imdb.com###placeholderImageLinearGradient
 m.imdb.com###placeholderImageMask
 
+! imagetotext.info
+www.imagetotext.info##.bg-light.mt-4.my-3.pb-1.text-center > .text-center > .adv_text
+www.imagetotext.info##.button_left_ad
+www.imagetotext.info##.button_right_ad
+
 ! imgur.com
 imgur.com###cta-container
 ||i.imgur.com/Yefyjlu.gif$image
@@ -860,6 +874,9 @@ www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-9
 ! investing.com
 za.investing.com##.im-ad-container
 za.investing.com##.im-ad-matched
+
+! ipwithease.com
+ipwithease.com##.ipwit-adlabel
 
 ! irprice.com
 itprice.com##.partner
@@ -1412,6 +1429,7 @@ screenrant.com##.width320.ad-zone-container-footer-sticky-footer.ad-zone-contain
 searchenginereports.net###bio_ep
 searchenginereports.net###bio_ep_bg
 searchenginereports.net##.ads_boxxs
+searchenginereports.net##.for_ads
 
 ! seneweb.com
 www.seneweb.com##.main_wrapper > .top_banner
@@ -1419,6 +1437,10 @@ www.seneweb.com##[href="https://www.seneweb.com/xban/clickto/2628e309dec27bb4ebf
 www.seneweb.com##div.module_banner03.module_banner:nth-of-type(1)
 www.seneweb.com##li.featured_posts_item > [href="https://www.seneweb.com/xban/clickto/84eda92fd1a59b443121e63fb57befe52f7b1822"]
 www.seneweb.com##li.featured_posts_item:nth-of-type(6)
+
+! seotoolscenters.com
+seotoolscenters.com##div.col-md-12:nth-of-type(2) > .category_box > .col-md-6
+seotoolscenters.com##div.sideXd
 
 ! seotoolsnet.com
 www.seotoolsnet.com##[href="https://www.webaudittool.com"] > .imageres
@@ -1534,6 +1556,8 @@ www.techpowerup.com###page > .sidebar > section.mnnusjsddg.sidebar-item
 www.techpowerup.com###page > .sidebar > section.mnnusjsddg.sidebar-item > [href="https://www.techpowerup.com/images/3ff/1350.xlv"]
 www.techpowerup.com###page > .thesidebar > section.mnnusjsddg
 www.techpowerup.com###page > .thesidebar > section.mnnusjsddg > div > [href="https://www.techpowerup.com/images/3ff/1593.xlv"]
+www.techpowerup.com##.\30 7cc694b9b3fc636710fa08b6922c42b [href]
+www.techpowerup.com##.apyragw > .sapyrq > xddiuvdc.sapyrqitwm
 www.techpowerup.com##.cduv
 www.techpowerup.com##.content > .mnnuzjsddc
 www.techpowerup.com##.eiyanjcf
@@ -1792,6 +1816,10 @@ www.upi.com##div.widget-advertisement:nth-of-type(2)
 calibre.en.uptodown.com##div.ad
 microsoft-edge.en.uptodown.com##.ad
 
+! urlrate.com
+www.urlrate.com##.header > .pull-right
+www.urlrate.com##[href="https://www.jeanjacob.com/"]
+
 ! userbenchmark.com
 gpu.userbenchmark.com##.be-caption
 cpu.userbenchmark.com##.para-m-t.row > .col-xs-4 > .be-caption
@@ -1811,6 +1839,9 @@ videocardz.com##.google-mid-ad.adsbygoogle
 ! vitals.com
 www.vitals.com##.template-ad.ad
 www.vitals.com##.ad
+
+! viewwhois.com
+www.viewwhois.com##body > div > [href] > [src]
 
 ! vivalearning.com
 vivalearning.com##.top-banner > div
@@ -1834,6 +1865,7 @@ walletinvestor.com##.noticer-wrapper
 ||walletinvestor.com/static/frontend/images/perpetual/prp970x90.jpg$image
 
 ! walmart.com
+www.walmart.com###BROWSE-SponsoredProductCarousel-bottom
 www.walmart.com##.Grid--gutters.grid
 www.walmart.com##.buy-box-container
 www.walmart.com##.pbb-container-link-img.pbb-content
@@ -1863,10 +1895,20 @@ doctor.webmd.com##div#profilebottomad
 www.webmd.com##.ad_label
 www.webmd.com##section:nth-of-type(2) > .responsive-sharethrough-wrapper > .st-continue-reading-below
 
+! websiteseochecker.com
+websiteseochecker.com###menu-item-974 > a[href="https://websiteseochecker.com/new-user/"]
+websiteseochecker.com##[href="https://websiteseochecker.com/adsy/"]
+websiteseochecker.com##[src="https://websiteseochecker.com/img/sign-up-no-captcha.jpg"]
+
 ! websleuths.com
 www.websleuths.com###widget-17
 www.websleuths.com###widget-18
 ||www.websleuths.com/forums/styles/default/xenforo/gradients/category-23px-light.png$image
+
+! webwiki.com
+www.webwiki.com###addmeright
+www.webwiki.com###addmetop
+www.webwiki.com###customobenad
 
 ! wfmynews2.com
 www.wfmynews2.com###taboola-below-article-thumbnails-2nd-0
@@ -1909,10 +1951,14 @@ win10supports.com##.entry-content > div:nth-of-type(1) > p
 win10supports.com##.entry-content > div:nth-of-type(2) > p
 
 ! winaero.com
+winaero.com###content > div > p
 winaero.com###custom_html-2 > .widget-title
 winaero.com###custom_html-6 > .custom-html-widget.textwidget
 winaero.com###custom_html-6 > .widget-title
+winaero.com###dfsfsdfs-asdasd-2
 winaero.com###main > div > p
+winaero.com##.gadadsense
+winaero.com##div:nth-of-type(3)
 
 ! windows-active-directory.com
 www.windows-active-directory.com###custom_html-4
@@ -1925,6 +1971,9 @@ www.windows-active-directory.com##[href^="https://www.manageengine.com/sharepoin
 www.windows-noob.com###ipsLayout_mainArea > div:nth-of-type(1)
 www.windows-noob.com###ipsLayout_mainArea > div:nth-of-type(1) > center
 www.windows-noob.com##div.ipsClearfix:nth-of-type(3) > div > center
+
+! winsite.com
+www.winsite.com##.ads
 
 ! wintips.org
 www.wintips.org##div:nth-of-type(2) > center > .adsbygoogle
@@ -1958,7 +2007,9 @@ www.wthr.com##.ad
 ||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 
 ! yahoo.com
+news.yahoo.com###sda-LREC3-iframe
 news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
+news.yahoo.com##.sticky-active.sticky-sda
 www.yahoo.com###sdaAdvText-INARTICLE
 
 ! yelp.com
@@ -1976,6 +2027,10 @@ my.gstzen.in##.cz-rennab
 
 ! office365itpros.com
 office365itpros.com###media_image-5
+
+! prepostseo.com
+www.prepostseo.com###in_result_ad
+www.prepostseo.com##.pps-spr-after-heading.pps-spr-lumba-daba.pps-spr.text-center
 
 ! pressargus.com
 pressargus.com##.ad-container
@@ -2053,6 +2108,44 @@ www.androidpolice.com##.adsbygoogle
 
 !aspsnippets.com
 www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
+
+! yardbarker.com
+www.yardbarker.com###twoup_widget_contextual
+
+! systemtek.co.uk
+www.systemtek.co.uk###custom_html-2 > .custom-html-widget.textwidget > [href]
+
+! theburningofrome.com
+www.theburningofrome.com##.code-block-1.code-block > noindex > .banlink
+www.theburningofrome.com##.banlink
+
+! font.gooova.com
+||gooova.com/wp-content/uploads/2021/12/bike.gif$image
+
+! copyrightchecker.net
+www.copyrightchecker.net##.entry [href^="https://grammarly.go2cloud.org/aff_c"]
+www.copyrightchecker.net##.custom-html-widget.textwidget > [href^="https://grammarly.go2cloud.org/aff_c"]
+www.copyrightchecker.net###post-2 > [href^="https://grammarly.go2cloud.org/aff_c"]
+
+! listoffreeware.com
+listoffreeware.com##.text-center.bannerimg > [href]
+
+! socialblade.com
+socialblade.com##div.cas-container:nth-of-type(1)
+socialblade.com##.cas-wide-container
+socialblade.com###socialblade-user-content > div:nth-of-type(5) > div:nth-of-type(3)
+
+! prajwaldesai.com
+www.prajwaldesai.com###media_image-8
+
+! acidcow.com
+acidcow.com##center
+
+! washingtonpost.com
+www.washingtonpost.com##.mt-lg.db-ns.dn
+
+
+
 
 www.att.com##.advertisementpanel
 www.azcentral.com##.taboola-sidebar
