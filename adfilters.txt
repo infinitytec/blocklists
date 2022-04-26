@@ -99,6 +99,15 @@ www.ancient-origins.net##.content_add_block
 ! androidauthority.com
 www.androidauthority.com##.nc-wrap.eUYrDT.sc-qvl9r2-0
 
+! androidpolice.com
+www.androidpolice.com###google_ads_iframe_\/39363775\/AP_injected1_300x250_mobile_1
+www.androidpolice.com##.ad-current
+www.androidpolice.com##.adsbygoogle
+www.androidpolice.com##.adslot
+www.androidpolice.com##.adslot_ap2_trending_posts
+www.androidpolice.com##.adslot_ap2_trending_posts.adslot.adsbygoogle
+www.androidpolice.com##.dynamically-injected-refresh-ad-zone
+
 ! android.gethacks.com
 android.gadgethacks.com##aside.whtaph-300.whtaph-rightbox
 
@@ -128,6 +137,9 @@ apnews.com##div.Component-dfp-0-2-181
 arcadespot.com###as-scroll-tounit > .as-unit-base
 arcadespot.com##.as-wrapper > .mb-3.mt-3.text-center.mx-auto > .as-unit > .as-unit-base
 arcadespot.com##.as-wrapper > .mb-3.mt-3.text-center.mx-auto > .pt-0.as-label
+
+! arkansasonline.com
+www.arkansasonline.com##.ad
 
 ! arstechnica.com
 arstechnica.com###article_end_ad_footer
@@ -206,6 +218,7 @@ www.bobvila.com##.advertise
 www.bobvila.com##.bv-unit-mobile-content
 
 ! bloomberg.com
+www.bloomberg.com##.ad
 www.bloomberg.com##.mobile__4d78a978.broker-box-article__995c1333
 www.bloomberg.com##.outstream-ad
 www.bloomberg.com##.outstream-ad--mobile
@@ -229,9 +242,10 @@ bronx.news12.com##div.banner-sidebar.banner
 
 ! businessinsider.com
 www.businessinsider.com###taboola-below-article
+www.businessinsider.com##.subnav-timed-ad-done
 www.businessinsider.com##div.only-desktop
 
-!butlercountytimesgazette.com
+! butlercountytimesgazette.com
 butlercountytimesgazette.com##.ad-container
 
 ! carbuzz.com
@@ -395,6 +409,9 @@ cryptoage.com##.visible-desktop.right-module-position > div.moduletable > div > 
 cryptoage.com##div.moduletable:nth-of-type(2)
 cryptoage.com##div.moduletable:nth-of-type(5)
 
+! cryptoprofitcalculator.com
+www.cryptoprofitcalculator.com##.show-content > [href="https://cex.io/r/2/up149252319/2"]
+
 ! cyberciti.biz
 www.cyberciti.biz###blocker7a1003a
 www.cyberciti.biz##center
@@ -488,6 +505,12 @@ local.dmv.org##.dfp
 local.dmv.org##.zdzoneBottom
 local.dmv.org##.zdzoneLeftRail
 local.dmv.org##.zdzoneTop
+
+! drozshow.com
+www.drozshow.com###sPost_0_0_3_0_0_6_1_2_0_1
+www.drozshow.com###sSocial_Stream_Element_0_0_5_0_0_1
+www.drozshow.com##.ad--placeholder
+www.drozshow.com##.ad-tag
 
 ! dr1.com
 ||solopor.com/SOLOPOR/5107754464098674898.gif$image
@@ -870,6 +893,7 @@ www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-6
 www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-7
 www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-8
 www.insider.com###gpt-post-news-mobile_in_post_ad-mobile-9
+www.insider.com##.subnav-timed-ad-done
 
 ! investing.com
 za.investing.com##.im-ad-container
@@ -1559,7 +1583,9 @@ www.techpowerup.com###page > .thesidebar > section.mnnusjsddg > div > [href="htt
 www.techpowerup.com##.\30 7cc694b9b3fc636710fa08b6922c42b [href]
 www.techpowerup.com##.apyragw > .sapyrq > xddiuvdc.sapyrqitwm
 www.techpowerup.com##.cduv
+www.techpowerup.com##.clearfix.pageheaderxu > section
 www.techpowerup.com##.content > .mnnuzjsddc
+www.techpowerup.com##.content > .svxxdxburitemxu
 www.techpowerup.com##.eiyanjcf
 www.techpowerup.com##.ejpbl
 www.techpowerup.com##.mnmuzjsddc
@@ -2016,12 +2042,17 @@ www.yahoo.com###sdaAdvText-INARTICLE
 m.yelp.com###BottomAdStandard
 m.yelp.com###TopAdStandard
 
+! zdnet.com
+www.zdnet.com##.placeholder.mobile-nav-ad-plus-banner
+
 ! zoopy.com
 www.zoopy.com##div#div_block-16-31408.ct-div-block
 www.zoopy.com##div#div_block-4-31407.nitro-offscreen.ct-div-block
 
 
 ! UNSORTED FILTERS
+
+
 ! gstzen.in
 my.gstzen.in##.cz-rennab
 
@@ -2101,10 +2132,6 @@ www.acuitymag.com##.ca-advertisement
 ! addictivetips.com
 www.addictivetips.com##.top3
 
-! androidpolice.com
-www.androidpolice.com##.adslot_ap2_trending_posts.adslot.adsbygoogle
-www.androidpolice.com##.adslot
-www.androidpolice.com##.adsbygoogle
 
 !aspsnippets.com
 www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
