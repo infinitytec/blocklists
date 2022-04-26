@@ -223,15 +223,18 @@ www.foxnews.com##[href^="https://www.foxnews.com/apps-products"]
 ! gadsentimes.com
 gadsdentimes.com###dialog-message
 
+! geeksforgeeks.org
+||media.geeksforgeeks.org/wp-content/cdn-uploads/20200604102104/GFG-FSRNL-Article-2.png$image
+||media.geeksforgeeks.org/wp-content/cdn-uploads/20200812115607/GFG-RT-DSA-SP-Viral1.png$image
+
 ! gizmodo.com
 gizmodo.com###\31 86641
 gizmodo.com###vjs_video_3
 gizmodo.com##.js_video-sticky__hide
 gizmodo.com##.js_video-sticky__label
 
-! geeksforgeeks.org
-||media.geeksforgeeks.org/wp-content/cdn-uploads/20200604102104/GFG-FSRNL-Article-2.png$image
-||media.geeksforgeeks.org/wp-content/cdn-uploads/20200812115607/GFG-RT-DSA-SP-Viral1.png$image
+! groupme.com
+pages.groupme.com##.callout
 
 ! hackster.io
 www.hackster.io###hello-world
