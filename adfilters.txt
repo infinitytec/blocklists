@@ -21,6 +21,9 @@ themighty.com##.tm-ads
 ! 99rdp.com
 99rdp.com##p:nth-of-type(2)
 
+! a-z-animals.com
+a-z-animals.com##.adthrive-video-player
+
 ! abc6onyourside.com
 abc6onyourside.com##.Display_displayAd__3G6mk
 abc6onyourside.com##.Display_displayAd__FdpK
@@ -35,14 +38,23 @@ abc6onyourside.com##div:nth-of-type(3) > .index_story__MiIQ > .index_columnTwoWr
 www.accuweather.com##.full-responsive-width.zerg-net
 www.accuweather.com##.glacier-ad
 
+! acidcow.com
+acidcow.com##center
+
 ! acronymfinder.com
 www.acronymfinder.com###xs1
 www.acronymfinder.com###xs3
 www.acronymfinder.com###xs4
 
+! acuitymag.com
+www.acuitymag.com##.ca-advertisement
+
 ! adamtheautomator.com
 adamtheautomator.com##.w-full.items-center.bg-gray-200.p-3.flex-col.flex.sidebar
 adamtheautomator.com##blockquote.wp-block-quote:nth-of-type(5)
+
+! addictivetips.com
+www.addictivetips.com##.top3
 
 ! addisfortune.news
 addisfortune.news##.sticky-item
@@ -155,6 +167,9 @@ www.arthritis-health.com###block-vh-dfp-dfp-ad-r1 > .clearfix.block-inner > .blo
 www.arthritis-health.com###block-vh-dfp-dfp-ad-r2 > .clearfix.block-inner
 www.arthritis-health.com##.block--vh-footer-ads-vh-footer-ads.block--vh-footer-ads.block
 
+!aspsnippets.com
+www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
+
 ! automd.com
 www.automd.com##.amd-ad
 
@@ -182,6 +197,10 @@ www.bartlesvilleradio.com##[src="/images/k1-txt-news-weather-sponsored-by-Doenge
 ! bbb.org
 www.bbb.org##.image-ad
 www.bbb.org##.image-ad__media
+
+! bbc.com
+www.bbc.com##.dotcom-ad
+www.bbc.com##.dotcom-ad-container
 
 ! beliefnet.com
 www.beliefnet.com###div-gpt-ad-125166773-0
@@ -390,6 +409,11 @@ conservativebrief.com##.code-block-15.code-block
 ! contactform7.com
 contactform7.com##.count-2.cf7com-adsense
 
+! copyrightchecker.net
+www.copyrightchecker.net##.entry [href^="https://grammarly.go2cloud.org/aff_c"]
+www.copyrightchecker.net##.custom-html-widget.textwidget > [href^="https://grammarly.go2cloud.org/aff_c"]
+www.copyrightchecker.net###post-2 > [href^="https://grammarly.go2cloud.org/aff_c"]
+
 ! coryrylan.com
 coryrylan.com##.av-banner-web-component-essentials
 coryrylan.com##.av-side-web-component-essentials.card
@@ -528,6 +552,9 @@ www.duplichecker.com##.tool_bg.col-md-12 > .text-center.aadd_box1586235442
 www.duplichecker.com##.w768.container > .col-md-12 > .text-center.aadd_box1586235171
 www.duplichecker.com##div.text-center.aadd_box1586235442:nth-of-type(3)
 www.duplichecker.com##div.text-center.aadd_box1586235442:nth-of-type(7)
+
+! earth911.com
+search.earth911.com##.enhanced-banner
 
 ! economist.com
 www.economist.com###HomepageAd1
@@ -761,6 +788,9 @@ www.gjsentinel.com###tncms-region-global-container-top
 www.gjsentinel.com##div[id^="ad-"]
 ||www.gjsentinel.com/tncms/block/646820/?disableTNStatsTracker=1$subdocument
 
+! gooova.com
+||gooova.com/wp-content/uploads/2021/12/bike.gif$image
+
 ! goqr.me
 goqr.me###zazzle-widget
 
@@ -772,6 +802,9 @@ graphicscardhub.com##.ai_widget.widget
 
 ! greekreporter.com
 greekreporter.com###custom_html-4 > .custom-html-widget.textwidget > .td-all-devices
+
+! gstzen.in
+my.gstzen.in##.cz-rennab
 
 ! hackster.io
 www.hackster.io##.article_layout__sidebarInner__1DsO_ > div > .hckui__layout__hiddenMedDown
@@ -872,6 +905,11 @@ m.imdb.com###placeholderImageMask
 www.imagetotext.info##.bg-light.mt-4.my-3.pb-1.text-center > .text-center > .adv_text
 www.imagetotext.info##.button_left_ad
 www.imagetotext.info##.button_right_ad
+
+! imageupscaler.com
+imageupscaler.com##.advertising
+imageupscaler.com##.box__advertising
+imageupscaler.com##.box__home__ad
 
 ! imgur.com
 imgur.com###cta-container
@@ -1257,6 +1295,9 @@ www.nintendolife.com##.for-mobile.insert-mobile-sticky.centered.insert-label
 ! nocable.org
 nocable.org##.sticky-banner-section
 
+! office365itpros.com
+office365itpros.com###media_image-5
+
 ! notthebee.com
 notthebee.com###Notthebee_Player_Mobile > .brid
 
@@ -1342,6 +1383,7 @@ www.prajwaldesai.com###media_image-3
 www.prajwaldesai.com###media_image-4
 www.prajwaldesai.com###media_image-5
 www.prajwaldesai.com###media_image-6
+www.prajwaldesai.com###media_image-8
 www.prajwaldesai.com###stream-item-widget-2
 www.prajwaldesai.com###stream-item-widget-2 > .the-global-title.widget-title
 www.prajwaldesai.com###stream-item-widget-3
@@ -1351,9 +1393,14 @@ www.prajwaldesai.com###stream-item-widget-5
 
 ! prepostseo.com
 www.prepostseo.com###after_title_ad
+www.prepostseo.com###in_result_ad
 www.prepostseo.com###sidebar_ad_big
 www.prepostseo.com##.bg-dark
 www.prepostseo.com##.pps-spr-after-button.pps-spr-lumba-daba.pps-spr.text-center.col-xs-12
+www.prepostseo.com##.pps-spr-after-heading.pps-spr-lumba-daba.pps-spr.text-center
+
+! pressargus.com
+pressargus.com##.ad-container
 
 ! prodesigntools.com
 prodesigntools.com###southsidebar
@@ -1370,6 +1417,9 @@ www.project-syndicate.org##.asize--c.asize.special.inlay.listing > .overlay.trac
 www.projectorcentral.com##.addDiv4
 www.projectorcentral.com##.ban10-width
 www.projectorcentral.com##.top-site-strip2
+
+! providencejournal.com
+providencejournal.com##.ad-container
 
 ! publish0x.com
 www.publish0x.com##.brave-top-header
@@ -1428,9 +1478,15 @@ www.redditgifts.com##p > [href="https://ad.doubleclick.net/ddm/trackclk/N5295.13
 ! reviewgeek.com
 www.reviewgeek.com##.adfullwrap
 
+! ridgecrestca.com
+ridgecrestca.com##.ad-container
+
 ! rockpapershotgun.com
 www.rockpapershotgun.com###mobile-ads
 www.rockpapershotgun.com##.collapsible.mpu
+
+! roll20.net
+roll20.net##.bna
 
 ! sciencenews.org
 www.sciencenews.org##.ad-block-leaderboard__adspeed___1Iopl
@@ -2052,34 +2108,8 @@ www.zoopy.com##div#div_block-4-31407.nitro-offscreen.ct-div-block
 
 ! UNSORTED FILTERS
 
-
-! gstzen.in
-my.gstzen.in##.cz-rennab
-
-! office365itpros.com
-office365itpros.com###media_image-5
-
-! prepostseo.com
-www.prepostseo.com###in_result_ad
-www.prepostseo.com##.pps-spr-after-heading.pps-spr-lumba-daba.pps-spr.text-center
-
-! pressargus.com
-pressargus.com##.ad-container
-
-! providencejournal.com
-providencejournal.com##.ad-container
-
-! ridgecrestca.com
-ridgecrestca.com##.ad-container
-
-! roll20.net
-roll20.net##.bna
-
 ! seacoastonline.com
 seacoastonline.com##.ad-container
-
-! earth911.com
-search.earth911.com##.enhanced-banner
 
 ! seopolarity.com
 seopolarity.com##.overlay
@@ -2126,16 +2156,6 @@ weebly.com##.footer-published-ab-powered-by
 ! wordpress.com
 wordpress.com##.post-type-list > .is-clickable.is-card-link.upsell-nudge.banner.card
 
-! acuitymag.com
-www.acuitymag.com##.ca-advertisement
-
-! addictivetips.com
-www.addictivetips.com##.top3
-
-
-!aspsnippets.com
-www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
-
 ! yardbarker.com
 www.yardbarker.com###twoup_widget_contextual
 
@@ -2146,33 +2166,11 @@ www.systemtek.co.uk###custom_html-2 > .custom-html-widget.textwidget > [href]
 www.theburningofrome.com##.code-block-1.code-block > noindex > .banlink
 www.theburningofrome.com##.banlink
 
-! font.gooova.com
-||gooova.com/wp-content/uploads/2021/12/bike.gif$image
-
-! copyrightchecker.net
-www.copyrightchecker.net##.entry [href^="https://grammarly.go2cloud.org/aff_c"]
-www.copyrightchecker.net##.custom-html-widget.textwidget > [href^="https://grammarly.go2cloud.org/aff_c"]
-www.copyrightchecker.net###post-2 > [href^="https://grammarly.go2cloud.org/aff_c"]
-
-! listoffreeware.com
-listoffreeware.com##.text-center.bannerimg > [href]
-
-! socialblade.com
-socialblade.com##div.cas-container:nth-of-type(1)
-socialblade.com##.cas-wide-container
-socialblade.com###socialblade-user-content > div:nth-of-type(5) > div:nth-of-type(3)
-
-! prajwaldesai.com
-www.prajwaldesai.com###media_image-8
-
-! acidcow.com
-acidcow.com##center
-
 ! washingtonpost.com
 www.washingtonpost.com##.mt-lg.db-ns.dn
 
-
-
+! usnews.com 
+www.usnews.com##.bemVuC.ad-spacer__AdSpacer-sc-nwg9sv-0
 
 www.att.com##.advertisementpanel
 www.azcentral.com##.taboola-sidebar
