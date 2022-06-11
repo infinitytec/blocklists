@@ -55,6 +55,7 @@
 0.0.0.0 2b2t-vn.com
 0.0.0.0 2chpara.com
 0.0.0.0 2d6.io
+0.0.0.0 2tesla.org
 0.0.0.0 2vidyo.com
 0.0.0.0 2xevent.net
 0.0.0.0 30765.freefifa17coins.net
@@ -362,6 +363,7 @@
 0.0.0.0 ballerswatches.com
 0.0.0.0 bank-crypto.rich-script.com
 0.0.0.0 banyanhill.com
+0.0.0.0 basrahenergy.com
 0.0.0.0 battertr.eu.org
 0.0.0.0 bayernpartei-oberpfalz.de
 0.0.0.0 bayernpartei.tv
@@ -552,6 +554,7 @@
 0.0.0.0 bluprints.in
 0.0.0.0 blushield-us.com
 0.0.0.0 bmusk.info
+0.0.0.0 bnbtoday.net
 0.0.0.0 bodyalign.com
 0.0.0.0 bonus-musk.com
 0.0.0.0 bonus-musk.info
@@ -741,6 +744,8 @@
 0.0.0.0 cloudtheamericansurvey.com
 0.0.0.0 cls20.com
 0.0.0.0 cls20.online
+0.0.0.0 cmc.basrahenergy.com
+0.0.0.0 cmcbuy.com
 0.0.0.0 cnewcomer.com
 0.0.0.0 cnnnewscctvfootage55.wixsite.com
 0.0.0.0 cocmodservers.net
@@ -792,6 +797,7 @@
 0.0.0.0 cpanel.accountantsoftwares.com
 0.0.0.0 cpanel.amazingdiscountbudget.com
 0.0.0.0 cpanel.ayanaproducts.com
+0.0.0.0 cpanel.basrahenergy.com
 0.0.0.0 cpanel.becomelimitless-now.com
 0.0.0.0 cpanel.bioenergyshop.com
 0.0.0.0 cpanel.blocknaughtywebsites.com
@@ -874,6 +880,7 @@
 0.0.0.0 cpcalendars.amazingdiscountbudget.com
 0.0.0.0 cpcalendars.atomic-armor.com
 0.0.0.0 cpcalendars.ayanaproducts.com
+0.0.0.0 cpcalendars.basrahenergy.com
 0.0.0.0 cpcalendars.becomelimitless-now.com
 0.0.0.0 cpcalendars.blocknaughtywebsites.com
 0.0.0.0 cpcalendars.blushield-us.com
@@ -950,6 +957,7 @@
 0.0.0.0 cpcontacts.aboutthedomain.com
 0.0.0.0 cpcontacts.amazingdiscountbudget.com
 0.0.0.0 cpcontacts.ayanaproducts.com
+0.0.0.0 cpcontacts.basrahenergy.com
 0.0.0.0 cpcontacts.becomelimitless-now.com
 0.0.0.0 cpcontacts.bioenergyshop.com
 0.0.0.0 cpcontacts.bitcointwopointzero.com
@@ -1265,10 +1273,12 @@
 0.0.0.0 elon-assist.com
 0.0.0.0 elon-rewards.com
 0.0.0.0 elon-spacex.net
+0.0.0.0 elon.basrahenergy.com
 0.0.0.0 elon12.top
 0.0.0.0 elon5.us
 0.0.0.0 elonark.net
 0.0.0.0 elonassist.com
+0.0.0.0 elonbest.com
 0.0.0.0 eloncrypto.net
 0.0.0.0 elongift3.repl.co
 0.0.0.0 elonmusk.egate1.repl.co
@@ -1732,6 +1742,7 @@
 0.0.0.0 inter.ultci.com
 0.0.0.0 interbahis.ultci.com
 0.0.0.0 intranet.wozinga.com
+0.0.0.0 invest-bitcoin.info
 0.0.0.0 invest-spacex.com
 0.0.0.0 invite.codemagnet.us
 0.0.0.0 ios-obaldo-01.blogspot.com
@@ -3019,6 +3030,7 @@
 0.0.0.0 tems1.servebbs.org
 0.0.0.0 temsmy.servebbs.org
 0.0.0.0 termcentre.com
+0.0.0.0 termux-app.com
 0.0.0.0 tesgity.com
 0.0.0.0 tesla-foundation.net
 0.0.0.0 tesla21.io
@@ -3058,6 +3070,7 @@
 0.0.0.0 therapie-lutzebaeck-berlin.de
 0.0.0.0 therewardboost.com
 0.0.0.0 theseniorsact.com
+0.0.0.0 thespacehackers.com
 0.0.0.0 thevisualhouse.in
 0.0.0.0 thevoid.servebbs.org
 0.0.0.0 thewowfeed.com
@@ -3175,6 +3188,7 @@
 0.0.0.0 uggk.ga
 0.0.0.0 ukhelpz.com
 0.0.0.0 ultci.com
+0.0.0.0 ultimatecustomnightgame.net
 0.0.0.0 ultimatediscountselection.com
 0.0.0.0 ultrasonicrepeller.com
 0.0.0.0 unc0ver.vip
@@ -3341,6 +3355,7 @@
 0.0.0.0 webdisk.amazingdiscountbudget.com
 0.0.0.0 webdisk.atomic-armor.com
 0.0.0.0 webdisk.ayanaproducts.com
+0.0.0.0 webdisk.basrahenergy.com
 0.0.0.0 webdisk.becomelimitless-now.com
 0.0.0.0 webdisk.bioenergyshop.com
 0.0.0.0 webdisk.bitcointwopointzero.com
@@ -3432,6 +3447,7 @@
 0.0.0.0 webmail.amazingdiscountbudget.com
 0.0.0.0 webmail.atomic-armor.com
 0.0.0.0 webmail.ayanaproducts.com
+0.0.0.0 webmail.basrahenergy.com
 0.0.0.0 webmail.becomelimitless-now.com
 0.0.0.0 webmail.bioenergyshop.com
 0.0.0.0 webmail.blocknaughtywebsites.com
@@ -3631,6 +3647,7 @@
 0.0.0.0 www.2b2t-vn.com
 0.0.0.0 www.2chpara.com
 0.0.0.0 www.2d6.io
+0.0.0.0 www.2tesla.org
 0.0.0.0 www.2vidyo.com
 0.0.0.0 www.2xevent.net
 0.0.0.0 www.3d-dm.at
@@ -3836,6 +3853,7 @@
 0.0.0.0 www.ballerswatches.com
 0.0.0.0 www.bank-crypto.rich-script.com
 0.0.0.0 www.banyanhill.com
+0.0.0.0 www.basrahenergy.com
 0.0.0.0 www.battertr.eu.org
 0.0.0.0 www.bayernpartei-oberpfalz.de
 0.0.0.0 www.bayernpartei.tv
@@ -4005,6 +4023,7 @@
 0.0.0.0 www.bluprints.in
 0.0.0.0 www.blushield-us.com
 0.0.0.0 www.bmusk.info
+0.0.0.0 www.bnbtoday.net
 0.0.0.0 www.bodyalign.com
 0.0.0.0 www.bonus-musk.com
 0.0.0.0 www.bonus-musk.info
@@ -4138,6 +4157,8 @@
 0.0.0.0 www.cloudtheamericansurvey.com
 0.0.0.0 www.cls20.com
 0.0.0.0 www.cls20.online
+0.0.0.0 www.cmc.basrahenergy.com
+0.0.0.0 www.cmcbuy.com
 0.0.0.0 www.cnewcomer.com
 0.0.0.0 www.cnnnewscctvfootage55.wixsite.com
 0.0.0.0 www.cocmodservers.net
@@ -4355,10 +4376,12 @@
 0.0.0.0 www.elon-assist.com
 0.0.0.0 www.elon-rewards.com
 0.0.0.0 www.elon-spacex.net
+0.0.0.0 www.elon.basrahenergy.com
 0.0.0.0 www.elon12.top
 0.0.0.0 www.elon5.us
 0.0.0.0 www.elonark.net
 0.0.0.0 www.elonassist.com
+0.0.0.0 www.elonbest.com
 0.0.0.0 www.eloncrypto.net
 0.0.0.0 www.elonmusk.egate1.repl.co
 0.0.0.0 www.elonmusk4.com
@@ -4716,6 +4739,7 @@
 0.0.0.0 www.instagram-instagram.club
 0.0.0.0 www.install.unc0ver.vip
 0.0.0.0 www.intellihib.com
+0.0.0.0 www.invest-bitcoin.info
 0.0.0.0 www.invest-spacex.com
 0.0.0.0 www.invite.codemagnet.us
 0.0.0.0 www.ionos.chsxk.servebbs.org
@@ -5430,6 +5454,7 @@
 0.0.0.0 www.templatesearch.org
 0.0.0.0 www.tempobet.girbahise.com
 0.0.0.0 www.termcentre.com
+0.0.0.0 www.termux-app.com
 0.0.0.0 www.tesgity.com
 0.0.0.0 www.tesla-foundation.net
 0.0.0.0 www.tesla21.io
@@ -5461,6 +5486,7 @@
 0.0.0.0 www.thepowerbend.com
 0.0.0.0 www.therapie-lutzebaeck-berlin.de
 0.0.0.0 www.therewardboost.com
+0.0.0.0 www.thespacehackers.com
 0.0.0.0 www.thevisualhouse.in
 0.0.0.0 www.thewowfeed.com
 0.0.0.0 www.thewrenchfinder.edwindearborn.com
@@ -5558,6 +5584,7 @@
 0.0.0.0 www.uggk.ga
 0.0.0.0 www.ukhelpz.com
 0.0.0.0 www.ultci.com
+0.0.0.0 www.ultimatecustomnightgame.net
 0.0.0.0 www.ultimatediscountselection.com
 0.0.0.0 www.ultrasonicrepeller.com
 0.0.0.0 www.unc0ver.vip
