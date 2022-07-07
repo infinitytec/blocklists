@@ -3,6 +3,7 @@
 ! For use with plugin-based adblockers, such as uBlock Origin.
 ! Released under the MIT license.
 ! Expires: 4 days
+! URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt
 
 ! HOSTS HAVE BEEN REMOVED
 ! Use the list at https://github.com/infinitytec/blocklists/blob/master/ads-and-trackers.txt
@@ -176,6 +177,12 @@ www.automd.com##.amd-ad
 ! avclub.com
 film.avclub.com##.movable-ad
 
+! avherald.com
+avherald.com###ad1cell > div
+
+! axios.com
+www.axios.com##.border-accent-blue-tint.sm\:border.border-b.apexAd.gtmView
+
 ! babylonbee.com
 babylonbee.com###app > .row > .col-12
 babylonbee.com###div-gpt-ad-1560348589511-0
@@ -261,11 +268,20 @@ bronx.news12.com##div.banner-sidebar.banner
 
 ! businessinsider.com
 www.businessinsider.com###taboola-below-article
+www.businessinsider.com##.l-ad
+www.businessinsider.com##.subnav-ad-layout
+www.businessinsider.com##.subnav-ad-position-sticky
+www.businessinsider.com##.subnav-ad-position-sticky.post-page.subnav-ad-layout.l-ad
 www.businessinsider.com##.subnav-timed-ad-done
 www.businessinsider.com##div.only-desktop
 
 ! butlercountytimesgazette.com
 butlercountytimesgazette.com##.ad-container
+
+! caranddriver.com
+www.caranddriver.com##.transporter-ad.leaderboard-ad
+www.caranddriver.com##.transporter-vertical-ad.breaker-ad
+www.caranddriver.com##div.mobile-breaker-ad
 
 ! carbuzz.com
 carbuzz.com##.ad-slot
@@ -410,9 +426,9 @@ conservativebrief.com##.code-block-15.code-block
 contactform7.com##.count-2.cf7com-adsense
 
 ! copyrightchecker.net
-www.copyrightchecker.net##.entry [href^="https://grammarly.go2cloud.org/aff_c"]
-www.copyrightchecker.net##.custom-html-widget.textwidget > [href^="https://grammarly.go2cloud.org/aff_c"]
 www.copyrightchecker.net###post-2 > [href^="https://grammarly.go2cloud.org/aff_c"]
+www.copyrightchecker.net##.custom-html-widget.textwidget > [href^="https://grammarly.go2cloud.org/aff_c"]
+www.copyrightchecker.net##.entry [href^="https://grammarly.go2cloud.org/aff_c"]
 
 ! coryrylan.com
 coryrylan.com##.av-banner-web-component-essentials
@@ -530,6 +546,11 @@ local.dmv.org##.zdzoneBottom
 local.dmv.org##.zdzoneLeftRail
 local.dmv.org##.zdzoneTop
 
+! domainincite.com
+domainincite.com##[href="http://101domain.com/"]
+domainincite.com##[href^="https://us.autodns.com/"]
+||domainincite.com/images/radix-june-6-2022-300x250.gif$image
+
 ! drozshow.com
 www.drozshow.com###sPost_0_0_3_0_0_6_1_2_0_1
 www.drozshow.com###sSocial_Stream_Element_0_0_5_0_0_1
@@ -567,6 +588,11 @@ www.eevblog.com##[href="http://s.click.aliexpress.com/e/fznLfbK"]
 www.eevblog.com##[href="https://jlcpcb.com/"]
 www.eevblog.com##[href^="https://saving.em.keysight.com/en/used-signal-analyzers-n9020a"]
 
+! essentiallysports.com
+www.essentiallysports.com##.es-article.jsx-ab2c6669a35be1a > div.jsx-19dc673f7b90656e
+www.essentiallysports.com##div.jsx-19dc673f7b90656e:nth-of-type(12)
+www.essentiallysports.com##div.jsx-19dc673f7b90656e:nth-of-type(14)
+
 ! etherscan.io
 etherscan.io###revive-0-0
 etherscan.io##.showcase-banner-spacing
@@ -582,6 +608,10 @@ www.eevblog.com###main_content_section > [href] > [src]
 www.eevblog.com###text-49
 www.eevblog.com###text-51
 www.eevblog.com###text-57
+
+! failory.com
+www.failory.com##.homepage-ad-link-block-copy
+www.failory.com##.in-content-ad-link-block
 
 ! fastcompany.com
 www.fastcompany.com##.post__article-top-ad-wrapper
@@ -788,6 +818,12 @@ www.gjsentinel.com###tncms-region-global-container-top
 www.gjsentinel.com##div[id^="ad-"]
 ||www.gjsentinel.com/tncms/block/646820/?disableTNStatsTracker=1$subdocument
 
+! gocomics.com
+www.gocomics.com##.ad-leaderboard-container.ad-leaderboard--atf.ad-leaderboard.ad-leaderboard__container.amu-ad__container
+www.gocomics.com##.ad-rectangle-container.ad-rectangle--1.ad-rectangle.ad-rectangle__container.amu-ad__container > .amu-ad__header
+www.gocomics.com##.ad-rectangle-container.ad-rectangle--2.ad-rectangle.ad-rectangle__container.amu-ad__container > .amu-ad__header
+www.gocomics.com##.ad-rectangle__wrapper.amu-ad--.amu-ad
+
 ! gooova.com
 ||gooova.com/wp-content/uploads/2021/12/bike.gif$image
 
@@ -957,6 +993,9 @@ ipwithease.com##.ipwit-adlabel
 
 ! jalopnik.com
 jalopnik.com##div.movable-ad
+
+! jetphotos.com
+www.jetphotos.com###showphotos_ad-0
 
 ! jezebel.com
 jezebel.com##.js_movable_ad_slot
@@ -1242,6 +1281,9 @@ www.ndtv.com##body > .add-section > .add__wrp
 www.neowin.net##.header-banner-advertising
 www.neowin.net###news-content > div
 
+! newegg.com
+www.newegg.com##.external.sponsored-brands-items
+
 ! news-medical.net
 www.news-medical.net###div-gpt-mobile-bottom-mrec
 www.news-medical.net###div-gpt-mobile-middle-mrec
@@ -1304,6 +1346,9 @@ notthebee.com###Notthebee_Player_Mobile > .brid
 ! novirusthanks.org
 tools.novirusthanks.org##h6.aside-title:nth-of-type(2)
 
+! nypost.com
+nypost.com##.ad__wrapper
+
 ! onemileatatime.com
 onemileatatime.com##.widget_omaat_advertising
 onemileatatime.com##[id *= omaat-advertising-]
@@ -1344,6 +1389,9 @@ www.paperrater.com##[href^="/adv/click"]
 parentinfluence.com##.ad_placeholder_m
 parentinfluence.com##.ad_placeholder_m_s
 
+! petapixel.com
+petapixel.com##div.instream_ad
+
 ! petri.com
 www.petri.com##.inContent.contentHighlight
 www.petri.com##.webinar-ad
@@ -1353,6 +1401,10 @@ www.phonescoop.com###admid
 www.phonescoop.com##.adinner
 www.phonescoop.com##.admore
 ||www.phonescoop.com/img/l/a_mc_bg.gif$image
+
+! pilotonline.com
+www.pilotonline.com##.ad_wrapper
+www.pilotonline.com##.top_ad_wrapper
 
 ! pimylifeup.com
 pimylifeup.com##.custom-html-widget.textwidget
@@ -1565,6 +1617,11 @@ www.smokymountainnews.com##.moduletable > .bannergroup
 ! snopes.com
 www.snopes.com##.smg-zone-widget-ads-placement
 
+! soapboxie.com
+soapboxie.com##.m-in-content-ad
+soapboxie.com##aside.not-size-d.not-size-c.not-size-b.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(35)
+soapboxie.com##aside.not-size-d.not-size-c.not-size-b.mm-in-content-ad-row--in-content.l-inline.m-in-content-ad-row:nth-of-type(36)
+
 ! socialblade.com
 socialblade.com##div.cas-container:nth-of-type(1)
 socialblade.com##.cas-wide-container
@@ -1681,6 +1738,8 @@ www.techpowerup.com##a[href="/images/43d/1766ec"]:nth-of-type(1)
 www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(2)
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(3)
+www.techpowerup.com##div.sfaupryrqiswxm:nth-of-type(4)
+www.techpowerup.com##div.sfaupryrqiswxm:nth-of-type(5)
 www.techpowerup.com##div.sidebar-im
 ||tpucdn.com/review/*-1260988325*/images/*.jpg$image
 ||tpucdn.com/review/nmcnglkz-1260988325/images/c5ccf094.jpg$image
@@ -1785,6 +1844,12 @@ www.thesaurus.com##.css-1xdhyk6
 ! thesolving.com
 thesolving.com###sponsor-box-1
 thesolving.com###sponsor-box-2
+
+! thepointsguy.com
+thepointsguy.com##.ad-lib-div
+thepointsguy.com##.ad-lib-div--primary.ad-lib-div--article.ad-lib-div--mobile-banner-plus.ad-lib-div
+thepointsguy.com##.ad-lib-div--primary.ad-lib-div--article.ad-lib-div--mobile-banner-plus2.ad-lib-div
+thepointsguy.com##.ad-lib-div--primary.ad-lib-div--nav.ad-lib-div--mobile-omni-plus-nav.ad-lib-div
 
 ! theverge.com
 www.theverge.com##.adblock-allowlist-messaging__iframe
@@ -1955,6 +2020,9 @@ www.walmart.com##.prod-marketingFlex
 www.walmart.com##.slide-contents
 www.walmart.com##.theme-dark-grey.text-center.premium-brand-banner
 
+! washingtonpost.com
+www.washingtonpost.com##.mt-lg.db-ns.dn
+
 ! wccftech.com
 wccftech.com##.content-ad
 wccftech.com##.footer-ad
@@ -1964,6 +2032,7 @@ wcfcourier.com##.item-ad
 ! weather.com
 weather.com###MW_Position2
 weather.com##.VideoPlaylist--nativeAd--1N7F4
+weather.com##.VideoPlaylist--nativeAd--3x_vs
 weather.com##div:nth-of-type(2) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 weather.com##div:nth-of-type(3) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 

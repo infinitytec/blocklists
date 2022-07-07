@@ -405,6 +405,9 @@ recordnet.com###dialog-message
 ! redshirtsalwaysdie.com
 redshirtsalwaysdie.com##.header-billboard
 
+! reviewgeek.com
+www.reviewgeek.com##.webpush_wrap
+
 ! ridgecrestca.com
 ridgecrestca.com###dialog-message
 
@@ -442,6 +445,9 @@ thehill.com###lightbox-63d68459-6221-4d67-9e2a-bcf7b46e5648-1579319402544
 
 ! theitbros.com
 theitbros.com##.tzss-share-buttons-list
+
+! tomshardware.com
+www.tomshardware.com###taboola-mobile-below-article-thumbnails
 
 ! tuscaloosanews.com
 tuscaloosanews.com###dialog-message
