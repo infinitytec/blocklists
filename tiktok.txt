@@ -10,6 +10,7 @@
 #   https://github.com/llacb47/mischosts/raw/master/tiktok-hosts
 #   https://github.com/superover/TikTok-Blocklist/raw/master/tiktok.txt
 #   https://github.com/xxkenxyz/Bug-Host-
+#   https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt
 
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # URL: https://github.com/infinitytec/blocklists/raw/master/tiktok.txt
