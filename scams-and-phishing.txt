@@ -345,6 +345,7 @@ autodiscover.gethacks.net
 autodiscover.greenfieldwater.com
 autodiscover.havensightmall.com
 autodiscover.highlyratedgadgets.com
+autodiscover.hotelfurniture.shop
 autodiscover.karmawhores.com
 autodiscover.luxury-products.biz
 autodiscover.moderndigitalbusiness.com
@@ -884,6 +885,7 @@ cpanel.greenfieldwater.com
 cpanel.havensightmall.com
 cpanel.help.law
 cpanel.highlyratedgadgets.com
+cpanel.hotelfurniture.shop
 cpanel.hybridrastamama.com
 cpanel.intranet.wozinga.com
 cpanel.ipsnews.net
@@ -970,6 +972,7 @@ cpcalendars.greenfieldwater.com
 cpcalendars.havensightmall.com
 cpcalendars.highlyratedgadgets.com
 cpcalendars.honestemf.com
+cpcalendars.hotelfurniture.shop
 cpcalendars.hybridrastamama.com
 cpcalendars.intranet.wozinga.com
 cpcalendars.ipsnews.net
@@ -1056,6 +1059,7 @@ cpcontacts.greenfieldwater.com
 cpcontacts.havensightmall.com
 cpcontacts.highlyratedgadgets.com
 cpcontacts.honestemf.com
+cpcontacts.hotelfurniture.shop
 cpcontacts.hybridrastamama.com
 cpcontacts.intranet.wozinga.com
 cpcontacts.ipsnews.net
@@ -2058,6 +2062,7 @@ mail.allspammers.com
 mail.amazingdiscountbudget.com
 mail.ayanaproducts.com
 mail.bayernpartei-oberpfalz.de
+mail.beamngdrive.net
 mail.becomelimitless-now.com
 mail.bigtitits.uno
 mail.bitcoin20.org
@@ -2125,6 +2130,7 @@ mail.hostdeluxe.de
 mail.hostedserver.de
 mail.hotaccessoriesdealsnow.com
 mail.hotconsumerdeals.com
+mail.hotelfurniture.shop
 mail.hybridrastamama.com
 mail.ideabanner.com
 mail.infinitepowersolutions.com
@@ -2224,6 +2230,7 @@ mail.tryhealthtechtoyssavingsdirect.com
 mail.turisllanes.com
 mail.uceprotect.de
 mail.unc0ver.vip
+mail.upmychrome.com
 mail.utah-edu.live
 mail.v-bucks.fr
 mail.vacationvip.com
@@ -2236,6 +2243,7 @@ mail.wallail.servebbs.org
 mail.waronfakes.com
 mail.webfilmsite.com
 mail.welcometocornerstone.com
+mail.whatmakesmomhappy.com
 mail.winsysdev.com
 mail.wintersupplement.com
 mail.world-classrecitaltodecipher-today.info
@@ -2449,11 +2457,13 @@ muskdoge.org
 muskdonate.top
 muskpro.net
 musktop.info
+mx.beamngdrive.net
 mx.bitronex.net
 mx.energyintegrity.com
 mx.faucet.get-brave.com
 mx.get-brave.com
 mx.rezotone.com
+mx.upmychrome.com
 mx1.benefitsdepot.net
 mx1.removehotmail.com
 mx2.removehotmail.com
@@ -3243,6 +3253,7 @@ tesla-foundation.net
 tesla21.io
 teslabtc.space
 teslaleaks.com
+teslayoutube.org
 test.3freescoresnow.com
 test.choicegoldcard.com
 test.dc-efb26bfb7cee.buycocaineonline.se
@@ -3429,6 +3440,7 @@ upmychrome.com
 upsaibou.net
 uq40.com.cn
 urmavite.com
+us-hpayvu.com
 us-testhead.foryoupromo.com
 us.boost-and-clean.club
 us.energydots.com
@@ -3622,6 +3634,7 @@ webdisk.googleadultseo.com
 webdisk.havensightmall.com
 webdisk.highlyratedgadgets.com
 webdisk.honestemf.com
+webdisk.hotelfurniture.shop
 webdisk.hybridrastamama.com
 webdisk.intranet.wozinga.com
 webdisk.ipsnews.net
@@ -3721,6 +3734,7 @@ webmail.havensightmall.com
 webmail.healthmatreview.com
 webmail.help.law
 webmail.highlyratedgadgets.com
+webmail.hotelfurniture.shop
 webmail.hybridrastamama.com
 webmail.intranet.wozinga.com
 webmail.ipsnews.net
@@ -3794,6 +3808,7 @@ wespawnforyou.xyz
 westacoast.xyz
 wgotoxxhln.3freescoresnow.com
 whatifoffers.com
+whatmakesmomhappy.com
 wheretobuyivermectin.us
 whetherdealwould.buzz
 whitecloudcoupon.com
@@ -5825,6 +5840,7 @@ www.tesla-foundation.net
 www.tesla21.io
 www.teslabtc.space
 www.teslaleaks.com
+www.teslayoutube.org
 www.test.dc-efb26bfb7cee.buycocaineonline.se
 www.test.lightlounge.life
 www.test.lime.buycocaineonline.se
@@ -5975,6 +5991,7 @@ www.upmychrome.com
 www.upsaibou.net
 www.uq40.com.cn
 www.urmavite.com
+www.us-hpayvu.com
 www.usascholarshipguide.com
 www.usaviagraprice100mg.com
 www.usconcealedonline.com
@@ -6078,6 +6095,7 @@ www.wegiveaways.com
 www.welcometocornerstone.com
 www.wespawnforyou.xyz
 www.whatifoffers.com
+www.whatmakesmomhappy.com
 www.wheretobuyivermectin.us
 www.whetherdealwould.buzz
 www.whitecloudcoupon.com
