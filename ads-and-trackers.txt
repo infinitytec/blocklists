@@ -292,6 +292,7 @@ ajincprivate.hasoffers.com
 akashicfocus.ositracker.com
 alert.client.conduit.com
 alerts.ams.conduit-services.com
+alerts.conduit-services.com
 alexd.hasoffers.com
 alphadraft.hasoffers.com
 altonaerhochbau.de
@@ -340,6 +341,7 @@ appcoins.hasoffers.com
 appdownload.conduit.com
 apps.conduit.com
 apps.usage.conduit-services.com
+appsmetadata.toolbar.conduit-services.com
 appsmetadata.toolbar.va.conduit-services.com
 appstrk.com
 apptrafficmedia.hasoffers.com
@@ -516,6 +518,7 @@ clientlog.users.ams.conduit.com
 clientlog.users.conduit.com
 clientlog.users.va.conduit.com
 clivedecarle.ositracker.com
+clk70.com
 cloudbasedcampaigns.hasoffers.com
 clouta.hasoffers.com
 cnctraining.ositracker.com
@@ -539,6 +542,7 @@ connect.performcb.com
 connectpartner.hasoffers.com
 contactaolhelp.com
 contentmarketing.hasoffers.com
+contextmenu.toolbar.conduit-services.com
 contextmenu.toolbar.va.conduit-services.com
 contxmedia.hasoffers.com
 conversionboundcom.hasoffers.com
@@ -659,7 +663,9 @@ dtep.hasoffers.com
 dtg.ositracker.com
 dwh.conduit.com
 dynamicdialogs.alert.conduit-services.com
+dynamicdialogs.toolbar.conduit-services.com
 dynamicholdings.hasoffers.com
+e.clk70.com
 e.crashlytics.com
 earnlink.hasoffers.com
 earthiemama.ositracker.com
@@ -1102,6 +1108,16 @@ mta-8.news.warriorplus.com
 mta-sts.mb104.com
 mvapp.dev.lab.tune.com
 mwaffiliate.ositracker.com
+mx1.clk70.com
+mx10.clk70.com
+mx2.clk70.com
+mx3.clk70.com
+mx4.clk70.com
+mx5.clk70.com
+mx6.clk70.com
+mx7.clk70.com
+mx8.clk70.com
+mx9.clk70.com
 my.clickbooth.com
 myalphaspace1.com
 myalphaspace2.com
@@ -1146,6 +1162,7 @@ nutralane.hasoffers.com
 nutreevit.ositracker.com
 nuts.hasoffers.com
 nutsonline.hasoffers.com
+o.clk70.com
 o1.email.conduit.com
 o1.email.robly.com
 o1.mail.loox.io
@@ -1295,7 +1312,9 @@ questxmedia.ositracker.com
 quickappninja.hasoffers.com
 quicknrandom.hasoffers.com
 quotevelocity.hasoffers.com
+r.clk70.com
 rabankcard.ositracker.com
+radio.services.conduit.com
 radio.services.va.conduit.com
 raegear.ositracker.com
 raiders.ositracker.com
@@ -1313,6 +1332,7 @@ reisemobilekuelzer.de
 reklamaction.hasoffers.com
 rendham.hasoffers.com
 renewderm.ositracker.com
+replies.clk70.com
 rescuetouch.ositracker.com
 resources.images.search.conduit.com
 resources.search.conduit.com
@@ -1799,6 +1819,7 @@ www.caphaiks.com
 www.cldoffers.net
 www.clickbooth.com
 www.clickfunnels.com
+www.clk70.com
 www.conduit-services.com
 www.conduit.com
 www.contactaolhelp.com
