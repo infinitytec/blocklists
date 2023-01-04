@@ -4,6 +4,7 @@
 ! Released under the MIT license.
 ! Expires: 4 days
 ! URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt
+! Homepage: https://github.com/infinitytec/blocklists/
 
 ! HOSTS HAVE BEEN REMOVED
 ! Use the list at https://github.com/infinitytec/blocklists/blob/master/ads-and-trackers.txt
@@ -63,6 +64,11 @@ addisfortune.news##body > .container > .row
 ||addisfortune.news/adf*$image
 ||addisfortune.news/adfimages/web_ad_united_insurance.png$image
 
+! aecmag.com
+aecmag.com###custom_html-2 > .custom-html-widget.textwidget
+aecmag.com###custom_html-4 > .custom-html-widget.textwidget > div
+aecmag.com##.inarticlead728
+
 ! aerotime.aero
 www.aerotime.aero##.advertisement
 
@@ -88,6 +94,7 @@ allnurses.com##.medrec.ipsType_center
 
 ! allrecipes.com
 www.allrecipes.com###div-gpt-mob-adhesive-banner-fixed
+www.allrecipes.com##.local-offers-v3
 www.allrecipes.com##.recipe-main-ad
 www.allrecipes.com##.tablet-ad
 
@@ -110,6 +117,8 @@ www.ancient-origins.net##.OUTBRAIN
 www.ancient-origins.net##.content_add_block
 
 ! androidauthority.com
+www.androidauthority.com##.-_-mc.-_-lc.ad-banner
+www.androidauthority.com##.-_-nd > div.-_-qg > .-_-pg
 www.androidauthority.com##.nc-wrap.eUYrDT.sc-qvl9r2-0
 
 ! androidpolice.com
@@ -145,6 +154,9 @@ apnews.com##.bellow-article
 apnews.com##.persistent-ad > div > .Component-adTitle-0-2-13
 apnews.com##.persistent-ad > div > .Component-rectanglePlaceholderWrapper-0-2-17.Component-placeholderWrapper-0-2-16
 apnews.com##div.Component-dfp-0-2-181
+
+! appuals.com
+appuals.com##.wp-timed-p-content
 
 ! arcadespot.com
 arcadespot.com###as-scroll-tounit > .as-unit-base
@@ -277,6 +289,9 @@ www.businessinsider.com##div.only-desktop
 
 ! butlercountytimesgazette.com
 butlercountytimesgazette.com##.ad-container
+
+! cleveland.com
+www.cleveland.com##.InContent_Center_Padding
 
 ! caranddriver.com
 www.caranddriver.com##.transporter-ad.leaderboard-ad
@@ -451,6 +466,9 @@ cryptoage.com##div.moduletable:nth-of-type(5)
 
 ! cryptoprofitcalculator.com
 www.cryptoprofitcalculator.com##.show-content > [href="https://cex.io/r/2/up149252319/2"]
+
+! ctvnews.ca
+calgary.ctvnews.ca##.c-advert-disabled.c-advert-rail__sticky-advert.c-advert--sectionPage.sraAdvert.c-advert--sra.c-advert > .c-advert__label-active.c-advert__label
 
 ! cyberciti.biz
 www.cyberciti.biz###blocker7a1003a
@@ -1172,6 +1190,12 @@ liveandletsfly.com##div.widget_custom_html.sidebar-widget.widget.widget_text:nth
 ! lmgtfy.com
 lmgtfy.com##div:nth-of-type(1) > iframe
 
+! makeuseof.com
+www.makeuseof.com##.ad-zone
+www.makeuseof.com##.ad-zone-container
+www.makeuseof.com##.ad-zone-content-character-count-repeatable-1
+www.makeuseof.com##.adsninja-ad-zone-container-with-set-height
+
 ! makezine.com
 makezine.com###makezine_ad_widget-7
 makezine.com###makezine_ad_widget-6
@@ -1182,6 +1206,9 @@ www.manualslib.com###banner_73440275702
 www.manualslib.com###manualban
 www.manualslib.com##.manualban-bot.manualban
 www.manualslib.com##.pr_adv_ban
+
+! mapquest.com
+www.mapquest.com##.adWrapper
 
 ! marthastewart.com
 www.marthastewart.com###div-gpt-mob-adhesive-banner-fixed
@@ -1233,6 +1260,9 @@ www.minitool.com##.promotions-banner-wrap
 www.monoprice.com##.ad-container > .global-adsense
 www.monoprice.com##.global-adsense
 www.monoprice.com##.prod-fold.global-adsense
+
+! morgantechspace.com
+morgantechspace.com###ai_widget-7
 
 ! msednpointmgt.com
 msendpointmgr.com##.gridlove-sidebar
@@ -1364,6 +1394,9 @@ www.onhealth.com##section.article-section:nth-of-type(1) > .article-section-cont
 www.online-convert.com##.float-left.float-lg-left.float-md-left.float-sm-none.m-0.responsive_ad_top
 www.online-convert.com##.responsive_ad_top
 
+! opensourcelibs.com
+opensourcelibs.com##._flamelab-ad
+
 ! oregonlive.com
 www.oregonlive.com##.ad
 www.oregonlive.com##.ad--in-article
@@ -1431,6 +1464,7 @@ www.politico.com##.election-ad
 www.politico.com##.slim.election-ad
 
 ! prajwaldesai.com
+www.prajwaldesai.com###media_image-2
 www.prajwaldesai.com###media_image-3
 www.prajwaldesai.com###media_image-4
 www.prajwaldesai.com###media_image-5
@@ -1460,6 +1494,10 @@ prodesigntools.com###wpfront-notification-bar
 prodesigntools.com##.content
 prodesigntools.com##.essb-subscribe-form-inline.essb-subscribe-form-1318057336.essb-subscribe-form
 prodesigntools.com##.essb-subscribe-from-design5.essb-subscribe-form-content|prodesigntools.com/wp-content/uploads/2014/05/adobe-student-and-teacher-editions-discount*.jpg$image|prodesigntools.com/wp-content/uploads/2016/01/adobe-cc-photoshop-lightroom-make-it-shine*.jpg$image|prodesigntools.com/wp-content/uploads/2018/02/adobe-stock-free-images-backpacker*.jpg$image|prodesigntools.com/wp-content/uploads/2018/11/download-new-adobe-cc.png$image|prodesigntools.com/wp-content/uploads/2018/12/get-ten-free-adobe-stock-images*.jpg$image|prodesigntools.com/wp-content/uploads/2018/12/make-it-with-adobe-stock-free-trial*.jpg$image|prodesigntools.com/wp-content/uploads/2019/02/kinsta-managed-wordpress-hosting.png$image|prodesigntools.com/wp-content/uploads/2019/09/adobe-stock-get-free-trial.jpg$image|prodesigntools.com/wp-content/uploads/2019/09/free-trial-adobe-stock*.jpg$image
+
+! progressiverailroading.com
+www.progressiverailroading.com###inlineadscontainer
+
 
 ! project-syndicate.org
 www.project-syndicate.org##.asize--c.asize.special.inlay.listing
@@ -1578,6 +1616,9 @@ seotoolscenters.com##div.sideXd
 www.seotoolsnet.com##[href="https://www.webaudittool.com"] > .imageres
 www.seotoolsnet.com##[href="https://www.worthofmywebsite.com"] > .imageres
 
+! servethehome.com
+www.servethehome.com##aside.widget_block.widget.td_block_template_1:nth-of-type(1)
+
 ! sevenforums.com
 www.sevenforums.com##.chillad.media400
 
@@ -1674,6 +1715,9 @@ strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsby
 ! stuff.co.nz
 i.stuff.co.nz##.sics-component__ad-placeholder__content
 
+! systemcenterdudes.com
+||www.systemcenterdudes.com/wp-content/uploads/2022/09/PatchMyPCAds*.png$image
+
 ! tampermonkey.net
 www.tampermonkey.net##.ad-changelog-block
 
@@ -1699,6 +1743,8 @@ www.techpowerup.com##.cduv
 www.techpowerup.com##.clearfix.pageheaderxu > section
 www.techpowerup.com##.content > .mnnuzjsddc
 www.techpowerup.com##.content > .svxxdxburitemxu
+www.techpowerup.com##.contnt > .s--item
+www.techpowerup.com##.contnt > .s--item > div
 www.techpowerup.com##.eiyanjcf
 www.techpowerup.com##.ejpbl
 www.techpowerup.com##.mnmuzjsddc
@@ -1707,11 +1753,15 @@ www.techpowerup.com##.mnnuzjsddc
 www.techpowerup.com##.nkuzlfvdywj
 www.techpowerup.com##.nkuztfvdswe
 www.techpowerup.com##.nspy
+www.techpowerup.com##.page > .s- > div.s--item > div
+www.techpowerup.com##.page-header > div > div
 www.techpowerup.com##.ravqfx
 www.techpowerup.com##.sectioncontainer > div
 www.techpowerup.com##.zkybes
 www.techpowerup.com##[href="/images/46d/1781ec"]
 www.techpowerup.com##[href="/jutrfbvhjhred/807.thx"]
+www.techpowerup.com##[href="/reviyuu/b784/1848er/images/gmchjhj.png"]
+www.techpowerup.com##[href="/reviyuu/b784/1943er/images/gmchjhj.png"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1300.xvr"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1423.xvr"]
 www.techpowerup.com##[href="https://www.techpowerup.com/images/3ff/1471.xvr"]
@@ -1738,6 +1788,8 @@ www.techpowerup.com##a[href="/images/43d/1766ec"]:nth-of-type(1)
 www.techpowerup.com##a[href="http://www.techpowerup.com/thlknzrjbv/1461.thx"]
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(2)
 www.techpowerup.com##div.mnnusjsddg.sidebar-item:nth-of-type(3)
+www.techpowerup.com##div.s--item:nth-of-type(4)
+www.techpowerup.com##div.s--item:nth-of-type(5)
 www.techpowerup.com##div.sfaupryrqiswxm:nth-of-type(4)
 www.techpowerup.com##div.sfaupryrqiswxm:nth-of-type(5)
 www.techpowerup.com##div.sidebar-im
@@ -2000,6 +2052,9 @@ vivalearning.com##[src="https://cdn.vivarep.com/contrib/va/ads/photo_704_q1q2tiv
 vulgarsmedia.com##.yunh-link
 vulgarsmedia.com##.yunh-caption
 
+! wafflegame.net
+wafflegame.net##.game-adbox
+
 ! walletinvestor.com
 walletinvestor.com###bio_ep_bg
 walletinvestor.com###bio_ep_close
@@ -2241,8 +2296,12 @@ www.washingtonpost.com##.mt-lg.db-ns.dn
 ! usnews.com 
 www.usnews.com##.bemVuC.ad-spacer__AdSpacer-sc-nwg9sv-0
 
+! att.com
 www.att.com##.advertisementpanel
+
+! azcemtral.com
 www.azcentral.com##.taboola-sidebar
+
 www.c-sharpcorner.com###NewsArticleAdBox
 www.cars.com##.ads-finance-bottom.ads
 www.cbc.ca##.ad-detail
