@@ -467,6 +467,9 @@ whattomine.com##.when-adblock-detected
 winaero.com###diodfoihdfsd
 winaero.com##.ramain-top
 
+! windowscentral.com
+www.windowscentral.com##.exit-intent__background.exit-intent
+
 landscapingrockguys.com
 www.landscapingrockguys.com###overlay
 www.landscapingrockguys.com##.glue_popup
