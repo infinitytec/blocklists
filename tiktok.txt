@@ -258,6 +258,7 @@ a99.3w1cj5r.byte.tiktokcdn.com
 aarstad-comdev2.byte.tiktokcdn.com
 abcdefg.ci.byte.tiktokcdn.com
 abhosteu.qa1.byte.9w1cj5r.byte.tiktokcdn.com
+abm.us.tiktok.com
 abn.snssdk.com
 absa.byte.tiktokcdn.com
 abtest-ch-hl.snssdk.com
@@ -1313,6 +1314,7 @@ cabana.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 cabinet-design.ci.byte.tiktokcdn.com
 caijing-ag-aliec1-internal-lb-lf-xlb-hl-slb-5.image-cache-hl.lonmlkjihgfedcbaxwvutsrqponmlkjihgfedc.webproxy.idc-lorien.bh-arppofind.com.bytedns.net
 caijing-aggdsz.image-cache-hl.lonmlkjihgfedcbaxwvutsrqponmlkjihgfedc.webproxy.idc-lorien.bh-arppofind.com.bytedns.net
+caijing-internal-all-sdqd.bytedns.net
 caijing-lb-three.cbadataapistaging6.wire.community4arab.tasks-major.autodiscover.bytedns.net
 caijing-lb.bytedns.net
 caijing-normal-lb-boe-lb.webproxy.idc-lorien.bh-arppofind.comlb-normal-api-2.b.bytedns.net
@@ -3182,6 +3184,7 @@ live.l.bytedns.net
 live.musical.ly
 live6.pstatp.com
 live6a.pstatp.com
+livecenter.tiktok.com
 lively-ws-flv.muscdn.com
 lively-ws-hls.muscdn.com
 livingroom.ci.byte.tiktokcdn.com
@@ -3383,6 +3386,7 @@ mail.offers.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 mail.report.byte.3w1cj5r.byte.tiktokcdn.com
 mail.templates.ci.byte.tiktokcdn.com
 mail.themes.byte.3w1cj5r.byte.tiktokcdn.com
+mail.tiktok.com
 mail.transparencia.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 mailerlite.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 mailingboss-funnel-fr.ci.byte.tiktokcdn.com
@@ -3487,6 +3491,7 @@ mgw.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 mh.snssdk.com
 mh.snssdk.com.w.kunluncan.com
 mhealth.com-ns.byte.tiktokcdn.com
+micro-http-alinc2.bytedns.net
 microgame.snssdk.com
 microhttp.snssdk.com
 midc-test-hl.snssdk.com
@@ -3723,6 +3728,9 @@ mvet.backend.byte.tiktokcdn.com
 mvl.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 mw01.backend.byte.tiktokcdn.com
 mx.tiktok.com
+mx1.tiktok.com
+mx2.tiktok.com
+mx3.tiktok.com
 myaccounts.miniiktokcdn.comns1.byte.tiktokcdn.com
 mybaby.ci.byte.tiktokcdn.com
 mybirthdayhits.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
@@ -3807,6 +3815,7 @@ novel-hl.snssdk.com
 novel-lq.snssdk.com
 novel.snssdk.com
 novus.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
+now.tiktok.com
 nqzeqb.xzcs3zlph.com
 ns-1475.awsdns-56.org
 ns-1574.awsdns-04.co.uk
@@ -3839,6 +3848,7 @@ o18.ptr8067.service.tiktok.com
 o19.ptr4023.service.tiktok.com
 o2.ptr4323.i.account.tiktok.com
 o20.ptr6684.service.tiktok.com
+o21.ptr8239.account.cherie.com
 o23.ptr4260.service.tiktok.com
 o24.ptr8276.service.tiktok.com
 o25.ptr4821.service.tiktok.com
@@ -5351,6 +5361,7 @@ seller-ph.tiktok.com
 seller-sg.tiktok.com
 seller-th.tiktok.com
 seller-uk.tiktok.com
+seller-us-accounts.tiktok.com
 seller-vn.tiktok.com
 seller.tiktok.com
 sellinginyourcomfortzone.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
@@ -6819,6 +6830,7 @@ v77-b.tiktokcdn.com
 v77-ch-a.tiktokcdn.com
 v77-ch-b.tiktokcdn.com
 v77-ch-c.tiktokcdn.com
+v77-sla-measure.tiktokcdn.com
 v77-tcs.tiktokcdn.com
 v77.tiktokcdn.com
 v77e.tiktokcdn.com
