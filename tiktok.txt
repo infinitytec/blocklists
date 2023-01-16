@@ -1,5 +1,7 @@
 # A list to block TikTok.
 # Made by infinitytec under the MIT license but based on lists by others:
+#   https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt
+#   https://blocklistproject.github.io/Lists/tiktok.txt
 #   https://gist.githubusercontent.com/Cr4zyFl1x/2527be1a809a317f10e94040aec2ec2a/raw/dc671dd9db48b2fc72c93cb1819ece2d0fa5620f/tiktok_blocklist.txt
 #   https://gist.githubusercontent.com/RupGautam/e6953b6e0a68ece63e6721309135190f/raw/495c0c67f7d5f6f4901f114ae2cd0b0c9f9417aa/block_tik_tok.txt
 #   https://gist.githubusercontent.com/geresa/b0c43efc0b6f1b8878d9d902f49e20e0/raw/ab69b34afd134e7e21388fe4013bacf052e4280e/tt-domain.txt
@@ -10,7 +12,6 @@
 #   https://github.com/llacb47/mischosts/raw/master/tiktok-hosts
 #   https://github.com/superover/TikTok-Blocklist/raw/master/tiktok.txt
 #   https://github.com/xxkenxyz/Bug-Host-
-#   https://blocklistproject.github.io/Lists/alt-version/tiktok-nl.txt
 
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # URL: https://github.com/infinitytec/blocklists/raw/master/tiktok.txt
@@ -3440,6 +3441,7 @@ mcs-sg.tiktok.com
 mcs-sg.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mcs-va.tiktok.com
+mcs-va.tiktok.com.edgekey.net
 mcs-va.tiktokv.com
 mcs.snssdk.com
 md-in-64.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
