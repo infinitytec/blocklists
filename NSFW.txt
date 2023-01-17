@@ -1,122 +1,327 @@
 # A list to block a few NSFW sites.
 # Do not expect frequent updates to this list.
 
-0.0.0.0 3speak.tv
-0.0.0.0 abstractionstand.com
-0.0.0.0 auth.3speak.tv
-0.0.0.0 bigo.video
-0.0.0.0 bigtitits.uno
-0.0.0.0 bunnygirlss.site
-0.0.0.0 ca.prosolutionpills.com
-0.0.0.0 canadaman2019.blogspot.com
-0.0.0.0 canadianmale.wordpress.com
-0.0.0.0 codyclarke.com
-0.0.0.0 codyclarkecoaching.codyclarke.com
-0.0.0.0 contentseat.icu
-0.0.0.0 cpanel.galdc.org
-0.0.0.0 cpanel.loveme.uno
-0.0.0.0 cpcalendars.galdc.org
-0.0.0.0 cpcalendars.loveme.uno
-0.0.0.0 cpcontacts.galdc.org
-0.0.0.0 cpcontacts.loveme.uno
-0.0.0.0 datingdeserving.com
-0.0.0.0 de.prosolutionpills.com
-0.0.0.0 delectationsphere.life
-0.0.0.0 dev.picrew.me
-0.0.0.0 e.uniqdatingplace.com
-0.0.0.0 earloftaint.com
-0.0.0.0 es.prosolutionpills.com
-0.0.0.0 findyour-realsex2.com
-0.0.0.0 fllrtymatch.com
-0.0.0.0 fr.prosolutionpills.com
-0.0.0.0 freeflirtz.freesecureentry.com
-0.0.0.0 freesecureentry.com
-0.0.0.0 frombearcreek.com
-0.0.0.0 galdc.org
-0.0.0.0 granadaforum.com
-0.0.0.0 gustoberth.uno
-0.0.0.0 gusttodawn.website
-0.0.0.0 healthtruthrevealed.com
-0.0.0.0 hive-api.3speak.tv
-0.0.0.0 humanitarian.codyclarke.com
-0.0.0.0 ipfs.3speak.tv
-0.0.0.0 kinky-blogging.com
-0.0.0.0 legendsofbelial.net
-0.0.0.0 loveme.uno
-0.0.0.0 mail.bigtitits.uno
-0.0.0.0 mail.loveme.uno
-0.0.0.0 mail.shake-body.com
-0.0.0.0 nude.snapgirls.today
-0.0.0.0 order.prosolutionpills.com
-0.0.0.0 pbfcomics.com
-0.0.0.0 picrew.me
-0.0.0.0 popupchat-live.com
-0.0.0.0 private.kinky-blogging.com
-0.0.0.0 privatematchfz.com
-0.0.0.0 prosolutionpills.com
-0.0.0.0 realindiefilmawards.codyclarke.com
-0.0.0.0 server-01.3speak.tv
-0.0.0.0 sexysphere.net
-0.0.0.0 shake-body.com
-0.0.0.0 smugfilm.codyclarke.com
-0.0.0.0 snapgirls.today
-0.0.0.0 studio.3speak.tv
-0.0.0.0 support.3speak.tv
-0.0.0.0 support.picrew.me
-0.0.0.0 testnet.3speak.tv
-0.0.0.0 testnet.studio.3speak.tv
-0.0.0.0 treathearth.website
-0.0.0.0 uniqdatingplace.com
-0.0.0.0 vae.fyi
-0.0.0.0 voi.fyi
-0.0.0.0 vun.fyi
-0.0.0.0 webdisk.codyclarke.com
-0.0.0.0 webdisk.galdc.org
-0.0.0.0 webdisk.loveme.uno
-0.0.0.0 webmail.galdc.org
-0.0.0.0 webmail.loveme.uno
-0.0.0.0 www.3speak.tv
-0.0.0.0 www.abstractionstand.com
-0.0.0.0 www.bigo.video
-0.0.0.0 www.bigtitits.uno
-0.0.0.0 www.bunnygirlss.site
-0.0.0.0 www.canadaman2019.blogspot.com
-0.0.0.0 www.canadianmale.wordpress.com
-0.0.0.0 www.codyclarke.com
-0.0.0.0 www.codyclarkecoaching.codyclarke.com
-0.0.0.0 www.contentseat.icu
-0.0.0.0 www.datingdeserving.com
-0.0.0.0 www.delectationsphere.life
-0.0.0.0 www.earloftaint.com
-0.0.0.0 www.findyour-realsex2.com
-0.0.0.0 www.fllrtymatch.com
-0.0.0.0 www.freeflirtz.freesecureentry.com
-0.0.0.0 www.freesecureentry.com
-0.0.0.0 www.frombearcreek.com
-0.0.0.0 www.galdc.org
-0.0.0.0 www.granadaforum.com
-0.0.0.0 www.gustoberth.uno
-0.0.0.0 www.gusttodawn.website
-0.0.0.0 www.healthtruthrevealed.com
-0.0.0.0 www.humanitarian.codyclarke.com
-0.0.0.0 www.kinky-blogging.com
-0.0.0.0 www.legendsofbelial.net
-0.0.0.0 www.loveme.uno
-0.0.0.0 www.pbfcomics.com
-0.0.0.0 www.picrew.me
-0.0.0.0 www.popupchat-live.com
-0.0.0.0 www.privatematchfz.com
-0.0.0.0 www.prosolutionpills.com
-0.0.0.0 www.realindiefilmawards.codyclarke.com
-0.0.0.0 www.sexysphere.net
-0.0.0.0 www.shake-body.com
-0.0.0.0 www.smugfilm.codyclarke.com
-0.0.0.0 www.snapgirls.today
-0.0.0.0 www.treathearth.website
-0.0.0.0 www.uniqdatingplace.com
-0.0.0.0 www.vae.fyi
-0.0.0.0 www.voi.fyi
-0.0.0.0 www.vun.fyi
-0.0.0.0 www.webdisk.codyclarke.com
-0.0.0.0 www.xxxnifty.com
-0.0.0.0 xxxnifty.com
+3speak.tv
+abstractionstand.com
+auth.3speak.tv
+bigo.video
+bigtitits.uno
+bunnygirlss.site
+ca.prosolutionpills.com
+canadaman2019.blogspot.com
+canadianmale.wordpress.com
+codyclarke.com
+codyclarkecoaching.codyclarke.com
+contentseat.icu
+cpanel.galdc.org
+cpanel.loveme.uno
+cpcalendars.galdc.org
+cpcalendars.loveme.uno
+cpcontacts.galdc.org
+cpcontacts.loveme.uno
+datingdeserving.com
+de.prosolutionpills.com
+delectationsphere.life
+dev.picrew.me
+e.uniqdatingplace.com
+earloftaint.com
+es.prosolutionpills.com
+findyour-realsex2.com
+fllrtymatch.com
+fr.prosolutionpills.com
+freeflirtz.freesecureentry.com
+freesecureentry.com
+frombearcreek.com
+galdc.org
+granadaforum.com
+gustoberth.uno
+gusttodawn.website
+healthtruthrevealed.com
+hive-api.3speak.tv
+humanitarian.codyclarke.com
+ipfs.3speak.tv
+kinky-blogging.com
+legendsofbelial.net
+loveme.uno
+mail.bigtitits.uno
+mail.loveme.uno
+mail.shake-body.com
+nude.snapgirls.today
+order.prosolutionpills.com
+pbfcomics.com
+picrew.me
+popupchat-live.com
+private.kinky-blogging.com
+privatematchfz.com
+prosolutionpills.com
+realindiefilmawards.codyclarke.com
+server-01.3speak.tv
+sexysphere.net
+shake-body.com
+smugfilm.codyclarke.com
+snapgirls.today
+studio.3speak.tv
+support.3speak.tv
+support.picrew.me
+testnet.3speak.tv
+testnet.studio.3speak.tv
+treathearth.website
+uniqdatingplace.com
+vae.fyi
+voi.fyi
+vun.fyi
+webdisk.codyclarke.com
+webdisk.galdc.org
+webdisk.loveme.uno
+webmail.galdc.org
+webmail.loveme.uno
+www.3speak.tv
+www.abstractionstand.com
+www.bigo.video
+www.bigtitits.uno
+www.bunnygirlss.site
+www.canadaman2019.blogspot.com
+www.canadianmale.wordpress.com
+www.codyclarke.com
+www.codyclarkecoaching.codyclarke.com
+www.contentseat.icu
+www.datingdeserving.com
+www.delectationsphere.life
+www.earloftaint.com
+www.findyour-realsex2.com
+www.fllrtymatch.com
+www.freeflirtz.freesecureentry.com
+www.freesecureentry.com
+www.frombearcreek.com
+www.galdc.org
+www.granadaforum.com
+www.gustoberth.uno
+www.gusttodawn.website
+www.healthtruthrevealed.com
+www.humanitarian.codyclarke.com
+www.kinky-blogging.com
+www.legendsofbelial.net
+www.loveme.uno
+www.pbfcomics.com
+www.picrew.me
+www.popupchat-live.com
+www.privatematchfz.com
+www.prosolutionpills.com
+www.realindiefilmawards.codyclarke.com
+www.sexysphere.net
+www.shake-body.com
+www.smugfilm.codyclarke.com
+www.snapgirls.today
+www.treathearth.website
+www.uniqdatingplace.com
+www.vae.fyi
+www.voi.fyi
+www.vun.fyi
+www.webdisk.codyclarke.com
+www.xxxnifty.com
+xxxnifty.com
+amp.redxxx.cc
+autodiscover.xnowherex.com
+baadcga.datedats2.com
+baaehhi.datedats2.com
+baaeiab.datedats2.com
+baaiagh.datedats2.com
+baebeig.datedats2.com
+baefffh.datedats2.com
+bafeagh.datedats2.com
+baffidi.datedats2.com
+bafhibg.datedats2.com
+baghefd.datedats2.com
+bahfdec.datedats2.com
+bajaceg.datedats2.com
+bajdjad.datedats2.com
+bbagifc.datedats2.com
+bbbgegg.datedats2.com
+bbcebje.datedats2.com
+bbcgddd.datedats2.com
+bbcjedi.datedats2.com
+bbdbbea.datedats2.com
+bbdcjia.datedats2.com
+bbdgjdg.datedats2.com
+bbecijd.datedats2.com
+bbfadcc.datedats2.com
+bbfeebg.datedats2.com
+bbffejh.datedats2.com
+bbfjejj.datedats2.com
+bcbcbcd.datedats2.com
+bcddeja.datedats2.com
+bcjjjg.datedats2.com
+bdegii.datedats2.com
+bdgajb.datedats2.com
+bfgdhh.datedats2.com
+bgbhic.datedats2.com
+bhjgjj.datedats2.com
+bjajjc.datedats2.com
+bustyaffar.com
+cajajd.datedats2.com
+cbdhbg.datedats2.com
+cbehaf.datedats2.com
+cbiaig.datedats2.com
+ccbeja.datedats2.com
+ccghia.datedats2.com
+cdacd.igamesfinder.com
+cdiffg.datedats2.com
+cdn1.redxxx.cc
+cdn10.redxxx.cc
+cdn2.redxxx.cc
+cdn3.redxxx.cc
+cdn4.redxxx.cc
+cdn5.redxxx.cc
+cdn6.redxxx.cc
+cdn7.redxxx.cc
+cdn8.redxxx.cc
+cdn9.redxxx.cc
+cebefe.datedats2.com
+ceccic.datedats2.com
+cfcigc.datedats2.com
+chat-69.xyz
+chbbab.datedats2.com
+chcff.datedats2.com
+chdgdb.datedats2.com
+chdheg.datedats2.com
+chigjb.datedats2.com
+cibgbc.datedats2.com
+cjaej.datedats2.com
+cjefgb.datedats2.com
+cjjjed.datedats2.com
+cpanel.xnowherex.com
+cpcalendars.xnowherex.com
+cpcontacts.xnowherex.com
+datedats2.com
+dcjbah.datedats2.com
+dffjac.datedats2.com
+dhbcca.datedats2.com
+dhjfaa.datedats2.com
+diceee.datedats2.com
+dicej.datedats2.com
+djddjc.datedats2.com
+eagagf.datedats2.com
+eaijbh.datedats2.com
+ebacfb.bustyaffar.com
+ebgaab.datedats2.com
+ecegjf.datedats2.com
+edffhe.datedats2.com
+edgfbh.datedats2.com
+egicfh.datedats2.com
+eheafd.datedats2.com
+eheifi.datedats2.com
+ehfdbi.datedats2.com
+eiaheg.datedats2.com
+eidbie.datedats2.com
+eiibcj.datedats2.com
+ejgaeb.datedats2.com
+ejhhij.datedats2.com
+ejjfbe.datedats2.com
+elmtreeforge.blogspot.com
+empru.online
+fbajef.datedats2.com
+fbdecj.datedats2.com
+fbdhjh.datedats2.com
+fbggcg.datedats2.com
+fbgjje.datedats2.com
+fcacdh.datedats2.com
+fcfaee.datedats2.com
+fcfaja.datedats2.com
+fcfcaf.datedats2.com
+fdafeb.datedats2.com
+fdhfdd.datedats2.com
+ffccfd.datedats2.com
+fhbgii.datedats2.com
+fidbbj.datedats2.com
+fidcia.datedats2.com
+fjcfjf.datedats2.com
+gbfbbc.datedats2.com
+gbggda.datedats2.com
+gcjhig.datedats2.com
+gddcbd.datedats2.com
+gdedbh.datedats2.com
+gdhcbf.datedats2.com
+gebheg.datedats2.com
+geegcb.datedats2.com
+geghdh.datedats2.com
+gegihf.datedats2.com
+gfbfja.datedats2.com
+ggbede.datedats2.com
+gheeji.datedats2.com
+gjddib.datedats2.com
+hbahcd.datedats2.com
+hbbffb.datedats2.com
+hcehah.datedats2.com
+hchgfb.datedats2.com
+hdfbad.datedats2.com
+heagcd.datedats2.com
+hehfjc.datedats2.com
+hfagjh.datedats2.com
+hfgaba.datedats2.com
+hgcehd.datedats2.com
+hhaefe.datedats2.com
+hhiebc.datedats2.com
+hhjcig.datedats2.com
+hjcjcf.datedats2.com
+hjdaig.datedats2.com
+hjdbdc.datedats2.com
+hjjihb.datedats2.com
+iadiae.datedats2.com
+icefae.datedats2.com
+idiegf.datedats2.com
+idjbhi.datedats2.com
+iefcjg.datedats2.com
+ifagdc.datedats2.com
+ifbici.datedats2.com
+ifgdic.datedats2.com
+igamesfinder.com
+igcfeg.datedats2.com
+igijea.datedats2.com
+igjjhf.datedats2.com
+ihdjfe.datedats2.com
+ihhhcg.datedats2.com
+iihcje.datedats2.com
+ijfbbe.datedats2.com
+jagbfe.datedats2.com
+jajibb.datedats2.com
+jajjad.datedats2.com
+jcfadh.datedats2.com
+jchjbc.datedats2.com
+jdafi.datedats2.com
+jddage.datedats2.com
+jedhic.datedats2.com
+jfdegf.datedats2.com
+jgiicj.datedats2.com
+jgjdfi.datedats2.com
+jiejag.datedats2.com
+jigddc.datedats2.com
+jjacgf.datedats2.com
+jjcjba.datedats2.com
+jjehjg.datedats2.com
+jjjdhd.datedats2.com
+livenudus.datedats2.com
+livesex.datedats2.com
+mail.redxxx.cc
+mail.xnowherex.com
+mylivenudus.datedats2.com
+ns1.redxxx.cc
+ns2.redxxx.cc
+redxxx.cc
+seniorsexmatch.com
+staging.seniorsexmatch.com
+stayrekt.net
+sv8.redxxx.cc
+webdisk.xnowherex.com
+webmail.xnowherex.com
+www.bustyaffar.com
+www.chat-69.xyz
+www.datedats2.com
+www.elmtreeforge.blogspot.com
+www.empru.online
+www.igamesfinder.com
+www.redxxx.cc
+www.seniorsexmatch.com
+www.staging.seniorsexmatch.com
+www.stayrekt.net
+www.xnowherex.com
+xnowherex.com
