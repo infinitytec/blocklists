@@ -72,6 +72,9 @@ aecmag.com##.inarticlead728
 ! aerotime.aero
 www.aerotime.aero##.advertisement
 
+! aleteia.org
+aleteia.org##.css-y2cft7
+
 ! alicdn.com
 ||ae01.alicdn.com/kf/H9b899d8c94c8427a9ce953040adcf52eo.jpg$image
 ||ae01.alicdn.com/kf/HTB19MmRNpXXXXbwaXXXq6xXFXXXS.jpg$image
@@ -103,6 +106,17 @@ allthatsinteresting.com##.pubex.content-link
 allthatsinteresting.com##div.pbh_inline
 allthatsinteresting.com##div.pbh_inline.pbh-lazy-inline
 
+! alternativeto.net
+alternativeto.net##.AdsenseAd_atf1__gjOt9
+alternativeto.net##.\38 byzgjnlneq4
+alternativeto.net##.container > .AdsenseAd_atf1__gjOt9
+alternativeto.net##.container > .spacer.jsx-1464927915
+alternativeto.net##.glx29q590xm
+alternativeto.net##.h1qgynxg3w5d
+alternativeto.net##.ii3i3xan159
+alternativeto.net##.jsgzsinwbazm
+alternativeto.net##li.in-list
+
 ! amazon.com
 www.amazon.com##div.aw-campaigns
 smile.amazon.com###pdagSparkleAdFeedback
@@ -117,9 +131,14 @@ www.ancient-origins.net##.OUTBRAIN
 www.ancient-origins.net##.content_add_block
 
 ! androidauthority.com
+www.androidauthority.com##.-_-Dc > div.-_-Pg > .-_-Og
 www.androidauthority.com##.-_-mc.-_-lc.ad-banner
 www.androidauthority.com##.-_-nd > div.-_-qg > .-_-pg
+www.androidauthority.com##.-__1g
+www.androidauthority.com##.-__Vh
+www.androidauthority.com##.-__d.-__wh.-__vh.-__mh
 www.androidauthority.com##.nc-wrap.eUYrDT.sc-qvl9r2-0
+www.androidauthority.com##div.-_-7g
 
 ! androidpolice.com
 www.androidpolice.com###google_ads_iframe_\/39363775\/AP_injected1_300x250_mobile_1
@@ -180,7 +199,7 @@ www.arthritis-health.com###block-vh-dfp-dfp-ad-r1 > .clearfix.block-inner > .blo
 www.arthritis-health.com###block-vh-dfp-dfp-ad-r2 > .clearfix.block-inner
 www.arthritis-health.com##.block--vh-footer-ads-vh-footer-ads.block--vh-footer-ads.block
 
-!aspsnippets.com
+! aspsnippets.com
 www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
 
 ! automd.com
@@ -466,6 +485,9 @@ cryptoage.com##div.moduletable:nth-of-type(5)
 
 ! cryptoprofitcalculator.com
 www.cryptoprofitcalculator.com##.show-content > [href="https://cex.io/r/2/up149252319/2"]
+
+! ctinsider.com
+www.ctinsider.com##.ad-module--ad--3s4Nc
 
 ! ctvnews.ca
 calgary.ctvnews.ca##.c-advert-disabled.c-advert-rail__sticky-advert.c-advert--sectionPage.sraAdvert.c-advert--sra.c-advert > .c-advert__label-active.c-advert__label
@@ -857,6 +879,9 @@ graphicscardhub.com##.ai_widget.widget
 ! greekreporter.com
 greekreporter.com###custom_html-4 > .custom-html-widget.textwidget > .td-all-devices
 
+! gsmarena.com
+www.gsmarena.com##div.adv
+
 ! gstzen.in
 my.gstzen.in##.cz-rennab
 
@@ -943,6 +968,16 @@ iharare.com##.mrf-adv__wrapper-framed
 ! illumeably.com
 www.illumeably.com##.ad-label
 
+! imagetotext.info
+www.imagetotext.info##.bg-light.mt-4.my-3.pb-1.text-center > .text-center > .adv_text
+www.imagetotext.info##.button_left_ad
+www.imagetotext.info##.button_right_ad
+
+! imageupscaler.com
+imageupscaler.com##.advertising
+imageupscaler.com##.box__advertising
+imageupscaler.com##.box__home__ad
+
 ! imdb.com
 m.imdb.com###inline40
 m.imdb.com###inline40_inline_wrapper
@@ -955,18 +990,9 @@ m.imdb.com###inlinebottom_sponsored
 m.imdb.com###placeholderImageLinearGradient
 m.imdb.com###placeholderImageMask
 
-! imagetotext.info
-www.imagetotext.info##.bg-light.mt-4.my-3.pb-1.text-center > .text-center > .adv_text
-www.imagetotext.info##.button_left_ad
-www.imagetotext.info##.button_right_ad
-
-! imageupscaler.com
-imageupscaler.com##.advertising
-imageupscaler.com##.box__advertising
-imageupscaler.com##.box__home__ad
-
 ! imgur.com
 imgur.com###cta-container
+imgur.com##.primis-player__container
 ||i.imgur.com/Yefyjlu.gif$image
 
 ! insider.com
@@ -1367,6 +1393,10 @@ www.nintendolife.com##.for-mobile.insert-mobile-sticky.centered.insert-label
 ! nocable.org
 nocable.org##.sticky-banner-section
 
+! now.gg
+now.gg##.\39 xszmcpa2e3t
+now.gg##.ff7nnxi7gfqu
+
 ! office365itpros.com
 office365itpros.com###media_image-5
 
@@ -1457,6 +1487,9 @@ pjmedia.com###div-gpt-300x250_9
 pjmedia.com###div-gpt-320x50_1
 pjmedia.com##.d-md-none.footer-ad
 pjmedia.com##.gpt-ad-b
+
+! planetminecraft.com
+www.planetminecraft.com##li.resource > .contain-ad
 
 ! politico.com
 www.politico.com##.PibAd-container
@@ -1571,6 +1604,9 @@ www.reviewgeek.com##.adfullwrap
 ! ridgecrestca.com
 ridgecrestca.com##.ad-container
 
+! robbreport.com
+robbreport.com###adm-mobile-leaderboard > .boomerang.adma > .pmc-adm-boomerang-pub-div
+
 ! rockpapershotgun.com
 www.rockpapershotgun.com###mobile-ads
 www.rockpapershotgun.com##.collapsible.mpu
@@ -1609,8 +1645,10 @@ www.seneweb.com##li.featured_posts_item > [href="https://www.seneweb.com/xban/cl
 www.seneweb.com##li.featured_posts_item:nth-of-type(6)
 
 ! seotoolscenters.com
+seotoolscenters.com##.text-center.xd_top_box.top40
 seotoolscenters.com##div.col-md-12:nth-of-type(2) > .category_box > .col-md-6
 seotoolscenters.com##div.sideXd
+seotoolscenters.com##div.xd_top_box:nth-of-type(1)
 
 ! seotoolsnet.com
 www.seotoolsnet.com##[href="https://www.webaudittool.com"] > .imageres
@@ -1656,7 +1694,9 @@ www.smokymountainnews.com###jsn-pos-right > div.jsn-modulecontainer > .jsn-modul
 www.smokymountainnews.com##.moduletable > .bannergroup
 
 ! snopes.com
+www.snopes.com###article-content > .banner_ad_between_sections
 www.snopes.com##.smg-zone-widget-ads-placement
+www.snopes.com##div.banner_ad_between_sections
 
 ! soapboxie.com
 soapboxie.com##.m-in-content-ad
@@ -1892,6 +1932,9 @@ www.theoriginalsource.com##.soc_custom_post_ad
 
 ! thesaurus.com
 www.thesaurus.com##.css-1xdhyk6
+
+! thescooterist.com
+thescooterist.com##.inner-header > .container
 
 ! thesolving.com
 thesolving.com###sponsor-box-1
@@ -2135,6 +2178,9 @@ whattomine.com##.when-adblock-detected
 ! wibw.com
 www.wibw.com###outbrainHome5
 www.wibw.com##.evie-widget-ad
+
+! wichitabyeb.com
+www.wichitabyeb.com###post-70342 > .ast-no-date-box.single-layout-1.ast-post-format- > .clear.entry-content > .code-block-2.code-block
 
 ! wikihow.com
 www.wikihow.com###contribute_footer
