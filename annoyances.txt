@@ -35,10 +35,6 @@ m.aliexpress.com###smb-ui-banner-id > .smb-banner__main
 m.aliexpress.com##.amp-notsupported.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed-height.i-amphtml-element.ms_topbanner_image_pic
 m.aliexpress.com##.download-bar
 
-! alternativeto.net
-alternativeto.net##.undefined
-alternativeto.net##.container > .undefined
-
 ! amazon.com
 smile.amazon.com###universal-detail-ilm
 www.amazon.com###universal-detail-ilm
