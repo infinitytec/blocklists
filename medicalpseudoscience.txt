@@ -4,6 +4,7 @@
 # DISCLAIMERS: This list is provided as-is and is not guaranteed to be free of errors. This list is for informational purposes only and is not to be used in place of the information of qualified medical professionals.
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
 
+030888-445-9988www.homeopathyusa.org
 10.rt.com
 100jewishfoods.tabletmag.com
 100millionmoms.ca
@@ -42,6 +43,7 @@
 1stholistic.com
 1susannejohnson.myctfo.com
 2.choq.com
+2.drnancymalik.wordpress.com
 2000mules.com
 2010.abovetopsecret.com
 2010.autismone.org
@@ -366,6 +368,7 @@ accudocurgentcare.com
 ace.mu.nu
 aceva.com
 aceves1.myctfo.com
+achena.org
 acimconnect.com
 ackerson911.myctfo.com
 acmcollege.comindex.html
@@ -697,6 +700,9 @@ aidlives.myctfo.com
 aidspharmaceuticals.eirmed360.com
 aier.org
 aierwave.aier.org
+aihseal.com
+aihseal.homeopathyusa.org
+aihsealcom.homeopathyusa.org
 aim4truth.org
 aimee-sinopoli.healthcoach.integrativenutrition.com
 aimee-taylor.healthcoach.integrativenutrition.com
@@ -1960,6 +1966,7 @@ autodiscover.fearlessparent.org
 autodiscover.firepowerministry.org
 autodiscover.firstliberty.org
 autodiscover.flatearthers.space
+autodiscover.floridahomeopathicsociety.org
 autodiscover.forum.choq.com
 autodiscover.foundationformetaboliccancertherapies.com
 autodiscover.fourteenstudies.org
@@ -2022,6 +2029,7 @@ autodiscover.hebrew4christians.com
 autodiscover.herbalcollective.news
 autodiscover.hersite.info
 autodiscover.holistichealeronline.com
+autodiscover.homeopathyusa.org
 autodiscover.howardnema.com
 autodiscover.hpathy.com
 autodiscover.i-uv.com
@@ -3381,6 +3389,7 @@ brutalproof.net
 brwellness.ehealthpro.com
 bryan.myctfo.com
 bryanrock.myctfo.com
+bryansharpe.co
 bs.elearning.iaomt.org
 bs.iaomt.org
 bs.wn.com
@@ -4211,6 +4220,12 @@ cephyr-recherche.com
 ceramiccentre.com
 certauth.adfs.lifeextension.com
 certification.precisionnutrition.com
+certifiedhomeopathic.homeopathyusa.org
+certifiedhomeopathic.org
+certifiedhomeopathy-org.homeopathyusa.org
+certifiedhomeopathy.com
+certifiedhomeopathy.net
+certifiedhomeopathy.org
 cesiumeliminator.com
 cetv.one
 cf-ez-middleton.themystica.com
@@ -4977,6 +4992,7 @@ conference.acnem.org
 conference.autismone.org
 conference.buteykoeducators.org
 conference.choq.com
+conference.hri-research.org
 conference.kcm.org
 conference2018.acnem.org
 conference2019.acnem.org
@@ -5607,6 +5623,7 @@ cpanel.firepowerministry.org
 cpanel.firstrepublicregistrar.org
 cpanel.flatearthers.space
 cpanel.flfe.net
+cpanel.floridahomeopathicsociety.org
 cpanel.flybynews.com
 cpanel.fmcw.info
 cpanel.focusfm.gr
@@ -5693,6 +5710,7 @@ cpanel.holisticmed.com
 cpanel.holisticmedicinedevice.com
 cpanel.holisticnewyork.com
 cpanel.holvet.net
+cpanel.homeopathyusa.org
 cpanel.honeri.org
 cpanel.host.covidvaccineinjuries.com
 cpanel.host.eaec.org
@@ -6469,6 +6487,7 @@ cpcalendars.felicitycorbinwheeler.org
 cpcalendars.firepowerministry.org
 cpcalendars.flatearthers.space
 cpcalendars.flfe.net
+cpcalendars.floridahomeopathicsociety.org
 cpcalendars.fmcw.info
 cpcalendars.focusfm.gr
 cpcalendars.foundationformetaboliccancertherapies.com
@@ -6560,6 +6579,7 @@ cpcalendars.holistichealeronline.com
 cpcalendars.holisticmed.com
 cpcalendars.holisticmedicinedevice.com
 cpcalendars.holvet.net
+cpcalendars.homeopathyusa.org
 cpcalendars.homeopathywest.org
 cpcalendars.honeri.org
 cpcalendars.honestemf.com
@@ -7332,6 +7352,7 @@ cpcontacts.firepowerministry.org
 cpcontacts.firstrepublicregistrar.org
 cpcontacts.flatearthers.space
 cpcontacts.flfe.net
+cpcontacts.floridahomeopathicsociety.org
 cpcontacts.flybynews.com
 cpcontacts.fmcw.info
 cpcontacts.focusfm.gr
@@ -7425,6 +7446,7 @@ cpcontacts.holistichealeronline.com
 cpcontacts.holisticmed.com
 cpcontacts.holisticmedicinedevice.com
 cpcontacts.holvet.net
+cpcontacts.homeopathyusa.org
 cpcontacts.homeopathywest.org
 cpcontacts.honeri.org
 cpcontacts.honestemf.com
@@ -9695,6 +9717,7 @@ drmorgannd.com
 drmorse.tv
 drnadia.ehealthpro.com
 drnancymalik.hpathy.com
+drnancymalik.wordpress.com
 drnaseem236981887.wordpress.com
 drneilmckinney.ca
 drnick.metagenics.com
@@ -11083,6 +11106,7 @@ floret.wn.com
 florida.tenthamendmentcenter.com
 floridacapitalstar.com
 floridahemp.myctfo.com
+floridahomeopathicsociety.org
 flow01.gcnlive.com
 flow02.gcnlive.com
 flow03.gcnlive.com
@@ -11259,6 +11283,7 @@ forwardmovement.ie
 fos-sa.org
 fossaorg.wordpress.com
 fosteringwellness.metagenics.com
+foundation.homeopathychoice.org
 foundationformetaboliccancertherapies.com
 foundationmed.ehealthpro.com
 foundationsofecon.blogspot.com
@@ -13001,13 +13026,17 @@ homegrowncash.myctfo.com
 homeland.sweetliberty.org
 homeo-pathic.esy.es
 homeomart.com
+homeopathicdirectory.com
 homeopathicology.com
 homeopathy-toronto.com
 homeopathy.org
 homeopathycenter.org
+homeopathychoice.org
 homeopathyforums.hpathy.com
 homeopathyinpractice.org
 homeopathyplus.com
+homeopathyseal.org
+homeopathyusa.org
 homeopathywest.org
 homeowiz.com
 homeschooling.news
@@ -13470,6 +13499,8 @@ hostmaster.your-mp.com
 hostmaster.yournews.com
 hotel-ds.com
 hotels.childrenshealthdefense.org
+hotepjesus.com
+hotepnation.com
 hotforwords.rt.com
 hotopski.myctfo.com
 hotzehwc.com
@@ -13504,6 +13535,7 @@ hr.sott.net
 hr.wn.com
 hrexch1601.healthretreat.ca
 hrexch1602.healthretreat.ca
+hri-research.org
 hriptc.org
 hrm.aosis.co.za
 hs.shopfreemart.com
@@ -15962,6 +15994,7 @@ m.closys.com
 m.conspiracy-cafe.com
 m.dev.journal-neo.org
 m.disclose.tv
+m.drnancymalik.wordpress.com
 m.duluthreader.com
 m.emails.lifeextension.com
 m.emersonecologics.com
@@ -16151,6 +16184,7 @@ mail.ahha.org
 mail.ahna.org
 mail.ahva.com
 mail.aier.org
+mail.aihseal.com
 mail.aircaremd.com
 mail.akademijadisanja.com
 mail.alexjoneswasright.com
@@ -16339,6 +16373,9 @@ mail.center-for-wellness.net
 mail.centerforpersonalrights.org
 mail.centerhealingarts.com
 mail.centermatter.com
+mail.certifiedhomeopathic.org
+mail.certifiedhomeopathy.com
+mail.certifiedhomeopathy.org
 mail.charcoalremedies.com
 mail.checkout.bioptimizers.com
 mail.checktheleft.com
@@ -16602,6 +16639,7 @@ mail.firstrepublicregistrar.org
 mail.flatearthers.space
 mail.flfe.net
 mail.florahealth.com
+mail.floridahomeopathicsociety.org
 mail.flux.md
 mail.fmcw.info
 mail.focusfm.gr
@@ -16760,7 +16798,10 @@ mail.holistiquehealth.com
 mail.holtraceuticals.com
 mail.holvet.net
 mail.holyorders.org
+mail.homeopathychoice.org
 mail.homeopathyplus.com
+mail.homeopathyseal.org
+mail.homeopathyusa.org
 mail.hommage.ch
 mail.honestemf.com
 mail.host.12bytes.org
@@ -17342,6 +17383,7 @@ mail.test-new.water-for-health.co.uk
 mail.test.aosis.co.za
 mail.test.online.acnem.org
 mail.test.water-for-health.co.uk
+mail.texassocietyofhomeopathy.com
 mail.texemarrs.com
 mail.tfipost.com
 mail.tfmnd.com
@@ -17500,6 +17542,7 @@ mail.visionetv.it
 mail.visiontimes.com
 mail.vitalianaturalmedicine.com
 mail.vitaminc4covid.com
+mail.vithoulkas.college
 mail.vivafrei.com
 mail.voxxlife.com
 mail.wakeupsheeple.net
@@ -18198,6 +18241,7 @@ members.elephantjournal.com
 members.ezinearticles.com
 members.foodrevolution.org
 members.gcrn.org.uk
+members.homeopathyusa.org
 members.livehealthybewell.com
 members.medicalmedium.com
 members.naturallivingfamily.com
@@ -18226,6 +18270,7 @@ memosurgebrainhealth.gumroad.com
 memphiscbd.myctfo.com
 mendy-cleveland.healthcoach.integrativenutrition.com
 mendyourmental.com
+menoforder.com
 mensfitnessfocus.com
 menshealth.mercola.com
 menshealth.news
@@ -19016,6 +19061,7 @@ mx.healthnwealthltd.com
 mx.healthydirections.com
 mx.healyourmind.ca
 mx.hempcare.life
+mx.homeopathicdirectory.com
 mx.homeopathy-toronto.com
 mx.iherb.com
 mx.jamesjpn.net
@@ -19499,6 +19545,7 @@ natureworksbest.com
 naturopath.org.nz
 naturopath4you.com
 naturopathic.org
+naturopathicdiaries.com
 naturopathicdoctorforyou.com
 naturopathicmedicineinstitute.org
 naturopathicpediatrics.com
@@ -19651,6 +19698,7 @@ new.thelivingcentre.com
 new.thrivetimeshow.com
 new.toddstarnes.com
 new.turbooxygen.com
+new.vithoulkas.college
 new.watershed.net
 new.welloflife.com
 new.wellpathcenter.com
@@ -20716,6 +20764,7 @@ old.kslm.news
 old.lakesuperiornews.com
 old.libertyclassroom.com
 old.lorencmedical.com
+old.menoforder.com
 old.mises.org
 old.mygotodoc.com
 old.nzcpr.com
@@ -24244,6 +24293,8 @@ sickandfat.com
 sidecar.ca.childrenshealthdefense.org
 sierramadrepreciousmetals.drkelley.net
 signaturebiologics.com
+signthehomeopathypetition.com
+signthehomeopathypetition.com.homeopathychoice.org
 signup.brighteon.com
 signup.cetv.one
 signup.choq.com
@@ -24874,6 +24925,7 @@ stage.elle.com
 stage.energymuse.com
 stage.healthfulliving.org
 stage.healy.shop
+stage.homeopathyusa.org
 stage.livonlabs.com
 stage.mystore.com
 stage.nordicnaturals.com
@@ -26152,6 +26204,7 @@ tetyanaobukhanych.com
 texansforvaccinechoice.com
 texas.myctfo.com
 texas.tenthamendmentcenter.com
+texassocietyofhomeopathy.com
 texasvaccinechoice.com
 texemarrs.com
 texprofits.myctfo.com
@@ -26205,6 +26258,7 @@ the2020panel.com
 the5gsummit.com
 the7systemsplan.metagenics.com
 the9steps.com
+theabhm.homeopathyusa.org
 theaiorganization.com
 theallergykit.ehealthpro.com
 thealterofdeceit.net
@@ -27105,6 +27159,7 @@ tryaramea.com
 trybandoo.com
 tryctfo.myctfo.com
 trygreenape.com
+trymasterfocus.com
 trymybiz.myctfo.com
 ts.bastyr.edu
 ts.childrenshealthdefense.org
@@ -27889,6 +27944,7 @@ vitaminlawyer.com
 vitamins.thegoodinside.com
 vitanica.com
 vitelometry.com
+vithoulkas.college
 vithoulkas.hpathy.com
 vivabarneslaw.locals.com
 vivafrei.com
@@ -28593,6 +28649,7 @@ webdisk.firepowerministry.org
 webdisk.firstrepublicregistrar.org
 webdisk.flatearthers.space
 webdisk.flfe.net
+webdisk.floridahomeopathicsociety.org
 webdisk.flybynews.com
 webdisk.fmcw.info
 webdisk.focusfm.gr
@@ -28693,6 +28750,7 @@ webdisk.holding.water-for-health.co.uk
 webdisk.holisticmedicinedevice.com
 webdisk.holisticnewyork.com
 webdisk.holvet.net
+webdisk.homeopathyusa.org
 webdisk.honeri.org
 webdisk.honestemf.com
 webdisk.howardnema.com
@@ -29577,6 +29635,7 @@ webmail.fhfn.org
 webmail.firepowerministry.org
 webmail.flatearthers.space
 webmail.flfe.net
+webmail.floridahomeopathicsociety.org
 webmail.flux.md
 webmail.flybynews.com
 webmail.fmcw.info
@@ -29673,6 +29732,7 @@ webmail.holisticmed.com
 webmail.holisticmedicinedevice.com
 webmail.holisticnewyork.com
 webmail.holvet.net
+webmail.homeopathyusa.org
 webmail.hommage.ch
 webmail.honeri.org
 webmail.host.covidvaccineinjuries.com
@@ -30144,6 +30204,7 @@ webmail.vitalianaturalmedicine.com
 webmail.vitalityc60.com
 webmail.vitalityvitamins.co.uk
 webmail.vitaminc4covid.com
+webmail.vithoulkas.college
 webmail.vivafrei.com
 webmail.walkinverse.com
 webmail.wcn.today
@@ -30847,6 +30908,7 @@ www-migration.elle.com
 www-origin.loopbiz.com
 www-stg-4b2c19.gaia.com
 www-tisani--verlag-de.translate.goog
+www.
 www.100millionmoms.ca
 www.100percentbest.com
 www.100percentfedup.com
@@ -31008,6 +31070,7 @@ www.accreditation.foodforthebrain.org
 www.accudocurgentcare.com
 www.ace.mu.nu
 www.aceva.com
+www.achena.org
 www.acimconnect.com
 www.acmcollege.comindex.html
 www.acnebye.reikiranch.net
@@ -31132,6 +31195,9 @@ www.ahva.com
 www.aidanproducts.com
 www.aidspharmaceuticals.eirmed360.com
 www.aier.org
+www.aihseal.com
+www.aihseal.homeopathyusa.org
+www.aihsealcom.homeopathyusa.org
 www.aim4truth.org
 www.aimintegrativemedicine.com
 www.aircaremd.com
@@ -32091,6 +32157,7 @@ www.bruceohara.substack.com
 www.brudirect.com
 www.brussels.cityguides.wn.com
 www.brutalproof.net
+www.bryansharpe.co
 www.bsem.org.uk
 www.bsfreepress.net
 www.bsnews.info
@@ -32430,6 +32497,16 @@ www.centipedenation.com
 www.centred-awareness-community.mn.co
 www.cephyr-recherche.com
 www.ceramiccentre.com
+www.certified.homeopathyusa.org
+www.certified2.homeopathyusa.org
+www.certifiedhomeopathic.homeopathyusa.org
+www.certifiedhomeopathic.org
+www.certifiedhomeopathy-com.homeopathyusa.org
+www.certifiedhomeopathy-net.homeopathyusa.org
+www.certifiedhomeopathy-org.homeopathyusa.org
+www.certifiedhomeopathy.com
+www.certifiedhomeopathy.net
+www.certifiedhomeopathy.org
 www.cesiumeliminator.com
 www.cetv.one
 www.cfic.us
@@ -33615,6 +33692,7 @@ www.drmini.metagenics.com
 www.drmomma.org
 www.drmorgannd.com
 www.drmorse.tv
+www.drnancymalik.wordpress.com
 www.drnaseem236981887.wordpress.com
 www.drneilmckinney.ca
 www.drnikiyoung.com
@@ -34248,6 +34326,7 @@ www.flickr.com.howestreet.com
 www.florahealth.com
 www.florida.tenthamendmentcenter.com
 www.floridacapitalstar.com
+www.floridahomeopathicsociety.org
 www.flowalignment.net
 www.floyd.vibrants.com
 www.flp13.shopfreemart.com
@@ -34346,6 +34425,7 @@ www.forunitedsolutions.org
 www.forwardmovement.ie
 www.fos-sa.org
 www.fossaorg.wordpress.com
+www.foundation.homeopathychoice.org
 www.foundationformetaboliccancertherapies.com
 www.foundationsofecon.blogspot.com
 www.foundmyfitness.com
@@ -35261,12 +35341,18 @@ www.homegardening.news
 www.homegardeningnews.com
 www.homeo-pathic.esy.es
 www.homeomart.com
+www.homeopathicdirectory.com
 www.homeopathicology.com
 www.homeopathy-toronto.com
 www.homeopathy.org
 www.homeopathycenter.org
+www.homeopathychoice.org
 www.homeopathyinpractice.org
 www.homeopathyplus.com
+www.homeopathyseal-org.homeopathyusa.org
+www.homeopathyseal.homeopathyusa.org
+www.homeopathyseal.org
+www.homeopathyusa.org
 www.homeopathywest.org
 www.homeowiz.com
 www.homeschooling.news
@@ -35306,6 +35392,8 @@ www.hosting.childrenshealthdefense.org
 www.hostingsource.shopfreemart.com
 www.hostmaster.shinebrightnow.com
 www.hotel-ds.com
+www.hotepjesus.com
+www.hotepnation.com
 www.hotzehwc.com
 www.howardnema.com
 www.howbad.info
@@ -35322,6 +35410,7 @@ www.hpathy.com
 www.hpv-vaccine-side-effects.com
 www.hpvvaccinenews.blogspot.com
 www.hpwwc.org
+www.hri-research.org
 www.hriptc.org
 www.hrm.aosis.co.za
 www.hs.shopfreemart.com
@@ -36582,6 +36671,7 @@ www.melindaiversoninn.substack.com
 www.melville.inmycommunity.com.au
 www.member.greensmoothie.com
 www.members.ezinearticles.com
+www.members.homeopathyusa.org
 www.members.nimh.org.uk
 www.members.riddham.com
 www.members.thenhf.com
@@ -36591,6 +36681,7 @@ www.memoryhold.substack.com
 www.memoryholeblog.org
 www.memoryholed.com
 www.mendyourmental.com
+www.menoforder.com
 www.mensfitnessfocus.com
 www.menshealth.news
 www.mental.news
@@ -37089,6 +37180,7 @@ www.natureworksbest.com
 www.naturopath.org.nz
 www.naturopath4you.com
 www.naturopathic.org
+www.naturopathicdiaries.com
 www.naturopathicdoctorforyou.com
 www.naturopathicmedicineinstitute.org
 www.naturopathicpediatrics.com
@@ -38905,6 +38997,8 @@ www.sibrel.com
 www.sickandfat.com
 www.sierramadrepreciousmetals.drkelley.net
 www.signaturebiologics.com
+www.signthehomeopathypetition.com
+www.signthehomeopathypetition.com.homeopathychoice.org
 www.silencernews.libertarianchristians.com
 www.siliconforest.ca
 www.silver-colloids.com
@@ -39097,6 +39191,7 @@ www.stage.acnem.org
 www.stage.dev.acnem.org
 www.stage.healthfulliving.org
 www.stage.healy.shop
+www.stage.homeopathyusa.org
 www.stage.livonlabs.com
 www.stage.origin.doctoroz.com
 www.stage.safetrek.com
@@ -39546,6 +39641,7 @@ www.tetrahedron.org
 www.tetramedic.com
 www.tetyanaobukhanych.com
 www.texansforvaccinechoice.com
+www.texassocietyofhomeopathy.com
 www.texasvaccinechoice.com
 www.texemarrs.com
 www.texprofits.myctfo.com
@@ -39575,6 +39671,7 @@ www.the17news.com
 www.the2020panel.com
 www.the5gsummit.com
 www.the9steps.com
+www.theabhm.homeopathyusa.org
 www.theaiorganization.com
 www.thealterofdeceit.net
 www.theamandatruthproject.com
@@ -40225,6 +40322,7 @@ www.tryacupuncture.org
 www.tryaramea.com
 www.trybandoo.com
 www.trygreenape.com
+www.trymasterfocus.com
 www.tsarizm.com
 www.tsctalks.com
 www.tsl.am
@@ -40612,6 +40710,7 @@ www.vitamindwiki.com
 www.vitaminlawyer.com
 www.vitanica.com
 www.vitelometry.com
+www.vithoulkas.college
 www.vithoulkas.hpathy.com
 www.vivafrei.com
 www.vivation.com
