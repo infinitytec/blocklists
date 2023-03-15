@@ -199,6 +199,9 @@ www.arthritis-health.com###block-vh-dfp-dfp-ad-r1 > .clearfix.block-inner > .blo
 www.arthritis-health.com###block-vh-dfp-dfp-ad-r2 > .clearfix.block-inner
 www.arthritis-health.com##.block--vh-footer-ads-vh-footer-ads.block--vh-footer-ads.block
 
+! artnet.com
+news.artnet.com##div.embedded-amp-ad
+
 ! aspsnippets.com
 www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
 
@@ -1153,6 +1156,9 @@ krebsonsecurity.com###sidebar-box > .a-img
 ! ksat.com
 www.ksat.com##.zeusAdWrapper
 
+! ksn.com
+www.ksn.com##.article-list--headline-image-branded.article-list
+
 ! kutv.com
 kutv.com##div[id^=interstory_]
 
@@ -1176,6 +1182,7 @@ www.learningmultipleintelligence.com##a.imgLink:nth-of-type(8)
 www.learningmultipleintelligence.com##a.imgLink:nth-of-type(9)
 
 ! lifehacker.com
+lifehacker.com###commerce-inset-wrapper
 lifehacker.com##.ad-container
 lifehacker.com##.ad-mobile
 lifehacker.com##.ad-mobile-dynamic
@@ -1246,6 +1253,11 @@ www.marthastewart.com##.recipe-main-ad.full-width.recipe-ad-wrapper
 
 ! mashable.com
 mashable.com##.inline-video-seealso
+
+! md5hashing.net
+md5hashing.net###decode > .no-margin.table > tbody > tr > .no-padding > .row.alert-promo.alert
+md5hashing.net###encode > .no-margin.table > tbody > tr > .no-padding > .row.alert-promo.alert
+md5hashing.net##.row.alert-promo.alert
 
 ! mediabiasfactcheck.com
 mediabiasfactcheck.com###pLsQZAokoXcw
@@ -1768,9 +1780,17 @@ www.tax-rates.org###promoLink
 www.tctmd.com##.advertisement-aside
 www.tctmd.com##.advertisement-headerz
 
+! tecadmin.net
+tecadmin.net##.a-wrap
+tecadmin.net##.a-wrap-bg.alignwide.a-wrap-8.a-wrap-base.a-wrap
+
 ! techgenix.com
 techgenix.com###text-23 > .widgettitle
 techgenix.com###text-37
+
+! techinasia.com
+www.techinasia.com##.artad
+www.techinasia.com##.artad-vid
 
 ! techpowerup.com
 www.techpowerup.com###page > .sidebar > section.mnnusjsddg.sidebar-item
