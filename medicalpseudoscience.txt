@@ -5,6 +5,7 @@
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
 
 030888-445-9988www.homeopathyusa.org
+1.outbound2.y.nativeremedies.com
 10.rt.com
 100jewishfoods.tabletmag.com
 100millionmoms.ca
@@ -44,6 +45,7 @@
 1susannejohnson.myctfo.com
 2.choq.com
 2.drnancymalik.wordpress.com
+2.foodnews.org
 2000mules.com
 2010.abovetopsecret.com
 2010.autismone.org
@@ -114,8 +116,10 @@
 2ruth.org
 2strainz.myctfo.com
 2ubje.staging.water-for-health.co.uk
+2www.foodnews.org
 2yourhealth.biomatnetwork.com
 30.herbdoc.com
+333.foodnews.org
 353heal.ehealthpro.com
 3642638.myctfo.com
 365040.myctfo.com
@@ -250,8 +254,10 @@ _dmarc.libertynation.com
 a-healing-place.com
 a-r-h.org
 a.chicagoreader.com
+a.cnsnews.com
 a.elle.com
 a.metrotimes.com
+a.nativeremedies.com
 a.ns.toxi.com
 a.thebl.com
 a.thefreethoughtproject.com
@@ -261,6 +267,8 @@ a2.img.mindbodygreen.com
 a3.wn.com
 a4justice.org
 a4m.com
+aaa.foodnews.org
+aaa.thcfinder.com
 aaa.thegoodinside.com
 aaa.voxxlife.com
 aaad.tm.org
@@ -349,6 +357,7 @@ academy.trulyheal.com
 academyofbioenergetics.com
 acai.naturalnews.com
 acam.org
+acapi.cnsnews.com
 acapi.twitchy.com
 acbc.ie
 acc.ehealthpro.com
@@ -482,6 +491,7 @@ admin.ca.tm.org
 admin.charismapodcastnetwork.com
 admin.chatdit.com
 admin.chicagoreader.com
+admin.cnsnews.com
 admin.connecting-consciousness.org
 admin.conspiracyresource.com
 admin.dev.chatdit.com
@@ -490,6 +500,7 @@ admin.dineshdsouza.com
 admin.doctoroz.com
 admin.drweil.com
 admin.gaia.com
+admin.hotair.com
 admin.howestreet.com
 admin.impfkritik.de
 admin.institutefornaturalhealing.com
@@ -728,6 +739,9 @@ aixenprovence.cityguides.wn.com
 ajcastro2011.mycoseva.com
 ajcounterfeitnotesprint.greenmms.com
 akademijadisanja.com
+akamai-test-origin.cnsnews.com
+akamai-test.cnsnews.com
+akamai.cnsnews.com
 akamai.twitchy.com
 akarm.metagenics.com
 akarvounides.metagenics.com
@@ -1093,6 +1107,7 @@ amomlookingup.wordpress.com
 amorc.rosicrucian.org
 amorris.metagenics.com
 amp.agoravox.fr
+amp.dailycaller.com
 amp.mindbodygreen.com
 amp.thepostmillennial.com
 amp.washingtontimes.com
@@ -1288,9 +1303,11 @@ api.chatdit.com
 api.childrenshealthdefense.org
 api.christianpost.com
 api.churchmilitant.com
+api.cnsnews.com
 api.connecting-consciousness.org
 api.conservativereview.com
 api.cozy.tv
+api.dailycaller.com
 api.dev.chatdit.com
 api.devices.fremedica.com
 api.ewg.org
@@ -1342,6 +1359,7 @@ app.21daybraindetox.com
 app.allamericanrestoration.com
 app.aws.drweil.com
 app.bitchute.com
+app.cnsnews.com
 app.collective-evolution.com
 app.drberg.com
 app.drjmed.com
@@ -1621,6 +1639,7 @@ astrodynamics.net
 astrogems.com
 astroherbalist.hpathy.com
 asurek.ehealthpro.com
+at.foodnews.org
 ataylor.metagenics.com
 atc2255.metagenics.com
 atem-gesundheit.ch
@@ -1710,6 +1729,7 @@ auth.designsforhealth.com
 auth.dev.doctoroz.com
 auth.doctoroz.com
 auth.heartland.org
+auth.hotair.com
 auth.ifw.io
 auth.infowars.com
 auth.mindbodygreen.com
@@ -1751,6 +1771,7 @@ autoconfig.ahealedplanet.net
 autoconfig.anoasisofhealing.com
 autoconfig.biodynamicsolutions.org
 autoconfig.box.namelyliberty.com
+autoconfig.cnsnews.com
 autoconfig.covertactionmagazine.com
 autoconfig.defending-gibraltar.net
 autoconfig.forum.choq.com
@@ -1870,6 +1891,7 @@ autodiscover.clearmyallergies.com
 autodiscover.clearskymedical.com
 autodiscover.climatechangedispatch.com
 autodiscover.cmevt.com
+autodiscover.cnsnews.com
 autodiscover.cogforlife.org
 autodiscover.colloidalsilverzone.com
 autodiscover.coloradocitizenpress.com
@@ -2098,6 +2120,7 @@ autodiscover.m.choq.com
 autodiscover.mail.mercola.com
 autodiscover.malcolmrobertsqld.com.au
 autodiscover.mamathrivevillage.com
+autodiscover.marijuanagames.org
 autodiscover.markprophet.org
 autodiscover.marypatriotnews.com
 autodiscover.mastermineralsolution-mms.com
@@ -2275,6 +2298,7 @@ autodiscover.thenaturalchoiceclinic.com
 autodiscover.thenhf.com
 autodiscover.theosophy-nw.org
 autodiscover.thepsychologyofcancer.com
+autodiscover.thescariestmovieever.tv
 autodiscover.thesearethefacts.net
 autodiscover.thesilveredge.com
 autodiscover.thestandardsc.org
@@ -2330,6 +2354,7 @@ autodiscover.wellnessforuminstitute.com
 autodiscover.westmauidoctors.com
 autodiscover.wethepundit.com
 autodiscover.whatis5g.info
+autodiscover.whoiskjozborne.com
 autodiscover.wholechildcenter.org
 autodiscover.wildoiloforegano.com
 autodiscover.willowstreetyoga.com
@@ -2338,6 +2363,7 @@ autodiscover.windheimemfsolutions.com
 autodiscover.winip.news
 autodiscover.wisehomelife.org
 autodiscover.witchvox.com
+autodiscover.woolstangray.eu
 autodiscover.wordsalad.info
 autodiscover.working4health.org
 autodiscover.worldasthmafoundation.org
@@ -2419,7 +2445,9 @@ aws.shopfreemart.com
 aws.zerohedge.com
 aws01.accessconsciousness.com
 aws2.shopfreemart.com
+awsdashboard.cnsnews.com
 awsdashboard.twitchy.com
+aww.foodnews.org
 awyndham.voxxlife.com
 axcessnews.com
 axisworldnews.com
@@ -2473,6 +2501,7 @@ azradale.substack.com
 azstandsup.org
 azurestandard.com
 b.choq.com
+b.cnsnews.com
 b.cozy.tv
 b.discoverlasers.com
 b.howestreet.com
@@ -2580,6 +2609,7 @@ bariwweiss.substack.com
 barracuda.nuhs.edu
 barracuda.stream.org
 barracuda02.stream.org
+barriebasements.drbenkim.com
 barry-lynes.lymebook.com
 barsoom.substack.com
 bartapp.myctfo.com
@@ -2588,6 +2618,8 @@ bartram.substack.com
 basado.substack.com
 basedunderground.com
 bashful.freerepublic.com
+basic-nodejs-dev.cnsnews.com
+basic.cnsnews.com
 basic.twitchy.com
 basicbox.chem-tox.com
 basilicospastavino.com
@@ -2611,6 +2643,7 @@ bbg-aura.gaia.com
 bbond.metagenics.com
 bbreports.gdx.net
 bbs.bbsradio.com
+bbs.cnsnews.com
 bbs.iherb.com
 bbsradio.com
 bbtest-co.buteykoeducators.org
@@ -2689,6 +2722,7 @@ bensmyson.wordpress.com
 bentestdev.organixx.com
 bentonintegrative.com
 benwilliamslibrary.com
+bergdahl--www.michellemalkin.com
 berkeyfilters.healthrangerstore.com
 berlin-brandenburger-homoeopathie.de
 bermancosmeticsurgery.ehealthpro.com
@@ -2727,6 +2761,7 @@ beta.amazingdiscoveries.org
 beta.biodynamics.com
 beta.bittube.tv
 beta.citizensjournal.us
+beta.cnsnews.com
 beta.deblauwetijger.com
 beta.ecoparent.ca
 beta.emersonecologics.com
@@ -2740,6 +2775,7 @@ beta.greenpasture.org
 beta.healthytraditions.com
 beta.herbdoc.com
 beta.hometownstation.com
+beta.hotair.com
 beta.infowars.com
 beta.lewrockwell.com
 beta.lifeextension.com
@@ -2757,6 +2793,7 @@ beta.riseofthevegan.com
 beta.roguenews.com
 beta.salemmedia.com
 beta.salemnewschannel.com
+beta.thcfinder.com
 beta.twitchy.com
 beta.wddty.com
 beta2.banners4freedom.com
@@ -2969,6 +3006,7 @@ bittensaddiction.com
 bittube.app
 bittube.tv
 bittube.video
+biymcrd.thcfinder.com
 biz.myctfo.com
 biz.vermontcountrystore.com
 bizkitman.myctfo.com
@@ -3050,6 +3088,7 @@ blog.canceractive.com
 blog.carm.org
 blog.catholicism.org
 blog.ch.tm.org
+blog.cnsnews.com
 blog.condemnedlabz.com
 blog.conspyre.tv
 blog.dadamo.com
@@ -3085,9 +3124,11 @@ blog.khp.ee
 blog.lifeextension.com
 blog.livingfuel.com
 blog.livonlabs.com
+blog.lodosdispensary.com
 blog.medfoxpub.com
 blog.metagenics.com
 blog.mises.org
+blog.nativeremedies.com
 blog.naturalnews.com
 blog.neurovedahealth.com
 blog.nomorefakenews.com
@@ -3112,6 +3153,7 @@ blog.skyhorsepublishing.com
 blog.soin-et-nature.com
 blog.tenthamendmentcenter.com
 blog.test.www.shop.shinebrightnow.com
+blog.thcfinder.com
 blog.theartofchange.com
 blog.thecbdistillery.com
 blog.theepochtimes.com
@@ -3140,6 +3182,7 @@ blogenkiops.wordpress.com
 blogexplore.whatfinger.com
 blogfactory.co.uk
 blogs.choq.com
+blogs.cnsnews.com
 blogs.consumerhealthdigest.com
 blogs.designsforhealth.com
 blogs.elle.com
@@ -3428,6 +3471,7 @@ bsmith.metagenics.com
 bsnews.info
 bstg.metagenics.com
 bsy.davidlynchfoundation.org
+bt.dailycaller.com
 bt.lege.net
 btc.myherbalife.com
 btcpay.gab.com
@@ -3450,8 +3494,10 @@ bugsawayanddefendercombo.naturalnews.com
 bugsawayspray.healthrangerstore.com
 bugsawayspray.naturalnews.com
 bugtravel.wn.com
+build.dailycaller.com
 build.organicfacts.net
 buildbot.precisionnutrition.com
+builder.cnsnews.com
 builder.myoworks.net
 building.carm.org
 buildingbiology.com
@@ -3551,6 +3597,7 @@ bznutritionny.com
 c-60.com
 c-vine-international-foundation.myshopify.com
 c-vine.com
+c.cnsnews.com
 c.twitchy.com
 c.washingtontimes.com
 c1.legalinsurrection.com
@@ -3606,6 +3653,7 @@ ca.iaomt.org
 ca.iherb.com
 ca.loveletter.iherb.com
 ca.m.iherb.com
+ca.thcfinder.com
 ca.theepochtimes.com
 ca.tm.org
 ca.traditionalmedicinals.com
@@ -3803,6 +3851,7 @@ career-alumni.nunm.edu
 career.healy.shop
 careers.acam.org
 careers.choq.com
+careers.cnsnews.com
 careers.gaiaherbs.com
 careers.heel.com
 careers.indiamart.com
@@ -3840,6 +3889,8 @@ cart.alsearsmd.com
 cart.lifeguardianfoundation.org
 cart.livonlabs.com
 cart.michaeljournal.org
+cart.nativeremedies.com
+carteldoc.dailycaller.com
 carter-heavy-industries.com
 carterheavyindustries.files.wordpress.com
 carterheavyindustries.wordpress.com
@@ -4093,8 +4144,10 @@ cdn.ar15.com
 cdn.balanceofnature.com
 cdn.breitbart.com
 cdn.caravantomidnight.com
+cdn.cnsnews.com
 cdn.consciousbreathing.com
 cdn.conservativereview.com
+cdn.dailycaller.com
 cdn.davidwolfe.com
 cdn.drgundry.com
 cdn.drweil.com
@@ -4119,6 +4172,7 @@ cdn.lexpert.francesoir.fr
 cdn.libertyclassroom.com
 cdn.mises.org
 cdn.namelyliberty.com
+cdn.nativeremedies.com
 cdn.naturalnews.com
 cdn.normalbreathing.com
 cdn.patriotssoapbox.com
@@ -4147,6 +4201,9 @@ cdn.wn.com
 cdn.womensblogtalk.com
 cdn.youngofficial.com
 cdn0.wn.com
+cdn01.dailycaller.com
+cdn01.preprod.dailycaller.com
+cdn01.upgrade3.dailycaller.com
 cdn1.collective-evolution.com
 cdn1.gcnlive.com
 cdn1.hybridrastamama.com
@@ -4184,6 +4241,7 @@ cdn9.wn.com
 cdna.richplanet.net
 cdni.rt.com
 cdnv.rt.com
+cdq-api.cnsnews.com
 cdq-api.twitchy.com
 cdunbarmd.ehealthpro.com
 ce-public.naturalnews.com
@@ -4566,15 +4624,23 @@ chwpeds.com
 ci.brighteon.com
 ci.chi.us
 ci.childrenshealthdefense.org
+ci.dailycaller.com
 cia.fetch.news
 cicril.childrenshealthdefense.org
 cienciaysaludnatural.com
 cigarettes.fetch.news
 ciin.org
 cilexin.enrichlife.co
+cim-api-dev.cnsnews.com
+cim-api-qa.cnsnews.com
 cim-api-qa.twitchy.com
+cim-api-uat.cnsnews.com
+cim-api.cnsnews.com
 cim-api.twitchy.com
+cim-data-quality-qa.cnsnews.com
 cim-data-quality-qa.twitchy.com
+cim-dev.cnsnews.com
+cim-geo-dev.cnsnews.com
 cim.ehealthpro.com
 cincinnatihyperbarics.com
 cinden.thegoodinside.com
@@ -4603,6 +4669,7 @@ citizensforhealthcarefreedom.org
 citizensjournal.us
 citizenwells.com
 citizenwells.substack.com
+citrix.cnsnews.com
 citrix.gslb.salemmedia.com
 citrix.salemmedia.com
 citrix.theblaze.com
@@ -4688,6 +4755,7 @@ clerisy.ca
 clevelandnutrition.ehealthpro.com
 cleves2007usa.myctfo.com
 click.allianceforadvancedhealth.com
+click.cnsnews.com
 click.dailyreckoning.com
 click.email.doterra.com
 click.email.precisionnutrition.com
@@ -4697,6 +4765,7 @@ click.ibg.headlineusa.com
 click.inhresearch.com
 click.p.freedomwire.com
 click.twitchy.com
+click1.email.dailycaller.com
 click2.allianceforadvancedhealth.com
 click2.dailyreckoning.com
 click2.headlinehealth.com
@@ -4736,6 +4805,7 @@ clotshot.ca
 cloud.aosis.co.za
 cloud.arizonaadvancedmedicine.com
 cloud.benosey.com
+cloud.cnsnews.com
 cloud.connecting-consciousness.org
 cloud.doctors4covidethics.org
 cloud.email.doterra.com
@@ -4807,6 +4877,7 @@ cms.thepostmillennial.com
 cms.tw.asiatatler.com
 cms.zerohedge.com
 cmsadmin.mercola.com
+cmsadmin.nativeremedies.com
 cmsri.org
 cn.christianpost.com
 cn.iherb.com
@@ -4814,12 +4885,14 @@ cn.loveletter.iherb.com
 cn.m.iherb.com
 cn.shinebrightnow.com
 cn.tm.org
+cname.cnsnews.com
 cname.twitchy.com
 cnbhealth.myctfo.com
 cnbsnews.live
 cnnsofake.news
 cnpusa.com
 cns1.metagenics.com
+cnsnews.com
 cnssagedev.nutritionstudies.org
 co-gw1.quicksilverscientific.com
 co-gw2.quicksilverscientific.com
@@ -4934,6 +5007,7 @@ colorwize.com
 column.awakenwithjp.com
 com.crystalblueent.com
 com.howestreet.com
+com.michellemalkin.com
 com.parentsaganinstmandatoryvaccines.net
 cometwww.rexresearch.com
 comida.myctfo.com
@@ -4985,6 +5059,7 @@ community.savvy-team.com
 community.smombiegate.org
 community.stylecraze.com
 community.summitlighthouse.org
+community.thcfinder.com
 community.upgrade.healthimpactnews.com
 community.whatfinger.com
 community.whyagain.org
@@ -5117,6 +5192,7 @@ constitutionalrightscentre.ca
 constitutioncoach.com
 constitutionwatch.com.au
 construtor.choq.com
+consul.cnsnews.com
 consul.twitchy.com
 consult.personalconsult.com
 consultationclaims.com
@@ -5145,7 +5221,10 @@ content.healthoptimisation.com
 content.herbalgram.org
 content.icahealth.com
 content.mystore.com
+content.nativeremedies.com
+content.nativeremedies.comem.nativeremedies.com
 content.sleepphones.com
+content.thcfinder.com
 content.thriveglobal.com
 content1.infowars.com
 content2.infowars.com
@@ -5154,9 +5233,11 @@ contentke01.mercola.com
 contentke02.mercola.com
 contentlibrary.gaia.com
 contentsd01.mercola.com
+contests.dailycaller.com
 context.wn.com
 continentalfreepress.news
 continuumwellsprings.com
+contnt.thcfinder.com
 contractors.metagenics.com
 contribute.healthimpactnews.com
 contribution.washingtontimes.com
@@ -5335,6 +5416,7 @@ coyoteprimeblog2.blogspot.com
 cozy.tv
 cozymama.myctfo.com
 cp.camacenter.com
+cp.cnsnews.com
 cp.phiremedical.org
 cp.rosicrucian.org
 cpanel.12-weeks.bioptimizers.com
@@ -5498,6 +5580,7 @@ cpanel.climatechangedispatch.com
 cpanel.clone.brasscheck.com
 cpanel.cmevt.com
 cpanel.cmri.tv
+cpanel.cnsnews.com
 cpanel.coldlasersupplies.com
 cpanel.colloidalsilverzone.com
 cpanel.coloradocitizenpress.com
@@ -5579,6 +5662,7 @@ cpanel.dogcancershop.com
 cpanel.dollarcollapse.com
 cpanel.dominionfoodie.ca
 cpanel.drallexi.com
+cpanel.drbenkim.com
 cpanel.drfeder.com
 cpanel.drgrodski.com
 cpanel.drhealthbenefits.com
@@ -5833,6 +5917,7 @@ cpanel.lymebook.com
 cpanel.lymediseasechallenge.org
 cpanel.lynnemctaggart.com
 cpanel.malcolmrobertsqld.com.au
+cpanel.marijuanagames.org
 cpanel.markitonutrition.com
 cpanel.markprophet.org
 cpanel.marktaliano.net
@@ -5912,6 +5997,7 @@ cpanel.noreddawn.com
 cpanel.normalbreathing.com
 cpanel.norml.org
 cpanel.npswsilver.com
+cpanel.ns.drbenkim.com
 cpanel.nutritionandhealthcenter.com
 cpanel.nuvisionusa.com
 cpanel.nwvstore.com
@@ -6119,6 +6205,7 @@ cpanel.thenaturalchoiceclinic.com
 cpanel.theosophy-nw.org
 cpanel.thepmc.org
 cpanel.therealnews.nz
+cpanel.thescariestmovieever.tv
 cpanel.thesearethefacts.net
 cpanel.thetexan.news
 cpanel.thetriadaer.com
@@ -6195,6 +6282,7 @@ cpanel.wethepeopleconvention.org
 cpanel.whatis5g.info
 cpanel.whichhomeopathycourse.org
 cpanel.whiteoutpress.com
+cpanel.whoiskjozborne.com
 cpanel.wholechildcenter.org
 cpanel.wholesale.herbhealers.com
 cpanel.whyagain.org
@@ -6204,6 +6292,7 @@ cpanel.willowstreetyoga.com
 cpanel.willthomasonline.net
 cpanel.windheimemfsolutions.com
 cpanel.wingmakers.com
+cpanel.woolstangray.eu
 cpanel.wordsalad.info
 cpanel.working4health.org
 cpanel.worldasthmafoundation.org
@@ -6451,6 +6540,7 @@ cpcalendars.dollarcollapse.com
 cpcalendars.dolorescannon.com
 cpcalendars.dominionfoodie.ca
 cpcalendars.drallexi.com
+cpcalendars.drbenkim.com
 cpcalendars.drday.com
 cpcalendars.drfeder.com
 cpcalendars.drgrodski.com
@@ -6710,6 +6800,7 @@ cpcalendars.lymediseasechallenge.org
 cpcalendars.lynnemctaggart.com
 cpcalendars.malcolmrobertsqld.com.au
 cpcalendars.mamathrivevillage.com
+cpcalendars.marijuanagames.org
 cpcalendars.markitonutrition.com
 cpcalendars.markprophet.org
 cpcalendars.maryamann.com
@@ -6785,6 +6876,7 @@ cpcalendars.noqreport.com
 cpcalendars.noreddawn.com
 cpcalendars.normalbreathing.com
 cpcalendars.npswsilver.com
+cpcalendars.ns.drbenkim.com
 cpcalendars.nuvisionusa.com
 cpcalendars.nwvstore.com
 cpcalendars.oahspestandardedition.com
@@ -6988,6 +7080,7 @@ cpcalendars.theosophy-nw.org
 cpcalendars.thepmc.org
 cpcalendars.thepsychologyofcancer.com
 cpcalendars.therealnews.nz
+cpcalendars.thescariestmovieever.tv
 cpcalendars.thesearethefacts.net
 cpcalendars.thestandardsc.org
 cpcalendars.thetexan.news
@@ -7061,6 +7154,7 @@ cpcalendars.webinar.drrachael.com
 cpcalendars.wellnessforuminstitute.com
 cpcalendars.wethepundit.com
 cpcalendars.whatis5g.info
+cpcalendars.whoiskjozborne.com
 cpcalendars.wholechildcenter.org
 cpcalendars.wikiage.org
 cpcalendars.wildoiloforegano.com
@@ -7073,6 +7167,7 @@ cpcalendars.wintersupplement.com
 cpcalendars.wisehomelife.org
 cpcalendars.witchvox.com
 cpcalendars.wonnation.ca
+cpcalendars.woolstangray.eu
 cpcalendars.wordsalad.info
 cpcalendars.working4health.org
 cpcalendars.worldfreedomalliance.org
@@ -7323,6 +7418,7 @@ cpcontacts.dollarcollapse.com
 cpcontacts.dolorescannon.com
 cpcontacts.dominionfoodie.ca
 cpcontacts.drallexi.com
+cpcontacts.drbenkim.com
 cpcontacts.drday.com
 cpcontacts.drfeder.com
 cpcontacts.drgrodski.com
@@ -7579,6 +7675,7 @@ cpcontacts.lymediseasechallenge.org
 cpcontacts.lynnemctaggart.com
 cpcontacts.malcolmrobertsqld.com.au
 cpcontacts.mamathrivevillage.com
+cpcontacts.marijuanagames.org
 cpcontacts.markitonutrition.com
 cpcontacts.markprophet.org
 cpcontacts.maryamann.com
@@ -7655,6 +7752,7 @@ cpcontacts.noqreport.com
 cpcontacts.noreddawn.com
 cpcontacts.normalbreathing.com
 cpcontacts.npswsilver.com
+cpcontacts.ns.drbenkim.com
 cpcontacts.nuvisionusa.com
 cpcontacts.nwvstore.com
 cpcontacts.oahspestandardedition.com
@@ -7867,6 +7965,7 @@ cpcontacts.theosophy-nw.org
 cpcontacts.thepmc.org
 cpcontacts.thepsychologyofcancer.com
 cpcontacts.therealnews.nz
+cpcontacts.thescariestmovieever.tv
 cpcontacts.thesearethefacts.net
 cpcontacts.thetexan.news
 cpcontacts.thetriadaer.com
@@ -7941,6 +8040,7 @@ cpcontacts.webinar.drrachael.com
 cpcontacts.wellnessforuminstitute.com
 cpcontacts.wethepundit.com
 cpcontacts.whatis5g.info
+cpcontacts.whoiskjozborne.com
 cpcontacts.wholechildcenter.org
 cpcontacts.wholesale.herbhealers.com
 cpcontacts.whyagain.org
@@ -7954,6 +8054,7 @@ cpcontacts.winip.news
 cpcontacts.wintersupplement.com
 cpcontacts.wisehomelife.org
 cpcontacts.witchvox.com
+cpcontacts.woolstangray.eu
 cpcontacts.wordsalad.info
 cpcontacts.working4health.org
 cpcontacts.worldfreedomalliance.org
@@ -7986,6 +8087,7 @@ cracknewz.com
 craigdavis.myctfo.com
 craigmurray.org.uk
 cranialacademy.org
+crap.thcfinder.com
 cravenews.com
 cravenfreedom.com
 crazyconcertlady.myctfo.com
@@ -8024,9 +8126,11 @@ criticallythinking.substack.com
 criticalthinker.news
 crm.aosis.co.za
 crm.childrenshealthdefense.org
+crm.cnsnews.com
 crm.healthmeans.com
 crm.immunitytherapycenter.com
 crm.ion.ac.uk
+crm.nativeremedies.com
 crm.personalliberty.com
 crm.scabelum.com
 crm.wn.com
@@ -8172,6 +8276,7 @@ cv19news.gumroad.com
 cv19news.wixsite.com
 cvadvancedwellness.ehealthpro.com
 cvbudz101.myctfo.com
+cveapi.cnsnews.com
 cveapi.twitchy.com
 cvk365.com
 cvpandemicinvestigation.com
@@ -8229,6 +8334,7 @@ daily.patriotssoapbox.com
 daily.theepochtimes.com
 daily.thepostmillennial.com
 dailyangle.com
+dailycaller.com
 dailyclout.io
 dailycloutpodcast.podbean.com
 dailydose4u.wordpress.com
@@ -8277,6 +8383,7 @@ dangerousmedicine.com
 danhappel.com
 danicawalker.org
 danicawalker.thegoodinside.com
+danieapp.cnsnews.com
 danieljmitchell.wordpress.com
 daniella-silver.healthcoach.integrativenutrition.com
 danielle-keatley.healthcoach.integrativenutrition.com
@@ -8515,6 +8622,7 @@ dcdirtylaundry.com
 dchance.metagenics.com
 dchilds.myctfo.com
 dcpizzagate.wordpress.com
+dctrawler.dailycaller.com
 dctrsmtp02mx1.mercola.com
 dctrsmtp02mx2.mercola.com
 dctrsmtp02mx4.mercola.com
@@ -8543,6 +8651,7 @@ ddpmarketing.myctfo.com
 ddponline.org
 de-program.org
 de.cchr.org
+de.cnsnews.com
 de.drjosephmercola.com
 de.elearning.iaomt.org
 de.gems-of-health-and-wellness.com
@@ -8703,11 +8812,13 @@ dementia.news
 dementiacrowdresearch.com
 demetre.myctfo.com
 demo.childrenshealthdefense.org
+demo.cnsnews.com
 demo.covfefebakery.com
 demo.healy.shop
 demo.karelianheritage.com
 demo.loopbiz.com
 demo.naturalnews.com
+demo.thcfinder.com
 demo.theenergyblueprint.com
 demo.totalhealthmagazine.com
 demo.weliveconscious.com
@@ -8801,6 +8912,7 @@ dev.afa.net
 dev.afajournal.org
 dev.allianceforadvancedhealth.com
 dev.amazingdiscoveries.tv
+dev.amp.dailycaller.com
 dev.aosis.co.za
 dev.app.21daybraindetox.com
 dev.apppush.afa.net
@@ -8836,6 +8948,7 @@ dev.cms.my.asiatatler.com
 dev.cms.ph.asiatatler.com
 dev.cms.sg.asiatatler.com
 dev.cms.tw.asiatatler.com
+dev.cnsnews.com
 dev.collective-evolution.com
 dev.consciousbreathing.com
 dev.conservativebusinessjournal.com
@@ -8843,6 +8956,7 @@ dev.conservativereview.com
 dev.covfefebakery.com
 dev.crrow777radio.com
 dev.crwdview.com
+dev.dailycaller.com
 dev.davidstockmanscontracorner.com
 dev.designsforhealth.com
 dev.doctors4covidethics.org
@@ -8991,6 +9105,7 @@ dev.teaparty.org
 dev.templetonlist.com
 dev.tetramedic.com
 dev.tfiglobalnews.com
+dev.thcfinder.com
 dev.theautomaticearth.com
 dev.thecbdistillery.com
 dev.thecovidworld.com
@@ -9073,8 +9188,10 @@ devcrp.doterra.com
 devdirectory.thefourwinds.com
 devdrop.mypatriotsupply.com
 develop-chat.gab.com
+develop.admin.nativeremedies.com
 develop.childrenshealthdefense.org
 develop.gab.com
+develop.nativeremedies.com
 develop.pro.gab.com
 develop.thriveglobal.com
 development-gab-chat.goji.live
@@ -9306,15 +9423,19 @@ dmta5.reply.medixselect.com
 dmtdream.myctfo.com
 dmurtazina.metagenics.com
 dnd.thegoodinside.com
+dnm.cnsnews.com
 dnmc.metagenics.com
 dnmu.dogsnaturallymagazine.com
 dns.abooksource.com
 dns.choq.com
+dns.cnsnews.com
+dns1.cnsnews.com
 dns1.groups.lymedisease.org
 dns1.indiamart.com
 dns1.twitchy.com
 dns1.wn.com
 dns2.childrenshealthdefense.org
+dns2.cnsnews.com
 dns2.groups.lymedisease.org
 dns2.indiamart.com
 dns2.twitchy.com
@@ -9333,6 +9454,7 @@ docferro.ehealthpro.com
 docintheloop.com
 docjacque.ehealthpro.com
 dock.bioptimizers.com
+docker.cnsnews.com
 docker.develop.gab.com
 docker.synergyscience.com
 dockirbs.myctfo.com
@@ -9374,6 +9496,7 @@ doctorsandscientistsdeclaration.org
 doctorsbeyondmedicine.com
 doctorsdontfearcovid.com
 doctorshealthpress.com
+doctorsmedley.nativeremedies.com
 doctorsopposingcircumcision.org
 doctorsstudio.com
 doctorswhocare.info
@@ -9386,6 +9509,7 @@ documents.precisionnutrition.com
 dogbitelawyers.ehlinelaw.com
 dogcancerblog.com
 dogcancershop.com
+dogfood-dev.cnsnews.com
 dogodki.naravnirazvoj.si
 dogsnaturallymagazine.com
 dokumentarac.hr
@@ -9452,6 +9576,7 @@ dostage.bioptimizers.com
 dotcomnieuws.com
 doterra.com
 double.myctfo.com
+doubledown.news
 dougal.wn.com
 dougbillings.us
 dougfordkilledontario.com
@@ -9464,6 +9589,8 @@ down.covidvaccineinjuries.com
 download.blueheronhealthnews.com
 download.breatheology.com
 download.childrenshealthdefense.org
+download.cnsnews.com
+download.thcfinder.com
 download.tm.org
 download.twitchy.com
 download.vaccineinjury.info
@@ -9474,6 +9601,7 @@ downloads.therootbrands.com
 downthechupacabrahole.com
 downtoearththinking.com
 doyourownresearch.substack.com
+dozenwww.foodnews.org
 doziraa.doctoroz.com
 dozirab.doctoroz.com
 dpapproved.com
@@ -9513,6 +9641,8 @@ drbalot.myctfo.com
 drbazzone.metagenics.com
 drbeckycampbell.com
 drbenedict.metagenics.com
+drbenkim.com
+drbenkim.drbenkim.com
 drbenlynch.com
 drbennett.ehealthpro.com
 drberg.com
@@ -9792,6 +9922,7 @@ dronewatchnews.com
 drop-nco.mypatriotsupply.com
 drop.mypatriotsupply.com
 droppingbombs.com
+dropship.nativeremedies.com
 dropship.vermontcountrystore.com
 droram.ehealthpro.com
 drowninginabsurdity.org
@@ -10050,6 +10181,7 @@ dxuk.site.parentsaganinstmandatoryvaccines.net
 dxuz.site.parentsaganinstmandatoryvaccines.net
 dyinh.metagenics.com
 dyn.childrenshealthdefense.org
+dyn.cnsnews.com
 dyneamicnutrition.ehealthpro.com
 dyoung15.myctfo.com
 dyzirecbd.myctfo.com
@@ -10061,6 +10193,7 @@ e.goop.com
 e.healthydirections.com
 e.shinebrightnow.com
 e.tatumreport.com
+e.thcfinder.com
 e.westernjournal.com
 e8medical.metagenics.com
 eaec.org
@@ -10269,6 +10402,7 @@ eja97.myctfo.com
 ejercicios.mercola.com
 ejramos.myctfo.com
 ekacmt.biomatnetwork.com
+ekaxfeo.thcfinder.com
 ekearns.metagenics.com
 el.elearning.iaomt.org
 el.iaomt.org
@@ -10280,6 +10414,7 @@ elaine-morales.healthcoach.integrativenutrition.com
 elaine.healthcoach.integrativenutrition.com
 elainelewis.hpathy.com
 elanafreeland.com
+elastic.cnsnews.com
 elastic.twitchy.com
 elation.kla.tv
 elaxsaunas.com
@@ -10364,7 +10499,9 @@ email.azgoodhealth.com
 email.breaking911.com
 email.causeaction.com
 email.chelseagreen.com
+email.cnsnews.com
 email.crestedbuttedentist.com
+email.dailycaller.com
 email.davidlynchfoundation.org
 email.daystar.com
 email.designsforhealth.com
@@ -10392,6 +10529,7 @@ email.realityzone.com
 email.richardgage911.org
 email.springintegrativehealth.com
 email.stream.org
+email.thcfinder.com
 email.theblaze.com
 email.thelifeco.com
 email.twitchy.com
@@ -10517,6 +10655,7 @@ en.azchpr.org
 en.baaghitv.com
 en.bcbudrub.com
 en.biologicalmedicalcenter.com
+en.cnsnews.com
 en.corona-ausschuss.de
 en.dev.journal-neo.org
 en.gems-of-health-and-wellness.com
@@ -10731,6 +10870,7 @@ et.metapedia.org
 et.wn.com
 etana.substack.com
 etanicals.us
+etcd-server-ssl.cnsnews.com
 eternal-ice.com
 ethantest.metagenics.com
 etherpad.vashiva.com
@@ -10811,10 +10951,12 @@ evonchiropractic.ehealthpro.com
 ew.newsblaze.com
 ewalker.metagenics.com
 ewg.org
+ewg.organdwww.foodnews.org
 ewihealth.metagenics.com
 exactweather.com
 excelsiorhealthcenters.com
 exchange.childrenshealthdefense.org
+exchange.cnsnews.com
 exchange.g2sacraments.org
 exchange.gaiaherbs.com
 exchange.heartland.org
@@ -11026,6 +11168,7 @@ feedback.myoxcience.com
 feedingthebodyfeedingthesoul.ehealthpro.com
 feedpage.myctfo.com
 feeds.abovetopsecret.com
+feeds.dailycaller.com
 feeds.ezinearticles.com
 feeds.mises.org
 feeds.radio.washingtontimes.com
@@ -11081,6 +11224,7 @@ fightingmonarch.files.wordpress.com
 fightobesity.news
 fiji.tm.org
 file-store.goji.live
+file.foodnews.org
 files.aosis.co.za
 files.davidstockmanscontracorner.com
 files.designsforhealth.com
@@ -11260,6 +11404,7 @@ foodinvestigations.com
 foodinvestigations.naturalnews.com
 foodismedicine.com
 foodmatters.com
+foodnews.org
 foodrevolution.org
 foodrising.org
 foodscience.news
@@ -11281,6 +11426,7 @@ forestofyouth.biomatnetwork.com
 forever.safeguardyoursoul.com
 foreverbreathing.com
 foreveryoung.thegoodinside.com
+forfree.signuptobecomeamember.www.thcfinder.com
 forge.notthebee.com
 forhealthfreedom.org
 forkidsandcountry.org
@@ -11313,6 +11459,7 @@ forum.bitchute.com
 forum.ca.childrenshealthdefense.org
 forum.carm.org
 forum.childrenshealthdefense.org
+forum.cnsnews.com
 forum.davidicke.com
 forum.efvv.eu
 forum.enrichedparenting.org
@@ -11341,6 +11488,7 @@ forum.wavegenetic.ru
 forum.wearechange.org
 forumbio.agoravox.fr
 forumezo.bion.si
+forums.cnsnews.com
 forums.eaec.org
 forums.elle.com
 forums.hebrew4christians.com
@@ -11607,11 +11755,13 @@ ftp.chelseagreen.com
 ftp.childrenshealthdefense.org
 ftp.choq.com
 ftp.chrisbeatcancer.com
+ftp.cnsnews.com
 ftp.covertactionmagazine.com
 ftp.covid-19-nieznane-fakty.pl
 ftp.crystalinks.com
 ftp.cuttingedge.org
 ftp.dolorescannon.com
+ftp.drbenkim.com
 ftp.drhoffman.com
 ftp.ecoparent.ca
 ftp.eskimo.com
@@ -11642,6 +11792,7 @@ ftp.republicbroadcasting.org
 ftp.sedona.com
 ftp.stichtingehs.nl
 ftp.tabletmag.com
+ftp.thcfinder.com
 ftp.thebereancall.org
 ftp.theeconomiccollapseblog.com
 ftp.thegatewaypundit.com
@@ -11682,12 +11833,14 @@ futurealm.myctfo.com
 futurechanges.myctfo.com
 futurefastforward.com
 futuregenerationssd.com
+futurenews.news
 futurescience.org
 futuresciencenews.com
 fvaziri.metagenics.com
 fvfr.ca
 fvilich.metagenics.com
 fvsportsdc.metagenics.com
+fw.cnsnews.com
 fwa.ehealthpro.com
 fwcct.ehealthpro.com
 fwcustomrx.ehealthpro.com
@@ -11695,6 +11848,7 @@ fweichelt.myctfo.com
 fwmhealth.com
 fwsw10g.childrenshealthdefense.org
 fwz-sc01.metagenics.com
+fxfqcbi.thcfinder.com
 fxmedcenters.metagenics.com
 fy.elearning.iaomt.org
 fyi.com
@@ -11719,7 +11873,9 @@ gab.ai
 gab.com
 gabriel.frc.org
 gabrielkostek.voxxlife.com
+gac-rds-external-readonly-preprod.cnsnews.com
 gac-rds-external-readonly-preprod.twitchy.com
+gac-rds-external-readonly.cnsnews.com
 gadabout.wn.com
 gadgets.talkstreamlive.com
 gaf.news
@@ -11752,6 +11908,7 @@ gallup.wn.com
 galore123.myctfo.com
 game.childrenshealthdefense.org
 gameoncanada.org
+games.dailycaller.com
 gamp.christianpost.com
 gangstalkingmindcontrolcults.com
 gaoba7fruits.myctfo.com
@@ -11804,6 +11961,8 @@ gcncalif4.gcnlive.com
 gcncalif5.gcnlive.com
 gcnlive.com
 gcnplayer.gcnlive.com
+gcom-product-find-dev.cnsnews.com
+gcom-product-find-qa.cnsnews.com
 gcom-product-find-qa.twitchy.com
 gcrn.org.uk
 gcs.tm.org
@@ -11814,6 +11973,7 @@ gd.elearning.iaomt.org
 gd.iaomt.org
 gd.wn.com
 gdfwellness.myctfo.com
+gdjunxh.thcfinder.com
 gdp.ch
 gdstrobel.metagenics.com
 gdv-epckirlian.com
@@ -11821,6 +11981,7 @@ gdvcamera.com
 gdvplanet.com
 gdx.net
 ge.shinebrightnow.com
+gear.lodosdispensary.com
 gear.news
 gecko.wn.com
 geertvandenbossche.org
@@ -11978,8 +12139,11 @@ girlbossesrock.myctfo.com
 gis.blog.ryerson.ca
 git.choq.com
 git.christianpost.com
+git.cnsnews.com
+git.dailycaller.com
 git.medicinal-foods.com
 gitlab.charismamedia.com
+gitlab.cnsnews.com
 gitlab.eskimo.com
 gitlab.rt.com
 gitlab.twitchy.com
@@ -12082,6 +12246,7 @@ go.breatheology.com
 go.byoblu.com
 go.californiaparentalliance.org
 go.childrenshealthdefense.org
+go.cnsnews.com
 go.collective-evolution.com
 go.cornwallalliance.org
 go.daily.thepostmillennial.com
@@ -12356,6 +12521,7 @@ gumshoenews.com
 guncontrol.fetch.news
 gundam25.myctfo.com
 gundrymd.com
+guns.dailycaller.com
 guns.news
 guns.sweetliberty.org
 gunsinthenews.com
@@ -12368,11 +12534,18 @@ guyboulianne.com
 guygin.substack.com
 gv101.svr.designsforhealth.com
 gval.com
+gw.cnsnews.com
 gw.daystar.com
 gw.g2sacraments.org
 gw2.childrenshealthdefense.org
+gws-api-sandbox.cnsnews.com
+gws-dev.cnsnews.com
 gws-frontend.tm.org
+gws-qa.cnsnews.com
 gws-qa.twitchy.com
+gws-rds-external-readonly-uat.cnsnews.com
+gws-uat.cnsnews.com
+gws.cnsnews.com
 gwynethpaltrow.com
 gyogyuljunktermeszetesen.buteyko.hu
 gzabrecky.metagenics.com
@@ -12709,6 +12882,7 @@ healthy-action.com
 healthy-holistic-living.com
 healthy-skeptic.com
 healthy-vegetable-gardening.com
+healthy-vibes.com
 healthy.net
 healthy18.myctfo.com
 healthy365days.com
@@ -12851,6 +13025,7 @@ hellohomestead.com
 help.abovetopsecret.com
 help.caravantomidnight.com
 help.clayandbuck.com
+help.cnsnews.com
 help.designsforhealth.com
 help.dogcancerblog.com
 help.dollarvigilante.com
@@ -12941,6 +13116,7 @@ herbs.news
 herbs4nerves.myctfo.com
 herbschool.urbanmoonshine.com
 here.mmh.com.au
+here.www.thcfinder.com
 hereisyours.myctfo.com
 heritage.azurestandard.com
 heritagewheyprotein.healthrangerstore.com
@@ -13105,6 +13281,7 @@ holzewellness.com
 hombiz.myctfo.com
 home-clone.solari.com
 home.childrenshealthdefense.org
+home.cnsnews.com
 home.frankspeech.com
 home.ricochet.com
 home.solari.com
@@ -13118,6 +13295,7 @@ homegardening.news
 homegardeningnews.com
 homegrowncash.myctfo.com
 homeland.sweetliberty.org
+homemakermama.drbenkim.com
 homeo-pathic.esy.es
 homeomart.com
 homeopathicdirectory.com
@@ -13168,6 +13346,8 @@ hopp.myctfo.com
 hopt.ehealthpro.com
 horace.wn.com
 horeb.healthleadsuk.com
+horizon-dev.dailycaller.com
+horizon.dailycaller.com
 horizon.pukkaherbs.com
 horizonfamily.metagenics.com
 horizons.metagenics.com
@@ -13185,6 +13365,7 @@ host.catholicism.org
 host.childrenshealthdefense.org
 host.choq.com
 host.clarkcountytoday.com
+host.cnsnews.com
 host.commonsensehome.com
 host.covidvaccineinjuries.com
 host.doctormurray.com
@@ -13526,6 +13707,7 @@ hostmaster.atem-gesundheit.ch
 hostmaster.autismtrust.org.uk
 hostmaster.canceractive.com
 hostmaster.citizensforhealthcarefreedom.org
+hostmaster.cnsnews.com
 hostmaster.conspiracyarchive.com
 hostmaster.corona-ausschuss.de
 hostmaster.cozy.tv
@@ -13592,6 +13774,7 @@ hostmaster.www.mmsforhispaniola.com
 hostmaster.www.organicandhealthy.org
 hostmaster.your-mp.com
 hostmaster.yournews.com
+hotair.com
 hotel-ds.com
 hotels.childrenshealthdefense.org
 hotepjesus.com
@@ -13645,8 +13828,12 @@ htdig.www.bilderberg.org
 hthn.davidlynchfoundation.org
 htk.kliinik32.ee
 htmly.mettazetty.com
+htp.thcfinder.com
+http-www.thcfinder.com
 http.lawofone.info
+httpbin.cnsnews.com
 httpswww.veteranstoday.com
+htwww.michellemalkin.com
 hu.cchr.org
 hu.elearning.iaomt.org
 hu.iaomt.org
@@ -13726,6 +13913,7 @@ i3.maryruthorganics.com
 i3publications.substack.com
 iabdm.org
 iahf.com
+iam.cnsnews.com
 iam.twitchy.com
 iamamalaysian.com
 iamcallingyounow.blogspot.com
@@ -13774,6 +13962,7 @@ ictmjc.com
 icwaadvocacy.org
 id.ads.asiatatler.com
 id.asiatatler.com
+id.cnsnews.com
 id.dining.asiatatler.com
 id.elearning.iaomt.org
 id.iaomt.org
@@ -13860,7 +14049,9 @@ images.abovetopsecret.com
 images.boldsky.com
 images.charismapodcastnetwork.com
 images.childrenshealthdefense.org
+images.cnsnews.com
 images.cookforyourlife.org
+images.dailycaller.com
 images.elephantjournal.com
 images.emersonecologics.com
 images.hpathy.com
@@ -13877,11 +14068,13 @@ images.wn.com
 images3.choq.com
 images6.childrenshealthdefense.org
 imap.centermatter.com
+imap.cnsnews.com
 imap.iherb.com
 imap.integrativenutrition.com
 imap.kla.tv
 imap.nccn.net
 imap.pensarcovid.com
+imap.thcfinder.com
 imap.visiontimes.com
 imap4.nccn.net
 imchat.indiamart.com
@@ -13895,6 +14088,7 @@ img.agoravox.fr
 img.arabic.sputniknews.com
 img.br.sputniknews.com
 img.childrenshealthdefense.org
+img.cnsnews.com
 img.de.sputniknews.com
 img.elephantjournal.com
 img.ezinearticles.com
@@ -13956,6 +14150,7 @@ in5devents.in5d.com
 in5dtv.in5d.com
 in8wc.metagenics.com
 inap.voxxlife.com
+inbound.cnsnews.com
 inbound.twitchy.com
 inbound.wnd.com
 incidents.brighteon.com
@@ -13998,6 +14193,7 @@ info-staging2.publicsq.com
 info.acchs.edu
 info.bitchute.com
 info.cellmedicine.com
+info.cnsnews.com
 info.designsforhealth.com
 info.gdx.net
 info.immunitytherapycenter.com
@@ -14091,6 +14287,7 @@ insearchofliberty.com
 insiders.turleytalks.com
 insidersclub.tommytruthful.com
 insidersclub.turleytalks.com
+insidetheyankees.drbenkim.com
 insight.energymuse.com
 insight.vermontcountrystore.com
 insight2health.ehealthpro.com
@@ -14209,6 +14406,7 @@ iowaclimate.org
 iowansforinformedconsent.com
 iowansforresponsibletech.org
 ip.breitbart.com
+ip.cnsnews.com
 ip.naturalnews.com
 ip5.clearskymedical.com
 ipak-edu.org
@@ -14232,6 +14430,7 @@ iptw.ehealthpro.com
 ipv6.buteykoairways.com.au
 ipv6.buteykohealth.com.au
 ipv6.childrenshealthdefense.org
+ipv6.cnsnews.com
 ipv6.cpld.nl
 ipv6.gbnews.uk
 ipv6.gerson.org
@@ -14643,8 +14842,10 @@ joanna-puciata.healthcoach1.integrativenutrition.com
 joanne-rafalo.healthcoach1.integrativenutrition.com
 joannenova.com.au
 job.childrenshealthdefense.org
+job.cnsnews.com
 job.twitchy.com
 jobs.1mg.com
+jobs.cnsnews.com
 jobs.publicsq.com
 jobs.sevencells.com
 jobs.wozinga.com
@@ -14859,6 +15060,7 @@ jyousef.metagenics.com
 jzomnir.metagenics.com
 k.loopbiz.com
 k8s.childrenshealthdefense.org
+k8s.cnsnews.com
 k94ever.myctfo.com
 ka.elearning.iaomt.org
 ka.iaomt.org
@@ -15114,7 +15316,9 @@ knightstemplarorder.com
 knowabouthealth.com
 knowewell.com
 knowingthetruth.com
+knowledge.cnsnews.com
 knowledge.whatfinger.com
+knowledgemanagement.cnsnews.com
 knowoneselfperfectly.wordpress.com
 knowyourrightsgroup.com.au
 knoxvilleoffer.thewellnessway.com
@@ -15169,15 +15373,25 @@ kristinkirk.com
 kristinstarks.healthcoach.integrativenutrition.com
 kristy-rao.healthcoach1.integrativenutrition.com
 krosser.metagenics.com
+ks-inventory-api.cnsnews.com
 ks-inventory-api.twitchy.com
+ks-invoice-api.cnsnews.com
 ks-invoice-api.twitchy.com
+ks-limits-api.cnsnews.com
 ks-limits-api.twitchy.com
+ks-order-api.cnsnews.com
 ks-order-api.twitchy.com
+ks-program-api.cnsnews.com
 ks-program-api.twitchy.com
+ks-vendingtransactions-mq0.cnsnews.com
 ks-vendingtransactions-mq0.twitchy.com
+ks-vendingtransactions-mq1.cnsnews.com
 ks-vendingtransactions-mq1.twitchy.com
+ks-vendingtransactions-mq2.cnsnews.com
 ks-vendingtransactions-mq2.twitchy.com
+ks-vendingtransactions-mq3.cnsnews.com
 ks-vendingtransactions-mq3.twitchy.com
+ks-vendingtransactions-mq4.cnsnews.com
 ks-vendingtransactions-mq4.twitchy.com
 ks.childrenshealthdefense.org
 ksayles.myctfo.com
@@ -15201,6 +15415,7 @@ ku.iaomt.org
 ku251.customerhub.net
 kuadracs.com
 kubernetes.choq.com
+kubernetes.cnsnews.com
 kudos.metagenics.com
 kuikealoha.thegoodinside.com
 kundi.myctfo.com
@@ -15332,6 +15547,7 @@ lawrencemorra.com
 lawyers.norml.org
 lawyers4truth.ca
 lawyersforliberty.uk
+laxekkt.thcfinder.com
 lb.childrenshealthdefense.org
 lb.elearning.iaomt.org
 lb.iaomt.org
@@ -15427,6 +15643,7 @@ legacy.mercola.com
 legacy.terrypatten.com
 legacy.ttfuture.org
 legacy.worldviewweekend.com
+legacyadmin.nativeremedies.com
 legacyclinic.ehealthpro.com
 legacyrx.metagenics.com
 legal.brighteon.com
@@ -15502,6 +15719,7 @@ lharter.metagenics.com
 lhomic.metagenics.com
 lhouser.metagenics.com
 li.bizpacreview.com
+li.dailycaller.com
 liaison.yo1.com
 libbysyounglivingessentialoils.ylsocial.net
 liberalmob.com
@@ -15656,6 +15874,7 @@ link.atune.com.au
 link.breitbart.com
 link.buteykoclinic.com
 link.conservativereview.com
+link.dailycaller.com
 link.entdoctor.com.tw
 link.freedomsquare.com
 link.gaiaherbs.com
@@ -15667,6 +15886,7 @@ link.sevencells.com
 link.theepochtimes.com
 link.therealanthonyfaucimovie.com
 link.vaxxchoice.com
+link.y.nativeremedies.com
 links.acbc.ie
 links.choq.com
 links.iherb.com
@@ -15720,6 +15940,7 @@ listenandcare.com
 listeninghand.myctfo.com
 listmonk.grimerica.ca
 lists.alipac.us
+lists.cnsnews.com
 lists.ezinearticles.com
 lists.infowars.com
 lists.mindfreedom.org
@@ -15800,6 +16021,7 @@ livestream.churchmilitant.com
 livestream.doterra.com
 livestreamers.myctfo.com
 livetest.lage-roy.de
+liveupdate.cnsnews.com
 liveupdate.twitchy.com
 livewell.thegoodinside.com
 livewellaps.com
@@ -15875,6 +16097,8 @@ localhost.ahealedplanet.net
 localhost.anoasisofhealing.com
 localhost.boironusa.com
 localhost.breitbart.com
+localhost.cnsnews.com
+localhost.drbenkim.com
 localhost.drhoffman.com
 localhost.flybynews.com
 localhost.freemantv.com
@@ -15905,12 +16129,14 @@ lockdownsceptics.org
 locofoco.net
 locust.us-east-2.stcf.infowars.com
 locust.us-west-2.stcf.infowars.com
+lodosdispensary.com
 loftcoin.net
 log.indiamart.com
 log.logisticsmonster.com
 logan.edu
 login.afa.net
 login.aulterra.com
+login.cnsnews.com
 login.doterra.com
 login.happyhippo.com
 login.indiamart.com
@@ -15918,6 +16144,7 @@ login.integrativenutrition.com
 login.liberoapp.it-servizi-online0481328.cureamd.org
 login.liberoapp.it-servizi-online0481329.cureamd.org
 login.mercola.com
+login.nativeremedies.com
 login.wn.com
 logistics.indiamart.com
 logisticsmonster.com
@@ -16105,6 +16332,7 @@ m.boldsky.com
 m.canceractive.com
 m.catalog.designsforhealth.com
 m.closys.com
+m.cnsnews.com
 m.conspiracy-cafe.com
 m.dev.journal-neo.org
 m.disclose.tv
@@ -16114,6 +16342,7 @@ m.duluthreader.com
 m.emails.lifeextension.com
 m.emersonecologics.com
 m.emfservices.com
+m.foodnews.org
 m.fr24news.com
 m.freedomclubusa.org
 m.handofhelp.com
@@ -16125,6 +16354,7 @@ m.lymebook.com
 m.metrotimes.com
 m.myoworks.net
 m.nakedcapitalism.com
+m.nativeremedies.com
 m.naturalnews.com
 m.newsblaze.com
 m.nocodexgenocide.com
@@ -16519,6 +16749,7 @@ mail.cloud.aosis.co.za
 mail.cloudstrust.org
 mail.cloudvpsserver.host.patientadvocatebulldog.com
 mail.cnbsnews.live
+mail.cnsnews.com
 mail.coachdavelive.com
 mail.coem.com
 mail.cogforlife.org
@@ -16585,6 +16816,7 @@ mail.curenaturalicancro.com
 mail.curezone.org
 mail.cuttingedge.org
 mail.dadamo.com
+mail.dailycaller.com
 mail.dailytelegraph.co.nz
 mail.dailytruthreport.com
 mail.dakotabeacon.com
@@ -16639,6 +16871,7 @@ mail.doctors4covidethics.org
 mail.doctorsopposingcircumcision.org
 mail.dollarcollapse.com
 mail.dolorescannon.com
+mail.drbenkim.com
 mail.drberg.com
 mail.drchristianson.com
 mail.drclark.info
@@ -17088,6 +17321,7 @@ mail.mail.www.drjosephmercola.com
 mail.malcolmrobertsqld.com.au
 mail.mamathrivevillage.com
 mail.mantis.aosis.co.za
+mail.marijuanagames.org
 mail.marinfreedomrising.com
 mail.marketing.aosis.co.za
 mail.marketplace2.healthmeans.com
@@ -17214,6 +17448,7 @@ mail.notonthebeeb.co.uk
 mail.novaccine.com
 mail.nowhere.news
 mail.npswsilver.com
+mail.ns.drbenkim.com
 mail.ntd.com
 mail.nuhs.edu
 mail.nutri.com
@@ -17510,6 +17745,7 @@ mail.tfipost.com
 mail.tfmnd.com
 mail.thatmillennialmama.com
 mail.thatvitaminmovie.com
+mail.thcfinder.com
 mail.the-heal-yourself-series.com
 mail.the17news.com
 mail.thealterofdeceit.net
@@ -17564,6 +17800,7 @@ mail.thepeopleschemist.com
 mail.thepmc.org
 mail.thepowershift.ca
 mail.thepsychologyofcancer.com
+mail.thescariestmovieever.tv
 mail.thesearethefacts.net
 mail.thesfnews.com
 mail.thesilveredge.com
@@ -17694,6 +17931,7 @@ mail.whale.to
 mail.whatfinger.com
 mail.whatislyme.com
 mail.whiteoutpress.com
+mail.whoiskjozborne.com
 mail.wholenewmom.com
 mail.whynotnews.eu
 mail.wickedtruths.org
@@ -17710,6 +17948,7 @@ mail.wisehomelife.org
 mail.wiseways.com
 mail.witchvox.com
 mail.wonnation.ca
+mail.woolstangray.eu
 mail.wordsalad.info
 mail.workersofengland.co.uk
 mail.workersofwales.org
@@ -17746,9 +17985,12 @@ mail1.a4m.com
 mail1.alsearsmd.com
 mail1.childrenshealthdefense.org
 mail1.choq.com
+mail1.cnsnews.com
+mail1.dailycaller.com
 mail1.e.elephantjournal.com
 mail1.e.westernjournal.com
 mail1.em.bongino.com
+mail1.email.dailycaller.com
 mail1.emr.power2practice.com
 mail1.heel.com
 mail1.herbalife.com
@@ -17776,11 +18018,14 @@ mail2.ccnm.edu
 mail2.childrenshealthdefense.org
 mail2.chopra.com
 mail2.clinixusa.com
+mail2.cnsnews.com
+mail2.dailycaller.com
 mail2.dailyreckoning.com
 mail2.daystar.com
 mail2.e.elephantjournal.com
 mail2.e.westernjournal.com
 mail2.em.bongino.com
+mail2.email.dailycaller.com
 mail2.gardenoflife.com
 mail2.globalmicrowave.org
 mail2.grantadental.co.uk
@@ -17810,15 +18055,18 @@ mail3.dailyreckoning.com
 mail3.daystar.com
 mail3.e.elephantjournal.com
 mail3.e.westernjournal.com
+mail3.email.dailycaller.com
 mail3.mail.wnd.com
 mail3.newsletters.wnd.com
 mail4.daystar.com
 mail4.e.elephantjournal.com
 mail4.e.westernjournal.com
+mail4.email.dailycaller.com
 mail4.inhresearch.com
 mail4.mail.wnd.com
 mail4.newsletters.wnd.com
 mail5.childrenshealthdefense.org
+mail5.email.dailycaller.com
 mail5.mail.wnd.com
 mail6.mail.wnd.com
 mail6324.e3.kcm.org
@@ -17868,6 +18116,7 @@ mailsecbe.email.theblaze.com
 mailserv.jbs.org
 mailserv2.jbs.org
 mailserver.benosey.com
+mailserver.cnsnews.com
 mailserver.lsfo.co.uk
 mailserver.nicholasveniamin.com
 mailserver.orthotropics.co.uk
@@ -17979,6 +18228,7 @@ marieplawski.metagenics.com
 mariesa3.thegoodinside.com
 mariinsky.rt.com
 marijuana.drugwarrant.com
+marijuanagames.org
 marijuanawellness.myctfo.com
 marikosmos.com
 marinadelrey.ehlinelaw.com
@@ -18173,6 +18423,7 @@ mdello.metagenics.com
 mdillon.metagenics.com
 mdimmunespray.com
 mdm.childrenshealthdefense.org
+mdm.cnsnews.com
 mdm.heel.com
 mdm.twitchy.com
 mdmouthspray.com
@@ -18200,6 +18451,7 @@ media.bittensaddiction.com
 media.breitbart.com
 media.chatdit.com
 media.chelseagreen.com
+media.cnsnews.com
 media.commonlawcourt.com
 media.doctoroz.com
 media.doterra.com
@@ -18209,6 +18461,7 @@ media.gettr.com
 media.globalhealingcenter.com
 media.governamerica.com
 media.gundrymd.com
+media.hotair.com
 media.infowars.com
 media.infowarsstore.com
 media.integrativenutrition.com
@@ -18217,6 +18470,7 @@ media.levasockerfri.se
 media.lewrockwell.com
 media.mercola.com
 media.mercola.com.cdn.cloudflare.net
+media.michellemalkin.com
 media.mises.org
 media.mmh.com.au
 media.mypillow.com
@@ -18242,6 +18496,7 @@ media.worldviewweekend.com
 media1.freewestmedia.com
 media2.chatdit.com
 media2.freewestmedia.com
+media2.hotair.com
 media2.mercola.com
 media2.mercola.com.cdn.cloudflare.net
 media4trade.indiamart.com
@@ -18380,6 +18635,7 @@ members.riddham.com
 members.summitlighthouse.org
 members.tenthamendmentcenter.com
 members.thatvitaminmovie.com
+members.thcfinder.com
 members.theanswertocancer.com
 members.thenhf.com
 members.thriveglobal.com
@@ -18413,6 +18669,7 @@ mercedesmarie420.myctfo.com
 merch.nicholasjfuentes.com
 merch.toddstarnes.com
 merch.washingtontimes.com
+merchandising-preview.cnsnews.com
 merchantjohn.myctfo.com
 mercola.com
 mercola.org
@@ -18497,6 +18754,7 @@ mi.globalhealingcenter.com
 mi.iaomt.org
 mi.integrativenutrition.com
 mi.metagenics.com
+mi.thcfinder.com
 mi.wozinga.com
 miaelton.healthcoach.integrativenutrition.com
 miamail.emersonecologics.com
@@ -18539,6 +18797,7 @@ michellehdonaldson.healthcoach1.integrativenutrition.com
 michellehyde.myctfo.com
 michelleiankowitz.com
 michellelake.myctfo.com
+michellemalkin.com
 michellemendozamd.metagenics.com
 michi51971.myctfo.com
 michigan.tenthamendmentcenter.com
@@ -18726,6 +18985,7 @@ mkrychman.metagenics.com
 mkt.s.designsforhealth.com
 mktg.ecoparent.ca
 mktgirl.myctfo.com
+ml.cnsnews.com
 ml.elearning.iaomt.org
 ml.iaomt.org
 ml.twitchy.com
@@ -18795,9 +19055,11 @@ mo.asiatatler.com
 mo.childrenshealthdefense.org
 mo.iherb.com
 mobil.choq.com
+mobile-rest.cnsnews.com
 mobile.agoravox.fr
 mobile.autismone.org
 mobile.childrenshealthdefense.org
+mobile.cnsnews.com
 mobile.freedomslips.com
 mobile.handofhelp.com
 mobile.i.agoravox.fr
@@ -18807,6 +19069,7 @@ mobile.nationallibertyalliance.org
 mobile.naturalnews.com
 mobile.precisionnutrition.com
 mobile.resultsrna.com
+mobile.thcfinder.com
 mobile.twitchy.com
 mobile.veritasradio.com
 mobile.washingtontimes.com
@@ -18850,6 +19113,8 @@ mondialisation.ca
 money.wn.com
 money4u.myctfo.com
 moneypenny.precisionnutrition.com
+mongo.cnsnews.com
+mongodb.cnsnews.com
 mongodb.twitchy.com
 monica-delgado.healthcoach.integrativenutrition.com
 monica-zielke-cullinane.healthcoach.integrativenutrition.com
@@ -19003,6 +19268,7 @@ mta-sts.alamongordo.com
 mta-sts.assis.it
 mta-sts.atem-gesundheit.ch
 mta-sts.butejko.pl
+mta-sts.cnsnews.com
 mta-sts.dakowski.pl
 mta-sts.doomandbloom.net
 mta-sts.drthindhomeopathy.com
@@ -19039,6 +19305,7 @@ mta-sts.mail.thenaturalmedicinelibrary.com
 mta-sts.mail.thesourcethailand.com
 mta-sts.mail.tnm.me
 mta-sts.mail.whale.to
+mta-sts.nativeremedies.com
 mta-sts.publicsq.com
 mta-sts.sashamoreno.com
 mta-sts.scienceoflife.nl
@@ -19184,6 +19451,7 @@ mx.cchr.org
 mx.centerforhomeopathy.com
 mx.childrenshealthdefense.org
 mx.christianissues.com
+mx.cnsnews.com
 mx.comilva.org
 mx.corvelva.org
 mx.delingpoleworld.com
@@ -19262,11 +19530,13 @@ mx.yourrightsandfreedom.com
 mx0.breathingwell.net.au
 mx0.childrenshealthdefense.org
 mx0.mcs-global.org
+mx01.cnsnews.com
 mx01.twitchy.com
 mx01.visiontimes.com
 mx02.g2sacraments.org
 mx1.breathingwell.net.au
 mx1.childrenshealthdefense.org
+mx1.cnsnews.com
 mx1.daily.theepochtimes.com
 mx1.doctoroz.com
 mx1.email.theblaze.com
@@ -19284,6 +19554,7 @@ mx1.reclaimingrhodesia.com
 mx1.saluteglobale.com
 mx1.sarniafreedomalliance.org
 mx1.twitchy.com
+mx2.cnsnews.com
 mx2.daily.theepochtimes.com
 mx2.doctoroz.com
 mx2.email.theblaze.com
@@ -19340,6 +19611,7 @@ my5gblocker.com
 my7too.myctfo.com
 myamazinglight.ehealthpro.com
 myanthemhealth.metagenics.com
+myap.nativeremedies.com
 myapschoice.ca
 myasealive.com
 myavogel.avogel.co.uk
@@ -19434,6 +19706,7 @@ myriamlluriasitterson.healthcoach.integrativenutrition.com
 myrnamartin.net
 myscgop.com
 mysql.breaking911.com
+mysql.cnsnews.com
 mysql.freedomslips.com
 mysql.nationalvanguard.org
 mysql.twitchy.com
@@ -19554,6 +19827,7 @@ nationandstate.com
 nationfirst.substack.com
 nativeamericancivilrights.reikiranch.net
 nativehempsolutions.naturalnews.com
+nativeremedies.com
 natmedhotline-org.brightmedicineclinic.com
 natmedhotline.brightmedicineclinic.com
 natmedtalk.com
@@ -19657,6 +19931,7 @@ naturalsciencemedicine.com
 naturalselections.substack.com
 naturalsociety.com
 naturalsolutionsmag.com
+naturalstatenews.com
 naturalvitamincfromamlafruit.healthrangerstore.com
 naturalvitamincfromamlafruit.naturalnews.com
 naturalwe.nuturna.com
@@ -19798,6 +20073,13 @@ new.buteyko.hu
 new.calimedwellness.com
 new.childrenshealthdefense.org
 new.clayandiron.com
+new.cnsnews.com
+new.content-01.thcfinder.com
+new.content-02.thcfinder.com
+new.content-03.thcfinder.com
+new.content-04.thcfinder.com
+new.content-05.thcfinder.com
+new.content-06.thcfinder.com
 new.covfefebakery.com
 new.cozy.tv
 new.crwdview.com
@@ -19808,6 +20090,7 @@ new.elle.com
 new.energeticnutrition.com
 new.finalcall.com
 new.foodforthebrain.org
+new.foodnews.org
 new.frc.org
 new.freedomain.com
 new.freedomforceinternational.org
@@ -19832,6 +20115,7 @@ new.selfhacked.com
 new.shemanenugent.rocks
 new.shopfreemart.com
 new.taylormarshall.com
+new.thcfinder.com
 new.theanp.co.uk
 new.thecbdistillery.com
 new.thegatewaypundit.com
@@ -19895,6 +20179,7 @@ news.abovetopsecret.com
 news.autismone.org
 news.bizpacreview.com
 news.chicksonright.com
+news.cnsnews.com
 news.dailyangle.com
 news.ehlinelaw.com
 news.finalcall.com
@@ -20009,7 +20294,10 @@ nfam.org
 nfh.ca
 nfhus.nfh.ca
 ngallagher.metagenics.com
+nginx-newest.cnsnews.com
+nginx-newest1.cnsnews.com
 nginx-newest1.twitchy.com
+nginx.cnsnews.com
 ngrose.metagenics.com
 nguoiphuongnam52.blogspot.com
 nh.childrenshealthdefense.org
@@ -20130,6 +20418,8 @@ node6.theepochtimes.com
 node7.theepochtimes.com
 node8.theepochtimes.com
 nodeception.org
+nodejs-dev.cnsnews.com
+nodejs.cnsnews.com
 noe-cd-mailcatcher.precisionnutrition.com
 noe-cd.precisionnutrition.com
 noe-mobile-api.precisionnutrition.com
@@ -20166,6 +20456,7 @@ nomoreweight.myctfo.com
 nomp1.boiron.fr
 nomp9.boiron.fr
 nomr9.boiron.fr
+non-prod.cnsnews.com
 non-prod.twitchy.com
 nonconventialthinker.blogspot.com
 nondairymilkalternatives.healthrangerstore.com
@@ -20251,6 +20542,8 @@ npm.charismamedia.com
 npr.news
 npswsilver.com
 nrnplus.com
+ns.cnsnews.com
+ns.drbenkim.com
 ns.lifewavex39.com
 ns.lymenet.org
 ns.mail.medworm.com
@@ -20258,6 +20551,7 @@ ns.naturalpetcarecenter.net
 ns.nmrm.org
 ns.ontariofraud.org
 ns.pomerancedentalcare.com
+ns.rackspace.com.michellemalkin.com
 ns.silvermedicine.org
 ns.theconnectionagourahills.com
 ns.westlakedentalarts.com
@@ -20288,6 +20582,7 @@ ns1.breastcancerconqueror.com
 ns1.breatheology.com
 ns1.childrenshealthdefense.org
 ns1.clarkcountytoday.com
+ns1.cnsnews.com
 ns1.csnn.ca
 ns1.defendingtherepublic.org
 ns1.designsforhealth.com
@@ -20427,11 +20722,13 @@ ns2.breastcancerconqueror.com
 ns2.breatheology.com
 ns2.childrenshealthdefense.org
 ns2.clarkcountytoday.com
+ns2.cnsnews.com
 ns2.csnn.ca
 ns2.defendingtherepublic.org
 ns2.designsforhealth.com
 ns2.dev.quantumtouch.com
 ns2.dogsnaturallymagazine.com
+ns2.drbenkim.com
 ns2.drcarolehhaynes.com
 ns2.drgundry.com
 ns2.drrachael.com
@@ -20549,6 +20846,7 @@ ns2551.desperadocouture.com
 ns2552.desperadocouture.com
 ns3.blissfulvisions.com
 ns3.childrenshealthdefense.org
+ns3.cnsnews.com
 ns3.designsforhealth.com
 ns3.eskimo.com
 ns3.freedomsphoenix.com
@@ -20568,6 +20866,7 @@ ns3.sputniknews.com
 ns3.twitchy.com
 ns3.vermontcountrystore.com
 ns3.youngliving.com
+ns4.cnsnews.com
 ns4.designsforhealth.com
 ns4.eskimo.com
 ns4.fullmeasure.news
@@ -20671,6 +20970,7 @@ nworeport.me
 nwotoday.com
 nwovid.abovetopsecret.com
 nwvstore.com
+nwww.cnsnews.com
 nxlifeenterprise.myctfo.com
 ny.childrenshealthdefense.org
 ny.elearning.iaomt.org
@@ -20694,6 +20994,7 @@ nz.tm.org
 nzcpr.com
 nzt48pills.net
 o.ukcolumn.org
+o1.bt.dailycaller.com
 o1.em.rxisk.org
 o1.emai.foundmyfitness.com
 o1.email.childrenshealthdefense.org
@@ -20827,6 +21128,7 @@ offgrid.news
 offgridsurvival.com
 office.aier.org
 office.carenotcuts.ca
+office.cnsnews.com
 office.drweil.com
 office.goop.com
 office.ifapray.org
@@ -20880,6 +21182,7 @@ oilythingsessential.ylsocial.net
 okcarchives.libertarianinstitute.org
 okhpr.com
 oklahoma.tenthamendmentcenter.com
+okta.cnsnews.com
 okta.twitchy.com
 okto.designsforhealth.com
 ola.frontlinemds.com
@@ -20896,6 +21199,7 @@ old.cehn.org
 old.cellmedicine.com
 old.charismanews.com
 old.chekinstitute.com
+old.cnsnews.com
 old.consciousbreathing.com
 old.conservativereview.com
 old.darkoutpost.com
@@ -21115,6 +21419,7 @@ orderemail.iherb.com
 orderform.thegoodinside.com
 orderoptimumpmr.ehealthpro.com
 orders.allianceforadvancedhealth.com
+orders.cnsnews.com
 orders.doctorshealthpress.com
 orders.inhresearch.com
 orders.naturalfactors.com
@@ -21356,6 +21661,7 @@ osteo.livingcentreclinic.com
 osteodoc.metagenics.com
 osteopathy.breathingexpert.com
 osteoporosis.mercola.com
+otlaydev.thcfinder.com
 ottawacountypatriots.org
 ottawauniteforfreedom.com
 ottesentherapies.com
@@ -21399,6 +21705,7 @@ outbound57.renewedright.com
 outbound58.renewedright.com
 outbreak.news
 outkick.com
+outlook.cnsnews.com
 outlook.daystar.com
 outlook.fsrikuwait.org
 outlook.healthydirections.com
@@ -21418,6 +21725,7 @@ overlords.news
 ovitaminpro.ehealthpro.com
 ovniufo.myctfo.com
 owa.ccnm.edu
+owa.cnsnews.com
 owa.daystar.com
 owa.doterra.com
 owa.gdx.net
@@ -21559,6 +21867,7 @@ parkoffletter.org
 parkoffletter.parkoffletter.org
 part2.isawthelightministries.com
 partner.daystar.com
+partner.nativeremedies.com
 partner.thegoodinside.com
 partners.1mg.com
 partners.boironusa.com
@@ -21791,6 +22100,7 @@ perth.consciouslivingexpo.com.au
 perthhomeopath.com
 pesticide.news
 pesticides.news
+petalive.nativeremedies.com
 peteevans.com
 peteevans.thegoodinside.com
 peter.frc.org
@@ -22132,6 +22442,7 @@ pop.capability.aosis.co.za
 pop.centermatter.com
 pop.chekinstitute.com
 pop.cloud.aosis.co.za
+pop.cnsnews.com
 pop.crimesagainsthumanitytour.com
 pop.crm.aosis.co.za
 pop.design.aosis.co.za
@@ -22162,6 +22473,7 @@ pop.publishingtraining.aosis.co.za
 pop.revive.aosis.co.za
 pop.rightwing.org
 pop.secure.aosis.co.za
+pop.thcfinder.com
 pop.timetracker.aosis.co.za
 pop.visiontimes.com
 pop.warehouse.aosis.co.za
@@ -22170,6 +22482,7 @@ pop.wn.com
 pop.wp.aosis.co.za
 pop.www.events.aosis.co.za
 pop3.caravantomidnight.com
+pop3.cnsnews.com
 pop3.goodgopher.com
 pop3.nccn.net
 pop3.pensarcovid.com
@@ -22185,6 +22498,7 @@ portal.alignlife.com
 portal.alsearsmd.com
 portal.ayurvedanama.org
 portal.childrenshealthdefense.org
+portal.cnsnews.com
 portal.designsforhealth.com
 portal.drpaulapproved.com
 portal.egelywheel.net
@@ -22217,6 +22531,7 @@ postkast.ortodontia.ee
 postkast2.ortodontia.ee
 postmail.thehealthsite.com
 postman.catholicfamilynews.com
+postmaster.cnsnews.com
 postsustainabilityinstitute.org
 potency.hpathy.com
 potenthealth.healthcoach1.integrativenutrition.com
@@ -22258,14 +22573,17 @@ prayerline.firepowerministry.org
 prayformychild.org
 prayingmantis.substack.com
 prd.freedomsquare.com
+pre-prod.cnsnews.com
 pre-prod.twitchy.com
 pre.afapledge.afa.net
+pre.cnsnews.com
 pre.ortodontia.ee
 pre.twitchy.com
 precious8.myctfo.com
 preciousorganics.com.au
 precisiondistributing.com
 precisionnutrition.com
+predator.dailycaller.com
 preferences.nutraingredients-usa.com
 preferredpediatricsofct.com
 prehabing.com
@@ -22299,6 +22617,7 @@ prepforthat.com
 prepperfortress.com
 prepperwebsite.com
 prepperwebsite.topprepperwebsites.com
+preprod.dailycaller.com
 preprod.metagenics.com
 prepschooldaily.blogspot.com
 prescriptiondrugs.news
@@ -22322,6 +22641,7 @@ preventionalzheimer.org
 preventionofdisease.org
 preventionreport.com
 preventionwithivermectin.com
+preview.cnsnews.com
 preview.drhyman.com
 preview.healy.shop
 preview.myoworks.net
@@ -22394,6 +22714,7 @@ prod01.collective-evolution.com
 prod1.noharm.org
 prod2.noharm.org
 prod2.researchednutritionals.com
+produce.www.foodnews.org
 producer.noagendashow.net
 product.precisionnutrition.com
 production.greenpasture.org
@@ -22476,6 +22797,7 @@ providers.hpwwc.org
 proxy-host.childrenshealthdefense.org
 proxy.azurestandard.com
 proxy.childrenshealthdefense.org
+proxy.cnsnews.com
 proxy.worldviewweekend.com
 proxy1.childrenshealthdefense.org
 proxy2.childrenshealthdefense.org
@@ -22519,7 +22841,9 @@ publichealthontario.covfefebakery.com
 publichealthpolicyjournal.com
 publicsq.com
 publishedreporter.com
+publishing-catalog.cnsnews.com
 publishing-catalog.twitchy.com
+publishing-preview.cnsnews.com
 publishingsupport.aosis.co.za
 publishingtraining.aosis.co.za
 pubmedinfo.net
@@ -22625,6 +22949,7 @@ qichamp.com
 qienergy.ai
 qienergytech.com
 qitowellness.metagenics.com
+qkmeqew.thcfinder.com
 qm.news
 qmail-main.frc.org
 qmail1.frc.org
@@ -22636,6 +22961,7 @@ qmail6.frc.org
 qmail7.frc.org
 qnlabs.com
 qplusnews.com
+qqq.thcfinder.com
 qr.a4m.com
 qresear.ch
 qtechinternational.com
@@ -23016,6 +23342,7 @@ remote.avisdds.com
 remote.childrenshealthdefense.org
 remote.clearskymedical.com
 remote.clinixusa.com
+remote.cnsnews.com
 remote.csfmed.net
 remote.docmallory.com
 remote.essentialformulas.com
@@ -23135,6 +23462,7 @@ resultsrnasport.resultsrna.com
 resultsrnastore.resultsrna.com
 resume.g2sacraments.org
 retail.choq.com
+retail.cnsnews.com
 retail.gaiaherbs.com
 retail.twitchy.com
 retailed.boironusa.com
@@ -23278,6 +23606,7 @@ rita-terrell.healthcoach1.integrativenutrition.com
 rittenhouse.metagenics.com
 ritzie920.myctfo.com
 rivercitymalone.com
+riverdalehome.drbenkim.com
 riverside.ehlinelaw.com
 riversidevillage.metagenics.com
 rivoltellaa.ellacruz.org
@@ -23389,6 +23718,7 @@ ronpaulinstitute.org
 rooibos.naturalnews.com
 roojoom.elephantjournal.com
 rooseveltcbdforall.myctfo.com
+root.cnsnews.com
 rootcause.medfoxpub.com
 rootcausemd.substack.com
 rootedinhealth.metagenics.com
@@ -23449,6 +23779,7 @@ rs-stripe.americanwirenews.com
 rs-stripe.bizpacreview.com
 rs-stripe.breitbart.com
 rs-stripe.daily.thepostmillennial.com
+rs-stripe.dailycaller.com
 rs-stripe.easyhealthoptions.com
 rs-stripe.flagandcross.com
 rs-stripe.freedomnewsusa.com
@@ -23478,6 +23809,7 @@ rss.mercola.com
 rss.thepostmillennial.com
 rss.wn.com
 rss3.gcnlive.com
+rsvp.dailycaller.com
 rt.1mg.com
 rt.childrenshealthdefense.org
 rt.com
@@ -23569,6 +23901,7 @@ ryukyu.healthydirections.com
 s.dev.doctoroz.com
 s.doctoroz.com
 s.iherb.com
+s.michellemalkin.com
 s.wearethene.ws
 s.www.shop.shinebrightnow.com
 s1-cam.totalwellnessmedicalcenter.com
@@ -23684,6 +24017,7 @@ sanbernardino.ehlinelaw.com
 sanctuarycities.fetch.news
 sandbox.alsearsmd.com
 sandbox.cehn.org
+sandbox.dailycaller.com
 sandbox.dinarvets.com
 sandbox.freedomslips.com
 sandbox.integrativenutrition.com
@@ -23886,6 +24220,7 @@ search.feingold.org
 search.lifeextension.com
 search.lymenet.org
 search.mercola.com
+search.nativeremedies.com
 search.nsearch.com
 search.summitlighthouse.org
 search.wn.com
@@ -23893,7 +24228,10 @@ search.yournews.com
 searchengine.news
 searchorders.mypatriotsupply.com
 searchpearls.summitlighthouse.org
+searchportal-dev.cnsnews.com
+searchportal-qa.cnsnews.com
 searchportal-qa.twitchy.com
+searchportal.cnsnews.com
 searchportal.twitchy.com
 searfoss.myctfo.com
 seasalt.naturalnews.com
@@ -23930,6 +24268,7 @@ secure.calvarysouthoc.com
 secure.cchr.org
 secure.childrenshealthdefense.org
 secure.choq.com
+secure.cnsnews.com
 secure.davidlynchfoundation.org
 secure.dolorescannon.com
 secure.drleaf.com
@@ -23966,6 +24305,7 @@ secure.s.stage.doctoroz.com
 secure.secondopinionnewsletter.com
 secure.solari.com
 secure.strategene.me
+secure.thcfinder.com
 secure.theenergyblueprint.com
 secure.thegoodinside.com
 secure.thetruthaboutcancer.com
@@ -24000,6 +24340,7 @@ seed07.bitchute.com
 seed08.bitchute.com
 seed10.bitchute.com
 seed101.bitchute.com
+seed102.bitchute.com
 seed103.bitchute.com
 seed104.bitchute.com
 seed105.bitchute.com
@@ -24007,13 +24348,17 @@ seed106.bitchute.com
 seed108.bitchute.com
 seed11.bitchute.com
 seed111.bitchute.com
+seed116.bitchute.com
+seed117.bitchute.com
 seed118.bitchute.com
+seed119.bitchute.com
 seed12.bitchute.com
 seed122.bitchute.com
 seed124.bitchute.com
 seed125.bitchute.com
 seed126.bitchute.com
 seed128.bitchute.com
+seed129.bitchute.com
 seed13.bitchute.com
 seed131.bitchute.com
 seed132.bitchute.com
@@ -24022,6 +24367,7 @@ seed15.bitchute.com
 seed150.bitchute.com
 seed151.bitchute.com
 seed152.bitchute.com
+seed153.bitchute.com
 seed154.bitchute.com
 seed160.bitchute.com
 seed163.bitchute.com
@@ -24038,11 +24384,18 @@ seed25.bitchute.com
 seed26.bitchute.com
 seed27.bitchute.com
 seed28.bitchute.com
+seed304.bitchute.com
 seed305.bitchute.com
 seed306.bitchute.com
 seed307.bitchute.com
 seed31.bitchute.com
 seed32.bitchute.com
+seed41.bitchute.com
+seed52.bitchute.com
+seed63.bitchute.com
+seed71.bitchute.com
+seed77.bitchute.com
+seed91.bitchute.com
 seedp29xb.bitchute.com
 seeds.news
 seedsofdeception.com
@@ -24115,6 +24468,7 @@ server.cancercompassalternateroute.com
 server.canyon-news.com
 server.childrenshealthdefense.org
 server.closys.com
+server.cnsnews.com
 server.contendingfortruth.com
 server.eaec.org
 server.essentialelementsnutrition.com
@@ -24155,6 +24509,7 @@ server.winst.org
 server002.gaiaherbs.com
 server013.gaiaherbs.com
 server1.childrenshealthdefense.org
+server1.cnsnews.com
 server1.dadamo.com
 server1.godlessera.com
 server1.ion.ac.uk
@@ -24333,10 +24688,12 @@ shop.cancerschmancer.org
 shop.cdautism.org
 shop.censored.tv
 shop.chopra.com
+shop.cnsnews.com
 shop.connersclinic.com
 shop.conservativereview.com
 shop.covidvaccineinjuries.com
 shop.cozy.tv
+shop.dailycaller.com
 shop.daystar.com
 shop.designsforhealth.com
 shop.dineshdsouza.com
@@ -24480,6 +24837,7 @@ sickandfat.com
 sidecar.ca.childrenshealthdefense.org
 sierramadrepreciousmetals.drkelley.net
 signaturebiologics.com
+signin.cnsnews.com
 signthehomeopathypetition.com
 signthehomeopathypetition.com.homeopathychoice.org
 signup.acm.frc.org
@@ -24543,6 +24901,7 @@ sinkswimchicago.com
 sinnedgerg.myctfo.com
 sinsthatcrytoheavenforvengeance.com
 sip.breaking911.com
+sip.cnsnews.com
 sip.conservativereview.com
 sip.emersonecologics.com
 sip.external.lambertshealthcare.co.uk
@@ -24650,7 +25009,9 @@ sleepwellnesslynchburg.com
 slender.news
 slexch02.logan.edu
 slexch03.logan.edu
+sli.cnsnews.com
 sli.daily.thepostmillennial.com
+sli.nativeremedies.com
 sli.theepochtimes.com
 slide.wn.com
 slideshow.wn.com
@@ -24658,6 +25019,7 @@ slimlady.thegoodinside.com
 slimwithsly.healthcoach1.integrativenutrition.com
 slm.pukkaherbs.com
 slobodavockovani.sk
+slot-demo.cnsnews.com
 slovak.wn.com
 slovenian.wn.com
 slowtowrite.com
@@ -24719,6 +25081,7 @@ smtp.caravantomidnight.com
 smtp.cchr.org
 smtp.centermatter.com
 smtp.cloud.aosis.co.za
+smtp.cnsnews.com
 smtp.counterthink.com
 smtp.covid-19-nieznane-fakty.pl
 smtp.crimesagainsthumanitytour.com
@@ -24763,6 +25126,7 @@ smtp.revive.aosis.co.za
 smtp.robertscottbell.com
 smtp.secure.aosis.co.za
 smtp.stichtingehs.nl
+smtp.thcfinder.com
 smtp.thehaven.org.uk
 smtp.timetracker.aosis.co.za
 smtp.warehouse.aosis.co.za
@@ -24772,6 +25136,8 @@ smtp.www.events.aosis.co.za
 smtp.youngliving.com
 smtp01.bitchute.com
 smtp01.childrenshealthdefense.org
+smtp02.bitchute.com
+smtp03.bitchute.com
 smtp1.americanfreepress.net
 smtp1.lifepetitions.com
 smtp1.mail.bitchute.com
@@ -25068,14 +25434,18 @@ sscumpia.metagenics.com
 ssd.choq.com
 ssita.powerwatch.org.uk
 ssl.bioticsresearch.com
+ssl.cnsnews.com
 ssl.ezinearticles.com
+ssl.nativeremedies.com
 ssl.twitchy.com
 sslvpn.childrenshealthdefense.org
 sslvpn.choq.com
+sslvpn.cnsnews.com
 sslvpn.metagenics.com
 sslvpn1.metagenics.com
 ssnaturalhealing.com
 sso.childrenshealthdefense.org
+sso.cnsnews.com
 sso.pukkaherbs.com
 sso.qa2a.ws.myherbalife.com
 sso.qa4.ws.myherbalife.com
@@ -25112,6 +25482,7 @@ stage-secure.rokfin.com
 stage.acnem.org
 stage.choq.com
 stage.cms.infra.astroawani.com
+stage.cnsnews.com
 stage.creativedestructionmedia.com
 stage.deagle-network.com
 stage.dev.acnem.org
@@ -25123,6 +25494,7 @@ stage.energymuse.com
 stage.healthfulliving.org
 stage.healy.shop
 stage.homeopathyusa.org
+stage.hotair.com
 stage.livonlabs.com
 stage.mystore.com
 stage.nordicnaturals.com
@@ -25169,6 +25541,7 @@ staging.account.chopra.com
 staging.acm.frc.org
 staging.actuality.tv
 staging.admin.institutefornaturalhealing.com
+staging.admin.nativeremedies.com
 staging.adtv.watch
 staging.alphaomegalabs.com
 staging.altmedrev.com
@@ -25199,6 +25572,7 @@ staging.cms.my.asiatatler.com
 staging.cms.ph.asiatatler.com
 staging.cms.sg.asiatatler.com
 staging.cms.tw.asiatatler.com
+staging.cnsnews.com
 staging.coachdavelive.com
 staging.collective-evolution.com
 staging.cozy.tv
@@ -25262,6 +25636,7 @@ staging.mindbodygreen.com
 staging.my.asiatatler.com
 staging.my424.asiatatler.com
 staging.nakedcapitalism.com
+staging.nativeremedies.com
 staging.naturesaid.co.uk
 staging.naturopathy-uk.com
 staging.newswars.com
@@ -25459,6 +25834,7 @@ static-learn.integrativenutrition.com
 static.1mg.com
 static.bitchute.com
 static.brasilsemmedo.com
+static.cnsnews.com
 static.dailyreckoning.com
 static.doctoroz.com
 static.eluxemagazine.com
@@ -25466,6 +25842,7 @@ static.emersonecologics.com
 static.ewg.org
 static.ezinearticles.com
 static.farm.ewg.org
+static.foodnews.org
 static.indiamart.com
 static.infowars.com
 static.jimbakkershow.com
@@ -25494,7 +25871,9 @@ statins.mercola.com
 statins.news
 stats.americandigitalnews.com
 stats.behindtheblack.com
+stats.cnsnews.com
 stats.fifthestatepress.com
+stats.hotair.com
 stats.kla.tv
 stats.mercola.com
 stats.oathkeepers.org
@@ -25649,7 +26028,9 @@ store.cellnutritionals.com
 store.chicagoreader.com
 store.chopra.com
 store.churchmilitant.com
+store.cnsnews.com
 store.collective-evolution.com
+store.dailycaller.com
 store.dancingwithwater.com
 store.dawnofpeace.org
 store.detoxlab.org
@@ -25744,6 +26125,7 @@ storm.generationrescue.org
 stormer-daily.rw
 stormfront.org
 story.rumble.com
+storybook.cnsnews.com
 storybook.twitchy.com
 str.strangesounds.org
 straight2point.info
@@ -25938,6 +26320,7 @@ support.bioptimizers.com
 support.bitchute.com
 support.brighteon.com
 support.caravantomidnight.com
+support.cnsnews.com
 support.conservativereview.com
 support.drlivingood.com
 support.ellacruz.org
@@ -26021,6 +26404,7 @@ sv1.sanoviv.com
 svb.davidlynchfoundation.org
 svizzera.tm.org
 svn.childrenshealthdefense.org
+svopn.y.nativeremedies.com
 svr01.benosey.com
 svr02.stormfront.org
 svzperformance.ehealthpro.com
@@ -26053,6 +26437,7 @@ swiss.economicblogs.org
 switzerland.tm.org
 swmissouri.tenthamendmentcenter.com
 swprs.org
+swww.thcfinder.com
 syedimran01.blogspot.com
 sylviawhite.metagenics.com
 sylviewaxman.healthcoach1.integrativenutrition.com
@@ -26255,6 +26640,7 @@ telemed.frontlinemds.com
 telemedicine.earlytreatmentmeds.com
 telemedicine.sevencells.com
 telewellnessmd.ehealthpro.com
+tellafriend.foodnews.org
 telugu.boldsky.com
 telugu.wn.com
 temp.aosis.co.za
@@ -26315,9 +26701,11 @@ test.c60purplepower.com
 test.ca.tm.org
 test.campaignsystem.drsha.com
 test.cellmedicine.com
+test.cnsnews.com
 test.connecting-consciousness.org
 test.crypto-payment.wn.com
 test.crystal-information.com
+test.dailycaller.com
 test.deepakchopra.com
 test.doctordoni.com
 test.doctoroz.com
@@ -26371,8 +26759,10 @@ test.utopiasilver.com
 test.vaccine-injury.info
 test.vitaminc4covid.com
 test.vitamindwiki.com
+test.voices.dailycaller.com
 test.water-for-health.co.uk
 test.working4health.org
+test01.bitchute.com
 test1.institutefornaturalhealing.com
 test1.wddty.com
 test11.banners4freedom.com
@@ -26414,6 +26804,7 @@ texassocietyofhomeopathy.com
 texasvaccinechoice.com
 texemarrs.com
 texprofits.myctfo.com
+text.thcfinder.com
 text2md.com
 tf.newsblaze.com
 tfairman.metagenics.com
@@ -26445,6 +26836,7 @@ tharris.metagenics.com
 thatmillennialmama.com
 thatsyourshit.thegnmsolution.com
 thatvitaminmovie.com
+thcfinder.com
 the-bna.co.uk
 the-cma.org.uk
 the-heal-yourself-series.com
@@ -26808,6 +27200,7 @@ therootcauseprotocol.com
 therussophile.com
 thesacredoil.com
 thesaker.is
+thescariestmovieever.tv
 thescoop.us
 thescotfree.com
 thesearethefacts.net
@@ -27080,6 +27473,7 @@ tonys.myctfo.com
 toolkit.wn.com
 tools.charismamedia.com
 tools.choq.com
+tools.cnsnews.com
 tools.nontinfoilemf.com
 tools.voxxlife.com
 toolsforhealing.com
@@ -27091,6 +27485,7 @@ top-meds.org
 top.wn.com
 topctfo.myctfo.com
 topics.breitbart.com
+topics.dailycaller.com
 topinfoguide.com
 topnetworkeral.myctfo.com
 topprepperwebsites.com
@@ -27175,6 +27570,7 @@ track.sl.community.summitlighthouse.org
 tracker.hsionline.com
 tracker.tenthamendmentcenter.com
 tracker1.bitchute.com
+tracking.bitchute.com
 tracking.christianpost.com
 tracking.healme.health
 tracking.stylecraze.com
@@ -27631,6 +28027,7 @@ up14.bitchute.com
 up15.bitchute.com
 up16.bitchute.com
 up20.bitchute.com
+up25.bitchute.com
 upc-a.childrenshealthdefense.org
 upc-i.childrenshealthdefense.org
 update.frc.org
@@ -27656,10 +28053,12 @@ upgeauth.wn.com
 upgenocache.wn.com
 upgetest.wn.com
 upgrade.thegoodinside.com
+upgrade3.dailycaller.com
 upgradelabs.com
 upledger.com
 uplift.theepochtimes.com
 upload.abovetopsecret.com
+upload.cnsnews.com
 upload.futurefastforward.com
 upload.twitchy.com
 upload01.bitchute.com
@@ -27696,6 +28095,7 @@ urgencyofnormal.com
 urhealthy.thegoodinside.com
 urjauday.ascensionenergyprogram.com
 url.americanpatriotsforum.com
+url.thcfinder.com
 url555.sovren.media
 us-drc.toolsforhealing.com
 us-es.tm.org
@@ -27761,6 +28161,7 @@ v1.waynedupree.com
 v2.bioptimizers.com
 v2.clinicaleducation.org
 v2.conspyre.tv
+v2.michellemalkin.com
 v2.oann.com
 v2.thepeopleschemist.com
 v20.getsmartdots.io
@@ -27773,6 +28174,7 @@ v3.selfhacked.com
 v4.bioptimizers.com
 va.247worldradio.com
 va.childrenshealthdefense.org
+va.dailycaller.com
 vacbook.com
 vaccinatieschade.be
 vaccinatieschade.com
@@ -27892,6 +28294,7 @@ vasantainstitute-org.ayurveda.com
 vasantainstitute.ayurveda.com
 vashiva.com
 vaticancatholic.com
+vault.cnsnews.com
 vault.conspyre.tv
 vax-aid.ca
 vax.free2shine.net
@@ -28026,6 +28429,7 @@ video.breitbart.com
 video.brighteon.com
 video.christianpost.com
 video.coachdavelive.com
+video.dailycaller.com
 video.ezinearticles.com
 video.hpathy.com
 video.infowars.com
@@ -28184,6 +28588,8 @@ vladimir2.dev-rbx-1.rumble.com
 vladimirzelenkomd.com
 vladtepesblog.com
 vlnovagenetika.cz
+vm.lamp.nativeremedies.com
+vm.web.nativeremedies.com
 vmichell.metagenics.com
 vmsemporium.myctfo.com
 vn.karenkingston.com
@@ -28231,6 +28637,7 @@ vpn.beachcities.org
 vpn.boironusa.com
 vpn.chelseagreen.com
 vpn.childrenshealthdefense.org
+vpn.cnsnews.com
 vpn.collective-evolution.com
 vpn.gardenoflife.com
 vpn.gbnews.uk
@@ -28280,12 +28687,16 @@ vsrf.ticketleap.com
 vtvault.org
 vuka.substack.com
 vwilkie.metagenics.com
+vwqljnh.thcfinder.com
 vwsr1.myctfo.com
 w.agoravox.fr
 w.bookstudygroups.org
+w.cnsnews.com
+w.drbenkim.com
 w.forums.shinebrightnow.com
 w.freedomforceinternational.org
 w.nationallibertyalliance.org
+w.thcfinder.com
 w.whatreallyhappened.com
 w2.oradix.com
 w3.blaylockwellness.com
@@ -28327,6 +28738,7 @@ wanttoknow.info
 wanttoknow.nl
 wantwar.sweetliberty.org
 wap.childrenshealthdefense.org
+wap.cnsnews.com
 wapoop.news
 war.app.infowars.com
 war.childrenshealthdefense.org
@@ -28357,6 +28769,7 @@ watch.patriotssoapbox.com
 watch.salemnow.com
 watch.sgtreport.tv
 watch.thecommonsenseshow.tv
+watch.thescariestmovieever.tv
 watch.x22report.tv
 watchers.news
 watchmanvideobroadcast.com
@@ -28439,6 +28852,7 @@ web.annieappleseedproject.org
 web.attachmentparenting.org
 web.breathez.org
 web.childrenshealthdefense.org
+web.cnsnews.com
 web.dev.acnem.org
 web.emofree.com
 web.givesendgo.com
@@ -28686,6 +29100,7 @@ webdisk.clearmyallergies.com
 webdisk.climatechangedispatch.com
 webdisk.clone.brasscheck.com
 webdisk.cmri.tv
+webdisk.cnsnews.com
 webdisk.cogforlife.org
 webdisk.coldlasersupplies.com
 webdisk.colloidalsilverzone.com
@@ -28779,6 +29194,7 @@ webdisk.dogcancershop.com
 webdisk.dollarcollapse.com
 webdisk.dominionfoodie.ca
 webdisk.drallexi.com
+webdisk.drbenkim.com
 webdisk.drday.com
 webdisk.drfeder.com
 webdisk.drgrodski.com
@@ -29067,6 +29483,7 @@ webdisk.lynnemctaggart.com
 webdisk.mail.childrenshealthdefense.org
 webdisk.malcolmrobertsqld.com.au
 webdisk.mamathrivevillage.com
+webdisk.marijuanagames.org
 webdisk.markitonutrition.com
 webdisk.markprophet.org
 webdisk.marktaliano.net
@@ -29386,6 +29803,7 @@ webdisk.theosophy-nw.org
 webdisk.thepmc.org
 webdisk.thepsychologyofcancer.com
 webdisk.therealnews.nz
+webdisk.thescariestmovieever.tv
 webdisk.thesearethefacts.net
 webdisk.thestandardsc.org
 webdisk.thetexan.news
@@ -29479,6 +29897,7 @@ webdisk.wethepundit.com
 webdisk.whatis5g.info
 webdisk.whichhomeopathycourse.org
 webdisk.whiteoutpress.com
+webdisk.whoiskjozborne.com
 webdisk.wholechildcenter.org
 webdisk.whyagain.org
 webdisk.wikiage.org
@@ -29492,6 +29911,7 @@ webdisk.wintersupplement.com
 webdisk.wisehomelife.org
 webdisk.witchvox.com
 webdisk.wonnation.ca
+webdisk.woolstangray.eu
 webdisk.wordsalad.info
 webdisk.working4health.org
 webdisk.worldasthmafoundation.org
@@ -29692,6 +30112,7 @@ webmail.climatechangedispatch.com
 webmail.clone.brasscheck.com
 webmail.cmevt.com
 webmail.cmri.tv
+webmail.cnsnews.com
 webmail.coachdavelive.com
 webmail.coem.com
 webmail.cogiito.com
@@ -29778,6 +30199,7 @@ webmail.dogcancershop.com
 webmail.dollarcollapse.com
 webmail.dominionfoodie.ca
 webmail.drallexi.com
+webmail.drbenkim.com
 webmail.drfeder.com
 webmail.drgrodski.com
 webmail.drhealthbenefits.com
@@ -30050,6 +30472,7 @@ webmail.lymebook.com
 webmail.lymediseasechallenge.org
 webmail.lynnemctaggart.com
 webmail.malcolmrobertsqld.com.au
+webmail.marijuanagames.org
 webmail.markitonutrition.com
 webmail.markprophet.org
 webmail.marktaliano.net
@@ -30139,6 +30562,7 @@ webmail.noreddawn.com
 webmail.normalbreathing.com
 webmail.norml.org
 webmail.npswsilver.com
+webmail.ns.drbenkim.com
 webmail.ntd.com
 webmail.nunm.edu
 webmail.nuvisionusa.com
@@ -30329,6 +30753,7 @@ webmail.tetramedic.com
 webmail.thailandmedical.news
 webmail.thatmillennialmama.com
 webmail.thatvitaminmovie.com
+webmail.thcfinder.com
 webmail.the-heal-yourself-series.com
 webmail.thebreathablebody.com
 webmail.thebreathingclinic.com
@@ -30361,6 +30786,7 @@ webmail.thenaturalmedicinelibrary.com
 webmail.theosophy-nw.org
 webmail.thepmc.org
 webmail.therealnews.nz
+webmail.thescariestmovieever.tv
 webmail.thesearethefacts.net
 webmail.thesourcethailand.com
 webmail.thestandardsc.org
@@ -30446,6 +30872,7 @@ webmail.westmauidoctors.com
 webmail.whatis5g.info
 webmail.whichhomeopathycourse.org
 webmail.whiteoutpress.com
+webmail.whoiskjozborne.com
 webmail.wholechildcenter.org
 webmail.wholesale.herbhealers.com
 webmail.whyagain.org
@@ -30455,6 +30882,7 @@ webmail.willowstreetyoga.com
 webmail.willthomasonline.net
 webmail.windheimemfsolutions.com
 webmail.wingmakers.com
+webmail.woolstangray.eu
 webmail.wordsalad.info
 webmail.working4health.org
 webmail.worldasthmafoundation.org
@@ -30486,6 +30914,7 @@ webseed1.bittube.tv
 website.citizens.org
 website.dailysceptic.org
 website.thepowerhour.com
+websitewww.foodnews.org
 webstars.myctfo.com
 websterkehr.com
 webtools.accessconsciousness.com
@@ -30507,6 +30936,7 @@ weirdradionetwork.rightwingmedia.net
 weirdsciencenews.com
 weiyuanacupuncture.yurkovsky.com
 welcome.hope4cancer.com
+welcome.thcfinder.com
 welcome.thegoodinside.com
 weliveconscious.com
 weliveinamadworld.com
@@ -30605,6 +31035,7 @@ wewanttobeheard.com
 wewontask.com
 wfamilychiropractic.metagenics.com
 wfgroup.myctfo.com
+wfm-service.cnsnews.com
 wfm-service.twitchy.com
 wfomobile.doterra.com
 wfoot.org
@@ -30658,6 +31089,7 @@ whm.brokeontario.com
 whm.canyon-news.com
 whm.catholicism.org
 whm.checking.tm.org
+whm.cnsnews.com
 whm.coldlasersupplies.com
 whm.covertactionmagazine.com
 whm.covfefebakery.com
@@ -30669,6 +31101,7 @@ whm.degravepr.com
 whm.discernreport.com
 whm.dnskey.operationrescue.org
 whm.drallexi.com
+whm.drbenkim.com
 whm.drprevent.com
 whm.firepowerministry.org
 whm.flybynews.com
@@ -30707,6 +31140,7 @@ whm.myofunctionaltherapist.com
 whm.newlifeonahomestead.com
 whm.njmfa.org
 whm.noqreport.com
+whm.ns.drbenkim.com
 whm.nwvstore.com
 whm.omtherapykansas.com
 whm.onegreenplanet.org
@@ -30740,6 +31174,7 @@ whm.worldasthmafoundation.org
 whm.wozinga.com
 whnvt.metagenics.com
 who-factcheck.com
+whoiskjozborne.com
 whole-dog-journal.com
 whole.nutritionstudies.org
 wholebodymed.ehealthpro.com
@@ -30759,6 +31194,7 @@ wholesale.herbalmana.com
 wholesale.herbhealers.com
 wholesale.maryruthorganics.com
 wholesale.mercola.com
+wholesale.nativeremedies.com
 wholesale.naturalaction.com
 wholesale.trustedhealthproducts.com
 wholesale.vitanica.com
@@ -30789,8 +31225,10 @@ wiki-tst.api.rt.com
 wiki-tst2.api.rt.com
 wiki.abhcp.ca
 wiki.agoravox.fr
+wiki.cnsnews.com
 wiki.connecting-consciousness.org
 wiki.conspyre.tv
+wiki.dailycaller.com
 wiki.eaec.org
 wiki.flfe.net
 wiki.integrativenutrition.com
@@ -30925,6 +31363,7 @@ woo.getkion.com
 woods.mises.org
 woodschiropractic.metagenics.com
 woodymatters.com
+woolstangray.eu
 woot.mypatriotsupply.com
 woowoomedia.in5d.com
 wor.worldasthmafoundation.org
@@ -30932,15 +31371,18 @@ worcesteroffer.thewellnessway.com
 wordofmouth.iaomt.org
 wordpress-prod.emersonecologics.com
 wordpress.childrenshealthdefense.org
+wordpress.cnsnews.com
 wordpress.emersonecologics.com
 wordpress.goop.com
 wordpress.healthytraditions.com
 wordpress.resultsrna.com
+wordpress.voices.dailycaller.com
 wordpress.wn.com
 wordpress.wwe.shinebrightnow.com
 wordsalad.info
 wordsofold.canadianliberty.com
 work.justiceorelse.com
+work.thcfinder.com
 work.voxxlife.com
 workathomemania.myctfo.com
 workersofengland.co.uk
@@ -30993,6 +31435,7 @@ wozliq.wozinga.com
 wp.aosis.co.za
 wp.breitbart.com
 wp.childrenshealthdefense.org
+wp.cnsnews.com
 wp.freedomforceinternational.org
 wp.lifesitenews.com
 wp.mises.org
@@ -31066,21 +31509,28 @@ wvwtv.com
 ww.agoravox.fr
 ww.ahna.org
 ww.altmedrev.com
+ww.bitchute.com
 ww.bizpacreview.com
 ww.bookstudygroups.org
+ww.cnsnews.com
 ww.dr-rath-foundation.org
+ww.foodnews.org
 ww.foodtrients.com
 ww.howestreet.com
 ww.kairos2.kla.tv
 ww.kla.tv
+ww.michellemalkin.com
 ww.nairaland.com
 ww.noharm.org
 ww.rense.com
 ww.stylecraze.com
+ww.thcfinder.com
 ww.tttt.kla.tv
 ww.vaclib.org
+ww.w.thcfinder.com
 ww.whale.to
 ww.whatreallyhappened.com
+ww1.cnsnews.com
 ww1.dbcv.site.parentsaganinstmandatoryvaccines.net
 ww1.dbda.site.parentsaganinstmandatoryvaccines.net
 ww1.dbef.site.parentsaganinstmandatoryvaccines.net
@@ -31102,6 +31552,7 @@ ww1.freedomsquare.com
 ww1.goodfeeling6.com.parentsaganinstmandatoryvaccines.net
 ww1.lifestyles.net
 ww1.manhattanmyo.com
+ww1.michellemalkin.com
 ww1.mmsmiracle.com
 ww1.naturalbreathingtraining.com
 ww1.stylecraze.com
@@ -31122,6 +31573,7 @@ ww11.duuv.site.parentsaganinstmandatoryvaccines.net
 ww11.fir-saunatec.com.parentsaganinstmandatoryvaccines.net
 ww11.organicandhealthy.org
 ww2.daystar.com
+ww2.foodnews.org
 ww2.freedomsphoenix.com
 ww2.freedomsquare.com
 ww2.lifestyles.net
@@ -31138,6 +31590,7 @@ ww7.thefp.com
 wwash.myctfo.com
 wwg1wga-tv.de
 wwiii.news
+wwm.michellemalkin.com
 wws.alipac.us
 wwv.ca.tm.org
 wwv.tm.org
@@ -31980,6 +32433,7 @@ www.barcelonacity.cityguides.wn.com
 www.bardsfm.com
 www.barefoothealing.com.au
 www.bariatricbreakthrough.com
+www.barriebasements.drbenkim.com
 www.barry-lynes.lymebook.com
 www.barsoom.substack.com
 www.bartram.substack.com
@@ -32176,6 +32630,7 @@ www.bittensaddiction.com
 www.bittube.app
 www.bittube.tv
 www.bittube.video
+www.biymcrd.thcfinder.com
 www.bizpacreview.com
 www.bizpatriot.com
 www.bksgshow.com
@@ -32973,6 +33428,7 @@ www.cn.shinebrightnow.com
 www.cnbsnews.live
 www.cnnsofake.news
 www.cnpusa.com
+www.cnsnews.com
 www.coachdavelive.com
 www.coaching.thriveglobal.com
 www.coachingcenter.functionalmedicinecoaching.org
@@ -33146,6 +33602,7 @@ www.content.bioptimizers.com
 www.content.mycoseva.com
 www.continentalfreepress.news
 www.continuumwellsprings.com
+www.contnt.thcfinder.com
 www.convoytosaveamerica.com
 www.cookforyourlife.org
 www.cookingwithmydoctor.com
@@ -33383,6 +33840,7 @@ www.dad4justice.blogspot.com
 www.dadamo.com
 www.daily.patriotssoapbox.com
 www.dailyangle.com
+www.dailycaller.com
 www.dailyclout.io
 www.dailycloutpodcast.podbean.com
 www.dailydose4u.wordpress.com
@@ -33800,6 +34258,7 @@ www.doorlesscarp953.substack.com
 www.dossier.substack.com
 www.dotcomnieuws.com
 www.doterra.com
+www.doubledown.news
 www.dougbillings.us
 www.dougfordkilledontario.com
 www.dougfordkilledontario.covfefebakery.com
@@ -33830,6 +34289,8 @@ www.drannacabeca.com
 www.drartour.normalbreathing.com
 www.draxe.com
 www.drbeckycampbell.com
+www.drbenkim.com
+www.drbenkim.drbenkim.com
 www.drbenlynch.com
 www.drberg.com
 www.drbowden.substack.com
@@ -34164,6 +34625,7 @@ www.einterface.net
 www.eirmed360.com
 www.eisensteingroup.com
 www.eitrlounge.com
+www.ekaxfeo.thcfinder.com
 www.elaina.myctfo.com
 www.elainelewis.hpathy.com
 www.elanafreeland.com
@@ -34212,6 +34674,7 @@ www.eluxemagazine.com
 www.email.azgoodhealth.com
 www.email.childrenshealthdefense.org
 www.email.crestedbuttedentist.com
+www.email.dailycaller.com
 www.email.humanitysteam.org
 www.emails.lifeextension.com
 www.embracehealingspace.co.nz
@@ -34641,6 +35104,7 @@ www.foodfreedom.news
 www.foodinvestigations.com
 www.foodismedicine.com
 www.foodmatters.com
+www.foodnews.org
 www.foodrevolution.org
 www.foodrising.org
 www.foodscience.news
@@ -34854,10 +35318,12 @@ www.funhealseverything.com
 www.funmedidaho.com
 www.futurefastforward.com
 www.futuregenerationssd.com
+www.futurenews.news
 www.futurenow2.myctfo.com
 www.futuresciencenews.com
 www.fvfr.ca
 www.fwmhealth.com
+www.fxfqcbi.thcfinder.com
 www.fyi.com
 www.fyihealthtalk.com
 www.g2church239.org
@@ -34911,11 +35377,13 @@ www.gcnlive.com
 www.gcrn.org.uk
 www.gcsmaui.org
 www.gcvcadvocates.org
+www.gdjunxh.thcfinder.com
 www.gdp.ch
 www.gdv-epckirlian.com
 www.gdvcamera.com
 www.gdvplanet.com
 www.gdx.net
+www.gear.lodosdispensary.com
 www.gear.news
 www.geertvandenbossche.org
 www.gegrat.uk.com
@@ -35421,6 +35889,7 @@ www.healthy-action.com
 www.healthy-holistic-living.com
 www.healthy-skeptic.com
 www.healthy-vegetable-gardening.com
+www.healthy-vibes.com
 www.healthy.net
 www.healthy365days.com
 www.healthyalternatives.com
@@ -35566,6 +36035,7 @@ www.hodgetwinstour.com
 www.hodgetwinswellness.com
 www.hoggwatch.com
 www.hoitoraide.fi
+www.hokijp.cnsnews.com
 www.holding.water-for-health.co.uk
 www.holistic635.metagenics.com
 www.holisticblends.com
@@ -35605,6 +36075,7 @@ www.homebusiness1.myctfo.com
 www.homefirst.com
 www.homegardening.news
 www.homegardeningnews.com
+www.homemakermama.drbenkim.com
 www.homeo-pathic.esy.es
 www.homeomart.com
 www.homeopathicdirectory.com
@@ -35657,6 +36128,7 @@ www.hostdefense.com
 www.hosting.childrenshealthdefense.org
 www.hostingsource.shopfreemart.com
 www.hostmaster.shinebrightnow.com
+www.hotair.com
 www.hotel-ds.com
 www.hotepjesus.com
 www.hotepnation.com
@@ -35883,6 +36355,7 @@ www.inproportion2.talkigy.com
 www.insanity.news
 www.insanitybytes2.wordpress.com
 www.insearchofliberty.com
+www.insidetheyankees.drbenkim.com
 www.insightastro.com
 www.inspades.news
 www.inspectapedia.com
@@ -36610,6 +37083,7 @@ www.lockdownrank.com
 www.lockdownresistance.endlockdowns.org
 www.lockdownsceptics.org
 www.locofoco.net
+www.lodosdispensary.com
 www.loftcoin.net
 www.logan.edu
 www.login.aulterra.com
@@ -36687,6 +37161,7 @@ www.lys-dor.com
 www.lyttonmedicalclinic.ca
 www.m-cam.com
 www.m.closys.com
+www.m.cnsnews.com
 www.m.dev.journal-neo.org
 www.m.earthcalm.com
 www.m.handofhelp.com
@@ -36783,6 +37258,7 @@ www.marfooglenews.com
 www.margaretannaalice.substack.com
 www.mariaceleste.thegoodinside.com
 www.marianacastanedalopez.com
+www.marijuanagames.org
 www.marikosmos.com
 www.marinfreedomrising.com
 www.marinfreedomrising.substack.com
@@ -37012,6 +37488,7 @@ www.mfoods.shop
 www.mg.physiciansforinformedconsent.org
 www.mhpvitamins.com
 www.mhtabletennis.thegoodinside.com
+www.mi.thcfinder.com
 www.miaminaturalhormonetherapy.calimedwellness.com
 www.miamistandard.news
 www.michael.frontlinemds.com
@@ -37031,6 +37508,7 @@ www.michaelteachings.com
 www.michaelturnermd.com
 www.michelduchaine.com
 www.michelleiankowitz.com
+www.michellemalkin.com
 www.michiganstopsmartmeters.com
 www.michiganunitedforliberty.com
 www.michiganvaccinechoice.org
@@ -37368,6 +37846,7 @@ www.nationalvanguard.org
 www.nationandstate.com
 www.nationfirst.substack.com
 www.nativeamericancivilrights.reikiranch.net
+www.nativeremedies.com
 www.natmedhotline-org.brightmedicineclinic.com
 www.natmedhotline.brightmedicineclinic.com
 www.natmedtalk.com
@@ -37445,6 +37924,7 @@ www.naturalsciencemedicine.com
 www.naturalselections.substack.com
 www.naturalsociety.com
 www.naturalsolutionsmag.com
+www.naturalstatenews.com
 www.naturalwe.nuturna.com
 www.naturalwellnessassociation.nuturna.com
 www.naturanna.ca
@@ -37739,6 +38219,7 @@ www.nowhere.news
 www.npr.news
 www.npswsilver.com
 www.nrnplus.com
+www.ns.drbenkim.com
 www.nsearch.com
 www.nsfmarketplace.drrimatruthreports.com
 www.nsipm.org
@@ -38542,6 +39023,7 @@ www.qhhtofficial.com
 www.qichamp.com
 www.qienergy.ai
 www.qienergytech.com
+www.qkmeqew.thcfinder.com
 www.qm.news
 www.qnlabs.com
 www.qplusnews.com
@@ -38871,6 +39353,7 @@ www.risk.news
 www.riste1.dev-rbx-1.rumble.com
 www.riste2.dev-rbx-1.rumble.com
 www.rivercitymalone.com
+www.riverdalehome.drbenkim.com
 www.rivoltellaa.ellacruz.org
 www.rizhao.cityguides.wn.com
 www.rizza-islam.myshopify.com
@@ -39148,6 +39631,7 @@ www.secure.childrenshealthdefense.org
 www.secure.dolorescannon.com
 www.secure.icpa4kids.com
 www.secure.pacificjustice.org
+www.secure.thcfinder.com
 www.secure.tm.org
 www.securedrop.hartgroup.org
 www.securewhistleblower.com
@@ -39602,6 +40086,7 @@ www.starvation.news
 www.stateofliz.com
 www.stateofthenation.co
 www.stateoftoday.com
+www.static.foodnews.org
 www.static1.thelibertybeacon.com
 www.statins.news
 www.stayfree.ie
@@ -39887,6 +40372,7 @@ www.teleconsult.breathingexpert.com
 www.telehealthnp.com
 www.telemed.drstellamd.com
 www.telemed.frontlinemds.com
+www.tellafriend.foodnews.org
 www.temp.aosis.co.za
 www.temp.knowyourrightsgroup.com.au
 www.templeofsacredsound.com
@@ -39953,6 +40439,7 @@ www.texassocietyofhomeopathy.com
 www.texasvaccinechoice.com
 www.texemarrs.com
 www.texprofits.myctfo.com
+www.text.thcfinder.com
 www.text2md.com
 www.tfi-store.com
 www.tfiglobalnews.com
@@ -39966,6 +40453,7 @@ www.thailandmedical.news
 www.thatmillennialmama.com
 www.thatsyourshit.thegnmsolution.com
 www.thatvitaminmovie.com
+www.thcfinder.com
 www.the-bna.co.uk
 www.the-cma.org.uk
 www.the-heal-yourself-series.com
@@ -40283,6 +40771,7 @@ www.therootcauseprotocol.com
 www.therussophile.com
 www.thesacredoil.com
 www.thesaker.is
+www.thescariestmovieever.tv
 www.thescoop.us
 www.thescotfree.com
 www.thesearethefacts.net
@@ -41067,6 +41556,7 @@ www.vsecretscc.com
 www.vsecretsseries.com
 www.vtvault.org
 www.vuka.substack.com
+www.w.thcfinder.com
 www.w4.medicinal-foods.com
 www.wabiz.org
 www.wakeup-world.com
@@ -41270,6 +41760,7 @@ www.whitakerwellness.com
 www.whitehouse.news
 www.whiteoutpress.com
 www.who-factcheck.com
+www.whoiskjozborne.com
 www.whole-dog-journal.com
 www.whole.nutritionstudies.org
 www.wholechildcenter.org
@@ -41360,6 +41851,7 @@ www.womenshealth.news
 www.wonderfulmms.wordpress.com
 www.wonnation.ca
 www.woodymatters.com
+www.woolstangray.eu
 www.woowoomedia.in5d.com
 www.wordpress.dev.shinebrightnow.com
 www.wordpress.forum.shinebrightnow.com
@@ -41442,6 +41934,8 @@ www.wuweiwellness.com
 www.wvforhealthfreedom.com
 www.wvw.nationallibertyalliance.org
 www.wvwtv.com
+www.ww.thcfinder.com
+www.ww.w.thcfinder.com
 www.ww.whale.to
 www.ww2.daystar.com
 www.wwe.shinebrightnow.com
@@ -41499,6 +41993,7 @@ www.www.test.www.forum.shinebrightnow.com
 www.www.test.www.forums.shinebrightnow.com
 www.www.test.www.shop.shinebrightnow.com
 www.www.test.www.wwe.shinebrightnow.com
+www.www.thcfinder.com
 www.www.web.shinebrightnow.com
 www.www.webmail.shinebrightnow.com
 www.www.website.shinebrightnow.com
@@ -41569,6 +42064,7 @@ www.yeolderockshop.com
 www.yes-supplements.com
 www.yestosuccess.com
 www.ygyi.com
+www.yiulqnm.thcfinder.com
 www.ylsocial.net
 www.ymanalo.myctfo.com
 www.ynnemctaggart.com
@@ -41664,12 +42160,14 @@ www.zstacklife.com
 www.zuerihomemassage.ch
 www0.agoravox.fr
 www0.wellnessresources.com
+www1.cnsnews.com
 www1.herbdoc.com
 www1.iherb.com
 www1.kla.tv
 www1.nikken.com
 www1.tm.org
 www1.twitchy.com
+www2.cnsnews.com
 www2.designsforhealth.com
 www2.elephantjournal.com
 www2.gutcleanseprotocol.com
@@ -41727,9 +42225,11 @@ wwww.doctorsopposingcircumcision.org
 wwww.howestreet.com
 wwww.kairos2.kla.tv
 wwww.kla.tv
+wwww.michellemalkin.com
 wwww.noharm.org
 wwww.nomoreweight.myctfo.com
 wwww.rense.com
+wwww.thcfinder.com
 wwww.tttt.kla.tv
 wwww.whatreallyhappened.com
 wwww4.kla.tv
@@ -41773,6 +42273,7 @@ xxx.healy.shop
 xyour925job.myctfo.com
 xyz.frankspeech.com
 xyz.net.au
+y.nativeremedies.com
 yaffaslivingwell.ehealthpro.com
 yakawa48.myctfo.com
 ycampaign.hartgroup.org
@@ -41794,6 +42295,7 @@ ygyi.com
 yhspbx.tsl.org
 yi.elearning.iaomt.org
 yi.iaomt.org
+yiulqnm.thcfinder.com
 ylessentialoilsecrets.ylsocial.net
 ylmyoil.ylsocial.net
 ylsocial.net
@@ -41883,10 +42385,12 @@ yvc41.staging.water-for-health.co.uk
 ywb.thegoodinside.com
 yxdqnf.lifeextension.com
 z-28b3jxzl1og7.bitchute.com
+z-kkb4jvzl1og7.bitchute.com
 z.agoravox.fr
 z.coldlasersupplies.com
 z28hayse.myctfo.com
 z3news.com
+z8v-gh63hop-f9.bitchute.com
 za.iherb.com
 za.loveletter.iherb.com
 za.tm.org
@@ -41976,6 +42480,7 @@ zu.elearning.iaomt.org
 zu.iaomt.org
 zuerihomemassage.ch
 zuganhealth.ehealthpro.com
+zulip.dailycaller.com
 zulu.wn.com
 zzyzx.myctfo.com
 zzz.glutenfreesociety.org
