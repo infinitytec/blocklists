@@ -49,8 +49,12 @@ Domains that may be problematic. If anyone knows anything about these, please le
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/possibilities.txt)
 
-# What's blocked in host files?
+# What's blocked in these lists?
 Hosts format blocklists will block the highest-reasonable level and below. For example, if a domain is 'scam.com' the entire domain name and any subdomains will be blocked. If the site is 'scam.example.com' than that subdomain and any subdomains that end with 'scam.example.com' will get added. Additionally 'www.' is appended to the beginning of each domain name. Having all these subdomains in the lists can make them quite large, but it improves the quality of the filtering. 
+
+With the static filters for uBlock Origin, lots of whitespace (where ads once were) and ads not caught by other lists are included.
+
+These lists are not designed to be a complete adblocking or content filtering solution. While the more specific lists (namely Medical Pseudoscience and TikTok) are more thourough lists designed to perform well for their purposes, most lists are intended to be used with lists developed by others. The lists here should be considered supplemental and used to help fill in the gaps left by other lists.
 
 # A note on formats:
 Hosts format blocklists work with browser extensions such as [uBlock Origin](https://github.com/gorhill/uBlock) and with DNS ad blockers such as [Pi-hole](https://pi-hole.net/).
