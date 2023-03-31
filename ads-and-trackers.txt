@@ -35,6 +35,7 @@
 1clickscpa.hasoffers.com
 1d1b136a1c8743c3b748ac6109902d2b.1d.1b.cn.mob.conduit.com
 1redirb.com
+1simpletrk.com
 2013hk.hasoffers.com
 2015796113853353331.1362537.acm-test.ops.tune.com
 2015796113853353331.1371230.acm-test.ops.tune.com
@@ -265,6 +266,7 @@ adscheaper.com
 adserver.pandora.com
 adserver1.realtracker.com
 adserver2.realtracker.com
+adservice.google.comesp.aptrinsic.com
 adsfinity.hasoffers.com
 adshare.toutiao.com
 adsinsightslab.tiktok.com
@@ -325,6 +327,7 @@ api-p00.hasoffers.com
 api.adbutler.com
 api.ams.conduit.com
 api.anstrex.com
+api.aptrinsic.com
 api.arroyomedia.com
 api.conduit.com
 api.hasoffers.com
@@ -341,7 +344,12 @@ api.warriorplus.com
 api.wavebrowser.co
 apirest.qa.datspush.com
 apogee.ositracker.com
+app-be-dev.aptrinsic.com
+app-be.aptrinsic.com
+app-dev.aptrinsic.com
+app-eu.aptrinsic.com
 app.anstrex.com
+app.aptrinsic.com
 app.arroyomedia.com
 app.conduit.com
 app.mam.conduit.com
@@ -356,6 +364,7 @@ appsmetadata.toolbar.conduit-services.com
 appsmetadata.toolbar.va.conduit-services.com
 appstrk.com
 apptrafficmedia.hasoffers.com
+aptrinsic.com
 arabclicks.hasoffers.com
 arabyads.hasoffers.com
 aragonadvertising.hasoffers.com
@@ -462,6 +471,7 @@ briantracy.hasoffers.com
 bridebrite.ositracker.com
 brmclick.com
 brmedia.hasoffers.com
+browse.aptrinsic.com
 bsse.ositracker.com
 bugzilla.tightropeinteractive.com
 buhbamarketing.hasoffers.com
@@ -629,6 +639,7 @@ demo.pay.tune.com
 dentistrx.ositracker.com
 deploy.warriorplus.com
 der-gruenling.de
+detectportal.firefox.comesp.aptrinsic.com
 dev-langing.datspush.com
 dev-langing1.datspush.com
 dev-langing2.datspush.com
@@ -658,6 +669,7 @@ digitalsamadhan.hasoffers.com
 diplompsychologehench.de
 directory.snapshot.toolbar.conduit-services.com
 dm.distributionengine.conduit-services.com
+docs.aptrinsic.com
 dollartube.ositracker.com
 donkeymale.hasoffers.com
 donorschoose.hasoffers.com
@@ -712,6 +724,16 @@ ept.ms
 equilibriumnutrition.hasoffers.com
 ereflect.hasoffers.com
 es.pricegong.com
+esp-desktop-eu.aptrinsic.com
+esp-desktop.aptrinsic.com
+esp-eu.aptrinsic.com
+esp-m.aptrinsic.com
+esp-mobile-eu.aptrinsic.com
+esp-mobile-us2.aptrinsic.com
+esp-mobile.aptrinsic.com
+esp-proxy.aptrinsic.com
+esp-us2.aptrinsic.com
+esp.aptrinsic.com
 espire.hasoffers.com
 espolupracecz.hasoffers.com
 essentialoils.hasoffers.com
@@ -796,6 +818,7 @@ glennajean.ositracker.com
 globalsister.ositracker.com
 glopss.hasoffers.com
 gnn.hasoffers.com
+go.aptrinsic.com
 go.tune.com
 goanimate.hasoffers.com
 goassured.hasoffers.com
@@ -895,7 +918,11 @@ in.tune.com
 incentmobi.hasoffers.com
 indievillage.hasoffers.com
 infinity808.ositracker.com
+info.aptrinsic.com
 infusion.robly.com
+ingress-eu.aptrinsic.com
+ingress-us2.aptrinsic.com
+ingress.aptrinsic.com
 innovate.hasoffers.com
 insha.hasoffers.com
 insights.trackerrr.com
@@ -1156,6 +1183,7 @@ nessahasoffers.hasoffers.com
 neurohacker.refersion.com
 news.hasoffers.com
 news.warriorplus.com
+nexusrules.officeapps.live.comesp.aptrinsic.com
 ninthlink.hasoffers.com
 nl.pricegong.com
 nnlb.hasoffers.com
@@ -1163,6 +1191,7 @@ nocow.ositracker.com
 noob.ositracker.com
 nordvpn.hasoffers.com
 nossk.ositracker.com
+notify.aptrinsic.com
 ns1.usawildseafood.com
 ns2.usawildseafood.com
 nszwangsarbeit.de
@@ -1177,6 +1206,7 @@ o.clk70.com
 o1.email.conduit.com
 o1.email.robly.com
 o1.mail.loox.io
+o1.mailer.aptrinsic.com
 o10.email.robly.com
 o12.email.robly.com
 o140.mail.robly.com
@@ -1571,6 +1601,7 @@ starshipit.ositracker.com
 stash.clickbooth.com
 static.warriorplus.com
 stats.thewishsendonline.com
+status.aptrinsic.com
 status.hasoffers.com
 status.search.conduit.com
 status.tune.com
@@ -1767,6 +1798,9 @@ wavvesinc.ositracker.com
 wbf.hasoffers.com
 wealthfit.hasoffers.com
 wealthschool.ositracker.com
+web-sdk-eu.aptrinsic.com
+web-sdk-us2.aptrinsic.com
+web-sdk.aptrinsic.com
 web4.realtracker.com
 webdisk.trackjumpr.com
 webdisk.usawildseafood.com
@@ -1806,6 +1840,7 @@ wshc.ositracker.com
 wuzzon.hasoffers.com
 ww.keycote.com
 www.1redirb.com
+www.1simpletrk.com
 www.adbutler.com
 www.adscheaper.com
 www.affid21221il.com
@@ -1817,6 +1852,7 @@ www.anders-onlinehandel.de
 www.anstrex.com
 www.appcmpn.com
 www.appstrk.com
+www.aptrinsic.com
 www.arroyomedia.com
 www.au-pair-hildesheim.de
 www.audioline-music.de
@@ -1872,6 +1908,7 @@ www.groupmeredir.me
 www.hasoffers.com
 www.hpprintersupportservice.com
 www.ifrb.info
+www.info.aptrinsic.com
 www.jexads.com
 www.jut7866.info
 www.keycote.com
@@ -1957,6 +1994,7 @@ www.vcdc.com
 www.vpn-today.info
 www.warriorplus.com
 www.wavebrowser.co
+www.web-sdk.aptrinsic.com
 www.webseed.com
 www.webseite-erstellen-koeln.de
 www.wifiextenderhelp.com
