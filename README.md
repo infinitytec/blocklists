@@ -1,6 +1,6 @@
 # infinitytec's blocklists
 
-Note: please check out #13 to give feedback on wildcards.
+Note: please check out [Issue #13](https://github.com/infinitytec/blocklists/issues/13) to give feedback on wildcards.
 
 ## Ads and trackers
 Ads and tracking hosts I have seen around the Internet. Some are rare. Some are popular.
