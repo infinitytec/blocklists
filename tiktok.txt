@@ -181,6 +181,7 @@
 4b6ns2.byte.tiktokcdn.com
 4w1cj5r-9w1cj5r.byte.tiktokcdn.com
 4w1cj5ridentity.byte.tiktokcdn.com
+5.musica.ly
 502.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 5021ff.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 51jkworld.com.tlivecdn.com
@@ -3002,6 +3003,7 @@ dsd-res.musical.ly.edgesuite.net
 dsp.toutiao.com
 dstest.byte.3w1cj5r.byte.tiktokcdn.com
 dttorhs584ri4.cloudfront.net
+dualstack.h2.bytedance.map.fastly.net
 duanzimi.top.all.tlivecdn.com
 duanzimi.top.tlivecdn.com
 dul.byte.3w1cj5r.byte.tiktokcdn.com
@@ -3066,6 +3068,8 @@ edge-elb-certificate-test.byted.org
 edge-elb-test.byted.org
 edge-fn.bytedance.com
 edge-quic-aliec1-oss.bytecdn.cn
+edge-quic-aliec2-oss.bytecdn.cn
+edge-quic-alinc2-oss.bytecdn.cn
 edgems.byted.org
 edgmes-test-elb-cert.byted.org
 ediscovery.byteoversea.net
@@ -3818,6 +3822,7 @@ h1-16.tiktok.com
 h1.bytedance.map.fastly.net
 h1o9b.byte.3w1cj5r.byte.tiktokcdn.com
 h2-16.tiktok.com
+h2.bytedance.map.fastly.net
 h5-ppx-activity-lq.snssdk.com
 h5-ppx-activity.snssdk.com
 h5.isnssdk.com
@@ -4325,6 +4330,7 @@ imagex.ap-singapore-1.bytedanceapi.com
 imagex.bytedanceapi.com
 imagex.us-east-1.byted.org
 imagex.us-east-1.bytedanceapi.com
+imagex.us-east-8.tiktokd.org
 imagex.us.tiktokv.com
 imam.miniiktokcdn.comns1.byte.tiktokcdn.com
 imapi-16-useast1a.musical.ly
@@ -8605,6 +8611,7 @@ push-fcdn-base1.s.bytefcdn-oversea.com
 push-fcdn-base2.s.bytefcdn-oversea.com
 push-fcdn-base3.s.bytefcdn-oversea.com
 push-fcdn-base4.s.bytefcdn-oversea.com
+push-fcdn-inner-tx.tiktokd.org
 push-fcdn-ttp1.s.worldfcdn2.com
 push-fcdn.bytecdn.cn
 push-rtmp-f5-ab.tiktokcdn.com
@@ -12221,6 +12228,7 @@ vx-bdp.tiktokv.com
 vzbmx.xzcs3zlph.com
 vzbmx.xzcs3zlph.com.edgesuite.net
 w.l.bytedns.net
+w.musica.ly
 w.tiktok.com
 w1bobealq.mzfvozqybf.com
 w6.administrator.byte.tiktokcdn.com
