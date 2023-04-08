@@ -1814,6 +1814,7 @@ bdgvr.top.all.tlivecdn.com
 bdgvr.top.tlivecdn.com
 bds-sg.byteoversea.com
 bds.snssdk.com
+bdurl.net.bytedns.net
 be.tiktok.com
 beet.ci.byte.tiktokcdn.com
 beidousos.cn.tlivecdn.com
@@ -2285,6 +2286,8 @@ castmsc1.xzcs3zlph.com.edgesuite.net
 casttt1.xzcs3zlph.com
 casttt1.xzcs3zlph.com.edgesuite.net
 cat-test.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
+cation-va.tiktokv.com
+cation16-normal-c-useast1a.tiktokv.com
 catoconn.ci.byte.tiktokcdn.com
 cavalry.ci.byte.tiktokcdn.com
 cayuntsevich-com-ci.byte.tiktokcdn.com
@@ -2492,6 +2495,7 @@ com-ns.byte.tiktokcdn.com
 com.all.tlivecdn.com
 com.au.tiktok.com
 com.br.tiktok.com
+com.bytedns.net
 com.bytewlb.akadns.net
 com.c.bytefcdn-oversea.com
 com.cdn.bytedance.com
@@ -3041,6 +3045,7 @@ eaprivalova.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 earlylearningideas.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 earthquake-lab.bytedance.com
 eb18.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
+ebcast16-core-c-alisg.tiktokv.com
 ebn.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 ebt.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 ec.snssdk.com
@@ -5010,6 +5015,8 @@ lf16-gp-static.tiktokcdn-us.com
 lf16-insgame.tiktokcdn.com
 lf16-lark-va.ibytedtos.com
 lf16-lark-va.ibytedtos.com.edgekey.net
+lf16-live-backstage.tiktokcdn.com
+lf16-live-studio.tiktokcdn.com
 lf16-magic-source.tiktokcdn.com
 lf16-mgtos.tiktokcdn-us.com
 lf16-mt-va.ibytedtos.com
@@ -5020,6 +5027,7 @@ lf16-pangle.ibytedtos.com
 lf16-pendah.ibytedtos.com
 lf16-pitayacdn.tiktokcdn.com
 lf16-pkgcdn.pitaya-clientai.com
+lf16-pns.tiktokcdn.com
 lf16-promote-us.tiktokcdn.com
 lf16-promote.tiktokcdn-us.com
 lf16-short.ibytedtos.com
@@ -6263,6 +6271,7 @@ mx2.bytedance.com
 mx2.tiktok.com
 mx3.bytedance.com
 mx3.tiktok.com
+mxp1a.g.byteoversea.net
 my-basil.byted.org
 my.tiktok.com
 myaccounts.miniiktokcdn.comns1.byte.tiktokcdn.com
@@ -6315,6 +6324,7 @@ neg.byte.3w1cj5r.byte.tiktokcdn.com
 neihanshequ.com
 nene.backend.byte.tiktokcdn.com
 neol.online.tlivecdn.com
+net.bytedns.net
 netarch-aliec2-edge-lb.l.bytedns.net
 netarch-alisc1-edge-lb.l.bytedns.net
 netarch-bjlgy-edge-lb-v3.bjlgy.bytedns.net
@@ -6784,6 +6794,8 @@ origing-all-mal-lb-boe.image-cache-hl.lonmlkjihgfedcbaxwvutsrqponmlkjihgfedc.web
 origing-all2-hl.cbadataapistaging6.wire.community4arab.tasks-major.autodiscover.bytedns.net
 origing-normal-aliec1-edge-lb-l4.image-cache-hl.lonmlkjihgfedcbaxwvutsrqponmlkjihgfedc.webproxy.idc-lorien.bh-arppofind.com.bytedns.net
 orleans.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
+orm-alisg.tiktokv.com
+orm-ycru.tiktokv.com
 orn.3w1cj5r.byte.tiktokcdn.com
 orthrus-tx.tiktokd.org
 os-mon.snssdk.com
@@ -7766,6 +7778,7 @@ private-attribution.us.tiktokv.com
 private.byte.3w1cj5r.byte.tiktokcdn.com
 private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 private.byte.uat.byte.ci.byte.tiktokcdn.com
+private.service.cdg1b.g.byteoversea.net
 privatemoney.com-ns.byte.tiktokcdn.com
 pro5.3w1cj5r.byte.tiktokcdn.com
 probe-09a51260.v39-perf.tiktokcdn.com
@@ -9396,6 +9409,7 @@ service.mad1b.g.byteoversea.net
 service.mex1.g.byteoversea.net
 service.mrs1b.g.byteoversea.net
 service.mrs1retn.g.byteoversea.net
+service.mxp1a.g.byteoversea.net
 service.sgn1.g.byteoversea.net
 service.sin1.g.byteoversea.net
 service.sin2a.g.byteoversea.net
@@ -11644,6 +11658,7 @@ v39-dynamic.service.lhr3b.g.byteoversea.net
 v39-dynamic.service.mad1b.g.byteoversea.net
 v39-dynamic.service.mex1.g.byteoversea.net
 v39-dynamic.service.mrs1b.g.byteoversea.net
+v39-dynamic.service.mxp1a.g.byteoversea.net
 v39-dynamic.service.sgn1.g.byteoversea.net
 v39-dynamic.service.sin1.g.byteoversea.net
 v39-dynamic.service.sin2a.g.byteoversea.net
