@@ -114,6 +114,21 @@
 26a3f-tiktokcdn.com-ns.byte.byte.tiktokcdn.com
 26a3f-tiktokcdn.com-ns.byte.tiktokcdn.com
 271984.genapicloud.comv19.muscdn.com
+2d16.musical.ly
+2dalisg16.byteoversea.com
+2dapi.tiktokv.com
+2dca.tiktok.net
+2dcommon.ttwstatic.com
+2dmaliva16.byteoversea.com
+2dnet.tiktok.net
+2dsg.bytedance.com
+2dsg.byteoversea.com
+2dsg.tiktokv.com
+2duseast1a.musical.ly
+2dva.byteoversea.com
+2dva.ibyteimg.com
+2dva.tiktokv.com
+2dweb.ttwstatic.com
 2push.ayjzxvz.cn.all.tlivecdn.com
 2push.ayjzxvz.cn.tlivecdn.com
 31566.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
@@ -3087,6 +3102,7 @@ ee-f5fe-lb-mix.bytedns.net
 ee-f5fe-lb-normalinc2-edge-lb-lq.webproxy.idc-lorien.bh-arppofind.comlb-normal-api-2.b.bytedns.net
 ee-f8fe-lb-misc2-edge-lb-three.image-cache-hl.lonmlkjihgfedcbaxwvutsrqponmlkjihgfedc.webproxy.idc-lorien.bh-arppofind.com.bytedns.net
 ee-internal-ag-ag-aliec1-edge-lb.cbadataapistaging6.wire.community4arab.tasks-major.autodiscover.bytedns.net
+ee-internal-all-va.byteoversea.net
 ee-internal-api-5.image-cache-hl.lonmlkjihgfedcbaxwvutsrqponmlkjihgfedc.webproxy.idc-lorien.bh-arppofind.com.bytedns.net
 ee-internal-lb-boe-lb-hl-sgcom.webproxy.idc-lorien.bh-arppofind.comlb-normal-api-2.b.bytedns.net
 ee-internal-lb-hl.bytedns.net
@@ -3803,6 +3819,7 @@ gtf-eapi-quic.byteoversea.com
 gtf-eapi.byteoversea.com
 gtfac.byteoversea.com
 gtfstorage.byteoversea.com
+gtl.bytedance.com
 gtm-coupanglive.brightcovecdn.com.tlivecdn.com
 gts-ns.byteoversea.com
 gts.byteoversea.net
@@ -3915,6 +3932,7 @@ hl-cloudnative-notebook.byted.org
 hl-cloudnative.byted.org
 hl-echo.byted.org
 hl-feins.byted.org
+hl-florin.byted.org
 hl-foxtrot.byted.org
 hl-gaura.byted.org
 hl-iscsi-test.byted.org
@@ -3930,6 +3948,7 @@ hls-l11.tiktokcdn.liveplay.myqcloud.com
 hls-source-fcdn-ttp-private.tiktokd.org
 hls1.yuanzhi.org.cn.all.tlivecdn.com
 hls1.yuanzhi.org.cn.tlivecdn.com
+hlzg-caijing.byted.org
 hmxcd.com.tlivecdn.com
 hn-cnc.polaris.byteoversea.com
 hnjcinfo.com.tlivecdn.com
@@ -4225,6 +4244,7 @@ ichannel.snssdk.com
 ichannel.snssdk.com.bytedns.net
 icmtestci.backend.byte.tiktokcdn.com
 iconpark.bytedance.com
+ics-relay.byted.org
 icweiliimg1.pstatp.com
 icweiliimg1.pstatp.com.wsglb0.com
 icweiliimg6.pstatp.com
@@ -5140,6 +5160,7 @@ lf9-tk-tos.tiktokcdn.com
 lfcm.video-upload-lq-ttgw.l.bytedns.net
 lfct.video-upload-lq-ttgw.l.bytedns.net
 lfcu.video-upload-lq-ttgw.l.bytedns.net
+lfzg-caijing.byted.org
 lg-hl.snssdk.com
 lg-hl.snssdk.com.w.kunluncan.com
 lg-lf.snssdk.com
@@ -7779,6 +7800,7 @@ private.byte.3w1cj5r.byte.tiktokcdn.com
 private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 private.byte.uat.byte.ci.byte.tiktokcdn.com
 private.service.cdg1b.g.byteoversea.net
+private.service.sin2a.g.byteoversea.net
 privatemoney.com-ns.byte.tiktokcdn.com
 pro5.3w1cj5r.byte.tiktokcdn.com
 probe-09a51260.v39-perf.tiktokcdn.com
@@ -9689,6 +9711,7 @@ sgpoi.bytedance.com
 sgpstatp.com
 sgsaas1lark-internal-all-lb-vdc1.byteoversea.net
 sgsaas1lark-internal-all-lb-vdc2.byteoversea.net
+sgsaas1lark-normal-lb-sgsaas1larkidc1.byteoversea.net
 sgsnssdk.com
 sgsnssdk.com-lb.bytewlb.akadns.net
 share-1070666956.ap-northeast-1.elb.amazonaws.com
@@ -10722,6 +10745,7 @@ tos-awsuseast2a16-up.byteoversea.net
 tos-awsuseast2a16-up.muscdn.com
 tos-awsuseast2a16-up.muscdn.com.edgesuite.net
 tos-boei18n-va.byted.org
+tos-boei18n.byted.org
 tos-cdn77-tcs-a.tiktokcdn-us.com
 tos-cm-hl.snssdk.com
 tos-cn-hbzg.byted.org
@@ -10760,6 +10784,7 @@ tos-gcpnl.muscdn.com
 tos-gcpnl.tiktokcdn.com
 tos-hl-x.snssdk.com
 tos-hl-x.snssdk.com.w.kunluncan.com
+tos-i18n.byted.org
 tos-iquic-gcpid.tiktokcdn.com
 tos-lf-x.snssdk.com
 tos-lf-x.snssdk.com.w.kunluncan.com
