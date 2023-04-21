@@ -8984,6 +8984,7 @@ api.test.juiceplus.com
 api.thorne.com
 api.tranont.com
 api.uat01.herbalife.com
+api.vitacost.com
 api.xyngular.com
 api01.juiceplus.com
 api01.staging.juiceplus.com
@@ -9030,6 +9031,7 @@ app.numedica.com
 app.sitesell.com
 app.uppromote.com
 app2.numedica.com
+appapi.vitacost.com
 apparelbyhomerun.refersion.com
 apparelwarehouse.refersion.com
 appfluence.refersion.com
@@ -10360,6 +10362,9 @@ az.waraffiliate.com
 azal.buyygy.com
 azaria.refersion.com
 azcam.ehealthpro.com
+azclnonprodfhub.vitacost.com
+azclprodfhub.vitacost.com
+azcluatnonprodfhub.vitacost.com
 azdelivery.refersion.com
 azfatburner.pruvitnow.com
 aziegele.myrandf.com
@@ -11794,6 +11799,7 @@ beta.standardprocess.com
 beta.sunfluencer.com
 beta.thirtyonetoday.com
 beta.tranont.com
+beta.vitacost.com
 beta.youngevity.com
 betaineanhydroustmg.healthrangerstore.com
 betakids.refersion.com
@@ -12993,6 +12999,7 @@ blog.test.sitesell.com
 blog.thegoodinside.com
 blog.tranont.com
 blog.uppromote.com
+blog.vitacost.com
 blog2.shareasale.com
 blog3.shareasale.com
 blog4biz.pruvitnow.com
@@ -13006,6 +13013,7 @@ blogit.sitesell.com
 blogorbuild.sitesell.com
 blogpostlinks.sitesell.com
 blogs.designsforhealth.com
+blogs.vitacost.com
 blomdahlusa.refersion.com
 blommylotus.refersion.com
 blond.myasealive.com
@@ -18555,6 +18563,7 @@ committobefit.pruvitnow.com
 commune.refersion.com
 communicatingcells.myasealive.com
 communication.designsforhealth.com
+community.vitacost.com
 communityacupuncture.ehealthpro.com
 communitycymru.shopketo.com
 compania.herbalife.com
@@ -19918,6 +19927,7 @@ dailygreatnessau.refersion.com
 dailygreatnessuk.refersion.com
 dailygreatnessusa.refersion.com
 dailyhealth.pruvitnow.com
+dailyhealthtips.vitacost.com
 dailyhighclub.refersion.com
 dailylead.juiceplus.com
 dailynutra.refersion.com
@@ -28002,6 +28012,8 @@ flawlessskin.myrandf.com
 flawlessskinperfection.myrandf.com
 flawlessvapeshop.refersion.com
 flcomplete.metagenics.com
+fldc-origin.vitacost.com
+fldcbods01.vitacost.com
 fleeta.myasealive.com
 flemming-bech-hansen.bemergroup.com
 flemons.juiceplus.com
@@ -34834,6 +34846,7 @@ investinwellness.myasealive.com
 investinyourself.arbonne.com
 investmentsfactory.refersion.com
 investor.lifevantage.com
+investor.vitacost.com
 investors.lifevantage.com
 invigorateu.juiceplus.com
 invision.metagenics.com
@@ -47752,6 +47765,7 @@ lv-lv-store.dev.juiceplus.com
 lv-lv-store.juiceplus.com
 lv-lv-store.rc.juiceplus.com
 lv-lv-store.stage.juiceplus.com
+lv-origin.vitacost.com
 lv.myherbalife.com
 lv.refersion.com
 lv.thegoodinside.com
@@ -48046,6 +48060,7 @@ m.myherbalife.com
 m.nz.myherbalife.com
 m.realtime.lifeextension.com
 m.refersion.com
+m.vitacost.com
 m1.emails.lifeextension.com
 m2.emails.lifeextension.com
 m2d2pettis.pruvitnow.com
@@ -48413,6 +48428,7 @@ mail150.lifevantage.com
 mail2.herbalife.com
 mail2.juiceplus.com
 mail2.shareasale.com
+mail2.vitacost.com
 mail3.juiceplus.com
 mail4.herbalife.com
 mail4.juiceplus.com
@@ -50384,6 +50400,7 @@ mdillon.metagenics.com
 mdillon1.myrandf.com
 mdistor.myrandf.com
 mdixon.juiceplus.com
+mdm.vitacost.com
 mdmarriott.myrandf.com
 mdnelson74.pruvitnow.com
 mdohrmann520.buyygy.com
@@ -51100,6 +51117,7 @@ mermaidmadison.shopketo.com
 mermaidmentor.pruvitnow.com
 mermaidmentor.shopketo.com
 mermaidpillows.refersion.com
+merovingian.vitacost.com
 merrellhardy.voxxlife.com
 merriamchiro.metagenics.com
 merriehudson.arbonne.com
@@ -54805,6 +54823,7 @@ nevergiveup.myasealive.com
 nevernight06.shopketo.com
 nevilleburman.myasealive.com
 nevmoore.youngevity.com
+new-nowalchemy.goaffpro.com
 new-web1.mydailychoice.com
 new.customer-sync.prod.healy.shop
 new.nogreaterjoy.org
@@ -65521,6 +65540,7 @@ server9.sitesell.com
 service-masters.sitesell.com
 service-selling.sitesell.com
 service.sitesell.com
+service.vitacost.com
 servicedogboutique.refersion.com
 services-casestudies.sitesell.com
 services.oer.proxy.thirtyonegifts.com
@@ -67349,12 +67369,19 @@ slutynski.myrandf.com
 slwatson.myrandf.com
 slweedman.pruvitnow.com
 slxweb.metagenics.com
+sm-tracking.vitacost.com
+sm1.vitacost.com
 sm12149.juiceplus.com
+sm2.vitacost.com
 sm20575.juiceplus.com
 sm22331.juiceplus.com
+sm3.vitacost.com
 sm30223.juiceplus.com
+sm4.vitacost.com
 sm40376.juiceplus.com
 sm42884.juiceplus.com
+sm5.vitacost.com
+sm6.vitacost.com
 sm61402.juiceplus.com
 sm62553.juiceplus.com
 sm76082.juiceplus.com
@@ -67489,9 +67516,12 @@ smtp.sitesell.com
 smtp.thirtyonegifts.com
 smtp.youngevityonline.com
 smtp1.sitesell.com
+smtp1.vitacost.com
 smtp2.metagenics.com
 smtp2.sitesell.com
+smtp2.vitacost.com
 smtp3.sitesell.com
+smtp3.vitacost.com
 smtp4.sitesell.com
 smtp5.sitesell.com
 smtp6.sitesell.com
@@ -74687,6 +74717,9 @@ vapercash.refersion.com
 vaperight.refersion.com
 vapes.refersion.com
 vapevetstore.refersion.com
+vapi-int.vitacost.com
+vapi-test.vitacost.com
+vapi.vitacost.com
 vapor95.refersion.com
 vapordiet.refersion.com
 vaporengine.refersion.com
@@ -75302,6 +75335,7 @@ vitacare.myasealive.com
 vitacine.youngevity.com
 vitacine.youngevityonline.com
 vitaclaychef.refersion.com
+vitacost.com
 vitacreo.bemergroup.com
 vitadilecta.myasealive.com
 vitadromandrearenneberg.bemergroup.com
@@ -75700,6 +75734,7 @@ wakefulwellness.myasealive.com
 wakelandhealth.youngevity.com
 wakingtimes.thegoodinside.com
 wakuyasuko.lifevantage.com
+walapi.vitacost.com
 walda.myasealive.com
 waldins.metagenics.com
 waldkirch.myasealive.com
@@ -81781,6 +81816,7 @@ www.netocetonic.pruvitnow.com
 www.netsys.regenalife.net
 www.nevadaott.arbonne.com
 www.nevjawigfall.myrandf.com
+www.new-nowalchemy.goaffpro.com
 www.newdeal.regenalife.net
 www.newedenwellness.bemergroup.com
 www.newfacenow.myrandf.com
@@ -83402,6 +83438,7 @@ www.virtual.arbonne.com
 www.visibia.bemergroup.com
 www.visit.youngevity.com
 www.vitacine.youngevity.com
+www.vitacost.com
 www.vitaliti.pruvitnow.com
 www.vitalsein-shop.bemergroup.com
 www.vitaminc.healthrangerstore.com
