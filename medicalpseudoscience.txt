@@ -247,6 +247,7 @@
 2chew.myctfo.com
 2citizenmoms.com
 2damaxrecords.myctfo.com
+2dapi.production.rokfin.com
 2dassets.infowars.com
 2dbackup.learntherisk.org
 2dbfc.ylsocial.net
@@ -256,6 +257,7 @@
 2dnews.theepochtimes.com
 2dsrv01.nvic.org
 2dsync.healy.shop
+2dv2.production.rokfin.com
 2dyoungliving.ylsocial.net
 2feel.thegoodinside.com
 2fwww.cnsnews.com
@@ -4253,6 +4255,7 @@ autodiscover.thefreedomarticles.com
 autodiscover.theglutensummit.com
 autodiscover.thegnmsolution.com
 autodiscover.theirishsentinel.com
+autodiscover.thelastamericanvagabond.com
 autodiscover.thelightofdayradioshow.com
 autodiscover.thelivingcentre.com
 autodiscover.themadtruther.com
@@ -6632,6 +6635,7 @@ brenn-o-kem.co.za
 brenna-cohen.healthcoach.integrativenutrition.com
 brent-kaluhikaua.healthcoach.integrativenutrition.com
 brent-kaluhikaua.healthcoach1.integrativenutrition.com
+brentcates.substack.com
 brenteck.metagenics.com
 brettcan1.myctfo.com
 bretweinstein.net
@@ -8834,6 +8838,7 @@ chicks.abovetopsecret.com
 chicksonright.com
 chiefcapnflop.myctfo.com
 chiefio.wordpress.com
+chiefnerd.id
 chieforiginalsmctoil.healthrangerstore.com
 chieforiginalsmctoil.naturalnews.com
 chikara.myctfo.com
@@ -9138,7 +9143,15 @@ chuckmart.myctfo.com
 chuckyd.myctfo.com
 chuffnagle.metagenics.com
 chuhaoran88.cn.parentsaganinstmandatoryvaccines.net
+chunk-gce-us-east1-production.cfcdn.v.rokfin.com
+chunk-gce-us-east1-production.fastly.v.rokfin.com
+chunk-gce-us-east4-production.cfcdn.v.rokfin.com
+chunk-gce-us-east4-production.fastly.v.rokfin.com
+chunk-gcp-us-east1-vop1.cfcdn.v.rokfin.com
+chunk-gcp-us-east1-vop1.fastly.v.rokfin.com
 chunk-gcp-us-east1-vop1.fastly.video.gettr.com
+chunk-gcp-us-east4-vop1.cfcdn.v.rokfin.com
+chunk-gcp-us-east4-vop1.fastly.v.rokfin.com
 chunk-gcp-us-east4-vop1.fastly.video.gettr.com
 chunrun1125.cn.parentsaganinstmandatoryvaccines.net
 church-of-the-creator.1215.org
@@ -10388,6 +10401,7 @@ covidvaccineinjuries.com
 covidvaccinereactions.com
 covidvaccinevariant.com
 covidvaccinevictims.com
+covidvaxclassaction.com.au
 covidvaxexposed.com
 covidwatching.org
 cowco-de-imagenes.iarp.org
@@ -11247,6 +11261,7 @@ cpanel.thailandmedical.news
 cpanel.thatmillennialmama.com
 cpanel.thatvitaminmovie.com
 cpanel.the-heal-yourself-series.com
+cpanel.the.thelastamericanvagabond.com
 cpanel.thebrainsyouwerebornwith.com
 cpanel.thebreathablebody.com
 cpanel.thebreathingclinic.com
@@ -11267,6 +11282,7 @@ cpanel.thehealyusa.com
 cpanel.thehuntingtonian.com
 cpanel.theiowastandard.com
 cpanel.theirishsentinel.com
+cpanel.thelastamericanvagabond.com
 cpanel.thelifeco.com
 cpanel.thelightofdayradioshow.com
 cpanel.thelivingcentre.com
@@ -12210,6 +12226,7 @@ cpcalendars.test.online.acnem.org
 cpcalendars.test.water-for-health.co.uk
 cpcalendars.thatvitaminmovie.com
 cpcalendars.the-heal-yourself-series.com
+cpcalendars.the.thelastamericanvagabond.com
 cpcalendars.the17news.com
 cpcalendars.thealterofdeceit.net
 cpcalendars.thebrainsyouwerebornwith.com
@@ -12229,6 +12246,7 @@ cpcalendars.thegoodlylawfulsociety.org
 cpcalendars.thehealyusa.com
 cpcalendars.theiowastandard.com
 cpcalendars.theirishsentinel.com
+cpcalendars.thelastamericanvagabond.com
 cpcalendars.thelifeco.com
 cpcalendars.thelightofdayradioshow.com
 cpcalendars.themadtruther.com
@@ -13176,6 +13194,7 @@ cpcontacts.test.water-for-health.co.uk
 cpcontacts.thailandmedical.news
 cpcontacts.thatvitaminmovie.com
 cpcontacts.the-heal-yourself-series.com
+cpcontacts.the.thelastamericanvagabond.com
 cpcontacts.the17news.com
 cpcontacts.thealterofdeceit.net
 cpcontacts.thebrainsyouwerebornwith.com
@@ -13198,6 +13217,7 @@ cpcontacts.thehealyusa.com
 cpcontacts.thehuntingtonian.com
 cpcontacts.theiowastandard.com
 cpcontacts.theirishsentinel.com
+cpcontacts.thelastamericanvagabond.com
 cpcontacts.thelifeco.com
 cpcontacts.thelightofdayradioshow.com
 cpcontacts.themadtruther.com
@@ -14746,6 +14766,7 @@ demo.theenergyblueprint.com
 demo.totalhealthmagazine.com
 demo.truthout.org
 demo.twitchy.com
+demo.unjected.com
 demo.webseed.com
 demo.weliveconscious.com
 demo1.md-hq.com
@@ -17765,6 +17786,7 @@ email.qnlabs.com
 email.realityzone.com
 email.redvoicemedia.com
 email.richardgage911.org
+email.rokfin.com
 email.rumble.com
 email.springintegrativehealth.com
 email.stream.org
@@ -18728,6 +18750,7 @@ evananda.net
 evangelicaldarkewb.com
 evangelicaloutreach.org
 evansfuture.myctfo.com
+evavlaardingerbroek.substack.com
 eve-colantoni.healthcoach.integrativenutrition.com
 eve-colantoni.healthcoach1.integrativenutrition.com
 eve-goodnow.healthcoach.integrativenutrition.com
@@ -18745,6 +18768,7 @@ evelynne924.myctfo.com
 evelynswellness.myctfo.com
 event.davidlynchfoundation.org
 event.nfh.ca
+event.staging.rokfin.com
 event.vaccineeducation.org
 events.aier.org
 events.amazingdiscoveries.org
@@ -19092,6 +19116,7 @@ fasterwellness.voxxlife.com
 fastestguninthewest.bitchute.com
 fastfood.news
 fastly.tv.childrenshealthdefense.org
+fastly.v.rokfin.com
 fastly.video.gettr.com
 fastpacedfoodie.healthcoach.integrativenutrition.com
 fastpacedfoodie.healthcoach1.integrativenutrition.com
@@ -21320,6 +21345,7 @@ grandmasremedies.com
 grandpadan.myctfo.com
 grandrounds.ifm.org
 grandtheftworld.com
+grandtheftworld.substack.com
 granitegrok.com
 grannmingus.myctfo.com
 grant-mann.healthcoach.integrativenutrition.com
@@ -24038,6 +24064,7 @@ image.gaiaherbs.com
 image.gbnews.uk
 image.mail.integrativenutrition.com
 image.updates.tuckercarlson.com
+image.v.rokfin.com
 imagegrab.wn.com
 imagegrab1.wn.com
 images.abovetopsecret.com
@@ -26182,6 +26209,7 @@ jordana-kremnitzer.healthcoach1.integrativenutrition.com
 jordanatoback.thegoodinside.com
 jordandownz87.myctfo.com
 jordansather.com
+jordansather.substack.com
 jordanschachtel.substack.com
 jordanscrossing.net
 joripress.com
@@ -27033,6 +27061,8 @@ kc-anderson.healthcoach1.integrativenutrition.com
 kc-gott.healthcoach.integrativenutrition.com
 kc.production.rokfin.com
 kc.staging.rokfin.com
+kc0.staging.rokfin.com
+kc1.staging.rokfin.com
 kcancer.myctfo.com
 kccovidsummit.org
 kchavers.metagenics.com
@@ -27295,6 +27325,7 @@ kevynkennedynd.com
 kewb.healthcoach.integrativenutrition.com
 kewb.healthcoach1.integrativenutrition.com
 keyana-marie-jackson.healthcoach.integrativenutrition.com
+keycloak.staging.rokfin.com
 keyctfo.myctfo.com
 keyesmountain.com
 keyla-escribano.healthcoach.integrativenutrition.com
@@ -31851,6 +31882,7 @@ mail.thatmillennialmama.com
 mail.thatvitaminmovie.com
 mail.thcfinder.com
 mail.the-heal-yourself-series.com
+mail.the.thelastamericanvagabond.com
 mail.the17news.com
 mail.thealternativedaily.com
 mail.thealterofdeceit.net
@@ -31890,6 +31922,7 @@ mail.thehealthyhomeeconomist.com
 mail.thehealyusa.com
 mail.thehelix12project.org
 mail.theiowastandard.com
+mail.thelastamericanvagabond.com
 mail.thelifeco.com
 mail.thelightofdayradioshow.com
 mail.thelivingcentre.com
@@ -31971,6 +32004,7 @@ mail.trumpnews.live
 mail.trunews.com
 mail.truthcomestolight.com
 mail.truththeory.com
+mail.truthtrs.com
 mail.truthundercover.com
 mail.trybandoo.com
 mail.tsarizm.com
@@ -32393,7 +32427,15 @@ mangosteen.naturalnews.com
 manhattanbeach.ehlinelaw.com
 manhattanmyo.com
 manhattanneighbors.org
+manifest-gce-us-east1-production.cfcdn.v.rokfin.com
+manifest-gce-us-east1-production.fastly.v.rokfin.com
+manifest-gce-us-east4-production.cfcdn.v.rokfin.com
+manifest-gce-us-east4-production.fastly.v.rokfin.com
+manifest-gcp-us-east1-vop1.cfcdn.v.rokfin.com
+manifest-gcp-us-east1-vop1.fastly.v.rokfin.com
 manifest-gcp-us-east1-vop1.fastly.video.gettr.com
+manifest-gcp-us-east4-vop1.cfcdn.v.rokfin.com
+manifest-gcp-us-east4-vop1.fastly.v.rokfin.com
 manifest-gcp-us-east4-vop1.fastly.video.gettr.com
 manifestingwellness.com
 manifestooffaith.complicitclergy.com
@@ -35971,6 +36013,7 @@ mykidsmychoice.blogspot.com
 mykidsmychoice.com
 mylesspar.metagenics.com
 mylife330.myctfo.com
+mylifeinthethrillkillmedicalcult.itemorder.com
 mylifestyle.hempworx.com
 mylifestyle.mydailychoice.com
 mylwc.ehealthpro.com
@@ -36776,6 +36819,7 @@ new.theanp.co.uk
 new.thecbdistillery.com
 new.thedrswolfson.com
 new.thegatewaypundit.com
+new.thelastamericanvagabond.com
 new.thelifeco.com
 new.thelivingcentre.com
 new.thrivetimeshow.com
@@ -37712,6 +37756,7 @@ ns1.theeconomiccollapseblog.com
 ns1.theenergyblueprint.com
 ns1.thefreethoughtproject.com
 ns1.thehocatt.com
+ns1.thelastamericanvagabond.com
 ns1.thelibertyloft.com
 ns1.themodelhealthshow.com
 ns1.thevaccinereaction.org
@@ -37862,6 +37907,7 @@ ns2.theeconomiccollapseblog.com
 ns2.theenergyblueprint.com
 ns2.thefreethoughtproject.com
 ns2.thehocatt.com
+ns2.thelastamericanvagabond.com
 ns2.thelibertyloft.com
 ns2.themodelhealthshow.com
 ns2.thevaccinereaction.org
@@ -40697,6 +40743,7 @@ prayingmantis.substack.com
 prd.freedomsquare.com
 pre-prod.cnsnews.com
 pre-prod.twitchy.com
+pre-prod.unjected.com
 pre.afapledge.afa.net
 pre.cnsnews.com
 pre.ortodontia.ee
@@ -40922,6 +40969,7 @@ prod01.collective-evolution.com
 prod1.noharm.org
 prod2.noharm.org
 prod2.researchednutritionals.com
+prodapi.rokfin.com
 produce.www.foodnews.org
 producer.noagendashow.net
 product.fullscript.com
@@ -41030,6 +41078,7 @@ prospinechiropractic.ehealthpro.com
 prostaging.prohealth.com
 prostatecancer911.com
 protect.myctfo.com
+protectfromspike.com
 protecting.thegoodinside.com
 protectpro.net
 protein.draxe.com
@@ -41833,6 +41882,8 @@ rebootfhc.md-hq.com
 rebootfhcemr.md-hq.com
 rebound.ricochet.com
 rebuildnh.com
+rebunked.news
+rebunkedmerch.itemorder.com
 recallbradlittle.freedomman.org
 recessionbusterseu.myctfo.com
 recetas.mercola.com
@@ -42717,6 +42768,7 @@ robertcoppola.metagenics.com
 robertdavidsteele.com
 robertfkennedyjr.substack.com
 robertfrias.myctfo.com
+robertinlakesh.substack.com
 robertjrussellcompanies.myctfo.com
 robertlamont.myctfo.com
 roberto.myctfo.com
@@ -45141,6 +45193,7 @@ simone-twombly.healthcoach.integrativenutrition.com
 simonebingham.thegoodinside.com
 simonemartinez.healthcoach.integrativenutrition.com
 simonemartinez.healthcoach1.integrativenutrition.com
+simonesler.substack.com
 simonetta-foundos.healthcoach.integrativenutrition.com
 simoneweilcenter.org
 simonmicalo.myctfo.com
@@ -45206,6 +45259,7 @@ site.choq.com
 site.euroweeklynews.com
 site.parentsaganinstmandatoryvaccines.net
 site.shinebrightnow.com
+site.staging.rokfin.com
 site1.adserver.afa.net
 site1.afa.net
 site1.afajournal.org
@@ -46127,6 +46181,7 @@ stage-m2-api-1.wellevate.me
 stage-m2-api-2.wellevate.me
 stage-m2-www-1.wellevate.me
 stage-m2-www-2.wellevate.me
+stage-rokereumpy.production.rokfin.com
 stage-secure.rokfin.com
 stage-sia.americanstatenationals.org
 stage.acnem.org
@@ -46166,6 +46221,7 @@ stage.theepochtimes.com
 stage.therootbrands.com
 stage.training-sia.americanstatenationals.org
 stage.twitchy.com
+stage.unjected.com
 stage.vdare.com
 stage.washingtontimes.com
 stage.wellevate.me
@@ -47116,6 +47172,7 @@ stream.patriotssoapbox.com
 stream.peoplespatriotnetwork.com
 stream.theothersideofmidnight.com
 stream.tntradio.live
+stream.v.rokfin.com
 stream01.bitchute.com
 stream1.a.infowars.com
 stream1.infowars.com
@@ -48574,6 +48631,7 @@ the-wellness-place.md-hq.com
 the.g2sacraments.org
 the.theeconomiccollapseblog.com
 the.thefourwinds.com
+the.thelastamericanvagabond.com
 the17news.com
 the2020panel.com
 the5gsummit.com
@@ -49416,6 +49474,7 @@ tl.elearning.iaomt.org
 tl.iaomt.org
 tl.wn.com
 tlane.myctfo.com
+tlavagabond.substack.com
 tlbutler.myctfo.com
 tlcex01.thelifeco.com
 tlcex02.thelifeco.com
@@ -50066,6 +50125,7 @@ truthstreammedia.com
 truthsummit.info
 truthtellernl.wordpress.com
 truththeory.com
+truthtrs.com
 truthundercover.com
 truthunedited.com
 truthunmuted.org
@@ -50515,6 +50575,8 @@ universecbd.myctfo.com
 university.dogsnaturallymagazine.com
 university.metagenics.com
 unixy.mises.org
+unjected.com
+unjected.substack.com
 unk.choq.com
 unknown.choq.com
 unlimited.thatvitaminmovie.com
@@ -52986,6 +53048,7 @@ webdisk.thehealyusa.com
 webdisk.thehuntingtonian.com
 webdisk.theiowastandard.com
 webdisk.theirishsentinel.com
+webdisk.thelastamericanvagabond.com
 webdisk.thelifeco.com
 webdisk.thelightofdayradioshow.com
 webdisk.thelivingcentre.com
@@ -54067,6 +54130,7 @@ webmail.thatmillennialmama.com
 webmail.thatvitaminmovie.com
 webmail.thcfinder.com
 webmail.the-heal-yourself-series.com
+webmail.the.thelastamericanvagabond.com
 webmail.thealternativedaily.com
 webmail.thebreathablebody.com
 webmail.thebreathingclinic.com
@@ -54088,6 +54152,7 @@ webmail.thehealyusa.com
 webmail.thehuntingtonian.com
 webmail.theiowastandard.com
 webmail.theirishsentinel.com
+webmail.thelastamericanvagabond.com
 webmail.thelifeco.com
 webmail.thelightofdayradioshow.com
 webmail.themodelhealthshow.com
@@ -54687,6 +54752,7 @@ whm.staging.physiciansforinformedconsent.org
 whm.staging.thevaccinereaction.org
 whm.steverotter.com
 whm.taylormarshall.com
+whm.the.thelastamericanvagabond.com
 whm.theeconomiccollapseblog.com
 whm.thefreethoughtproject.com
 whm.thelifeco.com
@@ -57143,6 +57209,7 @@ www.brendakaydugan.myctfo.com
 www.brendamiller.healthcoach.integrativenutrition.com
 www.brendandmurphy.com
 www.brenn-o-kem.co.za
+www.brentcates.substack.com
 www.bretweinstein.net
 www.briancarter.myctfo.com
 www.briannalpblog.blogspot.com
@@ -57687,6 +57754,7 @@ www.chi.us
 www.chicagoreader.com
 www.chicksonright.com
 www.chiefio.wordpress.com
+www.chiefnerd.id
 www.childhealthsafety.wordpress.com
 www.childhoodshots.com
 www.childrenshealthdefense.eu
@@ -58201,6 +58269,7 @@ www.covidtruths.co.uk
 www.covidvaccineinjuries.com
 www.covidvaccinereactions.com
 www.covidvaccinevictims.com
+www.covidvaxclassaction.com.au
 www.covidvaxexposed.com
 www.covidwatching.org
 www.cowgirlup.hempworx.com
@@ -59600,6 +59669,7 @@ www.evabaez.myctfo.com
 www.evananda.net
 www.evangelicaldarkewb.com
 www.evangelicaloutreach.org
+www.evavlaardingerbroek.substack.com
 www.eve-kessner.healthcoach.integrativenutrition.com
 www.eve-kessner.healthcoach1.integrativenutrition.com
 www.eve-rosenberg.healthcoach.integrativenutrition.com
@@ -60472,6 +60542,7 @@ www.grandmageri422.me
 www.grandmaportal.blogspot.com
 www.grandmasremedies.com
 www.grandtheftworld.com
+www.grandtheftworld.substack.com
 www.granitegrok.com
 www.grantadental.co.uk
 www.grasshoppper.substack.com
@@ -61768,6 +61839,7 @@ www.joondalup.inmycommunity.com.au
 www.joondalupweekender.inmycommunity.com.au
 www.jord56.myctfo.com
 www.jordansather.com
+www.jordansather.substack.com
 www.jordanschachtel.substack.com
 www.jordanscrossing.net
 www.joripress.com
@@ -63310,6 +63382,7 @@ www.myimpactchiro.com
 www.myintrasite.com
 www.mykidsmychoice.blogspot.com
 www.mykidsmychoice.com
+www.mylifeinthethrillkillmedicalcult.itemorder.com
 www.mymail.complicitclergy.com
 www.mymail.thefranzcenter.com
 www.mymap.metagenics.com
@@ -64599,6 +64672,7 @@ www.prayerline.firepowerministry.org
 www.prayformychild.org
 www.prayingmantis.substack.com
 www.prd.freedomsquare.com
+www.pre-prod.unjected.com
 www.pre.ortodontia.ee
 www.preciousorganics.com.au
 www.precisiondistributing.com
@@ -64712,6 +64786,7 @@ www.prosper.nicolanewman.com
 www.prosperity.myctfo.com
 www.prostatecancer911.com
 www.protect.myctfo.com
+www.protectfromspike.com
 www.protectpro.net
 www.proteinresearch.commonlawcourt.com
 www.protestia.com
@@ -64983,6 +65058,8 @@ www.rebelne.ws
 www.rebelnews.com
 www.rebelpodcast.org
 www.rebuildnh.com
+www.rebunked.news
+www.rebunkedmerch.itemorder.com
 www.recallbradlittle.freedomman.org
 www.recife.cityguides.wn.com
 www.recipes.pathwaystofamilywellness.org
@@ -65241,6 +65318,7 @@ www.robertchandler.substack.com
 www.robertdavidsteele.com
 www.robertfkennedyjr.substack.com
 www.robertfrias.myctfo.com
+www.robertinlakesh.substack.com
 www.robertscottbell.com
 www.robertspencer.org
 www.robertwenzel.com
@@ -65779,6 +65857,7 @@ www.simeon-nathaniel-darwick.healthcoach.integrativenutrition.com
 www.simoncinicancertherapy.com
 www.simone-godina.healthcoach.integrativenutrition.com
 www.simonemartinez.healthcoach.integrativenutrition.com
+www.simonesler.substack.com
 www.simoneweilcenter.org
 www.simonparkes.org
 www.simpledoctor.org
@@ -66007,6 +66086,7 @@ www.stage.origin.doctoroz.com
 www.stage.planetherbs.com
 www.stage.safetrek.com
 www.stage.shieldyourbody.com
+www.stage.unjected.com
 www.stage1.healy.shop
 www.stage2.healy.shop
 www.staging.actuality.tv
@@ -66620,6 +66700,7 @@ www.the-o-zone.cc
 www.the-parallel-universe.com
 www.the-rainbow-diet.com
 www.the-studio-reykjavik.com
+www.the.thelastamericanvagabond.com
 www.the17news.com
 www.the2020panel.com
 www.the5gsummit.com
@@ -67122,6 +67203,7 @@ www.tkart4you.com
 www.tkbowden.myctfo.com
 www.tl.wn.com
 www.tlane.myctfo.com
+www.tlavagabond.substack.com
 www.tldm.org
 www.tm.covfefebakery.com
 www.tm.org
@@ -67349,6 +67431,7 @@ www.truthstreammedia.com
 www.truthsummit.info
 www.truthtellernl.wordpress.com
 www.truththeory.com
+www.truthtrs.com
 www.truthundercover.com
 www.truthunedited.com
 www.truthunmuted.org
@@ -67476,6 +67559,8 @@ www.unityprojectonline.com
 www.unitywithoutcompromise.com
 www.universalbiomat.com
 www.universallifetools.com
+www.unjected.com
+www.unjected.substack.com
 www.unlimitedhangout.com
 www.unmaskdata.com
 www.unmaskingorac.blogspot.com
@@ -68557,6 +68642,7 @@ www.zoe-webb.healthcoach.integrativenutrition.com
 www.zombie.news
 www.zoomersnews.myctfo.com
 www.zoopy.com
+www.zowe.substack.com
 www.zoya-davidov.healthcoach.integrativenutrition.com
 www.zpenergy.com
 www.zrtlab.com
@@ -69190,6 +69276,7 @@ zoopy.com
 zorin.eskimo.com
 zosbao.cn.parentsaganinstmandatoryvaccines.net
 zovneo.cn.parentsaganinstmandatoryvaccines.net
+zowe.substack.com
 zoya-davidov.healthcoach.integrativenutrition.com
 zoya-davidov.healthcoach1.integrativenutrition.com
 zozime.cn.parentsaganinstmandatoryvaccines.net
