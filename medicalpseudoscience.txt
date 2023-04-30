@@ -251,6 +251,7 @@
 2dassets.infowars.com
 2dbackup.learntherisk.org
 2dbfc.ylsocial.net
+2dcluster.brighteon.com
 2ddisease.naturalnews.com
 2dedge.brighteon.com
 2dlearnforyourwellbeing.ylsocial.net
@@ -341,6 +342,7 @@
 3e-www.drtenpenny.com
 3elements.ehealthpro.com
 3elements.metagenics.com
+3ewww.cnsnews.com
 3ewww.israelnationalnews.com
 3healthtips.myctfo.com
 3pl.medicinal-foods.com
@@ -676,6 +678,7 @@ _dc-mx.66a04749f73f.shtfplan.com
 _dc-mx.7c29bfec23c6.doctorsandscience.com
 _dc-mx.9b67ea32a1c4.americasfrontlinedocs.com
 _dc-mx.9fa259110b4a.lotuseaters.com
+_dc-mx.c38c53ed271d.unmaskyourchild.com
 _dc-mx.eda573c5d48d.thecovidworld.com
 _dmarc.breitbart.com
 _dmarc.gab.com
@@ -2826,6 +2829,7 @@ api.integrativenutrition.com
 api.k8s.brighteon.social
 api.kla.tv
 api.lifesitenews.com
+api.ma.gettr.com
 api.microbeformulas.com
 api.mindbodygreen.com
 api.mn.co
@@ -3059,6 +3063,7 @@ archive.bg.wn.com
 archive.bs.wn.com
 archive.charlie-the-unicorn.wn.com
 archive.chopra.com
+archive.cnsnews.com
 archive.conservativereview.com
 archive.cornwallalliance.org
 archive.cs.wn.com
@@ -10366,6 +10371,7 @@ covid19alternativeperspectives.wordpress.com
 covid19criticalcare.com
 covid19declassified.com
 covid19mdhub.com
+covid19refusers.com
 covid19reporter.com
 covidahl.net
 covidcalltohumanity.org
@@ -10631,6 +10637,7 @@ cpanel.couragetofacecovid.com
 cpanel.covertactionmagazine.com
 cpanel.covfefebakery.com
 cpanel.covid-19forum.org
+cpanel.covid19refusers.com
 cpanel.covidtreatmentoptions.com
 cpanel.cpld.nl
 cpanel.creativedestructionmedia.com
@@ -11336,6 +11343,7 @@ cpanel.turbooxygen.com
 cpanel.twitchy.com
 cpanel.unitynewsnetwork.co.uk
 cpanel.unmasktyranny.com
+cpanel.unmaskyourchild.com
 cpanel.unshackledminds.com
 cpanel.unvaccinatedchildren.com
 cpanel.uspandits.tm.org
@@ -11610,6 +11618,7 @@ cpcalendars.courses4mastery.com
 cpcalendars.covertactionmagazine.com
 cpcalendars.covfefebakery.com
 cpcalendars.covid-19forum.org
+cpcalendars.covid19refusers.com
 cpcalendars.covidtreatmentoptions.com
 cpcalendars.cpld.nl
 cpcalendars.cre8-health.com
@@ -12300,6 +12309,7 @@ cpcalendars.turbooxygen.com
 cpcalendars.tv.greenmedinfo.com
 cpcalendars.uncoverdc.com
 cpcalendars.unmasktyranny.com
+cpcalendars.unmaskyourchild.com
 cpcalendars.unshackledminds.com
 cpcalendars.unvaccinatedchildren.com
 cpcalendars.uspandits.tm.org
@@ -12571,6 +12581,7 @@ cpcontacts.courses4mastery.com
 cpcontacts.covertactionmagazine.com
 cpcontacts.covfefebakery.com
 cpcontacts.covid-19forum.org
+cpcontacts.covid19refusers.com
 cpcontacts.covidtreatmentoptions.com
 cpcontacts.cpld.nl
 cpcontacts.cre8-health.com
@@ -13275,6 +13286,7 @@ cpcontacts.tv.greenmedinfo.com
 cpcontacts.twofeathers.com
 cpcontacts.uncoverdc.com
 cpcontacts.unmasktyranny.com
+cpcontacts.unmaskyourchild.com
 cpcontacts.unshackledminds.com
 cpcontacts.unvaccinatedchildren.com
 cpcontacts.uspandits.tm.org
@@ -14325,6 +14337,7 @@ dc-8e363b1ab0e1.washingtontimes.com
 dc-8f93a18544ed.rivercitymalone.com
 dc-91665e159133.nationaldailyng.com
 dc-9648d1ad8fb7.goyimtv.com
+dc-9759b0ed2e17.covid19refusers.com
 dc-9f759e4cc7fd.bioelectromagnetics.org
 dc-a8558793d582.theartsofentertainment.com
 dc-aa8e722993._spfm.drdanielle.com
@@ -16861,6 +16874,7 @@ drtenpenny.substack.com
 drtenpenny.thegoodinside.com
 drtenpennystore.com
 drtesslawrie.substack.com
+drthacker.ehealthpro.com
 drthackeremr.md-hq.com
 drtheresa.myctfo.com
 drthindhomeopathy.com
@@ -21042,6 +21056,7 @@ glyphosate.detoxlab.org
 glyphosate.news
 glyphosatetested.com
 gm.healthcoach.integrativenutrition.com
+gm.healthcoach1.integrativenutrition.com
 gma.md-hq.com
 gmail.theblaze.com
 gman4u.myctfo.com
@@ -24443,6 +24458,7 @@ insightastro.com
 insightbiohealth.md-hq.com
 insightfunctionalmedicine.md-hq.com
 insightintegrativemedicine.md-hq.com
+insights.ma.gettr.com
 insights.thehighwire.com
 insightsevents.radio.washingtontimes.com
 inspades.news
@@ -26617,6 +26633,7 @@ kacy-franzen.healthcoach1.integrativenutrition.com
 kad.myctfo.com
 kaelyn-morrill.healthcoach1.integrativenutrition.com
 kaelyn-pehrson.healthcoach1.integrativenutrition.com
+kafdrop-cdc.prod2.uc1.gke.gettr.com
 kafka-test.frankfurt.cam.iherb.com
 kafka-test.singapore.cam.iherb.com
 kaila671.myctfo.com
@@ -29647,6 +29664,7 @@ livonlabs.com
 liz-brazier.healthcoach.integrativenutrition.com
 liz-fatone.healthcoach.integrativenutrition.com
 liz-george.healthcoach.integrativenutrition.com
+liz-george.healthcoach1.integrativenutrition.com
 liz-kerby.healthcoach.integrativenutrition.com
 liz-kerby.healthcoach1.integrativenutrition.com
 liz-sands.healthcoach.integrativenutrition.com
@@ -30355,6 +30373,7 @@ maajidnawaz.substack.com
 mac253.myctfo.com
 maca.healthrangerstore.com
 maca.naturalnews.com
+macadamianuts.healthrangerstore.com
 macedonia.wn.com
 macedonian.wn.com
 macfieldmd.metagenics.com
@@ -30834,6 +30853,7 @@ mail.covertactionmagazine.com
 mail.covfefebakery.com
 mail.covid-19-nieznane-fakty.pl
 mail.covid-19forum.org
+mail.covid19refusers.com
 mail.covidglobalnews.live
 mail.covidtreatmentoptions.com
 mail.cozy.tv
@@ -32018,6 +32038,7 @@ mail.uncoverdc.com
 mail.unifythepeople.ca
 mail.unitedpushback.com
 mail.unmasktyranny.com
+mail.unmaskyourchild.com
 mail.unshackledminds.com
 mail.unvaccinatedchildren.com
 mail.urbanremedy.com
@@ -43556,6 +43577,7 @@ sanasjiaclervoix.co
 sanavita.md-hq.com
 sanavitaemr.md-hq.com
 sanbernardino.ehlinelaw.com
+sanctuary.getheally.com
 sanctuary.md-hq.com
 sanctuarycities.fetch.news
 sanctuarymedical.md-hq.com
@@ -46658,6 +46680,7 @@ static.ezinearticles.com
 static.farm.ewg.org
 static.fee.org
 static.foodnews.org
+static.gcp.ma.gettr.com
 static.indiamart.com
 static.infowars.com
 static.jimbakkershow.com
@@ -50589,6 +50612,7 @@ unmaskingorac.blogspot.com
 unmaskourkids.com
 unmasksc.com
 unmasktyranny.com
+unmaskyourchild.com
 unmaskyourchild.org
 unprocessedvegan.healthcoach.integrativenutrition.com
 unprocessedvegan.healthcoach1.integrativenutrition.com
@@ -51433,6 +51457,7 @@ violetofvail.org
 violetskiesfamilyhealth.md-hq.com
 violetskiesfamilyhealthportal.md-hq.com
 violetta-k.healthcoach.integrativenutrition.com
+violin.api.kla.tv
 violin.kla.tv
 vip.edocbd.com
 vip.frankspeech.com
@@ -52011,6 +52036,7 @@ web.emofree.com
 web.givesendgo.com
 web.greenmedinfo.com
 web.healthnutnews.com
+web.ma.gettr.com
 web.nativeremedies.com
 web.newrepublic.com
 web.opednews.com
@@ -52333,6 +52359,7 @@ webdisk.courses4mastery.com
 webdisk.covertactionmagazine.com
 webdisk.covfefebakery.com
 webdisk.covid-19forum.org
+webdisk.covid19refusers.com
 webdisk.covidtreatmentoptions.com
 webdisk.cpld.nl
 webdisk.cre8-health.com
@@ -53113,6 +53140,7 @@ webdisk.twitchy.com
 webdisk.twofeathers.com
 webdisk.uncoverdc.com
 webdisk.unmasktyranny.com
+webdisk.unmaskyourchild.com
 webdisk.unshackledminds.com
 webdisk.unvaccinatedchildren.com
 webdisk.usawatchdog.com
@@ -53449,6 +53477,7 @@ webmail.couragetofacecovid.com
 webmail.covertactionmagazine.com
 webmail.covfefebakery.com
 webmail.covid-19forum.org
+webmail.covid19refusers.com
 webmail.covidtreatmentoptions.com
 webmail.cp.choq.com
 webmail.cpld.nl
@@ -54209,6 +54238,7 @@ webmail.twitchy.com
 webmail.uncoverdc.com
 webmail.unitynewsnetwork.co.uk
 webmail.unmasktyranny.com
+webmail.unmaskyourchild.com
 webmail.unshackledminds.com
 webmail.unvaccinatedchildren.com
 webmail.usawatchdog.com
@@ -55300,9 +55330,11 @@ ww.bitchute.com
 ww.bizpacreview.com
 ww.bookstudygroups.org
 ww.cnsnews.com
+ww.crown.kla.tv
 ww.doctoroz.com
 ww.dr-rath-foundation.org
 ww.dreliaz.org
+ww.emanuel.kla.tv
 ww.foodmatters.com
 ww.foodnews.org
 ww.foodtrients.com
@@ -55314,6 +55346,8 @@ ww.howestreet.com
 ww.iarp.org
 ww.ifm.org
 ww.integrativenutrition.com
+ww.joel.kla.tv
+ww.kairos.kla.tv
 ww.kairos2.kla.tv
 ww.kla.tv
 ww.metagenics.com
@@ -55322,7 +55356,10 @@ ww.myctfo.com
 ww.nairaland.com
 ww.noharm.org
 ww.nvic.org
+ww.opal.kla.tv
 ww.partnerwithrichard.myctfo.com
+ww.proneuja.kla.tv
+ww.raqiya.kla.tv
 ww.rense.com
 ww.stopmandatoryvaccination.com
 ww.stylecraze.com
@@ -56453,6 +56490,7 @@ www.arandamdenterprises.com
 www.arc-towing.1215.org
 www.arc.republicbroadcasting.org
 www.arcanum.ca
+www.archive.cnsnews.com
 www.archive.cornwallalliance.org
 www.archive.energydots.com
 www.archive.euroweeklynews.com
@@ -58237,6 +58275,7 @@ www.covid19alternativeperspectives.wordpress.com
 www.covid19criticalcare.com
 www.covid19declassified.com
 www.covid19mdhub.com
+www.covid19refusers.com
 www.covid19reporter.com
 www.covidahl.net
 www.covidcalltohumanity.org
@@ -58321,6 +58360,7 @@ www.crmusa.myctfo.com
 www.crossroadsreport.substack.com
 www.crossroadswellnesscenter.com
 www.crosswords.hpathy.com
+www.crown.kla.tv
 www.crownwellness.com
 www.crowrising.com
 www.crrow777radio.com
@@ -59472,6 +59512,7 @@ www.email.dailycaller.com
 www.email.humanitysteam.org
 www.email.washingtontimes.com
 www.emails.lifeextension.com
+www.emanuel.kla.tv
 www.embodynutrition.metagenics.com
 www.embracehealingspace.co.nz
 www.embracehealthsf.metagenics.com
@@ -61796,6 +61837,7 @@ www.joebiden.news
 www.joebot.substack.com
 www.joecoon.myctfo.com
 www.joedubs.com
+www.joel.kla.tv
 www.joelle-spears.healthcoach.integrativenutrition.com
 www.joelshirschhorn.substack.com
 www.joelskousen.com
@@ -61938,6 +61980,7 @@ www.jwel1000.myctfo.com
 www.jwilderness.substack.com
 www.kabir.myctfo.com
 www.kad.myctfo.com
+www.kairos.kla.tv
 www.kairos2.kla.tv
 www.kairosan.myctfo.com
 www.kairostherapycanada.thegnmsolution.com
@@ -64123,6 +64166,7 @@ www.ontariofraud.com.covfefebakery.com
 www.ontariofraud.org
 www.oom2.com
 www.opal.frontlinemds.com
+www.opal.kla.tv
 www.opednews.com
 www.open4ideas.myctfo.com
 www.openborders.news
@@ -64770,6 +64814,7 @@ www.proliberty.com
 www.prolifewitness.org
 www.prometheusshrugged.substack.com
 www.promotions.myctfo.com
+www.proneuja.kla.tv
 www.propaganda.news
 www.propagandareport.libsyn.com
 www.propagator.substack.com
@@ -64993,6 +65038,7 @@ www.rapingontario.com
 www.rapingontario.com.covfefebakery.com
 www.rapingontarioca.covfefebakery.com
 www.raptureready.com
+www.raqiya.kla.tv
 www.raquel-guajardo.healthcoach.integrativenutrition.com
 www.rashmanly.com
 www.rastafari.tv
@@ -67567,6 +67613,7 @@ www.unmaskingorac.blogspot.com
 www.unmaskourkids.com
 www.unmasksc.com
 www.unmasktyranny.com
+www.unmaskyourchild.com
 www.unmaskyourchild.org
 www.unreportedworldonline.files.wordpress.com
 www.unreportedworldonline.wordpress.com
@@ -68750,17 +68797,25 @@ wwwv.vaclib.org
 wwww.agoravox.fr
 wwww.ahha.org
 wwww.citizens.org
+wwww.crown.kla.tv
 wwww.davidlynchfoundation.org
+wwww.disclose.tv
 wwww.doctorsopposingcircumcision.org
 wwww.dreliaz.org
+wwww.emanuel.kla.tv
 wwww.howestreet.com
 wwww.integrativenutrition.com
+wwww.joel.kla.tv
+wwww.kairos.kla.tv
 wwww.kairos2.kla.tv
 wwww.kla.tv
 wwww.michellemalkin.com
 wwww.natural-holistic-health.com
 wwww.noharm.org
 wwww.nomoreweight.myctfo.com
+wwww.opal.kla.tv
+wwww.proneuja.kla.tv
+wwww.raqiya.kla.tv
 wwww.rense.com
 wwww.thcfinder.com
 wwww.tttt.kla.tv
@@ -68798,6 +68853,7 @@ xds.republicbroadcasting.org
 xednas.myctfo.com
 xerte.mettazetty.com
 xge.dev.rt.com
+xh.iaomt.org
 xiao-wang.healthcoach.integrativenutrition.com
 ximena-rojas.healthcoach.integrativenutrition.com
 ximena-rojas.healthcoach1.integrativenutrition.com
