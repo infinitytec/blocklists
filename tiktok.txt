@@ -134,6 +134,7 @@
 2dmaliva16.byteoversea.com
 2dnet.tiktok.net
 2doversea.byteoversea.com
+2dresearch.bytedance.com
 2dsg.bytedance.com
 2dsg.byteoversea.com
 2dsg.tiktokcdn.com
@@ -2060,6 +2061,7 @@ b.bytedns.net
 b.i.bytedns.net
 b.l.bytedns.net
 b1.l.bytedns.net
+b18n-kds.bytedance.com
 b2cbestrun-spa.byte.3w1cj5r.byte.tiktokcdn.com
 b2pnio0.cn.all.tlivecdn.com
 b2pnio0.cn.tlivecdn.com
@@ -2166,6 +2168,8 @@ bgacfgabbcd.temp.p23.tc.cdntip.com
 bge-log.bytedance.com
 bge.tiktokd.org
 bgegateway-dev.byted.org
+bgegateway-stg.byted.org
+bgegateway.byted.org
 bghsdqfxl.top.tlivecdn.com
 bgide-lf.bytedance.com
 bgide-lq.bytedance.com
@@ -2741,6 +2745,7 @@ carter-app.bytedance.com
 carter-link-hl.bytedance.com
 carter-link-lf.bytedance.com
 carter-link-lq.bytedance.com
+carter-link.bytedance.com
 casamento-taisemarco.3w1cj5r.byte.tiktokcdn.com
 cascavel.com-ns.byte.tiktokcdn.com
 cashier-va.byteoversea.net
@@ -2962,6 +2967,7 @@ cilatin.backend.byte.tiktokcdn.com
 cip2-sign-sg.backend.byte.tiktokcdn.com
 cipull-hls-f10-va01-admin.backend.byte.tiktokcdn.com
 ciuseast2a18.backend.byte.tiktokcdn.com
+cjltest-sslgw.byted.org
 cjwallet.snssdk.com
 ckhicks.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 clara.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
@@ -3556,6 +3562,7 @@ dig.byteoversea.com
 dig.tiktokv.com
 dig.us.tiktokv.com
 digitalcorner.3w1cj5r.byte.tiktokcdn.com
+digitaltwin.bytedance.com
 dikbud.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 dimension.bytedance.com
 dinahsh.club.tlivecdn.com
@@ -4529,6 +4536,7 @@ gaea-inner-lb-lf.bytedns.net
 gaea-internal-aliec1-internal-alinc2-edge-lb-boe-lb-lf-cm.webproxy.idc-lorien.bh-arppofind.comlb-normal-api-2.b.bytedns.net
 gaea-internal.cbadataapistaging6.wire.community4arab.tasks-major.autodiscover.bytedns.net
 galapagos.miniiktokcdn.comns1.byte.tiktokcdn.com
+game-ai-platform.bytedance.com
 game-galisg.byteoversea.net
 game-lb-useast-bdva.byteoversea.net
 game-oasis-allstar.bytedance.com
@@ -6330,6 +6338,7 @@ learning.bytedance.com
 learning.snssdk.com
 learningplus.bytedance.com
 leave.ci.byte.tiktokcdn.com
+legal-pre.bytedance.com
 legal.bytedance.com
 lego-interaction-hl.bytedance.com
 lego-interaction-lf.bytedance.com
@@ -7127,6 +7136,7 @@ lvcin-pre.bytedance.com
 lvcio-hl.bytedance.com
 lvcio-kaproxy-pre-hl.bytedance.com
 lvcio-kaproxy-pre-lq.bytedance.com
+lvcio-kaproxy-pre.bytedance.com
 lvcio-lf.bytedance.com
 lvcio-log-hl.bytedance.com
 lvcio-log-lf.bytedance.com
@@ -7387,6 +7397,7 @@ mayociviccenter.3w1cj5r.byte.tiktokcdn.com
 mayorsdialoguedataviz.miniiktokcdn.comns1.byte.tiktokcdn.com
 mazurkiewiczfoto-pl.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 mbafbrickell21321321.miniiktokcdn.comns1.byte.tiktokcdn.com
+mbcf.astd07.caiyun.cloudprint.bytedance.com
 mbm.bytedance.com
 mbox.bytedance.com
 mcafee6.qa1.byte.9w1cj5r.byte.tiktokcdn.com
@@ -7442,6 +7453,7 @@ media-dc-sync-tes-lf.bytedance.com
 media-dc-sync-tes-lq.bytedance.com
 media-dc-sync-tes.bytedance.com
 media-dc-sync-ts-fr.bytedance.com
+media-dc-sync-ts-hl.bytedance.com
 media-dc-sync-ts-lf.bytedance.com
 media-dc-sync-ts-lq.bytedance.com
 media-dc-sync-ts-sg.bytedance.com
@@ -9957,6 +9969,8 @@ proreach.3w1cj5r.byte.tiktokcdn.com
 proxy-flow-fixed01-ttp.tiktokd.org
 proxy-login-extend-ttp.tiktokd.org
 proxy-login-fixed01-ttp.tiktokd.org
+proxy-other-fixed01-ttp.tiktokd.org
+proxy-payments-ttp.tiktokd.org
 proxy-videoarch-ttp.tiktokd.org
 proxy.qa1.byte.tiktokcdn.com
 prueba-prdstgtrenri.shv-repay-action.webproxy.idc-blogexec01.uusrtc-test-hlm-pre-shop-alimebot.email2.bytedance.com
@@ -11186,6 +11200,7 @@ rtc-grpc-va.bytedance.com
 rtc-grpc.bytedance.com
 rtc-hl.bytedance.com
 rtc-io.bytedance.com
+rtc-iotest.bytedance.com
 rtc-lf.bytedance.com
 rtc-log-oc.bytedance.com
 rtc-log-report.bytedance.com
@@ -11273,6 +11288,7 @@ rtcpc-aglnsy.bytedance.com
 rtcpc-agsdqd.bytedance.com
 rtcpc-agsxxa.bytedance.com
 rtcpc-agsy.bytedance.com
+rtcpc-pre-access.bytedance.com
 rtcquic-access-test.bytedance.com
 rtcsg.bytedance.com
 rtcva-useast2a.bytedance.com
@@ -12126,6 +12142,7 @@ sgsaas1lark-normal-lb-sgsaas1larkidc1.byteoversea.net
 sgsnssdk.com
 sgsnssdk.com-lb.bytewlb.akadns.net
 sgx-dcap-server.bytedance.com
+sgzh.bytedance.com
 share-1070666956.ap-northeast-1.elb.amazonaws.com
 share-sg.snssdk.com
 share-test.musemuse.cn
@@ -12382,6 +12399,7 @@ ssrm-invite.bytedance.com
 st.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 st1-ttcdn-tos.pstatp.com
 st2.ci.byte.tiktokcdn.com
+st8.subdomain.cdn-test.bytedance.com
 stage-lf.live.bytedance.com
 stage.live.bytedance.com
 stage.my.3w1cj5r.byte.tiktokcdn.com
@@ -14308,6 +14326,7 @@ v3-hs-m.bytecdn.cn
 v3-hs-n.bytecdn.cn
 v3-hs.bytecdn.cn
 v3-hs.ixigua.com.xi.zwtianshangm.com
+v3-inner-tcscache.bytedance.com
 v3-ppx.bytecdn.cn
 v3-ppx.ixigua.com.xi.zwtianshangm.com
 v3-tt-m.bytecdn.cn
@@ -14869,6 +14888,7 @@ vdi-ss.bytedance.com
 vdi.bytedance.com
 vdl.bytedance.com
 vecloud-openapi-lq.bytedance.com
+vecloud-openapi.bytedance.com
 vedio.qjhvr.com.tlivecdn.com
 vegamews.byted.org
 vemars-devops-api.bytedance.com
@@ -15853,10 +15873,12 @@ www.google.com-conn2-larkmail-373da1-wintest.swe5-swag-tester.swag-testing.byted
 www.google.com-conn2-origin-373da1-winforum-lq.swe5-swag-forum-lqer.swag-forum-lqing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest-migrate.gtl-sgswe5-swag-tester.swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.byteview-swe5-swag-tester.swag-testing.bytedance.com
+www.google.com-conn2-origin-373da1-wintest.cg-upay-hl.swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.gtl-sgswe5-swag-tester.api-sjtu-camp-2021swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.gtl-sgswe5-swag-tester.ec2swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.gtl-sgswe5-swag-tester.lqswag.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.gtl-sgswe5-swag-tester.p-cdn-lqswag-testing.bytedance.com
+www.google.com-conn2-origin-373da1-wintest.gtl-sgswe5-swag-tester.qa1.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.gtl-sgswe5-swag-tester.qualitycloud.swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.gtl-sgswe5-swag-tester.swag-lvc-test.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.gtl-sgswe5-swag-tester.swag-testing-fuwu-lq.bytedance.com
@@ -15867,6 +15889,7 @@ www.google.com-conn2-origin-373da1-wintest.rtn-lq.gtl-sgswe5-swag-tester.swag-te
 www.google.com-conn2-origin-373da1-wintest.shcata39-swe5-swag-tester.swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.signagegtl-sgswe5-swag-tester.swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.sp-swe5-swag-tester.gtl-sgswe5-swag-tester.swag-testing.bytedance.com
+www.google.com-conn2-origin-373da1-wintest.swe5-swag-tester-lf3-go-web-store-sign.swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.swe5-swag-tester.6-swag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.swe5-swag-tester.bic-lfswag-testing.bytedance.com
 www.google.com-conn2-origin-373da1-wintest.swe5-swag-tester.swag-lvc-pretest.bytedance.com
@@ -15877,6 +15900,7 @@ www.google.com-conn2-origin-prod1-wintest.swe5-swag-tester.anniversary.bytedance
 www.google.com-conn2-origin-prod1-wintest.swe5-swag-tester.cg-fundswag-testing.bytedance.com
 www.google.com-conn2-origin-prod1-wintest.swe5-swag-tester.procurement-swag-testing.bytedance.com
 www.google.com-conn2-origin-prod1-wintest.swe5-swag-tester.rms-tra.swag-testing.bytedance.com
+www.google.com-conn2-origin-prod1-wintest.swe5-swag-tester.swag-air-lf.bytedance.com
 www.google.com-conn2-origin-prod1-wintest.swe5-swag-tester.swag-test2.bytedance.com
 www.google.com-conn2-origin-prod1-wintest.swe5-swag-tester.swag-testing.use1.bytedance.com
 www.google.com-conn2-origin-swag-testing-v5-lf3-tcscache-wintest.gtl-sgswe5-swag-tester.swag-testing.bytedance.com
