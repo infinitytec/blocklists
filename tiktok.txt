@@ -134,6 +134,7 @@
 2dmaliva16.byteoversea.com
 2dnet.tiktok.net
 2doversea.byteoversea.com
+2dp.bytedance.com
 2dresearch.bytedance.com
 2dsg.bytedance.com
 2dsg.byteoversea.com
@@ -2509,6 +2510,7 @@ buntaran.com-ns.byte.tiktokcdn.com
 burke.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 business-api.tiktok.com
 business-sg.topbuzz.com
+business-sso.eu.tiktok.com
 business-sso.tiktok.com
 business-support.tiktok.com
 business-tips.tiktok.com
@@ -4410,6 +4412,7 @@ fourth.3w1cj5r.byte.tiktokcdn.com
 fp-sg.tiktokv.com
 fp-va.tiktokv.com
 fp.us.tiktokv.com
+fp.us2.tiktokv.com
 fp16-normal-alisg.tiktokv.com
 fp16-normal-useast1a.tiktokv.com
 fp19-normal-useast1a.tiktokv.com
@@ -6382,6 +6385,7 @@ lf-llama.byted.org
 lf-lq.snssdk.com
 lf-main-gecko-source.tiktokcdn.com
 lf-n.snssdk.com
+lf-survey-acc.ibytedtos.com
 lf-tb-sg.ibytedtos.com
 lf-tb-sg.ibytedtos.com.edgekey.net
 lf-tiktok-web-test.ttwstatic.com
@@ -6413,6 +6417,8 @@ lf15-tcs-tos.tiktokcdn.com
 lf15-tos-files-va-databook.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 lf16-adcdn-sg.ibytedtos.com
 lf16-adcdn-va.ibytedtos.com
+lf16-armor-sg.ibytedtos.com
+lf16-armor-va.ibytedtos.com
 lf16-audit-specical.tiktokcdn.com
 lf16-bd-official.bytedance.com
 lf16-beecdn.ibytedtos.com
@@ -6443,7 +6449,9 @@ lf16-geckocdn-sg.tiktokcdn.com
 lf16-geckocdn-sg.tiktokcdn.com.edgesuite.net
 lf16-geckocdn.tiktokcdn-us.com
 lf16-gp-static.tiktokcdn-us.com
+lf16-iesmarket-sg-tos.ibytedtos.com
 lf16-insgame.tiktokcdn.com
+lf16-inspirecloud.ibytedtos.com
 lf16-lark-va.ibytedtos.com
 lf16-lark-va.ibytedtos.com.edgekey.net
 lf16-live-backstage.tiktokcdn.com
@@ -6463,6 +6471,7 @@ lf16-promote-us.tiktokcdn.com
 lf16-promote.tiktokcdn-us.com
 lf16-short.ibytedtos.com
 lf16-sourcecdn-tos.ibytedtos.com
+lf16-static-va.ibytedtos.com
 lf16-tcc-tos-i18n.byteoversea.com
 lf16-tcs.tiktokcdn.com
 lf16-third-landing-page.tiktokcdn-us.com
@@ -6493,6 +6502,9 @@ lf16sentry.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 lf17-eoy.production.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 lf17-tcs.9w1cj5r.byte.tiktokcdn.com
 lf18-geckocdn-sg.9w1cj5r.byte.tiktokcdn.com
+lf19-adcdn-sg.ibytedtos.com
+lf19-armor-sg.ibytedtos.com
+lf19-armor-va.ibytedtos.com
 lf19-armor.tiktokcdn-us.com
 lf19-bd-official.bytedance.com
 lf19-captcha-sign.ibytedtos.com
@@ -11770,6 +11782,7 @@ seller-sg.tiktok.com
 seller-th.tiktok.com
 seller-uk.tiktok.com
 seller-us-accounts.tiktok.com
+seller-us.tiktok.com
 seller-vn.tiktok.com
 seller.tiktok.com
 sellinginyourcomfortzone.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
