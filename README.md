@@ -44,7 +44,7 @@ Some sites only exist to spam content using clickbait. This helps reduce them.
 ## TikTok
 Completely block TikTok. Based on multiple other blocklists with the same goal, but with many more added hosts.
 
-[Hosts file format](https://github.com/infinitytec/blocklists/raw/master/tiktok.txt)
+[Hosts file format](https://raw.githubusercontent.com/infinitytec/blocklists/master/tiktok.txt)
 
 ## Possibilities
 Domains that may be problematic. If anyone knows anything about these, please let me know. I do not recommend using this on a daily basis, as they may just break things.
