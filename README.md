@@ -8,11 +8,16 @@ Ads and tracking hosts I have seen around the Internet. Some are rare. Some are 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/ads-and-trackers.txt)
 
 ## Scams and phishing
-Because they don't deserve your traffic. Blocked include financial schemes, imitation sites, malware, and people trying to take advantage of others through various things including fake news and misleading information.
+Because they don't deserve your traffic. Blocked include financial schemes, imitation sites, malware, and people trying to take advantage of others through various things (including fake news and misleading information to a limited extent. See the medical pseudoscience list for more of this).
 
 This blocklist receives frequent updates.
 
 [Hosts file format](https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt)
+
+## Bad TLDs
+Deceptive TLDs (such as .zip) are now being sold, and it has been demonstrated that bad actors could use these TLDs to make deceptive URLs. The best solution is just to flat out block these domains.
+
+[Pi-hole compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/bad-tlds.txt)
 
 ## Adfilters
 Adfilters in the format used by uBlock Origin and Adblock Plus. Has a lot of mobile ad rules as well.

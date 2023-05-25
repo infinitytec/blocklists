@@ -1,0 +1,8 @@
+! A list to block TLDs that pose a security risk.
+! Made by infinitytec and released under the MIT license.
+! False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+! Compatible with Pi-hole, uBlock Origin, Adblock Plus, and probably others.
+! URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/bad-tlds.txt
+
+||.mov^
+||.zip^
