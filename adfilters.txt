@@ -275,6 +275,7 @@ www.bloomberg.com##.ad
 www.bloomberg.com##.mobile__4d78a978.broker-box-article__995c1333
 www.bloomberg.com##.outstream-ad
 www.bloomberg.com##.outstream-ad--mobile
+www.bloomberg.com##.page-canopy-ad
 www.bloomberg.com##.paywall.outstream-ad--mobile.outstream-ad
 
 ! bongino.com
@@ -305,9 +306,6 @@ www.businessinsider.com##div.only-desktop
 ! butlercountytimesgazette.com
 butlercountytimesgazette.com##.ad-container
 
-! cleveland.com
-www.cleveland.com##.InContent_Center_Padding
-
 ! caranddriver.com
 www.caranddriver.com##.transporter-ad.leaderboard-ad
 www.caranddriver.com##.transporter-vertical-ad.breaker-ad
@@ -315,6 +313,9 @@ www.caranddriver.com##div.mobile-breaker-ad
 
 ! carbuzz.com
 carbuzz.com##.ad-slot
+
+! carscoops.com
+www.carscoops.com##div.cnt_asd
 
 ! cbsaustin.com
 cbsaustin.com###interstory_first_ddb_0
@@ -392,6 +393,9 @@ classicalpoets.org##[href="https://www.amazon.co.uk/HELLWARD-ENGLISH-CANTOS-Jame
 ! cleantechnica.com
 cleantechnica.com##bold
 ||cleantechnica.com/files/2021/08/Flo-webinar-EV-charging-garage-orphans.png$image
+
+! cleveland.com
+www.cleveland.com##.InContent_Center_Padding
 
 ! cloudinary.com
 ||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-1-turbo-tax.jpg$image
@@ -954,6 +958,11 @@ www.htpcguides.com##[href="https://www.htpcguides.com/go/purevpn-banner"] > .wp-
 m.huffpost.com##[class^="AdChoiceContainer"]
 m.huffpost.com##[class^=index__adWrapper]
 
+! hutchnews.com
+www.hutchnews.com###ad-slot-7103-ks-hutchinson-C6453-mobileweb-banner_top-news-1
+www.hutchnews.com##div.gnt_xmst__mb.gnt_xmst
+www.hutchnews.com##div.gnt_xmst__mb.gnt_xmst:nth-of-type(1)
+
 ! i-dont-care-about-cookies.eu
 www.i-dont-care-about-cookies.eu###partners
 www.i-dont-care-about-cookies.eu##.px-0.text-center.col-lg-12 > div
@@ -1140,6 +1149,7 @@ komonews.com##.index-module_container__2uhm
 kotaku.com##.ad-commerce
 kotaku.com##.ad-mobile
 kotaku.com##.movable-ad
+kotaku.com##div.js_midbanner_ad_slot
 kotaku.com##div.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic.gamHXh.bxm4mm-11:nth-of-type(4) > .dQlBGJ.bxm4mm-9.bxm4mm-8
 
 ! krebsonsecurity.com
@@ -1501,6 +1511,9 @@ www.politico.com##.PibAd-container
 www.politico.com##.election-ad
 www.politico.com##.slim.election-ad
 
+! popsci.com
+www.popsci.com##div.empire-unit-prefill-container.empire-content__mobile-prefill-container
+
 ! prajwaldesai.com
 www.prajwaldesai.com###media_image-2
 www.prajwaldesai.com###media_image-3
@@ -1702,6 +1715,7 @@ www.smokymountainnews.com##.moduletable > .bannergroup
 www.snopes.com###article-content > .banner_ad_between_sections
 www.snopes.com##.smg-zone-widget-ads-placement
 www.snopes.com##div.banner_ad_between_sections
+www.snopes.com##div.snopesad.outer-ad-unit-wrapper
 
 ! soapboxie.com
 soapboxie.com##.m-in-content-ad
@@ -1743,6 +1757,9 @@ spaceweather.com##td > table > tbody > tr:nth-of-type(2) > td:nth-of-type(4) > d
 ! spiceworks.com
 community.spiceworks.com##.gekko_leaderboard
 community.spiceworks.com##.slot-1-wrapper
+
+! statesman.com
+www.statesman.com##div.gnt_xmst__mb.gnt_xmst
 
 ! stayathomemum.com.au 
 www.stayathomemum.com.au##.post-content-ad
@@ -2196,7 +2213,12 @@ www.wibw.com##.evie-widget-ad
 www.wichitabyeb.com###post-70342 > .ast-no-date-box.single-layout-1.ast-post-format- > .clear.entry-content > .code-block-2.code-block
 
 ! wikihow.com
+www.wikihow.com###affiliate_2
 www.wikihow.com###contribute_footer
+www.wikihow.com###step2_ad_1
+www.wikihow.com##.as-small.wh_ad_active.al_grey.w_label.wh_ad_inner
+www.wikihow.com##.wh_ad_active
+www.wikihow.com##.wh_ad_inner
 
 ! wildernessarena.com
 www.wildernessarena.com###text-10 > .widget-title
