@@ -51,6 +51,11 @@ Completely block TikTok. Based on multiple other blocklists with the same goal, 
 
 [Hosts file format](https://raw.githubusercontent.com/infinitytec/blocklists/master/tiktok.txt)
 
+## Reddit
+Completely block Reddit. Uses wildcards.
+
+[Pi-hole compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/reddit.txt)
+
 ## Possibilities
 Domains that may be problematic. If anyone knows anything about these, please let me know. I do not recommend using this on a daily basis, as they may just break things.
 

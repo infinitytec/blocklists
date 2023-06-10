@@ -1,0 +1,18 @@
+! A list to block Reddit.
+! Compatible with Pi-hole, uBlock Origin, Adblock Plus, and probably others.
+! Made by infinitytec under the MIT license but based on lists by others:
+!   https://www.netify.ai/resources/applications/reddit
+
+! False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+! URL: https://github.com/infinitytec/blocklists/raw/master/reddit.txt
+
+||redd.it^
+||reddit.com^
+||redditblog.com^
+||redditinc.com^
+||redditmail.com^
+||redditmedia.com^
+||redditstatic.com^
+||redditstatus.com^
+i.redd.it
+v.redd.it
