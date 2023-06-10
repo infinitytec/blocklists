@@ -4,5 +4,5 @@
 ! Compatible with Pi-hole, uBlock Origin, Adblock Plus, and probably others.
 ! URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/bad-tlds.txt
 
-||.mov^
-||.zip^
+||mov^
+||zip^
