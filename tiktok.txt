@@ -135,6 +135,7 @@
 2dca.tiktok.net
 2dcommon.ttwstatic.com
 2did.tiktok.com
+2dlivecreatorhub.tiktokcdn.com
 2dmaliva16.byteoversea.com
 2dnet.tiktok.net
 2doversea.byteoversea.com
@@ -142,12 +143,14 @@
 2dresearch.bytedance.com
 2dsg.bytedance.com
 2dsg.byteoversea.com
+2dsg.ibyteimg.com
 2dsg.tiktokcdn.com
 2dsg.tiktokv.com
 2duseast1a.musical.ly
 2dva.byteoversea.com
 2dva.ibyteimg.com
 2dva.tiktok.com
+2dva.tiktokcdn.com
 2dva.tiktokv.com
 2dweb.ttwstatic.com
 2push.ayjzxvz.cn.all.tlivecdn.com
@@ -672,6 +675,7 @@ alisg9rest.byte.tiktokcdn.com
 alisgall-normal-lb-backup.cbadataapistaging6.wire.community4arab.tasks-major.autodiscover.bytedns.net
 alisgrest.byte.tiktokcdn.com
 aliva-sentry.byteoversea.com
+aliyun-va-loki.byted.org
 aliyuncs.com
 all-lb-internal-lb.image-cache-hl.lonmlkjihgfedcbaxwvutsrqponmlkjihgfedc.webproxy.idc-lorien.bh-arppofind.com.bytedns.net
 all-normal-lb-backup.image-cache-hl.lonmlkjihgfedcbaxwvutsrqponmlkjihgfedc.webproxy.idc-lorien.bh-arppofind.com.bytedns.net
@@ -1081,11 +1085,13 @@ api.group.ams.g.byteoversea.net
 api.group.arn.g.byteoversea.net
 api.group.dme.g.byteoversea.net
 api.group.fra.g.byteoversea.net
+api.group.nrt.g.byteoversea.net
 api.huoshan.com.bytedns.net
 api.musical.ly
 api.preview.backend.byte.tiktokcdn.com
 api.service.cdg1b.g.byteoversea.net
 api.service.dme1.g.byteoversea.net
+api.service.sin2a.g.byteoversea.net
 api.snssdk.com
 api.snssdk.com.w.kunluncan.com
 api.support.iam.ad.qa1.byte.9w1cj5r.byte.tiktokcdn.com
@@ -4123,6 +4129,7 @@ equinix-iad-api.l.byteoversea.net
 equinix-iad-api1.l.byteoversea.net
 equinix-iad-cache01.l.byteoversea.net
 equinix-iad-v1.l.byteoversea.net
+equinix-ord2-api1.l.byteoversea.net
 equinix-sea-v1.l.byteoversea.net
 equinix-sea2-api1.l.byteoversea.net
 equinix-sea2-v1.l.byteoversea.net
@@ -4169,6 +4176,7 @@ etix.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 etna.3w1cj5r.byte.tiktokcdn.com
 ettevotlusnadal.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 eu-4.ci.byte.tiktokcdn.com
+eu.tiktok.com
 eu.tiktokv.com
 eula.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 euref.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
@@ -4596,6 +4604,7 @@ gbs-dev-lf.bytedance.com
 gbs-dev-lq.bytedance.com
 gbsg-dev.bytedance.com
 gcmanage.miniiktokcdn.comns1.byte.tiktokcdn.com
+gcp-gru-api.l.byteoversea.net
 gcp-normal-lb.byteoversea.net
 gcp-websocket-all-lb.byteoversea.net
 gcpsg.byteoversea.net
@@ -5915,6 +5924,7 @@ jikeplat-fclassroom-hl.bytedance.com
 jikeplat-fclassroom-lf.bytedance.com
 jikeplat-fclassroom-lq.bytedance.com
 jikeplat-fclassroom.bytedance.com
+jingpintest.xyz.tlivecdn.com
 jingruli.top.tlivecdn.com
 jinrichejia.wang.tlivecdn.com
 jinzhan.snssdk.com
@@ -6409,6 +6419,7 @@ lf-llama.byted.org
 lf-lq.snssdk.com
 lf-main-gecko-source.tiktokcdn.com
 lf-n.snssdk.com
+lf-resoptsandbox.byted.org
 lf-survey-acc.ibytedtos.com
 lf-tb-sg.ibytedtos.com
 lf-tb-sg.ibytedtos.com.edgekey.net
@@ -6439,6 +6450,7 @@ lf10-tk-tos-enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 lf15-promote-us-sentry.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 lf15-tcs-tos.tiktokcdn.com
 lf15-tos-files-va-databook.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
+lf16-adcdn-gcp.tiktokcdn-in.com
 lf16-adcdn-sg.ibytedtos.com
 lf16-adcdn-va.ibytedtos.com
 lf16-armor-sg.ibytedtos.com
@@ -9033,6 +9045,7 @@ p16-gogokid-sg.ibyteimg.com
 p16-gogokid-va.ibyteimg.com
 p16-h1-sign-sg.ibyteimg.com
 p16-h1-sign-va.ibyteimg.com
+p16-hamlet-sg.ibyteimg.com
 p16-headerimage-sign-va.ibyteimg.com
 p16-hera-va.ibyteimg.com
 p16-heycan-va.ibyteimg.com
@@ -9101,6 +9114,7 @@ p16-sign-sg.9w1cj5r.byte.tiktokcdn.com
 p16-sign-sg.tiktokcdn.com
 p16-sign-sg.tiktokcdn.com-admin.byte.tiktokcdn.com
 p16-sign-sg.tiktokcdn.com.akamaized.net
+p16-sign-useast2a.tiktokcdn.com
 p16-sign-va.tiktokcdn.com
 p16-sign-va.tiktokcdn.com.akamaized.net
 p16-sign.tiktokcdn-us.com
@@ -11095,6 +11109,7 @@ report-lq.bytedance.com
 report.bytedance.com
 res01.musical.ly
 res01.musical.ly.akadns.net
+resoptsandbox-lf.byted.org
 resource.muscdn.com
 resource.snssdk.com
 resourcehl-lf.bytedance.com
@@ -12799,6 +12814,7 @@ telecom.h.l.bytedns.net
 telecom.image-cache-hl.l.bytedns.net
 telecom.image-cache-lf.l.bytedns.net
 telecom.image-cache-lq.l.bytedns.net
+telecom.quic-normal-webcast-lb-hl.l.bytedns.net
 telecom.quic-xigua-lb-hl.l.bytedns.net
 telecom.search-lb-hl.l.bytedns.net
 telecom.search-lb-lf.l.bytedns.net
@@ -13904,6 +13920,7 @@ unicom.cdn-video-origin-new-hl.bytedns.net
 unicom.cdn-video-origin-new-lf.bytedns.net
 unicom.cdn-video-origin-new-lq.bytedns.net
 unicom.d.l.bytedns.net
+unicom.eeft-lb-hl.l.bytedns.net
 unicom.frontier-aweme-lb-lf.l.bytedns.net
 unicom.frontier-lark-lb-lf.l.bytedns.net
 unicom.frontier-toutiao-lb-lf.l.bytedns.net
@@ -14094,6 +14111,7 @@ v.group.ewr.g.byteoversea.net
 v.group.fra.g.byteoversea.net
 v.group.gru.g.byteoversea.net
 v.group.iad.g.byteoversea.net
+v.group.jp.g.byteoversea.net
 v.group.lax.g.byteoversea.net
 v.group.lhr.g.byteoversea.net
 v.group.mad.g.byteoversea.net
@@ -14101,6 +14119,7 @@ v.group.mia.g.byteoversea.net
 v.group.mrs.g.byteoversea.net
 v.group.nrt.g.byteoversea.net
 v.group.ord.g.byteoversea.net
+v.group.ru.g.byteoversea.net
 v.group.sea.g.byteoversea.net
 v.group.sg.g.byteoversea.net
 v.group.sgn.g.byteoversea.net
