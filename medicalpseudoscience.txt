@@ -731,6 +731,7 @@ _dc-mx.57aabd9691db.canceremocional.org
 _dc-mx.62b649d1405a.principia-scientific.com
 _dc-mx.638d6acd88f5.covid19refusers.com
 _dc-mx.66a04749f73f.shtfplan.com
+_dc-mx.68ff4308d9e3.emf-protect.net
 _dc-mx.7c29bfec23c6.doctorsandscience.com
 _dc-mx.9b67ea32a1c4.americasfrontlinedocs.com
 _dc-mx.9fa259110b4a.lotuseaters.com
@@ -997,6 +998,7 @@ achievehealthemr.md-hq.com
 achieveoptimalwellness.ehealthpro.com
 achieveyourdreambodynaturally.naturalnews.com
 achim.myctfo.com
+achs.edu
 acimconnect.com
 ackerson911.myctfo.com
 acluvsamerica.net.flyoverhealth.com
@@ -2994,6 +2996,7 @@ api.qa4.ws.myherbalife.com
 api.resources.afa.net
 api.rt.com
 api.sevencells.com
+api.souladvisor.com
 api.springaqua.com
 api.staghospitals.1mg.com
 api.staging.chatdit.com
@@ -3606,6 +3609,7 @@ assets.newrepublic.com
 assets.organicfacts.net
 assets.precisionnutrition.com
 assets.ricochet.com
+assets.souladvisor.com
 assets.thegoodinside.com
 assets.thetruthaboutcancer.com
 assets.unite.live
@@ -4235,6 +4239,7 @@ autodiscover.iridologycollege.org
 autodiscover.irisbell.com
 autodiscover.irishfreedom.ie
 autodiscover.irishsavant.net
+autodiscover.irispatterns.com
 autodiscover.itnshow.com
 autodiscover.itsmysustainablelife.com
 autodiscover.ivantic.info
@@ -4404,6 +4409,7 @@ autodiscover.redoubtnews.com
 autodiscover.rehobothmedicalcenter.com
 autodiscover.reikiranch.net
 autodiscover.releasesara.com
+autodiscover.renewedhealthassocs.com
 autodiscover.republicbroadcastingarchives.org
 autodiscover.republicreborn.com
 autodiscover.resistancechicks.com
@@ -4841,6 +4847,7 @@ backend-covid19-english-astalyzin.dev.rt.com
 backend-de.rt.com
 backend-en-test2-english-udyunusov.dev.rt.com
 backend-fbar-arabic-astalyzin.dev.rt.com
+backend-local.souladvisor.com
 backend.actualidad.rt.com
 backend.arabic.rt.com
 backend.f-18165-push-subscribe-sp.spanish.gsdavletkildin.dev.rt.com
@@ -4857,6 +4864,7 @@ backend.litovchenko.rbth.dev.rt.com
 backend.new-design-es.spanish.udyunusov.dev.rt.com
 backend.rt.com
 backend.russian.rt.com
+backend.souladvisor.com
 backend.udyunusov.rbth.dev.rt.com
 backline.shockya.com
 backoffice-cn.iherb.com
@@ -5860,6 +5868,7 @@ bdi.md-hq.com
 bdl.myctfo.com
 bdrain.metagenics.com
 be-aware.takeactioncanada.ca
+be-local.souladvisor.com
 be-the-change-portal.md-hq.com
 be-the-change.md-hq.com
 be-wellmedicine.com
@@ -5871,6 +5880,7 @@ be.bebee.com
 be.elearning.iaomt.org
 be.iaomt.org
 be.iherb.com
+be.local.souladvisor.com
 be.m.iherb.com
 be.thegoodinside.com
 be1st.myctfo.com
@@ -6950,7 +6960,12 @@ blumcenter.md-hq.com
 blumcenterforhealth.md-hq.com
 bluntforcetruth.com
 blushdallas.metagenics.com
+blushield-ca.com
+blushield-eu.com
 blushield-us.com
+blushield-za.com
+blushield.com.au
+blushield.global
 blystoneforgovernor.com
 bmartin.metagenics.com
 bmbrown2003.myctfo.com
@@ -8913,6 +8928,7 @@ cdn-stg.gettr.com
 cdn-test.infowars.com
 cdn-uploads.disclose.tv
 cdn.ace.mu.nu
+cdn.achs.edu
 cdn.allremedies.com
 cdn.ammoland.com
 cdn.ar15.com
@@ -10822,6 +10838,7 @@ config.app.iherb.com
 confinedtosuccess.com
 conflictofinterest.mercola.com
 confluence.childrenshealthdefense.org
+confluence.souladvisor.com
 confluence.wozinga.com
 confluenceenglish.udyunusov.dev.rt.com
 connect.ccnm.edu
@@ -10941,6 +10958,7 @@ consumerhealthdigest.com
 consumers4safephones.com
 consumerwellness.org
 contables.bebee.com
+contact.achs.edu
 contact.daystar.com
 contact.eaec.org
 contact.essentialelementsnutrition.com
@@ -11385,7 +11403,11 @@ cpanel.birthingthefuture.org
 cpanel.bittensaddiction.com
 cpanel.bkp.euroweeklynews.com
 cpanel.blog.bioptimizers.com
+cpanel.blushield-ca.com
 cpanel.blushield-us.com
+cpanel.blushield-za.com
+cpanel.blushield.com.au
+cpanel.blushield.global
 cpanel.bodychek.co.uk
 cpanel.bodytalklamesa.com
 cpanel.boironusa.com
@@ -11806,9 +11828,12 @@ cpanel.invexnews.com
 cpanel.iotwreport.com
 cpanel.irate4x4.com
 cpanel.iridologycollege.org
+cpanel.iridologynyc.com
+cpanel.iridologyonline.com
 cpanel.irisbell.com
 cpanel.irishfreedom.ie
 cpanel.irishsavant.net
+cpanel.irispatterns.com
 cpanel.italytravelideas.com
 cpanel.itsmysustainablelife.com
 cpanel.ivantic.info
@@ -12066,6 +12091,7 @@ cpanel.redoubtnews.com
 cpanel.rehobothmedicalcenter.com
 cpanel.reikiranch.net
 cpanel.releasesara.com
+cpanel.renewedhealthassocs.com
 cpanel.republicbroadcasting.org
 cpanel.republicbroadcastingarchives.org
 cpanel.resistancechicks.com
@@ -12081,6 +12107,7 @@ cpanel.rightjournalism.com
 cpanel.rightwingmedia.net
 cpanel.ripublication.com
 cpanel.rivercitymalone.com
+cpanel.robertshealthfoods.com
 cpanel.robertwhitakerbooks.com
 cpanel.roguemale.org
 cpanel.romanbaber.ca
@@ -12456,7 +12483,11 @@ cpcalendars.bioptimizers.com
 cpcalendars.birthingthefuture.org
 cpcalendars.bkp.euroweeklynews.com
 cpcalendars.blog.bioptimizers.com
+cpcalendars.blushield-ca.com
 cpcalendars.blushield-us.com
+cpcalendars.blushield-za.com
+cpcalendars.blushield.com.au
+cpcalendars.blushield.global
 cpcalendars.bodytalklamesa.com
 cpcalendars.boisenaturalhealth.com
 cpcalendars.bollyn.com
@@ -12853,9 +12884,11 @@ cpcalendars.invexnews.com
 cpcalendars.iotwreport.com
 cpcalendars.irate4x4.com
 cpcalendars.iridologycollege.org
+cpcalendars.iridologynyc.com
 cpcalendars.irisbell.com
 cpcalendars.irishfreedom.ie
 cpcalendars.irishsavant.net
+cpcalendars.irispatterns.com
 cpcalendars.italytravelideas.com
 cpcalendars.itnshow.com
 cpcalendars.itsmysustainablelife.com
@@ -13107,6 +13140,7 @@ cpcalendars.redoubtnews.com
 cpcalendars.rehobothmedicalcenter.com
 cpcalendars.reikiranch.net
 cpcalendars.releasesara.com
+cpcalendars.renewedhealthassocs.com
 cpcalendars.republicbroadcasting.org
 cpcalendars.republicbroadcastingarchives.org
 cpcalendars.republicreborn.com
@@ -13121,6 +13155,7 @@ cpcalendars.rightjournalism.com
 cpcalendars.rightwingmedia.net
 cpcalendars.ripublication.com
 cpcalendars.rivercitymalone.com
+cpcalendars.robertshealthfoods.com
 cpcalendars.robertwhitakerbooks.com
 cpcalendars.rockpoolpublishing.com.au
 cpcalendars.romanbaber.ca
@@ -13483,7 +13518,11 @@ cpcontacts.birthingthefuture.org
 cpcontacts.bkp.euroweeklynews.com
 cpcontacts.blog.bioptimizers.com
 cpcontacts.bloodrootsalves.com
+cpcontacts.blushield-ca.com
 cpcontacts.blushield-us.com
+cpcontacts.blushield-za.com
+cpcontacts.blushield.com.au
+cpcontacts.blushield.global
 cpcontacts.bodytalklamesa.com
 cpcontacts.boisenaturalhealth.com
 cpcontacts.bollyn.com
@@ -13886,9 +13925,11 @@ cpcontacts.invexnews.com
 cpcontacts.iotwreport.com
 cpcontacts.irate4x4.com
 cpcontacts.iridologycollege.org
+cpcontacts.iridologynyc.com
 cpcontacts.irisbell.com
 cpcontacts.irishfreedom.ie
 cpcontacts.irishsavant.net
+cpcontacts.irispatterns.com
 cpcontacts.italytravelideas.com
 cpcontacts.itnshow.com
 cpcontacts.itsmysustainablelife.com
@@ -14142,6 +14183,7 @@ cpcontacts.redoubtnews.com
 cpcontacts.rehobothmedicalcenter.com
 cpcontacts.reikiranch.net
 cpcontacts.releasesara.com
+cpcontacts.renewedhealthassocs.com
 cpcontacts.republicbroadcasting.org
 cpcontacts.republicbroadcastingarchives.org
 cpcontacts.republicreborn.com
@@ -14157,6 +14199,7 @@ cpcontacts.rightjournalism.com
 cpcontacts.rightwingmedia.net
 cpcontacts.ripublication.com
 cpcontacts.rivercitymalone.com
+cpcontacts.robertshealthfoods.com
 cpcontacts.robertwhitakerbooks.com
 cpcontacts.rockpoolpublishing.com.au
 cpcontacts.roguemale.org
@@ -16462,16 +16505,20 @@ devapi.springaqua.com
 devapps.nordicnaturals.com
 devasbury.lightspeedvt.com
 devassets.lifepetitions.com
+devau.blushield.com.au
 devbeta.rumble.com
 devblog.pureencapsulations.com
+devblushield.blushield.com.au
 devbox.infowars.com
 devc.lightspeedvt.com
+devca.blushield-ca.com
 devcfiso.awomanstime.com
 devcms-php7.gaiaherbs.com
 devcms-php7n.gaiaherbs.com
 devcms.gaiaherbs.com
 devcrp.doterra.com
 devdirectory.thefourwinds.com
+devdonna.blushield.com.au
 devdrop.mypatriotsupply.com
 develop-btcpay.gab.com
 develop-chat.gab.com
@@ -16770,6 +16817,7 @@ directauctions.myctfo.com
 directionalhealing.biomatnetwork.com
 directive21.com
 directnutrition.metagenics.com
+directory.achs.edu
 directory.functionalmedicinecoaching.org
 directory.kprz.com
 directory.nccaom.org
@@ -17717,6 +17765,7 @@ driving.wn.com
 drjacksonsprimalwellness.ehealthpro.com
 drjames.metagenics.com
 drjamesjack.ehealthpro.com
+drjandilley.com
 drjaneruby.com
 drjeff.metagenics.com
 drjeffbuesing.metagenics.com
@@ -19144,6 +19193,7 @@ emf-guard.com
 emf-harmony.com
 emf-harmony.eu
 emf-portal.org
+emf-protect.net
 emf-protection.co.uk
 emf-protection.com
 emf-risks.com
@@ -20833,6 +20883,7 @@ fannycrosby1.daystar.com
 fannycrosby2.daystar.com
 fanthasia.myctfo.com
 fantonino-changingworld.blogspot.com
+faq.achs.edu
 faq.afa.net
 faq.choq.com
 faq.salemnow.com
@@ -21105,6 +21156,7 @@ fiji.tm.org
 file-store.goji.live
 file.foodnews.org
 filedrop.newsmax.com
+files.achs.edu
 files.aosis.co.za
 files.beyondpatmos.org
 files.cn.beyondpatmos.org
@@ -21121,6 +21173,7 @@ files.kevmed.com
 files.power2practice.com
 files.pukkaherbs.com
 files.shieldyourbody.com
+files.souladvisor.com
 files.thefederalist.com
 files.thevaccinereaction.org
 files.wpc.rt.com
@@ -21265,6 +21318,8 @@ flip.jbs.org
 flip.thenewamerican.com
 flipflap.wn.com
 flipman.metagenics.com
+flix.blushield-ca.com
+flix.blushield.com.au
 florahealth.com
 florence-n.healthcoach.integrativenutrition.com
 florence-silverstein.healthcoach.integrativenutrition.com
@@ -21396,6 +21451,7 @@ foodgoodness.healthcoach.integrativenutrition.com
 foodinvestigations.com
 foodinvestigations.naturalnews.com
 foodismedicine.com
+foodlist.windroseclinic.com
 foodmatters.com
 foodnews.org
 foodplans.ifm.org
@@ -22342,6 +22398,7 @@ gate.lifestyles.net
 gate1.lifestyles.net
 gate2.lifestyles.net
 gatesofvienna.net
+gatest.blushield.com.au
 gateway.childrenshealthdefense.org
 gateway.washingtontimes.com
 gatewaybeast.wordpress.com
@@ -22741,12 +22798,14 @@ git.christianpost.com
 git.cnsnews.com
 git.dailycaller.com
 git.medicinal-foods.com
+git.souladvisor.com
 git.twitchy.com
 git.wn.com
 gitlab.charismamedia.com
 gitlab.cnsnews.com
 gitlab.eskimo.com
 gitlab.rt.com
+gitlab.souladvisor.com
 gitlab.twitchy.com
 gitlab.vashiva.com
 gitlab.wn.com
@@ -22948,6 +23007,7 @@ go.naturallivingfamily.com
 go.organixx.com
 go.paramountwell.com
 go.sirillp.com
+go.souladvisor.com
 go.stopmandatoryvaccination.com
 go.thealternativedaily.com
 go.thegoodinside.com
@@ -25493,6 +25553,7 @@ hostmaster.phiremedical.org
 hostmaster.pjhlaw.co.uk
 hostmaster.quantumbalancing.com
 hostmaster.quintessens.org
+hostmaster.schoolofhealth.com
 hostmaster.scienceoflife.nl
 hostmaster.scopeheal.com
 hostmaster.specialgifts.com
@@ -26263,6 +26324,7 @@ info-dev.publicsq.com
 info-staging.publicsq.com
 info-staging2.publicsq.com
 info.acchs.edu
+info.achs.edu
 info.animalwellnessmagazine.com
 info.biomatnetwork.com
 info.bitchute.com
@@ -26673,8 +26735,14 @@ irenemild.thegoodinside.com
 irexitfreedom.irishfreedom.ie
 irfangee.myctfo.com
 iribarren.metagenics.com
+iridology.com
+iridology.education
+iridology.webs.com
 iridologycollege.org
 iridologylife.com
+iridologynyc.com
+iridologyonline.com
+iridologytrainingschool.com
 irien3bula.myctfo.com
 irina-farber.healthcoach.integrativenutrition.com
 irina-khilinska.healthcoach1.integrativenutrition.com
@@ -26685,6 +26753,7 @@ iris-siebe.healthcoach.integrativenutrition.com
 iris.childrenshealthdefense.org
 iris.choq.com
 irisbell.com
+iriscope.org
 irish.wn.com
 irishfreedom.ie
 irishjoe23.nuyugenproducts.com
@@ -26692,6 +26761,7 @@ irishmik.myctfo.com
 irishsavant.net
 irisliu.healthcoach.integrativenutrition.com
 irisliu.healthcoach1.integrativenutrition.com
+irispatterns.com
 irisstats.institutefornaturalhealing.com
 irissupplies.com
 ironport.gdx.net
@@ -27866,6 +27936,7 @@ jingli.metagenics.com
 jinx.wn.com
 jipatientportal.md-hq.com
 jira-k8s.tm.org
+jira.souladvisor.com
 jira.tm.org
 jitsi.goji.live
 jitsi.thefreedompages.ca
@@ -30381,6 +30452,7 @@ leanne-yinger.healthcoach1.integrativenutrition.com
 leanne_yinger.healthcoach.integrativenutrition.com
 leapmom.myctfo.com
 learn-the-risk.square.site
+learn.achs.edu
 learn.acnem.org
 learn.aosis.co.za
 learn.au.tm.org
@@ -32236,6 +32308,7 @@ local.lifesitenews.com
 local.naturalmedicine.com
 local.selfhacked.com
 local.shockya.com
+local.souladvisor.com
 local.wepatriot.org
 localcdn.wn.com
 localhost.ahealedplanet.net
@@ -32572,6 +32645,7 @@ lt.wn.com
 ltaylor.metagenics.com
 ltfitnesscompany.com
 lthompson.metagenics.com
+lti.achs.edu
 ltoms.myctfo.com
 lttball.hempworx.com
 ltv-cdn3.frankspeech.com
@@ -32757,6 +32831,7 @@ m-subscribe.theepochtimes.com
 m-tst.api.rt.com
 m-up-lift.theepochtimes.com
 m.abovetopsecret.com
+m.achs.edu
 m.aestheticsadvisor.com
 m.analyzingamerica.org
 m.avogel.co.uk
@@ -32874,6 +32949,7 @@ ma.gettr.com
 ma.iherb.com
 ma.loveletter.iherb.com
 maail.davidlynchfoundation.org
+maail.windroseclinic.com
 maajidnawaz.substack.com
 mac.lightspeedvt.com
 mac253.myctfo.com
@@ -33056,6 +33132,7 @@ mail.abundantlife.com
 mail.acchs.edu
 mail.according2prophecy.org
 mail.accreditation.foodforthebrain.org
+mail.achs.edu
 mail.acnem.org
 mail.actascientific.com
 mail.action4canada.com
@@ -33220,6 +33297,10 @@ mail.blog.ca.tm.org
 mail.blog.ch.tm.org
 mail.bloodrootsalves.com
 mail.blueheronnaturopathic.com
+mail.blushield-ca.com
+mail.blushield-za.com
+mail.blushield.com.au
+mail.blushield.global
 mail.boardofnaturalmedicine.org
 mail.bodyalign.com
 mail.bodychek.co.uk
@@ -33459,6 +33540,7 @@ mail.devonline.acnem.org
 mail.diagnosisdiet.com
 mail.dietwiseacademy.com
 mail.dinarvets.com
+mail.directory.achs.edu
 mail.directtothepeople.com
 mail.dirobi.com
 mail.discernreport.com
@@ -33555,6 +33637,7 @@ mail.em.conservativewar.com
 mail.email.humanitysteam.org
 mail.embracejesus.org
 mail.emf-guard.com
+mail.emf-protect.net
 mail.emf-protection.com
 mail.emfacademy.com
 mail.emfadvice.com
@@ -33860,6 +33943,9 @@ mail.invexnews.com
 mail.ion.ac.uk
 mail.ippocrateorg.org
 mail.iridologycollege.org
+mail.iridologynyc.com
+mail.iridologyonline.com
+mail.irispatterns.com
 mail.israelnationalnews.com
 mail.israelshamir.net
 mail.italytravelideas.com
@@ -34319,6 +34405,7 @@ mail.redpilluniversity.org
 mail.reikiranch.net
 mail.releasesara.com
 mail.renewamerica.com
+mail.renewedhealthassocs.com
 mail.rense.com
 mail.report24.news
 mail.republicbroadcasting.org
@@ -34342,6 +34429,7 @@ mail.rightwingmedia.net
 mail.ripublication.com
 mail.riseofthevegan.com
 mail.rivercitymalone.com
+mail.robertshealthfoods.com
 mail.robertwhitakerbooks.com
 mail.ronpaulinstitute.org
 mail.rosicrucian.com
@@ -34733,6 +34821,7 @@ mail.willowstreetyoga.com
 mail.willthomasonline.net
 mail.windheimemfsolutions.com
 mail.windmillwellnesscenter.com
+mail.windroseclinic.com
 mail.winepressnews.com
 mail.wingmakers.com
 mail.winip.news
@@ -37195,6 +37284,7 @@ mobil.choq.com
 mobile-api.bioptimizers.com
 mobile-rest.cnsnews.com
 mobile-rest.twitchy.com
+mobile.achs.edu
 mobile.agoravox.fr
 mobile.autismone.org
 mobile.childrenshealthdefense.org
@@ -38631,6 +38721,7 @@ my-admin.indiamart.com
 my-air.lege.net
 my-exquisite-health.healthcoach.integrativenutrition.com
 my-vytalhealth.md-hq.com
+my.achs.edu
 my.ads.asiatatler.com
 my.asiatatler.com
 my.avivaromm.com
@@ -41170,6 +41261,8 @@ offer.eastbaydisc.com
 offer.theblaze.com
 offercdn.christianpost.com
 offerdev.christianpost.com
+offers.blushield-ca.com
+offers.blushield.com.au
 offers.christianpost.com
 offers.daystar.com
 offers.dogsnaturallymagazine.com
@@ -42261,6 +42354,7 @@ pages.mail.integrativenutrition.com
 pages.moonandwheel.com
 pages.myctfo.com
 pages.peakprosperity.com
+pages.souladvisor.com
 pages.thealternativedaily.com
 pages.twitchy.com
 pagewellness.ehealthpro.com
@@ -43569,6 +43663,7 @@ port.myctfo.com
 portal-ccfuncmed.md-hq.com
 portal-old.selfhacked.com
 portal-vytalhealth.md-hq.com
+portal.achs.edu
 portal.alignlife.com
 portal.alsearsmd.com
 portal.ayurvedanama.org
@@ -44167,6 +44262,7 @@ public.substack.com
 public360healthnwellness.md-hq.com
 publicads.wn.com
 publicasher.md-hq.com
+publications.achs.edu
 publicaustinofm.md-hq.com
 publicbalancedhealthcare.md-hq.com
 publiccocfm.md-hq.com
@@ -45113,6 +45209,7 @@ registration.i2i.org
 registrierung.tm.org
 registry.brighteon.com
 registry.gitlab.charismamedia.com
+registry.souladvisor.com
 regret.ie
 rehabilitationmed.md-hq.com
 rehealer.biomatnetwork.com
@@ -45311,6 +45408,7 @@ renew.ministrytodaymag.com
 renewamerica.com
 renewandrefresh.substack.com
 renewedhealth.md-hq.com
+renewedhealthassocs.com
 renewedmdicalemr.md-hq.com
 renewedmedical.md-hq.com
 renewedright.com
@@ -45610,6 +45708,7 @@ rforresistance.wordpress.com
 rfsafe.com
 rgalitz.metagenics.com
 rgambino.hempworx.com
+rgees.achs.edu
 rgillespie.metagenics.com
 rgoblin.myctfo.com
 rgonzalez.metagenics.com
@@ -45895,6 +45994,7 @@ robertr58.myctfo.com
 robertredin.myctfo.com
 robertromanellidc.metagenics.com
 robertscottbell.com
+robertshealthfoods.com
 robertspencer.org
 robertstore.thegoodinside.com
 robertwenzel.com
@@ -47031,6 +47131,8 @@ school.carm.org
 school.rt.com
 schooldays.lightspeedvt.com
 schooloffrequency.com
+schoolofhealth.com
+schoolofnaturalmedicine.com
 schoolofoccultmeditation.com
 schools.carm.org
 schoorsteen.beta.deblauwetijger.com
@@ -49023,6 +49125,7 @@ sotaboy.myctfo.com
 sott.net
 sou137.metagenics.com
 souforum.com
+souladvisor.com
 soulask.com
 soulfirealchemy.myctfo.com
 soulhealingmembership.drsha.com
@@ -49410,6 +49513,7 @@ staff.webseed.com
 staffhmd.md-hq.com
 staffkb.jbs.org
 staffpomegranatemed.md-hq.com
+staffportal.achs.edu
 staffpremierweightsolutions.md-hq.com
 staffqa.integrativenutrition.com
 stag.1mg.com
@@ -49489,6 +49593,7 @@ staging-apis.chatdit.com
 staging-courses.drberg.com
 staging-do.brighteon.social
 staging-fg.mindbodygreen.com
+staging-files.souladvisor.com
 staging-live.oann.com
 staging-meditate-america.davidlynchfoundation.org
 staging-portal.selfhacked.com
@@ -49676,6 +49781,7 @@ staging.shieldyourbody.com
 staging.shockya.com
 staging.signup.institutefornaturalhealing.com
 staging.silverdoctors.com
+staging.souladvisor.com
 staging.strategene.me
 staging.summitforwellness.com
 staging.synergyscience.com
@@ -49828,6 +49934,7 @@ stagthanos.1mg.com
 stagthanosauth.1mg.com
 stagthanosweb.1mg.com
 stahle.myctfo.com
+staing.souladvisor.com
 staleyg874.myctfo.com
 stammy73.myctfo.com
 stampa.ippocrateorg.org
@@ -49909,6 +50016,7 @@ static-staging.disclose.tv
 static.1mg.com
 static.ask.doctoroz.com
 static.bitchute.com
+static.blushield-eu.com
 static.brasilsemmedo.com
 static.brighteon.com
 static.cnsnews.com
@@ -50524,7 +50632,9 @@ stu.myctfo.com
 stuartbramhall.wordpress.com
 stuartg.myctfo.com
 student.integrativenutrition.com
+studentmail.achs.edu
 studentmail.nuhs.edu
+students.achs.edu
 students.childrenshealthdefense.org
 students.integrativenutrition.com
 students.qa.integrativenutrition.com
@@ -51766,6 +51876,7 @@ test.justthenews.com
 test.lifesitenews.com
 test.lightlounge.life
 test.lightspeedvt.com
+test.local.souladvisor.com
 test.login.wn.com
 test.loopbiz.com
 test.medistempanama.com
@@ -54123,6 +54234,7 @@ upload12.bitchute.com
 uploadimg.indiamart.com
 uploads.chatdit.com
 uploads.dev.chatdit.com
+uploads.souladvisor.com
 uploads.staging.chatdit.com
 uploads1.newtube.app
 uploads3.newtube.app
@@ -55211,6 +55323,7 @@ vwqljnh.thcfinder.com
 vwsr1.myctfo.com
 vwvsnaturalproducts.myctfo.com
 vzonewellness.md-hq.com
+w.achs.edu
 w.agoravox.fr
 w.animalwellnessmagazine.com
 w.bookstudygroups.org
@@ -55706,7 +55819,11 @@ webdisk.bittensaddiction.com
 webdisk.bkp.euroweeklynews.com
 webdisk.blog.bioptimizers.com
 webdisk.bloodrootsalves.com
+webdisk.blushield-ca.com
 webdisk.blushield-us.com
+webdisk.blushield-za.com
+webdisk.blushield.com.au
+webdisk.blushield.global
 webdisk.bodychek.co.uk
 webdisk.bodytalklamesa.com
 webdisk.boironusa.com
@@ -56161,9 +56278,12 @@ webdisk.invexnews.com
 webdisk.iotwreport.com
 webdisk.irate4x4.com
 webdisk.iridologycollege.org
+webdisk.iridologynyc.com
+webdisk.iridologyonline.com
 webdisk.irisbell.com
 webdisk.irishfreedom.ie
 webdisk.irishsavant.net
+webdisk.irispatterns.com
 webdisk.italytravelideas.com
 webdisk.itnshow.com
 webdisk.ivantic.info
@@ -56449,6 +56569,7 @@ webdisk.redoubtnews.com
 webdisk.rehobothmedicalcenter.com
 webdisk.reikiranch.net
 webdisk.releasesara.com
+webdisk.renewedhealthassocs.com
 webdisk.republicbroadcasting.org
 webdisk.republicbroadcastingarchives.org
 webdisk.republicreborn.com
@@ -56466,6 +56587,7 @@ webdisk.rightjournalism.com
 webdisk.rightwingmedia.net
 webdisk.ripublication.com
 webdisk.rivercitymalone.com
+webdisk.robertshealthfoods.com
 webdisk.robertwhitakerbooks.com
 webdisk.roguemale.org
 webdisk.romanbaber.ca
@@ -56901,7 +57023,11 @@ webmail.birthingthefuture.org
 webmail.bittensaddiction.com
 webmail.bkp.euroweeklynews.com
 webmail.blog.bioptimizers.com
+webmail.blushield-ca.com
 webmail.blushield-us.com
+webmail.blushield-za.com
+webmail.blushield.com.au
+webmail.blushield.global
 webmail.bodytalklamesa.com
 webmail.boisenaturalhealth.com
 webmail.bombsquad.droppingbombs.com
@@ -57338,9 +57464,12 @@ webmail.invexnews.com
 webmail.iotwreport.com
 webmail.irate4x4.com
 webmail.iridologycollege.org
+webmail.iridologynyc.com
+webmail.iridologyonline.com
 webmail.irisbell.com
 webmail.irishfreedom.ie
 webmail.irishsavant.net
+webmail.irispatterns.com
 webmail.italytravelideas.com
 webmail.itsmysustainablelife.com
 webmail.ivantic.info
@@ -57621,6 +57750,7 @@ webmail.redoubtnews.com
 webmail.rehobothmedicalcenter.com
 webmail.reikiranch.net
 webmail.releasesara.com
+webmail.renewedhealthassocs.com
 webmail.report24.news
 webmail.republicbroadcasting.org
 webmail.republicbroadcastingarchives.org
@@ -57639,6 +57769,7 @@ webmail.rightjournalism.com
 webmail.rightwingmedia.net
 webmail.ripublication.com
 webmail.rivercitymalone.com
+webmail.robertshealthfoods.com
 webmail.robertwhitakerbooks.com
 webmail.rockpoolpublishing.com.au
 webmail.roguemale.org
@@ -58388,6 +58519,7 @@ whm.prepperorganics.com
 whm.preventdisease.com
 whm.raypeat.com
 whm.republicbroadcasting.org
+whm.robertshealthfoods.com
 whm.roxytube.com
 whm.server.banners4freedom.com
 whm.server.canyon-news.com
@@ -58612,6 +58744,7 @@ windheimemfsolutions.com
 windmillwellnesscenter.com
 windowsontheworld.net
 windrjoescar.com
+windroseclinic.com
 windsongholistichealth.com
 windsor.wn.com
 windtaskforce.org
@@ -58989,6 +59122,7 @@ ww.howestreet.com
 ww.iarp.org
 ww.ifm.org
 ww.integrativenutrition.com
+ww.iridology.com
 ww.joel.kla.tv
 ww.kairos.kla.tv
 ww.kairos2.kla.tv
@@ -59603,6 +59737,7 @@ www.aceva.com
 www.aceves1.myctfo.com
 www.acfom.metagenics.com
 www.achena.org
+www.achs.edu
 www.acimconnect.com
 www.acmcollege.comindex.html
 www.acnebye.reikiranch.net
@@ -60823,7 +60958,12 @@ www.blueridgeclinic.com
 www.bluestoneinstitute.com.ayurtimes.com
 www.bluewillow.com
 www.bluntforcetruth.com
+www.blushield-ca.com
+www.blushield-eu.com
 www.blushield-us.com
+www.blushield-za.com
+www.blushield.com.au
+www.blushield.global
 www.blystoneforgovernor.com
 www.bmartin.metagenics.com
 www.bmentored.com
@@ -62543,7 +62683,11 @@ www.dev4.healy.shop
 www.dev5.healy.shop
 www.devalpha.rumble.com
 www.devapi.springaqua.com
+www.devau.blushield.com.au
+www.devblushield.blushield.com.au
+www.devca.blushield-ca.com
 www.devcfiso.awomanstime.com
+www.devdonna.blushield.com.au
 www.development.drronehrlich.com
 www.devf1.healy.shop
 www.devicehealy.com
@@ -62600,6 +62744,7 @@ www.diogeneslight.com
 www.dioxidodecloro.us
 www.direct.resultsrna.com
 www.directive21.com
+www.directory.achs.edu
 www.directory.kprz.com
 www.directory.thefreedompeople.org
 www.directtothepeople.bodytalklamesa.com
@@ -62884,6 +63029,7 @@ www.drhyman.com
 www.drichards.nuyugen.com
 www.drinkhrw.com
 www.drinkmanuka.brightmedicineclinic.com
+www.drjandilley.com
 www.drjaneruby.com
 www.drjessesantiano.com
 www.drjessmd.com
@@ -63304,6 +63450,7 @@ www.emf-guard.com
 www.emf-harmony.com
 www.emf-harmony.eu
 www.emf-portal.org
+www.emf-protect.net
 www.emf-protection.co.uk
 www.emf-protection.com
 www.emf-risks.com
@@ -63741,6 +63888,8 @@ www.flemingmethod.com
 www.flfe.net
 www.flfefreetrial.com
 www.flickr.com.howestreet.com
+www.flix.blushield-ca.com
+www.flix.blushield.com.au
 www.florahealth.com
 www.florence-n.healthcoach.integrativenutrition.com
 www.florida.myctfo.com
@@ -63806,6 +63955,7 @@ www.foodfreedom.news
 www.foodgold.myctfo.com
 www.foodinvestigations.com
 www.foodismedicine.com
+www.foodlist.windroseclinic.com
 www.foodmatters.com
 www.foodnews.org
 www.foodrevolution.org
@@ -64118,6 +64268,7 @@ www.garysharpe.substack.com
 www.garysvitamincloset.com
 www.gat.gatesofvienna.net
 www.gatesofvienna.net
+www.gatest.blushield.com.au
 www.gatewaybeast.wordpress.com
 www.gavinmounsey.substack.com
 www.gaylesacramone.myctfo.com
@@ -65430,11 +65581,19 @@ www.irena2.dev-rbx-1.rumble.com
 www.irene-elias.healthcoach.integrativenutrition.com
 www.irexitfreedom.irishfreedom.ie
 www.irfangee.myctfo.com
+www.iridology.com
+www.iridology.education
+www.iridology.webs.com
 www.iridologycollege.org
 www.iridologylife.com
+www.iridologynyc.com
+www.iridologyonline.com
+www.iridologytrainingschool.com
 www.irisbell.com
+www.iriscope.org
 www.irishfreedom.ie
 www.irishsavant.net
+www.irispatterns.com
 www.irissupplies.com
 www.iruur1325.substack.com
 www.isawthelightministries.com
@@ -66424,6 +66583,7 @@ www.loadtest.integrativepro.com
 www.loans.indiamart.com
 www.lobbyistsforcitizens.com
 www.local.lifesitenews.com
+www.local.souladvisor.com
 www.localterror.com
 www.lockdownrank.com
 www.lockdownresistance.endlockdowns.org
@@ -67295,6 +67455,7 @@ www.must-news.com
 www.mutantdx.com
 www.mx.nccaom.org
 www.mx.shinebrightnow.com
+www.my.achs.edu
 www.my.bioptimizers.com
 www.my.ezinearticles.com
 www.my.indiamart.com
@@ -67995,6 +68156,8 @@ www.oelmama.pureolien.nl
 www.off-guardian.org
 www.offer.coem.com
 www.offer.theblaze.com
+www.offers.blushield-ca.com
+www.offers.blushield.com.au
 www.offers.officialhodgetwins.com
 www.offgrid.news
 www.offgridsurvival.com
@@ -68642,6 +68805,7 @@ www.popularrationalism.substack.com
 www.populationcollapse.com
 www.populationcontrol.news
 www.populist.press
+www.portal.achs.edu
 www.portal.ayurvedanama.org
 www.portal.drpaulapproved.com
 www.portal.healthsecret.com
@@ -68832,6 +68996,7 @@ www.pt.wn.com
 www.ptaylor.myctfo.com
 www.ptrenaissance.com
 www.public.substack.com
+www.publications.achs.edu
 www.publichealthontario.covfefebakery.com
 www.publichealthpolicyjournal.com
 www.publicsq.com
@@ -69174,6 +69339,7 @@ www.renata-petecka.healthcoach.integrativenutrition.com
 www.renew.ministrytodaymag.com
 www.renewamerica.com
 www.renewandrefresh.substack.com
+www.renewedhealthassocs.com
 www.renewedright.com
 www.renewwellness.healthcoach.integrativenutrition.com
 www.rense.com
@@ -69359,6 +69525,7 @@ www.robertfkennedyjr.substack.com
 www.robertfrias.myctfo.com
 www.robertinlakesh.substack.com
 www.robertscottbell.com
+www.robertshealthfoods.com
 www.robertspencer.org
 www.robertwenzel.com
 www.robertwhitakerbooks.com
@@ -69612,6 +69779,8 @@ www.scans.allthenourishingthings.com
 www.scarletskids.org
 www.schealthcoalition.com
 www.schooloffrequency.com
+www.schoolofhealth.com
+www.schoolofnaturalmedicine.com
 www.schoolofoccultmeditation.com
 www.science-engineering-and-technology.ecpd.aosis.co.za
 www.science-healing.info
@@ -70042,6 +70211,7 @@ www.sosmover.myctfo.com
 www.sosstraling.nl
 www.sott.net
 www.souforum.com
+www.souladvisor.com
 www.soulask.com
 www.soulmetaphysics.reikiranch.net
 www.soulofegypttravel.com
@@ -70189,6 +70359,7 @@ www.staging.raphaelmedicine.com
 www.staging.releasesara.com
 www.staging.republicbroadcasting.org
 www.staging.shieldyourbody.com
+www.staging.souladvisor.com
 www.staging.thealternativedaily.com
 www.staging.thecrystalgarden.com
 www.staging.theshannonjoy.com
@@ -70728,6 +70899,7 @@ www.test.healthnutnews.com
 www.test.healthy-holistic-living.com
 www.test.healy.shop
 www.test.lightlounge.life
+www.test.local.souladvisor.com
 www.test.loopbiz.com
 www.test.medistempanama.com
 www.test.ministrytodaymag.com
@@ -72385,6 +72557,7 @@ www.windheimemfsolutions.com
 www.windmillwellnesscenter.com
 www.windowsontheworld.net
 www.windrjoescar.com
+www.windroseclinic.com
 www.windsongholistichealth.com
 www.windtaskforce.org
 www.winepressnews.com
@@ -72762,6 +72935,7 @@ www.zedie.wordpress.com
 www.zeeemedia.com
 www.zeeman960.myctfo.com
 www.zemavek.sk
+www.zenearth.com
 www.zenithherbal.com
 www.zenmybrain.com
 www.zentasia.in5d.com
@@ -72841,6 +73015,7 @@ www2.lymenet.org
 www2.rosicrucian.org
 www2.shopfreemart.com
 www2.sonoran.edu
+www2.souladvisor.com
 www2.staging.healy.shop
 www2.stormfront.org
 www2.theepochtimes.com
@@ -73371,6 +73546,7 @@ zendesk3.iherb.com
 zendesk3.precisionnutrition.com
 zendesk4.iherb.com
 zendesk4.precisionnutrition.com
+zenearth.com
 zenithherbal.com
 zenjammin.myctfo.com
 zenjoy.myctfo.com
