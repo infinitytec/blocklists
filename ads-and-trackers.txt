@@ -1,4 +1,4 @@
-# Ad domains.
+# Ad and tracking domains.
 # List maintained by infinitytec.
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
@@ -6203,6 +6203,7 @@ autodiscover-redirect.hasoffers.com
 autodiscover.admin.hasoffers.com
 autodiscover.ads.hasoffers.com
 autodiscover.archive.hasoffers.com
+autodiscover.becomingtrendy.com
 autodiscover.beta.hasoffers.com
 autodiscover.billing.hasoffers.com
 autodiscover.blog.hasoffers.com
@@ -7150,6 +7151,7 @@ becomig.clickfunnels.com
 becomingabetteryou.clickfunnels.com
 becomingawomanofproverbs.clickfunnels.com
 becomingnew.ositracker.com
+becomingtrendy.com
 bedigital.hasoffers.com
 bedigitech.hasoffers.com
 bedijitech.hasoffers.com
@@ -12927,6 +12929,7 @@ cpamerchant.hasoffers.com
 cpamind.hasoffers.com
 cpamobill.hasoffers.com
 cpamole.hasoffers.com
+cpanel.becomingtrendy.com
 cpanel.cn.mob.conduit.com
 cpanel.hasoffers.com
 cpanel.mytraffic.biz
@@ -12995,11 +12998,13 @@ cpc-razor.hasoffers.com
 cpc.clickbooth.com
 cpc.dev.clickbooth.com
 cpc_razor.hasoffers.com
+cpcalendars.becomingtrendy.com
 cpcalendars.mytraffic.biz
 cpcalendars.trackjumpr.com
 cpcalendars.usawildseafood.com
 cpchub.clickbooth.com
 cpcninja.clickfunnels.com
+cpcontacts.becomingtrendy.com
 cpcontacts.mytraffic.biz
 cpcontacts.trackjumpr.com
 cpcontacts.usawildseafood.com
@@ -14191,6 +14196,7 @@ daphenebooker.clickfunnels.com
 daphne.hasoffers.com
 daphnefbbc.clickfunnels.com
 daphnesmovement.clickfunnels.com
+dapidata.com
 daplinjames.clickfunnels.com
 dappuniversity.clickfunnels.com
 dapthesalesnetwork.clickfunnels.com
@@ -15243,6 +15249,7 @@ dev-langing2.datspush.com
 dev-langing3.datspush.com
 dev-langing4.datspush.com
 dev-langing5.datspush.com
+dev-ld-test-subdomains.lddy.no
 dev-playerize.hasoffers.com
 dev-www.hasoffers.com
 dev.0e180a.diytrax.app
@@ -25673,6 +25680,7 @@ ldap2.clickfunnels.com
 ldap3.hasoffers.com
 ldapauth.hasoffers.com
 ldaptest.hasoffers.com
+lddy.no
 ldgsocialfb.clickfunnels.com
 ldmsolutions.clickfunnels.com
 ldn.hasoffers.com
@@ -26488,6 +26496,7 @@ mail.aptrinsic.com
 mail.av8d.hasoffers.com
 mail.avcome.clickfunnels.com
 mail.avcome.hasoffers.com
+mail.becomingtrendy.com
 mail.clickbooth.com
 mail.clickfunnels.com
 mail.cn.mob.conduit.com
@@ -39122,6 +39131,7 @@ webdisk.api.hasoffers.com
 webdisk.app.hasoffers.com
 webdisk.apps.hasoffers.com
 webdisk.archive.hasoffers.com
+webdisk.becomingtrendy.com
 webdisk.billing.clickfunnels.com
 webdisk.books.hasoffers.com
 webdisk.bugs.hasoffers.com
@@ -39230,6 +39240,7 @@ weblync.hasoffers.com
 webm.hasoffers.com
 webmagicseo.clickfunnels.com
 webmail.admin.hasoffers.com
+webmail.becomingtrendy.com
 webmail.cn.mob.conduit.com
 webmail.control.hasoffers.com
 webmail.controlpanel.hasoffers.com
@@ -39871,6 +39882,7 @@ www.bbs.hasoffers.com
 www.bcnmonetize.hasoffers.com
 www.beadbe.clickfunnels.com
 www.beauty.clickfunnels.com
+www.becomingtrendy.com
 www.beeoptions.hasoffers.com
 www.behindthepolitics.de
 www.bellaflora24.de
@@ -40043,6 +40055,7 @@ www.dailydealtime.hasoffers.com
 www.dailyharvest.hasoffers.com
 www.danhenry.clickfunnels.com
 www.daniellekhowell.clickfunnels.com
+www.dapidata.com
 www.dating.hasoffers.com
 www.datspush.com
 www.db.hasoffers.com
@@ -40345,6 +40358,7 @@ www.lazada.hasoffers.com
 www.lazada.vn.hasoffers.com
 www.lclfinance.hasoffers.com
 www.ld.hasoffers.com
+www.lddy.no
 www.leadgcc.hasoffers.com
 www.leadmill.hasoffers.com
 www.leadsgcc.hasoffers.com

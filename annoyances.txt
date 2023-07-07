@@ -368,6 +368,7 @@ multimonitorcomputer.com##.top-cta-row
 
 ! newegg.com 
 www.newegg.com##.bell-container
+www.newegg.com##.floating-live
 
 ! newstribune.info
 newstribune.info###dialog-message
@@ -503,6 +504,8 @@ www.msi.com###ccc-notify
 ! msn.com
 www.msn.com###vjs_video_2_html5_api
 www.msn.com##.animate.shrunk.loaded.player-wrapper.videojs
+www.msn.com##.articlePage_continueReadingButtonPrimary-DS-EntryPoint1-1.articlePage_continueReadingContainerContinousReadingButton-DS-EntryPoint1-1.articlePage_continueReadingButton-DS-EntryPoint1-1.button-DS-EntryPoint1-1
+www.msn.com##.articlePage_continueReadingButtonPrimary-DS-EntryPoint1-1.articlePage_continueReadingContainerContinousReadingButton-DS-EntryPoint1-1.articlePage_continueReadingButton-DS-EntryPoint1-1.button-DS-EntryPoint1-3
 www.msn.com##.autosNonResearch.floatleft.start-stripe.autos_rlc1
 www.msn.com##.player-placeholder
 www.msn.com##.rcc.rc.recommendedSearch

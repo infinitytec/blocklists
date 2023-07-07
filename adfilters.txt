@@ -397,6 +397,9 @@ cleantechnica.com##bold
 ! cleveland.com
 www.cleveland.com##.InContent_Center_Padding
 
+! clevelandclinic.org
+my.clevelandclinic.org##._hold-size.ad-mobile__container
+
 ! cloudinary.com
 ||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-1-turbo-tax.jpg$image
 ||res.cloudinary.com/diprdpm/image/upload/v1577983711/08027/Artboard-2-turbo-tax.jpg$image
@@ -532,6 +535,9 @@ www.dailywire.com##p:nth-of-type(13)
 
 ! dashnet.org
 orteil.dashnet.org###smallSupport
+
+! datarecovery.institute
+www.datarecovery.institute##[href^="https://shop.systoolsgroup.com/affiliate.php"]
 
 ! deadspin.com
 deadspin.com##.ad-left-top.dfp-slot-LEFT_TOP.dfp.ad-container
@@ -1893,9 +1899,15 @@ www.telegraphherald.com##.subscriber-premium.asset-content > .hidden-print.tncms
 ! telluridenews.com
 www.telluridenews.com##.automatic-ad
 
+! textileworld.com
+www.textileworld.com##.td-a-rec
+
 ! theaaronloy.com
 www.theaaronloy.com###custom_html-2
 www.theaaronloy.com###custom_html-3
+
+! the-sun.com
+www.the-sun.com##.advert-wrapper
 
 ! thedaddest.com
 thedaddest.com###ad-mobile-bottom-placeholder
@@ -2297,6 +2309,7 @@ www.wthr.com##.ad
 news.yahoo.com###sda-LREC3-iframe
 news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
 news.yahoo.com##.sticky-active.sticky-sda
+www.yahoo.com###adsStream
 www.yahoo.com###sdaAdvText-INARTICLE
 
 ! yelp.com
