@@ -1688,6 +1688,9 @@ www.sevenforums.com##.chillad.media400
 www.shopgoodwill.com###listings-sidebar > div
 www.shopgoodwill.com##.purchase-desktop > div
 
+! signupgenius.com
+www.signupgenius.com##.adpx_display.adpx_modal
+
 ! smallseo.tools
 smallseo.tools###iframeData .text-center > p
 smallseo.tools##.border.p25.tracktool_banner .text-center > p
