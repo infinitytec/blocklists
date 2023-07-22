@@ -3076,6 +3076,7 @@ cm._domainkey.tiktok.com
 cmaf-source-fcdn-frankfurt.s.worldfcdn.com
 cmaf-source-fcdn-ttp-private-tls.tiktokd.org
 cmaf-source-fcdn-ttp-private.tiktokd.org
+cmaf-source-fcdn-ttp2-private.tiktokd.org
 cmbchina.com
 cmf.s.com-ns.byte.tiktokcdn.com
 cmn.byte.tiktokcdn.com
@@ -4094,6 +4095,7 @@ eip-lq.bytedance.com
 eip.bytedance.com
 eitan.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 ejarom.qa1.byte.9w1cj5r.byte.tiktokcdn.com
+ekko-source-fcdn-ttp2-private.tiktokd.org
 el-cerrito.com-ns.byte.tiktokcdn.com
 ela.miniiktokcdn.comns1.byte.tiktokcdn.com
 elb-babe-934876860.ap-southeast-1.elb.amazonaws.com
@@ -5202,6 +5204,7 @@ hleal18.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 hljkpkj.com.tlivecdn.com
 hls-l11.tiktokcdn.liveplay.myqcloud.com
 hls-source-fcdn-ttp-private.tiktokd.org
+hls-source-fcdn-ttp2-private.tiktokd.org
 hls1.yuanzhi.org.cn.all.tlivecdn.com
 hls1.yuanzhi.org.cn.tlivecdn.com
 hlzg-caijing.byted.org
@@ -9132,9 +9135,11 @@ p16-oec-sg.ibyteimg.com
 p16-oec-ttp.tiktokcdn-us.com
 p16-oec-va.ibyteimg.com
 p16-picowebsite-va.ibyteimg.com
+p16-picowebsiteimg-va.ibyteimg.com
 p16-platform-static-va.ibyteimg.com
 p16-pmsimage-va.ibyteimg.com
 p16-pop-sg.ibyteimg.com
+p16-rc-captcha-useast2a.ibyteimg.com
 p16-security-sg.ibyteimg.com
 p16-security-sg.ibyteimg.com.edgesuite.net
 p16-security-va.ibyteimg.com
@@ -11710,6 +11715,7 @@ sa.tiktok.com
 sa10.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 safe-protection.bytedance.com
 safebettingsites-co-uk.3w1cj5r.byte.tiktokcdn.com
+safety-enforcement.tiktok.com
 sagar.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 sahil.3w1cj5r.byte.tiktokcdn.com
 sai-pre.bytedance.com
@@ -12443,6 +12449,8 @@ sop-pre.bytedance.com
 sop.bytedance.com
 sophy.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 soulipin.cn.tlivecdn.com
+source-fcdn-sink-ttp2-private.tiktokd.org
+source-fcdn-source-ttp2-private.tiktokd.org
 source-fcdn-ttp-private-ppe.tiktokd.org
 source-fcdn-ttp-private.tiktokd.org
 source-luban-preonline-wide.byted.org
@@ -13004,6 +13012,7 @@ thomsom.cn.tlivecdn.com
 thrift-doc.byted.org
 ths.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 thunder-source-fcdn-ttp-private.tiktokd.org
+thunder-source-fcdn-ttp2-private.tiktokd.org
 thuy-qa.backend.byte.tiktokcdn.com
 ti-api-hl.bytedance.com
 ti-api-lf.bytedance.com
@@ -15168,6 +15177,7 @@ vigo-lb-alisg.byteoversea.net
 vigoreview.byteoversea.com
 vileyka.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 vipmandiriqq.com-ns.byte.tiktokcdn.com
+virtual.bytedance.com
 vision2.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 visitmybalances.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 visitor.bytedance.com
