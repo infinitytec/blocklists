@@ -1359,6 +1359,7 @@ www.neowin.net##.header-banner-advertising
 www.neowin.net###news-content > div
 
 ! newegg.com
+www.newegg.com###afscontainer1
 www.newegg.com##.external.sponsored-brands-items
 
 ! news-medical.net
