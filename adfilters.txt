@@ -2157,7 +2157,6 @@ walletinvestor.com##.noticer-wrapper
 ! walmart.com
 www.walmart.com###BROWSE-SponsoredProductCarousel-bottom
 www.walmart.com##.Grid--gutters.grid
-www.walmart.com##.buy-box-container
 www.walmart.com##.pbb-container-link-img.pbb-content
 www.walmart.com##.prod-marketingFlex
 www.walmart.com##.slide-contents
