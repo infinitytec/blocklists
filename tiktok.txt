@@ -515,6 +515,7 @@ ad-instantpage-va.tiktokv.com
 ad-instantpage.us.tiktokv.com
 ad-lb-alisg.byteoversea.net
 ad-lb-gcp.byteoversea.net
+ad-lb-maliva-bdva.byteoversea.net
 ad-lb-maliva-useast2a.byteoversea.net
 ad-lb-maliva.byteoversea.net
 ad.byted.org
@@ -1651,6 +1652,7 @@ api38-normal-useast5.us.tiktokv.com
 api39-core-useast1a.tiktokv.com
 api39-i18n.gts.byteoversea.net
 api39-normal-useast5.us.tiktokv.com
+api39-raven.gts.byteoversea.net
 api39-sg.gts.byteoversea.net
 api39-va.gts.byteoversea.net
 api39.gts.byteoversea.net
@@ -3259,6 +3261,7 @@ core02.byte.3w1cj5r.byte.tiktokcdn.com
 coresite-ewr2-api1.l.byteoversea.net
 coresite-iad-api1.l.byteoversea.net
 coresite-iad-v1.l.byteoversea.net
+coresite-va4-v1.l.byteoversea.net
 corp-proxy.bytedance.com
 corp.byte.telemetry.v1.byte.tiktokcdn.com
 corp.byte.tiktokcdn.com
@@ -3960,6 +3963,7 @@ duts.cbadataapistaging6.wire.community4arab.tasks-major.autodiscover.bytedns.net
 duzce.miniiktokcdn.comns1.byte.tiktokcdn.com
 dvag.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 dvt.vaultcore-int.com-ns.byte.tiktokcdn.com
+dxb1.g.byteoversea.net
 dxy064.top.all.tlivecdn.com
 dxy064.top.tlivecdn.com
 dyece-hl.bytedance.com
@@ -5100,6 +5104,7 @@ gtl-sg.bytedance.com
 gtl.bytedance.com
 gtm-coupanglive.brightcovecdn.com.tlivecdn.com
 gts-ns.byteoversea.com
+gts.byteoversea.com
 gts.byteoversea.net
 gts.ttoverseaus.net
 guerra.backend.byte.tiktokcdn.com
@@ -6262,6 +6267,7 @@ jvb.miniiktokcdn.comns1.byte.tiktokcdn.com
 jvf.3w1cj5r.byte.tiktokcdn.com
 jxpf.com.tlivecdn.com
 jxtv.top.tlivecdn.com
+jy.bytedance.com
 jyjzx.mesh.azure.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 k-lb-boei18n-lb.webproxy.idc-lorien.bh-arppofind.comlb-normal-api-2.b.bytedns.net
 k.l.bytedns.net
@@ -8511,6 +8517,7 @@ now.tiktok.com
 npaxjk.top.all.tlivecdn.com
 npaxjk.top.tlivecdn.com
 nqzeqb.xzcs3zlph.com
+nrt1.g.byteoversea.net
 ns-1475.awsdns-56.org
 ns-1574.awsdns-04.co.uk
 ns-440.awsdns-55.com
@@ -8569,7 +8576,9 @@ o19.ptr4023.service.tiktok.com
 o2.ptr4323.i.account.tiktok.com
 o20.ptr6684.service.tiktok.com
 o21.ptr8239.account.cherie.com
+o2117.send.tiktok.com
 o23.ptr4260.service.tiktok.com
+o2388.info.tiktok.com
 o24.ptr8276.service.tiktok.com
 o25.ptr4821.service.tiktok.com
 o26.ptr7957.service.tiktok.com
@@ -8579,6 +8588,8 @@ o31.ptr4951.service.india.tiktok.com
 o32.ptr7905.service.india.tiktok.com
 o33.ptr2870.india.tiktok.com
 o34.ptr1441.service.tiktok.com
+o37.ptr9294.service.tiktok.com
+o38.ptr4060.service.tiktok.com
 o4.ptr4598.i.service.tiktok.com
 o41.ptr6729.bytedance.com
 o5.ptr197.i.service.tiktok.com
@@ -9288,6 +9299,7 @@ p16-rc-captcha-useast2a.ibyteimg.com
 p16-rc-captcha-va.ibyteimg.com
 p16-retouch-file-sign-sg.ibyteimg.com
 p16-retouch-va-file-sign-va.ibyteimg.com
+p16-scm-static-va.ibyteimg.com
 p16-security-sg.ibyteimg.com
 p16-security-sg.ibyteimg.com.edgesuite.net
 p16-security-va.ibyteimg.com
@@ -9457,6 +9469,7 @@ p19-heycan-file-sign-va.ibyteimg.com
 p19-heycan-sign-useast2a.ibyteimg.com
 p19-heycan-sign-va.ibyteimg.com
 p19-hwmimg.tiktokcdn-us.com
+p19-kpop-sg.ibyteimg.com
 p19-lark-file-va.ibyteimg.com
 p19-lp-sg.ibyteimg.com
 p19-magic-sg.ibyteimg.com
@@ -9942,6 +9955,7 @@ perf-us.bytedance.com
 perf.bytedance.com
 perf.clvp.byteoversea.net
 perf.rpm.byteoversea.net
+perf.rpm.ttoverseaus.net
 perfil.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 perforce.bytedance.com
 personal-question-api-hl.bytedance.com
@@ -12219,6 +12233,7 @@ service.ceb1a.g.byteoversea.net
 service.cgk4.g.byteoversea.net
 service.ci.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 service.dme1.g.byteoversea.net
+service.dxb1.g.byteoversea.net
 service.fra1.g.byteoversea.net
 service.fra1gtt.g.byteoversea.net
 service.fra1retn.g.byteoversea.net
@@ -12248,6 +12263,7 @@ service.mnl1a.g.byteoversea.net
 service.mrs1b.g.byteoversea.net
 service.mrs1retn.g.byteoversea.net
 service.mxp1a.g.byteoversea.net
+service.nrt1.g.byteoversea.net
 service.sgn1.g.byteoversea.net
 service.sin1.g.byteoversea.net
 service.sin2a.g.byteoversea.net
@@ -13318,6 +13334,7 @@ tidsabb-cncore-lf.bytedance.com
 tidsabb-cncore-lq.bytedance.com
 tidsabb-cncore.bytedance.com
 tiger.bytedance.com
+tikcast-game-speed.gts.byteoversea.net
 tiktok-ads.byteoversea.net
 tiktok-core-lb-alisg.byteoversea.net
 tiktok-core-lb-alisg.ttoversea.net
@@ -14426,6 +14443,7 @@ v-healthcheck-a.muscdn.com
 v-ies-edgecast-useast2a.muscdn.com
 v-ies.ci.byte.tiktokcdn.com
 v-ies.tiktokcdn.com
+v-kfc.service.bkk8a.g.byteoversea.net
 v-lf-tcscache.bytedance.com
 v-lf1-tcscache.bytedance.com
 v-lf2-tcscache.bytedance.com
@@ -14473,10 +14491,15 @@ v.muscdn.com
 v.musical.ly
 v.pstatp.com
 v.region.na-us-ca.g.byteoversea.net
+v.service.bkk8a.g.byteoversea.net
 v.service.cgk4.g.byteoversea.net
+v.service.dal2b.g.ttoverseaus.net
 v.service.fra3.g.byteoversea.net
 v.service.gru1.g.byteoversea.net
 v.service.iad4a.g.byteoversea.net
+v.service.jfk1a.g.ttoverseaus.net
+v.service.ord3a.g.ttoverseaus.net
+v.service.sea2a.g.ttoverseaus.net
 v.sgpstatp.com
 v.tiktok.com
 v.tiktok.net
@@ -14915,12 +14938,15 @@ v39-dynamic.service.arn1.g.byteoversea.net
 v39-dynamic.service.bkk1.g.byteoversea.net
 v39-dynamic.service.bkk2.g.byteoversea.net
 v39-dynamic.service.bkk3a.g.byteoversea.net
+v39-dynamic.service.bkk4.g.byteoversea.net
+v39-dynamic.service.bkk5.g.byteoversea.net
 v39-dynamic.service.bkk6.g.byteoversea.net
 v39-dynamic.service.bkk7a.g.byteoversea.net
 v39-dynamic.service.cdg1.g.byteoversea.net
 v39-dynamic.service.cdg1b.g.byteoversea.net
 v39-dynamic.service.ceb1a.g.byteoversea.net
 v39-dynamic.service.cgk4.g.byteoversea.net
+v39-dynamic.service.dxb1.g.byteoversea.net
 v39-dynamic.service.fra1.g.byteoversea.net
 v39-dynamic.service.fra3.g.byteoversea.net
 v39-dynamic.service.gdl1.g.byteoversea.net
@@ -14931,6 +14957,7 @@ v39-dynamic.service.ist1.g.byteoversea.net
 v39-dynamic.service.ist2a.g.byteoversea.net
 v39-dynamic.service.ist3a.g.byteoversea.net
 v39-dynamic.service.jnb1a.g.byteoversea.net
+v39-dynamic.service.jnb2a.g.byteoversea.net
 v39-dynamic.service.kul1.g.byteoversea.net
 v39-dynamic.service.lhr1.g.byteoversea.net
 v39-dynamic.service.lhr3.g.byteoversea.net
@@ -14942,6 +14969,7 @@ v39-dynamic.service.mex2a.g.byteoversea.net
 v39-dynamic.service.mnl1a.g.byteoversea.net
 v39-dynamic.service.mrs1b.g.byteoversea.net
 v39-dynamic.service.mxp1a.g.byteoversea.net
+v39-dynamic.service.nrt1.g.byteoversea.net
 v39-dynamic.service.sgn1.g.byteoversea.net
 v39-dynamic.service.sin1.g.byteoversea.net
 v39-dynamic.service.sin2a.g.byteoversea.net
@@ -14963,6 +14991,7 @@ v39-id.tiktokcdn.com
 v39-jp.gts.byteoversea.net
 v39-jp.tiktokcdn.com
 v39-kh.tiktokcdn.com
+v39-khsmart.gts.byteoversea.net
 v39-lhr.tiktokcdn.com
 v39-live-promotions.apple.com.edgesuite.netus.tiktokcdn.com
 v39-mia.tiktokcdn.com
@@ -15060,6 +15089,8 @@ v45-ph-globe.tiktokcdn.com
 v45-ph-pldt.gpm.byteoversea.net
 v45-ph-pldt.tiktokcdn.com
 v45-sg.tiktokcdn.com
+v45-ttp.gpm.ttoverseaus.net
+v45.clv.byteoversea.net
 v45.gpm.byteoversea.net
 v45.tiktokcdn.com
 v46.tiktokcdn.com
