@@ -6,8 +6,8 @@
 ! URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt
 ! Homepage: https://github.com/infinitytec/blocklists/
 
-! HOSTS HAVE BEEN REMOVED
-! Use the list at https://github.com/infinitytec/blocklists/blob/master/ads-and-trackers.txt
+! With thanks to the following:
+! u/D4niloMR
 
 ! FILTERS
 
@@ -198,6 +198,9 @@ news.artnet.com##div.embedded-amp-ad
 ! aspsnippets.com
 www.aspsnippets.com###ctl00_contentplaceholder1_ucRightContent_Ads1_adContainer
 
+! att.com
+www.att.com##.advertisementpanel
+
 ! automd.com
 www.automd.com##.amd-ad
 
@@ -209,6 +212,9 @@ avherald.com###ad1cell > div
 
 ! axios.com
 www.axios.com##.border-accent-blue-tint.sm\:border.border-b.apexAd.gtmView
+
+! azcentral.com
+www.azcentral.com##.taboola-sidebar
 
 ! babylonbee.com
 babylonbee.com###app > .row > .col-12
@@ -244,6 +250,7 @@ www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-compone
 www.beliefnet.com##.visible-xs-block.ad-decoration.ad-container.ad.score-component.Mob_Prem1_Top
 
 ! bestbuy.com
+www.bestbuy.com##.ad-text
 www.bestbuy.com##.add-sponsored-border.sku-item.appContainer
 www.bestbuy.com##.digital-ad-wrapper
 www.bestbuy.com##.display-ad-wrapper
@@ -931,6 +938,14 @@ www.healthysimulation.com##div[class*="ffd"]
 ! heavens-above.com
 heavens-above.com##.adslot_header.adsbygoogle
 
+! helpdeskgeek.com
+helpdeskgeek.com###adngin-InContent_1-0
+helpdeskgeek.com###adngin-InContent_2-0
+helpdeskgeek.com###adngin-InContent_3-0
+helpdeskgeek.com##.adsense-block
+helpdeskgeek.com##.adsense-block.post-ad-top
+helpdeskgeek.com##.post-ad-top
+
 ! historydaily.org
 historydaily.org##.adwrapper
 
@@ -950,6 +965,10 @@ hothardware.com##.hide-mobile.ad-top-billboard
 science.howstuffworks.com##.ad-container
 
 ! howtogeek.com
+www.howtogeek.com##.ad-zone
+www.howtogeek.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1599675187012-ccr2 > .ad-current
+www.howtogeek.com##.dynamically-injected-refresh-ad-zone
+www.howtogeek.com##.ad-current
 www.howtogeek.com##.e-content.entry-content > div
 www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-inner
@@ -1108,6 +1127,7 @@ www.kansas.com###main-content > section:nth-child(7) > div:nth-child(1) > div:nt
 www.kansas.com##.zone-el
 www.kansas.com##div.rail:nth-child(1)
 ||www-1.kansas.com/?load=aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL3NhZmVmcmFtZS8xLTAtMzYvaHRtbC9jb250YWluZXIuaHRtbA&doc=1$subdocument
+@@||cds.connatix.com/p/*/cSyncRemoteEntry.js$script,domain=www.kansas.com
 
 ! katu.com
 katu.com###js-Sponsored-Container
@@ -1228,6 +1248,13 @@ listoffreeware.com##.text-center.bannerimg > [href]
 
 ! liveandletsfly.com
 liveandletsfly.com##div.widget_custom_html.sidebar-widget.widget.widget_text:nth-of-type(2)
+
+! livemint.com
+www.livemint.com###aniview-ads
+www.livemint.com##.InnerAdDiv
+www.livemint.com##.adMinHeight280
+www.livemint.com##.storyadHolderAfterLoad
+www.livemint.com##div.adHeight280
 
 ! lmgtfy.com
 lmgtfy.com##div:nth-of-type(1) > iframe
@@ -1419,6 +1446,11 @@ nocable.org##.sticky-banner-section
 now.gg##.\39 xszmcpa2e3t
 now.gg##.ff7nnxi7gfqu
 
+! npr.org
+www.npr.org##.ad-backstage
+www.npr.org##.ad-config
+www.npr.org##.has-refresh-enabled.ad-backstage.ad-config
+
 ! office365itpros.com
 office365itpros.com###media_image-5
 
@@ -1473,6 +1505,9 @@ www.paperrater.com##[href^="/adv/click"]
 ! parentinfluence.com 
 parentinfluence.com##.ad_placeholder_m
 parentinfluence.com##.ad_placeholder_m_s
+
+! pcguide.com
+www.pcguide.com##.wepc-takeover
 
 ! petapixel.com
 petapixel.com##div.instream_ad
@@ -1656,6 +1691,9 @@ scarsdale10583.com##.ja-r2.clearfix.ja-colswrap
 screenrant.com##.ad-zone-container
 screenrant.com##.width320.ad-zone-container-footer-sticky-footer.ad-zone-container
 
+! seacoastonline.com
+seacoastonline.com##.ad-container
+
 ! searchenginereports.net
 searchenginereports.net###bio_ep
 searchenginereports.net###bio_ep_bg
@@ -1668,6 +1706,9 @@ www.seneweb.com##[href="https://www.seneweb.com/xban/clickto/2628e309dec27bb4ebf
 www.seneweb.com##div.module_banner03.module_banner:nth-of-type(1)
 www.seneweb.com##li.featured_posts_item > [href="https://www.seneweb.com/xban/clickto/84eda92fd1a59b443121e63fb57befe52f7b1822"]
 www.seneweb.com##li.featured_posts_item:nth-of-type(6)
+
+! seopolarity.com
+seopolarity.com##.overlay
 
 ! seotoolscenters.com
 seotoolscenters.com##.text-center.xd_top_box.top40
@@ -1691,6 +1732,9 @@ www.shopgoodwill.com##.purchase-desktop > div
 
 ! signupgenius.com
 www.signupgenius.com##.adpx_display.adpx_modal
+
+! siskiyoudaily.com
+siskiyoudaily.com##.ad-container
 
 ! smallseo.tools
 smallseo.tools###iframeData .text-center > p
@@ -1780,6 +1824,9 @@ www.stayathomemum.com.au##.widget-sidebar-advertisement
 www.steamboatpilot.com##.ad-top-wrapper
 www.steamboatpilot.com##.module-ad
 
+! storagereview.com
+www.storagereview.com##.header-style-3.header-banner
+
 ! strawpoll.com
 strawpoll.com##.adsbygoogle
 strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsbygoogle
@@ -1787,8 +1834,17 @@ strawpoll.com##.break-word.is-poll-results.container > .block.wrapsense > .adsby
 ! stuff.co.nz
 i.stuff.co.nz##.sics-component__ad-placeholder__content
 
+! survivethis.news
+survivethis.news###custom_html-11 > .custom-html-widget.textwidget
+
 ! systemcenterdudes.com
 ||www.systemcenterdudes.com/wp-content/uploads/2022/09/PatchMyPCAds*.png$image
+
+! systemtek.co.uk
+www.systemtek.co.uk###custom_html-2 > .custom-html-widget.textwidget > [href]
+
+! taftmidwaydriller.com
+taftmidwaydriller.com##.ad-container
 
 ! tampermonkey.net
 www.tampermonkey.net##.ad-changelog-block
@@ -1897,6 +1953,9 @@ www.techwalla.com##.component-header-sticky-ad
 www.techyuga.com##.dialog-lightbox-message.dialog-message
 www.techyuga.com##.elementor-top-column.elementor-col-50.elementor-column
 
+! teknologya.com
+teknologya.com##.thirstylinkimg
+
 ! telegraphherald.com
 www.telegraphherald.com##.subscriber-premium.asset-content > .hidden-print.tncms-region
 
@@ -1906,19 +1965,29 @@ www.telluridenews.com##.automatic-ad
 ! textileworld.com
 www.textileworld.com##.td-a-rec
 
+! the-sun.com
+www.the-sun.com##.advert-wrapper
+
 ! theaaronloy.com
 www.theaaronloy.com###custom_html-2
 www.theaaronloy.com###custom_html-3
 
-! the-sun.com
-www.the-sun.com##.advert-wrapper
+! theburningofrome.com
+www.theburningofrome.com##.banlink
+www.theburningofrome.com##.code-block-1.code-block > noindex > .banlink
 
 ! thedaddest.com
 thedaddest.com###ad-mobile-bottom-placeholder
 thedaddest.com###ad-mobile-top-placeholder
 
+! thedroidguy.com
+thedroidguy.com##.sticky-footer-element.grid-container.hide-on-desktop.hide-on-tablet
+
 ! thefader.com
 www.thefader.com##body > div:nth-of-type(2)
+
+! thefederalist.com
+thefederalist.com##[id^="div-gpt-ad-"]
 
 ! thegazette.news
 www.thegazette.news##.ad_container_bottom
@@ -2023,6 +2092,12 @@ www.thewindowsclub.com##.ezoic-ad
 www.thewindowsclub.com##.ezoic-ad-adaptive.adtester-container-104.adtester-container.banner-2.ezoic-ad
 www.thewindowsclub.com##div.c24ff8f4a2da697123def04f69833d8b:nth-of-type(3)
 
+! thingiverse.com
+www.thingiverse.com##.Card__hasNoPadding--kWRvn.margin-bottom--md.AdBanner__adBanner--GpB5d.Card__card--k0alX
+
+! thishosting.rocks
+thishosting.rocks##[href^="https://go.nitra.do/click"] > picture
+
 ! thoughtco.com
 www.thoughtco.com###billboard-footer_1-0
 www.thoughtco.com###billboard1_1-0
@@ -2052,6 +2127,9 @@ www.thv11.com##div[id^="taboola-mobile-below-article-"]
 www.timeanddate.com###ad-wrap
 www.timeanddate.com###ad300
 
+! tineye.com
+tineye.com##.text-center.col-lg-4.col-md-5
+
 ! tomshardware.com
 www.tomshardware.com##.slot-beforePopularBox
 www.tomshardware.com##.slot-leaderboard
@@ -2076,6 +2154,9 @@ www.translator.eu##.adsbygoogle
 ! trendingpolitics.com
 trendingpolitics.com##.inner > center
 trendingpolitics.com##div.content-below-ad
+
+! tuscaloosanews.com
+tuscaloosanews.com##.ad-container
 
 ! tutorialspoint.com
 www.tutorialspoint.com###google-bottom-ads
@@ -2103,6 +2184,7 @@ www.upi.com##div.widget-advertisement:nth-of-type(2)
 ! uptodown.com
 calibre.en.uptodown.com##div.ad
 microsoft-edge.en.uptodown.com##.ad
+uptodown.com##div.ad
 
 ! urlrate.com
 www.urlrate.com##.header > .pull-right
@@ -2117,6 +2199,7 @@ cpu.userbenchmark.com##div:nth-of-type(1) > .be-caption
 ! usnews.com
 cars.usnews.com##.ad-container
 health.usnews.com##.krSlIm.Ad__Container-sc-1ah7c5n-0
+www.usnews.com##.bemVuC.ad-spacer__AdSpacer-sc-nwg9sv-0
 
 ! videocardz.com
 videocardz.com###vc-maincontainer-ad
@@ -2204,6 +2287,9 @@ www.webwiki.com###addmeright
 www.webwiki.com###addmetop
 www.webwiki.com###customobenad
 
+! weebly.com
+weebly.com##.footer-published-ab-powered-by
+
 ! wfmynews2.com
 www.wfmynews2.com###taboola-below-article-thumbnails-2nd-0
 www.wfmynews2.com###taboola-below-article-thumbnails-2nd-2
@@ -2277,6 +2363,9 @@ www.windows-noob.com##div.ipsClearfix:nth-of-type(3) > div > center
 ! winsite.com
 www.winsite.com##.ads
 
+! winsysdev.com
+solved.winsysdev.com##frame
+
 ! wintips.org
 www.wintips.org##div:nth-of-type(2) > center > .adsbygoogle
 www.wintips.org##div:nth-of-type(5) > center > .adsbygoogle
@@ -2290,6 +2379,12 @@ www.woculus.com##.wocul-adlabel
 ! wonderfulengineering.com
 wonderfulengineering.com###quads-ad1
 wonderfulengineering.com##.quads-ad2
+
+! wondershare.com
+videoconverter.wondershare.com###wsc-plugin-seasonal
+
+! wordpress.com
+wordpress.com##.post-type-list > .is-clickable.is-card-link.upsell-nudge.banner.card
 
 ! worldatlas.com
 www.worldatlas.com###adStickyAside
@@ -2328,76 +2423,6 @@ www.zoopy.com##div#div_block-4-31407.nitro-offscreen.ct-div-block
 
 
 ! UNSORTED FILTERS
-
-! seacoastonline.com
-seacoastonline.com##.ad-container
-
-! seopolarity.com
-seopolarity.com##.overlay
-
-! siskiyoudaily.com
-siskiyoudaily.com##.ad-container
-
-! winsysdev.com
-solved.winsysdev.com##frame
-
-! survivethis.new
-survivethis.news###custom_html-11 > .custom-html-widget.textwidget
-
-! taftmidwaydriller.com
-taftmidwaydriller.com##.ad-container
-
-! teknologya.com
-teknologya.com##.thirstylinkimg
-
-! thedroidguy.com
-thedroidguy.com##.sticky-footer-element.grid-container.hide-on-desktop.hide-on-tablet
-
-! thefederalist.com
-thefederalist.com##[id^="div-gpt-ad-"]
-
-! thishosting.rocks
-thishosting.rocks##[href^="https://go.nitra.do/click"] > picture
-
-! tineye.com
-tineye.com##.text-center.col-lg-4.col-md-5
-
-! tuscaloosanews.com
-tuscaloosanews.com##.ad-container
-
-! uptodown.com
-uptodown.com##div.ad
-
-! wondershare.com
-videoconverter.wondershare.com###wsc-plugin-seasonal
-
-! weebly.com
-weebly.com##.footer-published-ab-powered-by
-
-! wordpress.com
-wordpress.com##.post-type-list > .is-clickable.is-card-link.upsell-nudge.banner.card
-
-! yardbarker.com
-www.yardbarker.com###twoup_widget_contextual
-
-! systemtek.co.uk
-www.systemtek.co.uk###custom_html-2 > .custom-html-widget.textwidget > [href]
-
-! theburningofrome.com
-www.theburningofrome.com##.code-block-1.code-block > noindex > .banlink
-www.theburningofrome.com##.banlink
-
-! washingtonpost.com
-www.washingtonpost.com##.mt-lg.db-ns.dn
-
-! usnews.com 
-www.usnews.com##.bemVuC.ad-spacer__AdSpacer-sc-nwg9sv-0
-
-! att.com
-www.att.com##.advertisementpanel
-
-! azcemtral.com
-www.azcentral.com##.taboola-sidebar
 
 www.c-sharpcorner.com###NewsArticleAdBox
 www.cars.com##.ads-finance-bottom.ads
@@ -2470,7 +2495,3 @@ yourbusiness.azcentral.com##.partner-placement
 ||www.minitool.com/promotions/images/2020-black-friday/black-friday-bottom-banner.png$image
 ||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
 
-
-
-! HOSTS HAVE BEEN REMOVED
-! Use the list at https://github.com/infinitytec/blocklists/blob/master/ads-and-trackers.txt
