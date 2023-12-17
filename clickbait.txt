@@ -1982,6 +1982,7 @@ autodiscover.emfrequency.com
 autodiscover.fact-files.com
 autodiscover.gdvplanet.com
 autodiscover.getall.services
+autodiscover.gillettnews.com
 autodiscover.heightzone.com
 autodiscover.infectiousmagazine.com
 autodiscover.jodymaroni.com
@@ -4195,6 +4196,7 @@ cpanel.fr24news.com
 cpanel.freefifa17coins.net
 cpanel.gdvplanet.com
 cpanel.getall.services
+cpanel.gillettnews.com
 cpanel.girbahise.com
 cpanel.googleadultseo.com
 cpanel.infectiousmagazine.com
@@ -4216,6 +4218,7 @@ cpanel.nor-config.servebbs.org
 cpanel.onlinevefifhan.servebbs.org
 cpanel.patelcosupportlogin.servebbs.org
 cpanel.pidoone.thepomaholic.com
+cpanel.plumbbobblog.com
 cpanel.ppl-edynloginsynlogi.servebbs.org
 cpanel.precisiondistributing.com
 cpanel.prime-apps.renewa6067.servebbs.org
@@ -4289,6 +4292,7 @@ cpcalendars.finlandio-fi.servebbs.org
 cpcalendars.followjapan.servebbs.org
 cpcalendars.gdvplanet.com
 cpcalendars.getall.services
+cpcalendars.gillettnews.com
 cpcalendars.girbahise.com
 cpcalendars.googleadultseo.com
 cpcalendars.icecream.directory
@@ -4308,6 +4312,7 @@ cpcalendars.news-intel.com
 cpcalendars.nor-config.servebbs.org
 cpcalendars.onlinevefifhan.servebbs.org
 cpcalendars.patelcosupportlogin.servebbs.org
+cpcalendars.plumbbobblog.com
 cpcalendars.ppl-edynloginsynlogi.servebbs.org
 cpcalendars.precisiondistributing.com
 cpcalendars.prime-apps.renewa6067.servebbs.org
@@ -4370,6 +4375,7 @@ cpcontacts.finlandio-fi.servebbs.org
 cpcontacts.followjapan.servebbs.org
 cpcontacts.gdvplanet.com
 cpcontacts.getall.services
+cpcontacts.gillettnews.com
 cpcontacts.girbahise.com
 cpcontacts.googleadultseo.com
 cpcontacts.icecream.directory
@@ -4391,6 +4397,7 @@ cpcontacts.nor-config.servebbs.org
 cpcontacts.onlinevefifhan.servebbs.org
 cpcontacts.patelcosupportlogin.servebbs.org
 cpcontacts.pidoone.thepomaholic.com
+cpcontacts.plumbbobblog.com
 cpcontacts.ppl-edynloginsynlogi.servebbs.org
 cpcontacts.precisiondistributing.com
 cpcontacts.prime-apps.renewa6067.servebbs.org
@@ -7215,6 +7222,7 @@ gilberto.firesidegrillandbar.com
 gilbrator.firesidegrillandbar.com
 gilinfra.jodymaroni.com
 gilings.jodymaroni.com
+gillettnews.com
 gilley.firesidegrillandbar.com
 gilq.firesidegrillandbar.com
 gilsevb.jodymaroni.com
@@ -10560,6 +10568,7 @@ linibn.firesidegrillandbar.com
 link.promo.synergyscience.com
 linkasia.g2afse.com
 linkdots.g2afse.com
+linkiest.com
 linkinfo.firesidegrillandbar.com
 lintah.jodymaroni.com
 lintyda.jodymaroni.com
@@ -10730,6 +10739,7 @@ lonobo.firesidegrillandbar.com
 lont.servebbs.org
 lontee.firesidegrillandbar.com
 lonz.firesidegrillandbar.com
+loomingblackout.com
 loomo.jodymaroni.com
 loop.firesidegrillandbar.com
 loop.servebbs.org
@@ -11066,6 +11076,7 @@ mail.followjapan.servebbs.org
 mail.freefifa17coins.net
 mail.gdvplanet.com
 mail.getall.services
+mail.gillettnews.com
 mail.girbahise.com
 mail.googleadultseo.com
 mail.gshopper.com
@@ -11093,6 +11104,8 @@ mail.nor-config.servebbs.org
 mail.onlinevefifhan.servebbs.org
 mail.patelcosupportlogin.servebbs.org
 mail.pchelpsoft.com
+mail.plumbbobblog.com
+mail.politicalvindication.com
 mail.ppl-edynloginsynlogi.servebbs.org
 mail.precisiondistributing.com
 mail.prime-apps.renewa6067.servebbs.org
@@ -13668,6 +13681,7 @@ pghp.jodymaroni.com
 phacom.firesidegrillandbar.com
 pharaohmedia.g2afse.com
 phenerganp.firesidegrillandbar.com
+philweingart.plumbbobblog.com
 phlegmy.red.servebbs.org
 phnewtecs.jodymaroni.com
 phnxtm.g2afse.com
@@ -13806,6 +13820,7 @@ ploss.jodymaroni.com
 plqq.jodymaroni.com
 plsatrs.firesidegrillandbar.com
 plt.jodymaroni.com
+plumbbobblog.com
 plumbingcodes.servebbs.org
 plus.firesidegrillandbar.com
 plusshoes2.getoffersale.com
@@ -13848,6 +13863,7 @@ policyupdatefb.firesidegrillandbar.com
 polik.jodymaroni.com
 polilha.jodymaroni.com
 politicalupdate.firesidegrillandbar.com
+politicalvindication.com
 politics--news.jodymaroni.com
 pollard.jodymaroni.com
 pollokotto.firesidegrillandbar.com
@@ -16998,6 +17014,7 @@ thenewdigital.jodymaroni.com
 theoligy-easter-bunny.easter.servebbs.org
 theoreticallynerdy.jodymaroni.com
 theowong.servebbs.org
+thepatriotsdigest.co
 thepomaholic.com
 thepurpleline.g2afse.com
 thequint.g2afse.com
@@ -17298,10 +17315,12 @@ tpv.jodymaroni.com
 tqnbm.jodymaroni.com
 tqoa.firesidegrillandbar.com
 tquueo.firesidegrillandbar.com
+tr.loomingblackout.com
 tr.ts2.space
 tracey.firesidegrillandbar.com
 track-performs.g2afse.com
 track.freebitco.in
+track.thepatriotsdigest.co
 tracker-for-easter-bunny.easter.servebbs.org
 trackid19738.servebbs.org
 tracking-postnord-s.servebbs.org
@@ -17378,6 +17397,7 @@ trjsgh.firesidegrillandbar.com
 trk-rankmyapp.g2afse.com
 trk.takeprize.me
 trk.takeprizenow.me
+trk.thepatriotsdigest.co
 trkp.firesidegrillandbar.com
 trmfy.jodymaroni.com
 trmyv.firesidegrillandbar.com
@@ -18483,6 +18503,7 @@ webdisk.followjapan.servebbs.org
 webdisk.freefifa17coins.net
 webdisk.gdvplanet.com
 webdisk.getall.services
+webdisk.gillettnews.com
 webdisk.girbahise.com
 webdisk.googleadultseo.com
 webdisk.icecream.directory
@@ -18505,6 +18526,7 @@ webdisk.nor-config.servebbs.org
 webdisk.onlinevefifhan.servebbs.org
 webdisk.patelcosupportlogin.servebbs.org
 webdisk.pidoone.thepomaholic.com
+webdisk.plumbbobblog.com
 webdisk.ppl-edynloginsynlogi.servebbs.org
 webdisk.precisiondistributing.com
 webdisk.prime-apps.renewa6067.servebbs.org
@@ -18582,6 +18604,7 @@ webmail.followjapan.servebbs.org
 webmail.freefifa17coins.net
 webmail.gdvplanet.com
 webmail.getall.services
+webmail.gillettnews.com
 webmail.girbahise.com
 webmail.googleadultseo.com
 webmail.icecream.directory
@@ -18603,6 +18626,7 @@ webmail.nor-config.servebbs.org
 webmail.onlinevefifhan.servebbs.org
 webmail.patelcosupportlogin.servebbs.org
 webmail.pidoone.thepomaholic.com
+webmail.plumbbobblog.com
 webmail.ppl-edynloginsynlogi.servebbs.org
 webmail.precisiondistributing.com
 webmail.prime-apps.renewa6067.servebbs.org
@@ -19366,6 +19390,7 @@ www.getoffyouracid.synergyscience.com
 www.gets2x.rich-script.com
 www.getwaveconverterbrowser.com
 www.giftlyshops.com
+www.gillettnews.com
 www.girbahise.com
 www.gistgear.com
 www.globatds.com
@@ -19452,9 +19477,11 @@ www.latestcelebarticles.com
 www.latestinbollywood.com
 www.lavadew.com
 www.limanbet.girbahise.com
+www.linkiest.com
 www.littlethings.com
 www.living-with-emr.emfrequency.com
 www.logistics.joom.com
+www.loomingblackout.com
 www.lordcasino.girbahise.com
 www.lunabet.girbahise.com
 www.m-hekmat.servebbs.org
@@ -19557,18 +19584,22 @@ www.perabet.girbahise.com
 www.perfect-money.rich-script.com
 www.petholic.thepomaholic.com
 www.petworld-online.com
+www.philweingart.plumbbobblog.com
 www.piabet.girbahise.com
 www.pidoone.thepomaholic.com
 www.pinbahis.girbahise.com
 www.pizzabit.rich-script.com
+www.plumbbobblog.com
 www.pm-invest.rich-script.com
 www.pm-money.rich-script.com
 www.pma.ts2.space
+www.politicalvindication.com
 www.polobet.girbahise.com
 www.ppl-edynloginsynlogi.servebbs.org
 www.practik-legit.rich-script.com
 www.practik-millionaire.rich-script.com
 www.precisiondistributing.com
+www.presidentobamaslegacy.plumbbobblog.com
 www.preview.healy.shop
 www.prime-apps.renewa6067.servebbs.org
 www.prizejackpotclub.com
@@ -19704,6 +19735,7 @@ www.thedailyworlds.net
 www.theeventchronicle.com
 www.thelifehacker.org
 www.themarketisopen.com
+www.thepatriotsdigest.co
 www.thepomaholic.com
 www.thunder-rain.rich-script.com
 www.tiger-invest.rich-script.com
