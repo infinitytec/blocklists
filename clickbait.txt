@@ -2056,6 +2056,7 @@ autodiscover.coolbench.com
 autodiscover.diaart.org
 autodiscover.emfrequency.com
 autodiscover.fact-files.com
+autodiscover.factsbuddy.com
 autodiscover.gdvplanet.com
 autodiscover.getall.services
 autodiscover.gillettnews.com
@@ -3585,6 +3586,7 @@ cdn-0.brainworldmagazine.com
 cdn-0.celebsuburb.com
 cdn-0.healthli.co
 cdn-0.soulvibe.com
+cdn-0.tab-tv.com
 cdn-0.truththeory.com
 cdn-0.unitedvoice.com
 cdn-0.webnews21.com
@@ -3592,6 +3594,7 @@ cdn-1.brainworldmagazine.com
 cdn-1.celebsuburb.com
 cdn-1.healthli.co
 cdn-1.soulvibe.com
+cdn-1.tab-tv.com
 cdn-1.truththeory.com
 cdn-1.unitedvoice.com
 cdn-1.webnews21.com
@@ -3599,6 +3602,7 @@ cdn-2.brainworldmagazine.com
 cdn-2.celebsuburb.com
 cdn-2.healthli.co
 cdn-2.soulvibe.com
+cdn-2.tab-tv.com
 cdn-2.truththeory.com
 cdn-2.unitedvoice.com
 cdn-2.webnews21.com
@@ -3606,6 +3610,7 @@ cdn-3.brainworldmagazine.com
 cdn-3.celebsuburb.com
 cdn-3.healthli.co
 cdn-3.soulvibe.com
+cdn-3.tab-tv.com
 cdn-3.truththeory.com
 cdn-3.unitedvoice.com
 cdn-3.webnews21.com
@@ -3613,6 +3618,7 @@ cdn-4.brainworldmagazine.com
 cdn-4.celebsuburb.com
 cdn-4.healthli.co
 cdn-4.soulvibe.com
+cdn-4.tab-tv.com
 cdn-4.truththeory.com
 cdn-4.unitedvoice.com
 cdn-4.webnews21.com
@@ -3620,6 +3626,7 @@ cdn-5.brainworldmagazine.com
 cdn-5.celebsuburb.com
 cdn-5.healthli.co
 cdn-5.soulvibe.com
+cdn-5.tab-tv.com
 cdn-5.truththeory.com
 cdn-5.unitedvoice.com
 cdn-5.webnews21.com
@@ -3627,6 +3634,7 @@ cdn-6.brainworldmagazine.com
 cdn-6.celebsuburb.com
 cdn-6.healthli.co
 cdn-6.soulvibe.com
+cdn-6.tab-tv.com
 cdn-6.truththeory.com
 cdn-6.unitedvoice.com
 cdn-6.webnews21.com
@@ -3634,6 +3642,7 @@ cdn-7.brainworldmagazine.com
 cdn-7.celebsuburb.com
 cdn-7.healthli.co
 cdn-7.soulvibe.com
+cdn-7.tab-tv.com
 cdn-7.truththeory.com
 cdn-7.unitedvoice.com
 cdn-7.webnews21.com
@@ -3649,6 +3658,7 @@ cdn.moneyandmarkets.com
 cdn.pchelpsoft.com
 cdn.romedic.ro
 cdn.soulvibe.com
+cdn.tab-tv.com
 cdn.takeprize.me
 cdn.takeprizenow.me
 cdn.truththeory.com
@@ -4114,6 +4124,7 @@ cms.scoalapetresergescu.info
 cmtom.alisakuhni.servebbs.org
 cmy0.globatds.com
 cmys.jodymaroni.com
+cn.tab-tv.com
 cnfert.jodymaroni.com
 cnfzg.jodymaroni.com
 cngian.jodymaroni.com
@@ -4343,6 +4354,7 @@ cpanel.ekundenstrat.servebbs.org
 cpanel.emfrequency.com
 cpanel.epicgamecheats.com
 cpanel.fact-files.com
+cpanel.factsbuddy.com
 cpanel.factsider.com
 cpanel.finlandio-fi.servebbs.org
 cpanel.followjapan.servebbs.org
@@ -4394,6 +4406,8 @@ cpanel.scoalapetresergescu.info
 cpanel.secure-signin.servebbs.org
 cpanel.semaforobares.com
 cpanel.ser.servebbs.org
+cpanel.server.factsbuddy.com
+cpanel.server1.factsbuddy.com
 cpanel.service-department-support7.servebbs.org
 cpanel.shaw-review.com
 cpanel.slamxhype.com
@@ -4463,6 +4477,7 @@ cpcalendars.ekundenstrat.servebbs.org
 cpcalendars.emfrequency.com
 cpcalendars.epicgamecheats.com
 cpcalendars.fact-files.com
+cpcalendars.factsbuddy.com
 cpcalendars.finlandio-fi.servebbs.org
 cpcalendars.followjapan.servebbs.org
 cpcalendars.gdvplanet.com
@@ -4505,6 +4520,8 @@ cpcalendars.resolutionconfirm-is.servebbs.org
 cpcalendars.rich-script.com
 cpcalendars.secure-signin.servebbs.org
 cpcalendars.ser.servebbs.org
+cpcalendars.server.factsbuddy.com
+cpcalendars.server1.factsbuddy.com
 cpcalendars.service-department-support7.servebbs.org
 cpcalendars.shaw-review.com
 cpcalendars.slamxhype.com
@@ -4564,6 +4581,7 @@ cpcontacts.ekundenstrat.servebbs.org
 cpcontacts.emfrequency.com
 cpcontacts.epicgamecheats.com
 cpcontacts.fact-files.com
+cpcontacts.factsbuddy.com
 cpcontacts.finlandio-fi.servebbs.org
 cpcontacts.followjapan.servebbs.org
 cpcontacts.gdvplanet.com
@@ -4608,6 +4626,8 @@ cpcontacts.resolutionconfirm-is.servebbs.org
 cpcontacts.rich-script.com
 cpcontacts.secure-signin.servebbs.org
 cpcontacts.ser.servebbs.org
+cpcontacts.server.factsbuddy.com
+cpcontacts.server1.factsbuddy.com
 cpcontacts.service-department-support7.servebbs.org
 cpcontacts.shaw-review.com
 cpcontacts.slamxhype.com
@@ -4892,6 +4912,7 @@ cyqa.jodymaroni.com
 cyroute.jodymaroni.com
 cyry.firesidegrillandbar.com
 cywapar.servebbs.org
+cz.tab-tv.com
 cz4-4.lkzme.servebbs.org
 cz69.servebbs.org
 czcl.firesidegrillandbar.com
@@ -5160,6 +5181,7 @@ ddxm.firesidegrillandbar.com
 ddxo.firesidegrillandbar.com
 de.aussiedlerbote.de
 de.italy24news.com
+de.tab-tv.com
 de.ts2.space
 dead-musicians.littlethings.com
 deadpool-girl.rich-script.com
@@ -5498,6 +5520,7 @@ djorka.firesidegrillandbar.com
 djxv.globatds.com
 djxz.jodymaroni.com
 djziq.firesidegrillandbar.com
+dk.tab-tv.com
 dkdaz.jodymaroni.com
 dkeira.firesidegrillandbar.com
 dkepg.jodymaroni.com
@@ -5857,6 +5880,7 @@ dvre.jodymaroni.com
 dvtecno.jodymaroni.com
 dvy.jodymaroni.com
 dwabuu.firesidegrillandbar.com
+dwbfilm.com
 dwhhw.firesidegrillandbar.com
 dwight.firesidegrillandbar.com
 dwilliam.jodymaroni.com
@@ -5995,6 +6019,7 @@ ecilks.jodymaroni.com
 eclipseaviation.com
 ecoapk.jodymaroni.com
 ecogood.jodymaroni.com
+ecology.md
 ecopague.g2afse.com
 ecoqff.jodymaroni.com
 ecosm.g2afse.com
@@ -6207,6 +6232,7 @@ emxk.firesidegrillandbar.com
 en.cedarnews.net
 en.italy24news.com
 en.servebbs.org
+en.tab-tv.com
 en.ts2.space
 en.zenherald.com
 enagela.jodymaroni.com
@@ -6327,6 +6353,7 @@ ervwin.jodymaroni.com
 erwaspo.firesidegrillandbar.com
 eryo.jodymaroni.com
 erzilin.jodymaroni.com
+es.tab-tv.com
 es.ts2.space
 esalebazar.jodymaroni.com
 esart.jodymaroni.com
@@ -6481,6 +6508,7 @@ ezaje.firesidegrillandbar.com
 ezcb.jodymaroni.com
 ezcuh.firesidegrillandbar.com
 ezgn.globatds.com
+ezmail.tab-tv.com
 eznoob.jodymaroni.com
 ezoe.jodymaroni.com
 ezpaypin.servebbs.org
@@ -6504,6 +6532,7 @@ facers.firesidegrillandbar.com
 fachangestellte-lohn.servebbs.org
 fact-files.com
 factorads.g2afse.com
+factsbuddy.com
 factsider.com
 fadagiela.firesidegrillandbar.com
 faef.firesidegrillandbar.com
@@ -6713,6 +6742,7 @@ fhah.firesidegrillandbar.com
 fhj.servebbs.org
 fhlzp.firesidegrillandbar.com
 fht.jodymaroni.com
+fi.tab-tv.com
 fi.ts2.space
 fibborime.firesidegrillandbar.com
 fibers.firesidegrillandbar.com
@@ -6991,6 +7021,7 @@ fqtd.firesidegrillandbar.com
 fr.cedarnews.net
 fr.fr24news.com
 fr.italy24news.com
+fr.tab-tv.com
 fr.ts2.space
 fr24news.com
 fragans.jodymaroni.com
@@ -7558,6 +7589,7 @@ glmii.jodymaroni.com
 glnajk.jodymaroni.com
 gloay.jodymaroni.com
 global-currency-services.servebbs.org
+global.tab-tv.com
 globalchalets.jodymaroni.com
 globalemedia.g2afse.com
 globalfastads.g2afse.com
@@ -9059,6 +9091,7 @@ isvdu.firesidegrillandbar.com
 isxbb.firesidegrillandbar.com
 isz.firesidegrillandbar.com
 it.italy24news.com
+it.tab-tv.com
 it.ts2.space
 it1.servebbs.org
 it3k.globatds.com
@@ -9637,6 +9670,7 @@ joymobi.g2afse.com
 joyoflife.drinkfood.info
 joytce.jodymaroni.com
 joyy8.jodymaroni.com
+jp.tab-tv.com
 jpchoices.firesidegrillandbar.com
 jpee.jodymaroni.com
 jpharm-api.joom.com
@@ -9895,6 +9929,7 @@ kbde.firesidegrillandbar.com
 kbe.servebbs.org
 kbinemr.firesidegrillandbar.com
 kbpgg.jodymaroni.com
+kbsf-tv.com
 kbuh.jodymaroni.com
 kbuv.firesidegrillandbar.com
 kbuv.jodymaroni.com
@@ -11409,6 +11444,7 @@ mail.ekundenstrat.servebbs.org
 mail.emfrequency.com
 mail.epicgamecheats.com
 mail.fact-files.com
+mail.factsbuddy.com
 mail.famouspeopletoday.com
 mail.farinfraredpemfmatreviews.com
 mail.finlandio-fi.servebbs.org
@@ -11475,6 +11511,8 @@ mail.secure-signin.servebbs.org
 mail.secure89d-bankofamaieca.servebbs.org
 mail.semaforobares.com
 mail.ser.servebbs.org
+mail.server.factsbuddy.com
+mail.server1.factsbuddy.com
 mail.service-department-support7.servebbs.org
 mail.shaw-review.com
 mail.slamxhype.com
@@ -12987,6 +13025,7 @@ nknr.jodymaroni.com
 nkoni.jodymaroni.com
 nkovx.jodymaroni.com
 nkull.firesidegrillandbar.com
+nl.tab-tv.com
 nl.ts2.space
 nlat.jodymaroni.com
 nlby.globatds.com
@@ -14195,6 +14234,7 @@ pkoapk.jodymaroni.com
 pkpao.jodymaroni.com
 pksa.jodymaroni.com
 pkuj.firesidegrillandbar.com
+pl.tab-tv.com
 pl.ts2.space
 plafood.jodymaroni.com
 plaimk.jodymaroni.com
@@ -14452,6 +14492,7 @@ psstl.servebbs.org
 pssygh.servebbs.org
 psx-cosmic-values.jodymaroni.com
 psx-value-list.jodymaroni.com
+pt.tab-tv.com
 pt.ts2.space
 ptc.rich-script.com
 pting.jodymaroni.com
@@ -15442,6 +15483,7 @@ rtxi.firesidegrillandbar.com
 rtxz.firesidegrillandbar.com
 rtzg.firesidegrillandbar.com
 ru-merchant-help.joom.com
+ru.tab-tv.com
 ru.ts2.space
 rua.freelancearea.servebbs.org
 rubber.firesidegrillandbar.com
@@ -15929,6 +15971,7 @@ sdwe.jodymaroni.com
 sdwg.jodymaroni.com
 sdxk.firesidegrillandbar.com
 sdzhmd.firesidegrillandbar.com
+se.tab-tv.com
 seal.littlethings.com
 search.drinkfood.info
 searchzilla.firesidegrillandbar.com
@@ -16045,7 +16088,9 @@ seroi.firesidegrillandbar.com
 servbbse.servebbs.org
 servebbs.org
 server.cedarnews.net
+server.factsbuddy.com
 server1.api.feedient.com
+server1.factsbuddy.com
 serverdb.servebbs.org
 serverlandwithladder.servebbs.org
 servers.jodymaroni.com
@@ -16401,6 +16446,7 @@ sjpv.firesidegrillandbar.com
 sjrb-mail-bc.servebbs.org
 sjsi.firesidegrillandbar.com
 sjtz.firesidegrillandbar.com
+sk.factsbuddy.com
 sk.ts2.space
 sk8h.globatds.com
 skagway.jodymaroni.com
@@ -17137,6 +17183,7 @@ t5dv.servebbs.org
 t6mo.globatds.com
 t92-pro-smartwatch.giftlyshops.com
 ta.ts2.space
+tab-tv.com
 tabiateelek.jodymaroni.com
 tabigail.jodymaroni.com
 tabooxfamily.jodymaroni.com
@@ -17404,6 +17451,7 @@ test.scoalapetresergescu.info
 test.spacexbigevent.com
 test.staging.healy.shop
 test.svhome.store
+test.tab-tv.com
 testing.lavadew.com
 testing.scoalapetresergescu.info
 testing.slamxhype.com
@@ -18169,6 +18217,7 @@ ujigawa.jodymaroni.com
 ujnqz.firesidegrillandbar.com
 ujs.servebbs.org
 ujxq.jodymaroni.com
+uk.tab-tv.com
 uk.ts2.space
 ukama.jodymaroni.com
 ukcs.jodymaroni.com
@@ -19018,6 +19067,7 @@ webdisk.ekundenstrat.servebbs.org
 webdisk.emfrequency.com
 webdisk.epicgamecheats.com
 webdisk.fact-files.com
+webdisk.factsbuddy.com
 webdisk.factsider.com
 webdisk.finlandio-fi.servebbs.org
 webdisk.followjapan.servebbs.org
@@ -19140,6 +19190,7 @@ webmail.ekundenstrat.servebbs.org
 webmail.emfrequency.com
 webmail.epicgamecheats.com
 webmail.fact-files.com
+webmail.factsbuddy.com
 webmail.factsider.com
 webmail.finlandio-fi.servebbs.org
 webmail.followjapan.servebbs.org
@@ -19191,6 +19242,8 @@ webmail.scoalapetresergescu.info
 webmail.secure-signin.servebbs.org
 webmail.semaforobares.com
 webmail.ser.servebbs.org
+webmail.server.factsbuddy.com
+webmail.server1.factsbuddy.com
 webmail.service-department-support7.servebbs.org
 webmail.shaw-review.com
 webmail.slamxhype.com
@@ -19340,11 +19393,14 @@ whlhu.jodymaroni.com
 whm.3lmone.thepomaholic.com
 whm.7alone.thepomaholic.com
 whm.coolbench.com
+whm.factsbuddy.com
 whm.infectiousmagazine.com
 whm.isalone.thepomaholic.com
 whm.jwbone.thepomaholic.com
 whm.pidoone.thepomaholic.com
 whm.precisiondistributing.com
+whm.server.factsbuddy.com
+whm.server1.factsbuddy.com
 whm.taqfone.thepomaholic.com
 whm.thelifehacker.org
 whm.uaskone.thepomaholic.com
@@ -19844,6 +19900,7 @@ www.cryptostrom.rich-script.com
 www.customcare.precisiondistributing.com
 www.customer-sync.healy.shop
 www.cyberbump.net
+www.cz.tab-tv.com
 www.d-brother-admin.rich-script.com
 www.daabo.servebbs.org
 www.dailycookiz.thepomaholic.com
@@ -19888,6 +19945,7 @@ www.db8.rich-script.com
 www.db9.rich-script.com
 www.dblr.rich-script.com
 www.de.italy24news.com
+www.de.tab-tv.com
 www.deadpool-girl.rich-script.com
 www.death-obituary.com
 www.deathsfanatics.com
@@ -19917,6 +19975,7 @@ www.digital.servebbs.org
 www.digitalindustrywire.com
 www.digitogy.com
 www.dinamobet.girbahise.com
+www.dk.tab-tv.com
 www.doubler.rich-script.com
 www.download.rich-script.com
 www.drinkfood.info
@@ -19924,10 +19983,12 @@ www.droid2x.rich-script.com
 www.dubai-doubler.rich-script.com
 www.dumanbet.girbahise.com
 www.dushanbe.firesidegrillandbar.com
+www.dwbfilm.com
 www.dynamikeseidhseis.gr
 www.earnthenecklace.com
 www.easyusdmining.rich-script.com
 www.eclipseaviation.com
+www.ecology.md
 www.ed2o.globatds.com
 www.edhd.news-intel.com
 www.eika-dynloginhelpscout.servebbs.org
@@ -19936,9 +19997,11 @@ www.elexbet.girbahise.com
 www.emfrequency.com
 www.en.cedarnews.net
 www.en.italy24news.com
+www.en.tab-tv.com
 www.enquiries-and-warranty.emfrequency.com
 www.epicgamecheats.app.epicgamecheats.com
 www.epicgamecheats.com
+www.es.tab-tv.com
 www.escort-themes.googleadultseo.com
 www.escorts-theme.googleadultseo.com
 www.everyask.com
@@ -19946,12 +20009,14 @@ www.ewx2.globatds.com
 www.ex.rich-script.com
 www.f1.healy.shop
 www.fact-files.com
+www.factsbuddy.com
 www.factsider.com
 www.faen.servebbs.org
 www.famous-celebrities.com
 www.famouspeopletoday.com
 www.farinfraredpemfmatreviews.com
 www.feedient.com
+www.fi.tab-tv.com
 www.financialhealth.net
 www.finlandio-fi.servebbs.org
 www.firee.rich-script.com
@@ -19965,6 +20030,7 @@ www.forum.gdvplanet.com
 www.forum.romedic.ro
 www.fr.cedarnews.net
 www.fr.italy24news.com
+www.fr.tab-tv.com
 www.fr24news.com
 www.freebitco.in
 www.freefifa17coins.net
@@ -19989,6 +20055,7 @@ www.giftlyshops.com
 www.gillettnews.com
 www.girbahise.com
 www.gistgear.com
+www.global.tab-tv.com
 www.globatds.com
 www.gmc5.globatds.com
 www.gobahis.girbahise.com
@@ -20052,6 +20119,7 @@ www.ipv6.freebitco.in
 www.isalna.thepomaholic.com
 www.isalone.thepomaholic.com
 www.it.italy24news.com
+www.it.tab-tv.com
 www.italy24news.com
 www.jani.rich-script.com
 www.jawanan.servebbs.org
@@ -20059,11 +20127,13 @@ www.jeronpe.com
 www.jodymaroni.com
 www.jojobet.girbahise.com
 www.joom.com
+www.jp.tab-tv.com
 www.jwbone.thepomaholic.com
 www.kalinababka.servebbs.org
 www.kargaran.servebbs.org
 www.kathleenschwartz190kabar.blogspot.com
 www.kavbet.girbahise.com
+www.kbsf-tv.com
 www.kefu.spacexbigevent.com
 www.kelley.littlethings.com
 www.keto.dietplanlist.com
@@ -20171,6 +20241,7 @@ www.news247wp.com
 www.newscr.bio
 www.newssplash.com.ng
 www.nice.drinkfood.info
+www.nl.tab-tv.com
 www.nobsimreviews.com
 www.nor-config.servebbs.org
 www.northamerica.ipsnews.net
@@ -20213,6 +20284,7 @@ www.pidoone.thepomaholic.com
 www.pimpmymoney.net
 www.pinbahis.girbahise.com
 www.pizzabit.rich-script.com
+www.pl.tab-tv.com
 www.plumbbobblog.com
 www.pm-invest.rich-script.com
 www.pm-money.rich-script.com
@@ -20236,6 +20308,7 @@ www.production.healy.shop
 www.profit-10x.rich-script.com
 www.projoktibangla.com
 www.promotionsonlineusa.com
+www.pt.tab-tv.com
 www.ptc.rich-script.com
 www.pulibet.girbahise.com
 www.pyramid-x2.rich-script.com
@@ -20266,6 +20339,7 @@ www.rich-script.rich-script.com
 www.rightwing.org
 www.romedic.ro
 www.rowzane.servebbs.org
+www.ru.tab-tv.com
 www.rupeemail.thepomaholic.com
 www.ruso.servebbs.org
 www.rylee.googleadultseo.com
@@ -20287,6 +20361,7 @@ www.sagenews.site
 www.sagg.globatds.com
 www.sciencetopics.quest
 www.scoalapetresergescu.info
+www.se.tab-tv.com
 www.secure-signin.servebbs.org
 www.secure89d-bankofamaieca.servebbs.org
 www.secureaccess.moneyandmarkets.com
@@ -20298,6 +20373,8 @@ www.semaforobares.com
 www.ser.servebbs.org
 www.servebbs.org
 www.server.cedarnews.net
+www.server.factsbuddy.com
+www.server1.factsbuddy.com
 www.service-department-support7.servebbs.org
 www.share.svhome.store
 www.shareitbuzz.thepomaholic.com
@@ -20347,6 +20424,7 @@ www.support.svhome.store
 www.svhome.store
 www.sync.precisiondistributing.com
 www.synergyscience.com
+www.tab-tv.com
 www.takeprize.me
 www.takeprizenow.me
 www.taqfone.thepomaholic.com
@@ -20361,6 +20439,7 @@ www.tempobet.girbahise.com
 www.test.healy.shop
 www.test.spacexbigevent.com
 www.test.svhome.store
+www.test.tab-tv.com
 www.testing.lavadew.com
 www.theclever.com
 www.thedailyreviewer.com
@@ -20403,6 +20482,7 @@ www.u.s.italy24news.com
 www.u84d.globatds.com
 www.uaskone.thepomaholic.com
 www.ube.servebbs.org
+www.uk.tab-tv.com
 www.ukdiscoverer.com
 www.unidentifiedphenomena.com
 www.unitedvoice.com
