@@ -11,6 +11,9 @@
 
 ! FILTERS
 
+! 17track.net
+t.17track.net###tn-LB366089956SG > .tracklist-details > .yqcr-action > .hidden-xs > .up-deals
+
 ! 2themighty.com
 themighty.com##.ad-display
 themighty.com##.content-ad
@@ -71,6 +74,9 @@ aecmag.com##.inarticlead728
 
 ! aerotime.aero
 www.aerotime.aero##.advertisement
+www.aerotime.aero##.article-leaderboard
+www.aerotime.aero##.billboard
+www.aerotime.aero##.bn-1.article-leaderboard
 
 ! aleteia.org
 aleteia.org##.css-y2cft7
@@ -313,6 +319,9 @@ www.businessinsider.com##div.only-desktop
 ! butlercountytimesgazette.com
 butlercountytimesgazette.com##.ad-container
 
+! calculateaspectratio.com
+calculateaspectratio.com##ins.spoon
+
 ! caranddriver.com
 www.caranddriver.com##.transporter-ad.leaderboard-ad
 www.caranddriver.com##.transporter-vertical-ad.breaker-ad
@@ -507,6 +516,8 @@ www.cyberciti.biz###blocker7a1003a
 www.cyberciti.biz##center
 
 ! dailydot.com
+www.dailydot.com##.article-ad__top
+www.dailydot.com##.article-ad__top.wrapper
 www.dailydot.com##.taboola-in-plug-wrap
 www.dailydot.com##.text-center.footer-in-plug.in-plug-holder
 
@@ -648,6 +659,7 @@ www.essentiallysports.com##div.jsx-19dc673f7b90656e:nth-of-type(14)
 
 ! etherscan.io
 etherscan.io###revive-0-0
+etherscan.io##.noindex-section.mt-n2.pt-2.overflow-x-auto.scrollbar-custom > .d-flex
 etherscan.io##.showcase-banner-spacing
 
 ! eurogamer.net
@@ -877,6 +889,9 @@ www.gocomics.com##.ad-rectangle-container.ad-rectangle--1.ad-rectangle.ad-rectan
 www.gocomics.com##.ad-rectangle-container.ad-rectangle--2.ad-rectangle.ad-rectangle__container.amu-ad__container > .amu-ad__header
 www.gocomics.com##.ad-rectangle__wrapper.amu-ad--.amu-ad
 
+! gonorthumberland.ca
+www.gonorthumberland.ca##.sc-ad-block
+
 ! gooova.com
 ||gooova.com/wp-content/uploads/2021/12/bike.gif$image
 
@@ -894,6 +909,7 @@ greekreporter.com###custom_html-4 > .custom-html-widget.textwidget > .td-all-dev
 
 ! gsmarena.com
 www.gsmarena.com##div.adv
+www.gsmarena.com##.pt-10
 
 ! gstzen.in
 my.gstzen.in##.cz-rennab
@@ -982,6 +998,9 @@ www.htpcguides.com##[href="https://www.htpcguides.com/go/purevpn-banner"] > .wp-
 ! huffpost.com
 m.huffpost.com##[class^="AdChoiceContainer"]
 m.huffpost.com##[class^=index__adWrapper]
+
+! hunker.com
+www.hunker.com##.component-article-sections > .component-article-section-inline-rc > .inline-rc__container
 
 ! hutchnews.com
 www.hutchnews.com###ad-slot-7103-ks-hutchinson-C6453-mobileweb-banner_top-news-1
@@ -1386,6 +1405,8 @@ www.neowin.net##.header-banner-advertising
 www.neowin.net###news-content > div
 
 ! newegg.com
+secure.newegg.com###rokt-above-payment
+secure.newegg.com##.items-list-view.is-recommend.checkout-step-done
 www.newegg.com###afscontainer1
 www.newegg.com##.external.sponsored-brands-items
 
@@ -1447,6 +1468,9 @@ now.gg##.\39 xszmcpa2e3t
 now.gg##.ff7nnxi7gfqu
 
 ! npr.org
+apps.npr.org###ad-centerstage-wrap
+apps.npr.org##.has-sponsorship
+apps.npr.org##div.remove-embedded > .remove-embedded.has-sponsorship
 www.npr.org##.ad-backstage
 www.npr.org##.ad-config
 www.npr.org##.has-refresh-enabled.ad-backstage.ad-config
@@ -1550,8 +1574,12 @@ www.planetminecraft.com##li.resource > .contain-ad
 
 ! politico.com
 www.politico.com##.PibAd-container
+www.politico.com##.ad--fixed-leaderboard-above
 www.politico.com##.election-ad
 www.politico.com##.slim.election-ad
+www.politico.com##.styles_ad__TpdTk
+www.politico.com##.styles_container__zuzL0
+www.politico.com##.styles_withAd__316w0
 
 ! popsci.com
 www.popsci.com##div.empire-unit-prefill-container.empire-content__mobile-prefill-container
@@ -1754,6 +1782,7 @@ smallseotools.com##.fuc_
 smallseotools.com##.fuc__
 smallseotools.com##.hone_a_box
 smallseotools.com##.pn.mainpart.col-sm-12
+smallseotools.com##.text-decoration-none.button_blink.cp.fw_700.text-white
 
 ! smartseotools.org
 smartseotools.org##.mb30.mt20.text-center.col-md-12
@@ -1823,6 +1852,10 @@ www.stayathomemum.com.au##.widget-sidebar-advertisement
 ! steamboatpilot.com
 www.steamboatpilot.com##.ad-top-wrapper
 www.steamboatpilot.com##.module-ad
+
+! stocksregister.com
+stocksregister.com###stock-106985788
+stocksregister.com##.elementor-widget-html.elementor-widget.elementor-element-fe87be4.elementor-element > .elementor-widget-container
 
 ! storagereview.com
 www.storagereview.com##.header-style-3.header-banner
@@ -1998,6 +2031,11 @@ www.thegazette.news##div[id^="ai_widget-"]
 ! theguardian.com
 www.theguardian.com##.css-9aekbr
 
+! thehackernews.com
+thehackernews.com##.bobbob.sidefix.bb-side-box-5.clear
+thehackernews.com##.cf.pp-2
+thehackernews.com##.custom-container
+
 ! thehill.com
 thehill.com###block-block-3 > p
 thehill.com###dfp-ad-mos_1
@@ -2093,6 +2131,7 @@ www.thewindowsclub.com##.ezoic-ad-adaptive.adtester-container-104.adtester-conta
 www.thewindowsclub.com##div.c24ff8f4a2da697123def04f69833d8b:nth-of-type(3)
 
 ! thingiverse.com
+www.thingiverse.com##.AdBanner__adBanner--GpB5d
 www.thingiverse.com##.Card__hasNoPadding--kWRvn.margin-bottom--md.AdBanner__adBanner--GpB5d.Card__card--k0alX
 
 ! thishosting.rocks
@@ -2257,8 +2296,11 @@ wcfcourier.com##.item-ad
 
 ! weather.com
 weather.com###MW_Position2
+weather.com##.._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK
 weather.com##.VideoPlaylist--nativeAd--1N7F4
+weather.com##.VideoPlaylist--nativeAd--39te9
 weather.com##.VideoPlaylist--nativeAd--3x_vs
+weather.com##._-_-components-src-atom-BaseAd-BaseAd--card--2G19u
 weather.com##div:nth-of-type(2) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 weather.com##div:nth-of-type(3) > ._-_-components-src-molecule-ArticleBody-ArticleBody--paragraphAd--12NuK > ._-_-components-src-atom-BaseAd-BaseAd--card--2G19u.articleAdWrapper
 
@@ -2370,6 +2412,12 @@ solved.winsysdev.com##frame
 www.wintips.org##div:nth-of-type(2) > center > .adsbygoogle
 www.wintips.org##div:nth-of-type(5) > center > .adsbygoogle
 www.wintips.org##div:nth-of-type(6) > center > .adsbygoogle
+www.wintips.org##.adsbygoogle
+
+! wirelessestimator.com
+wirelessestimator.com###after_post_ads
+wirelessestimator.com###post_top_ads
+wirelessestimator.com##.we_left
 
 ! woculus.com
 www.woculus.com###wocul-104518175
