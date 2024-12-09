@@ -1699,6 +1699,9 @@ robbreport.com###adm-mobile-leaderboard > .boomerang.adma > .pmc-adm-boomerang-p
 www.rockpapershotgun.com###mobile-ads
 www.rockpapershotgun.com##.collapsible.mpu
 
+! rokt.com
+||wsdk.rokt.com/wsdk/plugins/dcui/index.html$subdocument
+
 ! roll20.net
 roll20.net##.bna
 
