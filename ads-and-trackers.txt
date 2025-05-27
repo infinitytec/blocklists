@@ -1,4 +1,4 @@
-# Ad and tracking domains.
+# Ad and tracking domains. Intended to be used in addition to other lists or incorporated into larger lists.
 # List maintained by infinitytec.
 # Released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
@@ -11342,6 +11342,7 @@ adspire.hasoffers.com
 adspirera.hasoffers.com
 adsplay.hasoffers.com
 adspotmediagroup.clickfunnels.com
+adsreverb.trk2afse.com
 adsrevo.hasoffers.com
 adsrich.hasoffers.com
 adsrus.hasoffers.com
@@ -11783,6 +11784,7 @@ affinitytracking.hasoffers.com
 affinternational.hasoffers.com
 affipay.ositracker.com
 affiture.hasoffers.com
+affix.trk2afse.com
 affixate.hasoffers.com
 affixmedia.clickfunnels.com
 affjobs.ositracker.com
@@ -12501,6 +12503,7 @@ alfa.hasoffers.com
 alfaizun.clickfunnels.com
 alfavyras.clickfunnels.com
 alfboss.clickfunnels.com
+alfil.trk2afse.com
 alfiobardolla.clickfunnels.com
 alfonbastida.clickfunnels.com
 alfonsobaraibar.clickfunnels.com
@@ -14174,6 +14177,7 @@ app-yfcpe1.openinstall.io
 app-yzt05j.openinstall.io
 app-zc5haw.openinstall.io
 app-zmqx3g.openinstall.io
+app.adjust.io
 app.adnxs.com
 app.anstrex.com
 app.aptrinsic.com
@@ -18954,6 +18958,7 @@ brightcom-video-d.openx.net
 brightfutures.clickfunnels.com
 brightlineeating.hasoffers.com
 brightmountain-d.openx.net
+brightplay.trk2afse.com
 brightsmilesjamaica.clickfunnels.com
 brightthezander.clickfunnels.com
 brightview.clickfunnels.com
@@ -27942,6 +27947,7 @@ domainforsale.clickfunnels.com
 domaingroup.dmanalytics2.com
 domainpirate.hasoffers.com
 domainr.hasoffers.com
+domainreferrer3.microsoftcasualgames.com
 domains.clickfunnels.com
 domains.hasoffers.com
 domaintours.hasoffers.com
@@ -40394,6 +40400,7 @@ justuscurls.ositracker.com
 justwellness.clickfunnels.com
 jut7866.info
 jutamikitaviciute.clickfunnels.com
+juuuno.trk2afse.com
 juventus.hasoffers.com
 jv.clickfunnels.com
 jv291.isrefer.com
@@ -41083,6 +41090,7 @@ kitten.clickfunnels.com
 kitten.hasoffers.com
 kitty.hasoffers.com
 kiwi.hasoffers.com
+kiwikingz.trk2afse.com
 kiwisuperb.com
 kiwitap.hasoffers.com
 kiwork.isrefer.com
@@ -42300,6 +42308,7 @@ linkeuin.hasoffers.com
 linkhaitao.hasoffers.com
 linkin.hasoffers.com
 linkingmobile.hasoffers.com
+linklogick.trk2afse.com
 linkminter.hasoffers.com
 linkprofits.hasoffers.com
 links.clickfunnels.com
@@ -48034,6 +48043,7 @@ onerocketmedia.hasoffers.com
 onestop.ositracker.com
 onestopmarketinghelp.clickfunnels.com
 onestopshop.clickfunnels.com
+onesx.trk2afse.com
 oneway.hasoffers.com
 oneyearnobeer.clickfunnels.com
 onion.hasoffers.com
@@ -49834,6 +49844,7 @@ pn194.isrefer.com
 pnakama.clickfunnels.com
 pnb.ositracker.com
 pnd.hasoffers.com
+pntrs.com
 po.hasoffers.com
 po131.isrefer.com
 po2.hasoffers.com
@@ -54469,6 +54480,7 @@ sharkaffiliationltd.hasoffers.com
 sharkgames.api.hasoffers.com
 sharkgames.hasoffers.com
 sharkmediamarketing-app.clickfunnels.com
+sharkplatform.trk2afse.com
 sharon-morrow.clickfunnels.com
 sharon.hasoffers.com
 sharon886d71.clickfunnels.com
@@ -57223,6 +57235,7 @@ taylorwelch.clickfunnels.com
 tayseyconsults.clickfunnels.com
 taysweat.clickfunnels.com
 taz.hasoffers.com
+tazztv.trk2afse.com
 tb-xv.openx.net
 tb.clickfunnels.com
 tb130.isrefer.com
@@ -59489,6 +59502,7 @@ trk.hasoffers.com
 trk.mdrtrck.com
 trk.robly.com
 trk.thepatriotsdigest.co
+trk2afse.com
 trk51.hasoffers.com
 trkaffiliate.hasoffers.com
 trkbiz.hasoffers.com
@@ -67590,6 +67604,7 @@ www.ap.hasoffers.com
 www.api.hasoffers.com
 www.api.mixpanel.com
 www.apk.clickfunnels.com
+www.app.adjust.io
 www.app.anstrex.com
 www.app.hasoffers.com
 www.appcmpn.com
@@ -67954,6 +67969,7 @@ www.dmanalytics2.com
 www.do.clickfunnels.com
 www.do.hasoffers.com
 www.dom.hasoffers.com
+www.domainreferrer3.microsoftcasualgames.com
 www.dominantads.hasoffers.com
 www.don2711d6.clickfunnels.com
 www.doncave.hasoffers.com
@@ -68658,6 +68674,7 @@ www.pluslatex.users.clickfunnels.com
 www.pm.clickfunnels.com
 www.pm.hasoffers.com
 www.pms.hasoffers.com
+www.pntrs.com
 www.poczta.clickfunnels.com
 www.poczta.hasoffers.com
 www.podcast.hasoffers.com
@@ -68827,6 +68844,7 @@ www.shadow.hasoffers.com
 www.share.clickfunnels.com
 www.share.hasoffers.com
 www.shared.hasoffers.com
+www.sharkplatform.trk2afse.com
 www.shootmedia-hk.hasoffers.com
 www.shop.hasoffers.com
 www.shopattarget.clickfunnels.com
@@ -69036,6 +69054,7 @@ www.trhcz.com
 www.trierwirdwild.de
 www.tripleacoverage.hasoffers.com
 www.trk.mdrtrck.com
+www.trk2afse.com
 www.trkr5r5r5.com
 www.trkwebs.com
 www.truenaturemedia.hasoffers.com
