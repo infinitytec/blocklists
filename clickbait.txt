@@ -1,4 +1,4 @@
-# This is a list of clickbait sites, such as those celebrity "info" or "death" sites and sites that spam fake article to appear like a real news or information site. Also includes sites that seem to publish stuff just for clicks. Some items on here may be subjective.
+# This is a list of clickbait sites, such as those celebrity "info" or "death" sites and sites that spam fake article to appear like a real news or information site. Also includes sites that seem to publish stuff just for clicks and sites running fake AI articles. Some items on here may be subjective.
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/clickbait.txt
@@ -23,6 +23,7 @@
 028u.globatds.com
 02c298b1-5c96-48a6-a083-ef515f271635.gotolike.com
 03.carlink.drinkfood.info
+0304.cafex.biz
 03047267-16b5-440f-bbd5-37958cb5f06b.gotolike.com
 03ae26a5-b22c-4870-bbbc-8c4709d6d19d.gotolike.com
 03bcf06e-1158-4cf1-817e-5d03b8e63030.gotolike.com
@@ -189,6 +190,7 @@
 1n8c.globatds.com
 1qpp.globatds.com
 1stad.g2afse.com
+1stnews.cafex.biz
 1uat.globatds.com
 1z5v.globatds.com
 2-bavaro.greaterantilleshotels.com
@@ -1915,6 +1917,7 @@ amazing.caphemoingay.com
 amazing.colofandom.com
 amazing.drinkfood.info
 amazing.gshopper.com
+amazing.livextop.com
 amazing.noithatnhaxinhbacgiang.com
 amazing1.boonovel.com
 amazing2.drinkfood.info
@@ -2230,6 +2233,7 @@ api.scoalapetresergescu.info
 api.servebbs.org
 api.svhome.store
 api.v1.rb88rb.com
+api.weatherchannelpioneers.com
 apidocs.gshopper.com
 apik.firesidegrillandbar.com
 apika.firesidegrillandbar.com
@@ -2653,6 +2657,7 @@ augusta.jodymaroni.com
 auk.jodymaroni.com
 aumd.jodymaroni.com
 aumyos.jodymaroni.com
+auold.cafex.biz
 aurora-del-sol-casino.greaterantilleshotels.com
 aurora-del-sol-hotel-casino.greaterantilleshotels.com
 aurora.littlethings.com
@@ -2700,6 +2705,7 @@ autodiscover.mobilegyans.com
 autodiscover.moveitworks.store
 autodiscover.myhappyandhealthyliving.com
 autodiscover.nc-ph-3382.www.superduperior.com
+autodiscover.newsexaminer.net
 autodiscover.nobsimreviews.com
 autodiscover.otoarizasi.com
 autodiscover.phumi9.com
@@ -3423,6 +3429,7 @@ bestty.firesidegrillandbar.com
 bestvalue.servebbs.org
 bestvapestore.firesidegrillandbar.com
 bestvideomodels.boonovel.com
+beta.cafex.biz
 beta.hoax.com
 beta.littlethings.com
 beta.scoalapetresergescu.info
@@ -3611,6 +3618,7 @@ bjyqr.jodymaroni.com
 bjzo.firesidegrillandbar.com
 bkcmu.jodymaroni.com
 bkinert.firesidegrillandbar.com
+bkk.cafex.biz
 bklcz.jodymaroni.com
 bkp.jodymaroni.com
 bkpx.firesidegrillandbar.com
@@ -3704,6 +3712,7 @@ blog98.lawyersclubindia.com
 blogfloor.jodymaroni.com
 blogleader.jodymaroni.com
 blogmtvfvg.jodymaroni.com
+blognews.cafex.biz
 blogrants.jodymaroni.com
 blogsfood.cafex.biz
 blokoy.jodymaroni.com
@@ -3904,6 +3913,7 @@ bowangssc.jodymaroni.com
 bowers-thomas.olympicname.com
 bowfin.littlethings.com
 bowhuntingtvshow.servebbs.org
+bowlnews.cafex.biz
 boxer.littlethings.com
 boxeraglia.firesidegrillandbar.com
 boxers.firesidegrillandbar.com
@@ -4755,6 +4765,7 @@ ccloan.g2afse.com
 ccod.firesidegrillandbar.com
 ccqo.jodymaroni.com
 cctls.jodymaroni.com
+ccv.cafex.biz
 ccwj.firesidegrillandbar.com
 ccxdd.jodymaroni.com
 ccyq.firesidegrillandbar.com
@@ -4867,6 +4878,7 @@ cdn.takeprizenow.me
 cdn.truththeory.com
 cdn.unitedvoice.com
 cdn.webnews21.com
+cdn.yournewswire.com
 cdn0.littlethings.com
 cdn1.littlethings.com
 cdn2.littlethings.com
@@ -4879,6 +4891,7 @@ cdn6.littlethings.com
 cdn7.littlethings.com
 cdn8.littlethings.com
 cdn9.littlethings.com
+cdns.yournewswire.com
 cdok.firesidegrillandbar.com
 cdol.jodymaroni.com
 cdpg.firesidegrillandbar.com
@@ -4921,8 +4934,11 @@ celebnews.noithatnhaxinhbacgiang.com
 celebpie.com
 celebration-easter-orthodox.easter.servebbs.org
 celebrity-villa-jamaica.greaterantilleshotels.com
+celebrity.cafex.biz
+celebrity.livextop.com
 celebrity.xinloc.com
 celebritynews.thuysanplus.com
+celebritys.livextop.com
 celebsaga.com
 celebsagewiki.com
 celebsnetworthbio.com
@@ -5633,6 +5649,7 @@ connaught.firesidegrillandbar.com
 connellyfreegame.nita.servebbs.org
 connerfreegame.nita.servebbs.org
 conor151.firesidegrillandbar.com
+conservative101.com
 consigmais.g2afse.com
 console.gadgets360.com
 constellation.greaterantilleshotels.com
@@ -5907,6 +5924,7 @@ cpanel.nefltix.app44038.servebbs.org
 cpanel.netbooksreview.net
 cpanel.netflixupdateaccount.servebbs.org
 cpanel.news-intel.com
+cpanel.newsexaminer.net
 cpanel.newssplash.com.ng
 cpanel.nobsimreviews.com
 cpanel.nor-config.servebbs.org
@@ -5975,10 +5993,12 @@ cpanel.video.moveitworks.store
 cpanel.viral-wow.online
 cpanel.vps.thepomaholic.com
 cpanel.wallail.servebbs.org
+cpanel.weatherchannelpioneers.com
 cpanel.whatsmobiles.com
 cpanel.willhitegrading.com
 cpanel.wothappen.com
 cpanel.xinloc.com
+cpanel.yournewswire.com
 cpanel.ytech.news
 cpapush.g2afse.com
 cpark.g2afse.com
@@ -6106,10 +6126,12 @@ cpcalendars.verify-account-identity.servebbs.org
 cpcalendars.video.moveitworks.store
 cpcalendars.vps.thepomaholic.com
 cpcalendars.wallail.servebbs.org
+cpcalendars.weatherchannelpioneers.com
 cpcalendars.whatsmobiles.com
 cpcalendars.willhitegrading.com
 cpcalendars.wothappen.com
 cpcalendars.xinloc.com
+cpcalendars.yournewswire.com
 cpcalendars.ytech.news
 cpcontacts.3ds.servebbs.org
 cpcontacts.3lmone.thepomaholic.com
@@ -6236,9 +6258,11 @@ cpcontacts.verify-account-identity.servebbs.org
 cpcontacts.video.moveitworks.store
 cpcontacts.vps.thepomaholic.com
 cpcontacts.wallail.servebbs.org
+cpcontacts.weatherchannelpioneers.com
 cpcontacts.whatsmobiles.com
 cpcontacts.willhitegrading.com
 cpcontacts.xinloc.com
+cpcontacts.yournewswire.com
 cpcontacts.ytech.news
 cpfi.jodymaroni.com
 cphela.jodymaroni.com
@@ -6625,12 +6649,14 @@ dailylife.gshopper.com
 dailynews.0tnews.com
 dailynews.boonovel.com
 dailynews.cafex.biz
+dailynews.livextop.com
 dailynews.thuysanplus.com
 dailynewscup.jodymaroni.com
 dailypositiveinfo.com
 dailysandals2.getoffersale.com
 dailysoap24h.drinkfood.info
 dailytrend.thuysanplus.com
+dailyus.cafex.biz
 daimaru.firesidegrillandbar.com
 daisakio.jodymaroni.com
 daisuke.firesidegrillandbar.com
@@ -7004,6 +7030,7 @@ dev.svhome.store
 dev.synergyscience.com
 dev.truththeory.com
 dev.unitedvoice.com
+dev.yournewswire.com
 dev.zenherald.com
 dev1.healy.shop
 dev2.healy.shop
@@ -8085,6 +8112,7 @@ elud.jodymaroni.com
 eluf180.firesidegrillandbar.com
 elvcolire.firesidegrillandbar.com
 elviradarknights.jodymaroni.com
+elvispresleyfans.cafex.biz
 elyzer.jodymaroni.com
 em4.jodymaroni.com
 email-search.fud.servebbs.org
@@ -8546,6 +8574,7 @@ fanbase.firesidegrillandbar.com
 fancy4work.com
 fancykilts.jodymaroni.com
 fangnew.jodymaroni.com
+fanhub.cafex.biz
 fanny-may-mortgage.ig8may.servebbs.org
 fanonimka124.servebbs.org
 fanry.jodymaroni.com
@@ -8872,6 +8901,7 @@ flashdeals.gshopper.com
 flashers.jodymaroni.com
 flashlight.firesidegrillandbar.com
 flashlight2.getoffersale.com
+flashus.cafex.biz
 flatdrivebuyc5.servebbs.org
 flatsandal.getoffersale.com
 flatsandal2.getoffersale.com
@@ -9510,6 +9540,7 @@ gempar.jodymaroni.com
 gen.jodymaroni.com
 gencobahis.girbahise.com
 genel.servebbs.org
+generationgranny.com
 generations.jodymaroni.com
 generator.epicgamecheats.com
 gengyler.jodymaroni.com
@@ -9677,6 +9708,7 @@ gladiolas-00730.greaterantilleshotels.com
 gladys.firesidegrillandbar.com
 gladys.jodymaroni.com
 glal.firesidegrillandbar.com
+glassalmanac.com
 glassfaucet.servebbs.org
 glassshoes.servebbs.org
 glek.jodymaroni.com
@@ -9757,6 +9789,7 @@ godupdates.firesidegrillandbar.com
 goel.jodymaroni.com
 goete.jodymaroni.com
 gofd.jodymaroni.com
+goffarch.com.pollywebart.com
 gofingoua.g2afse.com
 gogo.firesidegrillandbar.com
 gogollui.firesidegrillandbar.com
@@ -10949,6 +10982,7 @@ hotels.standoutglobal.com
 hotlook.firesidegrillandbar.com
 hotnew.cafex.biz
 hotnews.boonovel.com
+hotnews.livextop.com
 hotnews.xinloc.com
 hotnews24h.xinloc.com
 hotnewsradio.firesidegrillandbar.com
@@ -11617,6 +11651,7 @@ ipsnews.net
 iptc.jodymaroni.com
 iptj.firesidegrillandbar.com
 iptt.jodymaroni.com
+ipv4.yournewswire.com
 ipv6.freebitco.in
 ipv6.nc-ph-3382.www.superduperior.com
 ipv6.server1.superduperior.com
@@ -13179,6 +13214,7 @@ kuae.jodymaroni.com
 kuahbakso.jodymaroni.com
 kuarbans.jodymaroni.com
 kuart.jodymaroni.com
+kub.cafex.biz
 kucai.jodymaroni.com
 kucingmerah.jodymaroni.com
 kucir.firesidegrillandbar.com
@@ -13368,6 +13404,7 @@ lakuk.jodymaroni.com
 lakunengono.jodymaroni.com
 lakunewong.jodymaroni.com
 lala.firesidegrillandbar.com
+lalago.cafex.biz
 lalexander.jodymaroni.com
 lali.firesidegrillandbar.com
 lam-quen-voi-may-tinh.ig8may.servebbs.org
@@ -13477,6 +13514,7 @@ law.jodymaroni.com
 law.olympicname.com
 lawams.jodymaroni.com
 lawang.jodymaroni.com
+lawingov.com
 lawless.jodymaroni.com
 lawme.jodymaroni.com
 lawyeraspect.com
@@ -13559,6 +13597,7 @@ lecru.jodymaroni.com
 led.firesidegrillandbar.com
 led.jodymaroni.com
 ledisenjentel.jodymaroni.com
+leeus.livextop.com
 leevictor.jodymaroni.com
 lefgini.jodymaroni.com
 lefinee.jodymaroni.com
@@ -13695,6 +13734,7 @@ lifeguideline.jodymaroni.com
 lifehacks.littlethings.com
 lifeinsurancewest.firesidegrillandbar.com
 lifeisbioutifoul.firesidegrillandbar.com
+lifenews.livextop.com
 lifenewsus.colofandom.com
 lifenewsus.noithatnhaxinhbacgiang.com
 lifepress.info
@@ -13815,6 +13855,7 @@ livenoob.jodymaroni.com
 livetop.g2afse.com
 liveunicorns.g2afse.com
 livexp.g2afse.com
+livextop.com
 living-with-emr.emfrequency.com
 livonia.firesidegrillandbar.com
 livornica.g2afse.com
@@ -13899,6 +13940,7 @@ loangate.g2afse.com
 loans.financialhealth.net
 lobster-bisque-sherry.tirmafecto.servebbs.org
 lobster.jodymaroni.com
+local.livextop.com
 localhost.infectiousmagazine.com
 locked-safe.littlethings.com
 lockedint.jodymaroni.com
@@ -13960,6 +14002,7 @@ lonobo.firesidegrillandbar.com
 lont.servebbs.org
 lontee.firesidegrillandbar.com
 lonz.firesidegrillandbar.com
+loo.cafex.biz
 loomingblackout.com
 loomo.jodymaroni.com
 loop.firesidegrillandbar.com
@@ -14453,6 +14496,7 @@ mail.netbooksreview.net
 mail.netflixupdateaccount.servebbs.org
 mail.new.brainworldmagazine.com
 mail.news-intel.com
+mail.newsexaminer.net
 mail.newssplash.com.ng
 mail.nobsimreviews.com
 mail.nor-config.servebbs.org
@@ -14518,6 +14562,7 @@ mail.trung.servebbs.org
 mail.truththeory.com
 mail.ts2.space
 mail.umatechnology.org
+mail.unitedmediapublishing.com
 mail.upgradedreviews.com
 mail.ups.delay48276.servebbs.org
 mail.ups.trackid19738.servebbs.org
@@ -14536,6 +14581,7 @@ mail.video.moveitworks.store
 mail.viral-wow.online
 mail.vps.thepomaholic.com
 mail.wallail.servebbs.org
+mail.weatherchannelpioneers.com
 mail.webdisk.airpurifierforhome.com
 mail.webmail.airpurifierforhome.com
 mail.webnews21.com
@@ -14544,6 +14590,7 @@ mail.willhitegrading.com
 mail.www.airpurifierforhome.com
 mail.xinloc.com
 mail.xiteview.com
+mail.yournewswire.com
 mail.ytech.news
 mail.zoopy.com
 mail1.eclipseaviation.com
@@ -15502,6 +15549,7 @@ montir.jodymaroni.com
 montreal.jodymaroni.com
 montrealdxb.jodymaroni.com
 monumental.greaterantilleshotels.com
+monumentvalley3.org
 monwica.firesidegrillandbar.com
 monyet.firesidegrillandbar.com
 mookomedia.g2afse.com
@@ -15708,6 +15756,7 @@ mush.jodymaroni.com
 musi.jodymaroni.com
 music.citestesitu.com
 music.firesidegrillandbar.com
+musicglobal.buzz
 musj.jodymaroni.com
 musk.jodymaroni.com
 musl.jodymaroni.com
@@ -15860,6 +15909,7 @@ nadirah.firesidegrillandbar.com
 naelz.jodymaroni.com
 nafas.firesidegrillandbar.com
 nagaihiyori.firesidegrillandbar.com
+nagdaily.cafex.biz
 nagdailyforest.cafex.biz
 nags.jodymaroni.com
 nahuhd.firesidegrillandbar.com
@@ -16120,6 +16170,7 @@ newhopeshoebox.jodymaroni.com
 newiccu.jodymaroni.com
 newiccunl.jodymaroni.com
 newiton.jodymaroni.com
+newlaurenlake.cafex.biz
 newlifeinjesuscentre.jodymaroni.com
 newlink.firesidegrillandbar.com
 newman.jodymaroni.com
@@ -16150,6 +16201,7 @@ news.drinkfood.info
 news.fr24news.com
 news.italy24news.com
 news.justcarehealth.com
+news.livextop.com
 news.noithatnhaxinhbacgiang.com
 news.otoarizasi.com
 news.pchelpsoft.com
@@ -16170,9 +16222,11 @@ newsa.jodymaroni.com
 newsallworld.jodymaroni.com
 newsanchor360.com
 newscancart.jodymaroni.com
+newsceleb.cafex.biz
 newsclass.firesidegrillandbar.com
 newscr.bio
 newsdaily.noithatnhaxinhbacgiang.com
+newsexaminer.net
 newsforaging.jodymaroni.com
 newshealthyfood.jodymaroni.com
 newsiesonline.jodymaroni.com
@@ -16182,13 +16236,16 @@ newsletter-deka.firesidegrillandbar.com
 newsletter.jodymaroni.com
 newsmaxapp.firesidegrillandbar.com
 newsmedia.cafex.biz
+newsngay.com
 newsomerealty.jodymaroni.com
 newsonchain.jodymaroni.com
 newspaper.firesidegrillandbar.com
+newspaper.livextop.com
 newspaperminingrecordrdns.jodymaroni.com
 newspapersfundraising.jodymaroni.com
 newspices.jodymaroni.com
 newspro.colofandom.com
+newspulse.cafex.biz
 newsreporting24.firesidegrillandbar.com
 newsroom71.firesidegrillandbar.com
 newss.drinkfood.info
@@ -16450,7 +16507,9 @@ northlasvegas.jodymaroni.com
 northwest.firesidegrillandbar.com
 norway.gshopper.com
 nosir.firesidegrillandbar.com
+nostalgiaforamerica.cafex.biz
 nostalgicoldamerica.cafex.biz
+nostalgicus.cafex.biz
 notary-rotary.red.servebbs.org
 note.littlethings.com
 note.servebbs.org
@@ -16497,6 +16556,7 @@ nrvvl.firesidegrillandbar.com
 nrxjv.jodymaroni.com
 nrze.firesidegrillandbar.com
 ns.soulvibe.com
+ns1.conservative101.com
 ns1.dietplanlist.com
 ns1.epicgamecheats.com
 ns1.homedesignbuzz.com
@@ -16509,6 +16569,7 @@ ns1.thelifehacker.org
 ns1.thepomaholic.com
 ns1.verietyinfo.com
 ns2.celebsuburb.com
+ns2.conservative101.com
 ns2.dietplanlist.com
 ns2.homedesignbuzz.com
 ns2.ipsnews.net
@@ -16925,6 +16986,7 @@ old.rich-script.com
 old.spacexbigevent.com
 old.staging.healy.shop
 old.svhome.store
+oldamerica.cafex.biz
 oldengland.cafex.biz
 oldenglandlife.cafex.biz
 older-mom-videos.ue9mom.servebbs.org
@@ -18700,6 +18762,7 @@ redding-dies.red.servebbs.org
 redgas.jodymaroni.com
 redirection.servebbs.org
 redirector.littlethings.com
+rednews.cafex.biz
 redo.jodymaroni.com
 redoys.jodymaroni.com
 redx.globatds.com
@@ -19857,6 +19920,7 @@ sbzd.firesidegrillandbar.com
 scaleioio.g2afse.com
 scan.jodymaroni.com
 scanna.jodymaroni.com
+scannews.livextop.com
 scanpin.g2afse.com
 scarlett-guest-house.greaterantilleshotels.com
 scary-movies.littlethings.com
@@ -19893,6 +19957,7 @@ sclub.olympicname.com
 scmbd.firesidegrillandbar.com
 scoalapetresergescu.info
 scom.firesidegrillandbar.com
+scoreus.livextop.com
 scos.firesidegrillandbar.com
 scottick.firesidegrillandbar.com
 scottsdale.jodymaroni.com
@@ -20515,6 +20580,7 @@ site.servebbs.org
 site.verify.firesidegrillandbar.com
 sitegeisha.servebbs.org
 sitelike.firesidegrillandbar.com
+sitemap.generationgranny.com
 sitemap.scoalapetresergescu.info
 sitemaps.gotolike.com
 sitemaps.learnprotips.com
@@ -20890,13 +20956,17 @@ spoiler.xinloc.com
 spomnm.jodymaroni.com
 sport.drinkfood.info
 sport.fr24news.com
+sport.livextop.com
 sport247.boonovel.com
 sport365.boonovel.com
 sportaz.jodymaroni.com
 sportbetsodds.jodymaroni.com
+sportdot.com.ng
 sportnews.boonovel.com
 sportnews.cafex.biz
 sportnews.drinkfood.info
+sportnews.livextop.com
+sportnewss.livextop.com
 sportpacks2.getoffersale.com
 sports-casino-offers.g2afse.com
 sports.amazingtoday.net
@@ -20991,6 +21061,7 @@ stage.moneyandmarkets.com
 stage.pchelpsoft.com
 stage.qrius.com
 stage.scoalapetresergescu.info
+stage.yournewswire.com
 stage1.healy.shop
 stage2.healy.shop
 stagecdn01.littlethings.com
@@ -21288,6 +21359,7 @@ sunshine-57000.greaterantilleshotels.com
 sunshine-suites-resort.greaterantilleshotels.com
 suntu.jodymaroni.com
 sununa.firesidegrillandbar.com
+supa9.com.pollywebart.com
 supe.jodymaroni.com
 super-ultra-mega-dynamic.hoax.com
 super-ultra-mega-dynamic3.hoax.com
@@ -21467,6 +21539,7 @@ t5dv.servebbs.org
 t6mo.globatds.com
 t92-pro-smartwatch.giftlyshops.com
 ta.abhinandps.com
+ta.cafex.biz
 ta.ts2.space
 tab-tv.com
 tabiateelek.jodymaroni.com
@@ -21762,7 +21835,9 @@ terry.jodymaroni.com
 ters.firesidegrillandbar.com
 tesh.jodymaroni.com
 tesin.firesidegrillandbar.com
+test-2.cafex.biz
 test-api-secure.joom.com
+test-cel.cafex.biz
 test-hs.dev.healy.shop
 test.gotolike.com
 test.healy.shop
@@ -22285,6 +22360,7 @@ torivn.jodymaroni.com
 torkel733.firesidegrillandbar.com
 tornado.jodymaroni.com
 toronto.firesidegrillandbar.com
+torontotoday.net
 torraes.jodymaroni.com
 torre-apartamento-independencia.greaterantilleshotels.com
 torre-biltmore-xv.greaterantilleshotels.com
@@ -22831,6 +22907,7 @@ unimetatech.g2afse.com
 unique-club-at-lopesan-costa.greaterantilleshotels.com
 united-kingdom-weather-in-may.ig8may.servebbs.org
 unitedaddressupdaterpp.firesidegrillandbar.com
+unitedmediapublishing.com
 unitedstates.funding.both.sides.syria.hoax.com
 unitedvoice.com
 unitepc.jodymaroni.com
@@ -22860,6 +22937,7 @@ uono.firesidegrillandbar.com
 uowen.firesidegrillandbar.com
 uowspz.jodymaroni.com
 upacule.jodymaroni.com
+upakovka.pollywebart.com
 upbl.firesidegrillandbar.com
 update-banking.firesidegrillandbar.com
 update.firesidegrillandbar.com
@@ -22937,6 +23015,7 @@ us.noithatnhaxinhbacgiang.com
 us.yeezy.com
 usa.otoarizasi.com
 usahistorical.cafex.biz
+usahottime24h.cafex.biz
 usalod.com
 usamantha.jodymaroni.com
 usamidia.com
@@ -22969,8 +23048,10 @@ usmg.firesidegrillandbar.com
 usmilitary.citestesitu.com
 usmilitarynewsroom.citestesitu.com
 usnavy.littlethings.com
+usnews.livextop.com
 usnews24today.noithatnhaxinhbacgiang.com
 usnnse.firesidegrillandbar.com
+usnow.livextop.com
 uspast.cafex.biz
 uspsxz.jodymaroni.com
 usqak.firesidegrillandbar.com
@@ -23471,6 +23552,7 @@ vindeturquies.jodymaroni.com
 vinki.jodymaroni.com
 vintage2dt.cafex.biz
 vintagefr.cafex.biz
+vintagepage.cafex.biz
 vintageuk.cafex.biz
 violet.jodymaroni.com
 vip-pool-apartments-beach-club-spa.greaterantilleshotels.com
@@ -23479,9 +23561,12 @@ vip.axxz.servebbs.org
 vip.azzx.servebbs.org
 vip.servebbs.org
 vipaffiliates.g2afse.com
+viral-2.cafex.biz
 viral-wow.online
 viral.cafex.biz
 viral.drinkfood.info
+viral.livextop.com
+viralnews.cafex.biz
 viralstoryus.noithatnhaxinhbacgiang.com
 viralstoryusa.noithatnhaxinhbacgiang.com
 viralworldss.online
@@ -23654,6 +23739,7 @@ vss-properties.greaterantilleshotels.com
 vstonn.firesidegrillandbar.com
 vsxfuif.firesidegrillandbar.com
 vt.noithatnhaxinhbacgiang.com
+vtechinsider.com
 vtudhu.jodymaroni.com
 vtvenkataram.lawyersclubindia.com
 vuban.jodymaroni.com
@@ -23785,11 +23871,13 @@ washington.jodymaroni.com
 wasilshimia.jodymaroni.com
 wataks.jodymaroni.com
 watch-panorama-online.servebbs.org
+watch.cafex.biz
 watch.webtvonline.servebbs.org
 watcher.gshopper.com
 watches.servebbs.org
 watchingtv.jodymaroni.com
 watchmurphybrownonline.servebbs.org
+watchs.cafex.biz
 watchtoweronline.firesidegrillandbar.com
 water-beach-club.greaterantilleshotels.com
 water-slide.littlethings.com
@@ -23860,6 +23948,7 @@ wealthyspy.com
 weare-cadaques-bayahibe.greaterantilleshotels.com
 weather.jodymaroni.com
 weatherapp.jodymaroni.com
+weatherchannelpioneers.com
 weatherforecast.jodymaroni.com
 weathertomorrow.jodymaroni.com
 weaux.jodymaroni.com
@@ -23921,6 +24010,7 @@ webdisk.finlandio-fi.servebbs.org
 webdisk.followjapan.servebbs.org
 webdisk.freefifa17coins.net
 webdisk.gdvplanet.com
+webdisk.generationgranny.com
 webdisk.getall.services
 webdisk.ggmoneyonline.com
 webdisk.gillettnews.com
@@ -23954,6 +24044,7 @@ webdisk.nefltix.app44038.servebbs.org
 webdisk.netbooksreview.net
 webdisk.netflixupdateaccount.servebbs.org
 webdisk.news-intel.com
+webdisk.newsexaminer.net
 webdisk.newssplash.com.ng
 webdisk.nobsimreviews.com
 webdisk.nor-config.servebbs.org
@@ -24018,10 +24109,12 @@ webdisk.video-facebok.servebbs.org
 webdisk.video.moveitworks.store
 webdisk.viral-wow.online
 webdisk.wallail.servebbs.org
+webdisk.weatherchannelpioneers.com
 webdisk.whatsmobiles.com
 webdisk.willhitegrading.com
 webdisk.wothappen.com
 webdisk.xinloc.com
+webdisk.yournewswire.com
 webdisk.ytech.news
 webdotdevs.jodymaroni.com
 webh.jodymaroni.com
@@ -24075,6 +24168,7 @@ webmail.finlandio-fi.servebbs.org
 webmail.followjapan.servebbs.org
 webmail.freefifa17coins.net
 webmail.gdvplanet.com
+webmail.generationgranny.com
 webmail.getall.services
 webmail.ggmoneyonline.com
 webmail.gillettnews.com
@@ -24107,6 +24201,7 @@ webmail.nefltix.app44038.servebbs.org
 webmail.netbooksreview.net
 webmail.netflixupdateaccount.servebbs.org
 webmail.news-intel.com
+webmail.newsexaminer.net
 webmail.newssplash.com.ng
 webmail.nobsimreviews.com
 webmail.nor-config.servebbs.org
@@ -24176,10 +24271,12 @@ webmail.video-facebok.servebbs.org
 webmail.video.moveitworks.store
 webmail.vps.thepomaholic.com
 webmail.wallail.servebbs.org
+webmail.weatherchannelpioneers.com
 webmail.whatsmobiles.com
 webmail.willhitegrading.com
 webmail.xinloc.com
 webmail.yeezy.com
+webmail.yournewswire.com
 webmail.ytech.news
 webmargaret.firesidegrillandbar.com
 webn.jodymaroni.com
@@ -24333,6 +24430,8 @@ whm.taqfone.thepomaholic.com
 whm.thelifehacker.org
 whm.uaskone.thepomaholic.com
 whm.vps.thepomaholic.com
+whm.weatherchannelpioneers.com
+whm.yournewswire.com
 whmxwqc.jodymaroni.com
 who-is-liv-tylers-mother.ue9mom.servebbs.org
 who-was-the-youngest-mom-ever.ue9mom.servebbs.org
@@ -24608,11 +24707,16 @@ ww1.feedient.com
 ww1.freefifa17coins.net
 ww1.top100catsites.com
 ww12.girbahise.com
+ww16.conservative101.com
 ww16.moveitworks.store
+ww16.ww16.ww16.ww25.ww25.conservative101.com
+ww16.ww16.ww25.ww25.conservative101.com
 ww2.feedient.com
 ww2.healy.shop
 ww2.homedesignbuzz.com
 ww2.top100catsites.com
+ww25.conservative101.com
+ww25.generationgranny.com
 ww25.moveitworks.store
 ww25.willhitegrading.com
 ww3.feedient.com
@@ -24640,7 +24744,9 @@ ww38.66488.freefifa17coins.net
 ww38.67196.freefifa17coins.net
 ww38.81818.freefifa17coins.net
 ww38.94292.freefifa17coins.net
+ww38.conservative101.com
 ww38.freefifa17coins.net
+ww38.generationgranny.com
 ww38.top100catsites.com
 ww38.willhitegrading.com
 ww41.top100catsites.com
@@ -24867,6 +24973,7 @@ www.colofandom.com
 www.colombia-politics.com
 www.commodorescene.servebbs.org
 www.compt88-acces99.servebbs.org
+www.conservative101.com
 www.contact-3riversfcu.servebbs.org
 www.content-1.healy.shop
 www.coolbench.com
@@ -25070,6 +25177,7 @@ www.gcb.lavadew.com
 www.gdvplanet.com
 www.gearweb.org
 www.gencobahis.girbahise.com
+www.generationgranny.com
 www.generator.epicgamecheats.com
 www.get-advantage.rich-script.com
 www.getall.services
@@ -25085,10 +25193,12 @@ www.girbahise.com
 www.gistgear.com
 www.gitenberg.boonovel.com
 www.gjsex.firesidegrillandbar.com
+www.glassalmanac.com
 www.global.tab-tv.com
 www.globatds.com
 www.gmc5.globatds.com
 www.gobahis.girbahise.com
+www.goffarch.com.pollywebart.com
 www.golittlelion.com
 www.goodlesson.life
 www.goodolddays.com
@@ -25197,6 +25307,7 @@ www.kefu.spacexbigevent.com
 www.kelley.littlethings.com
 www.keto.dietplanlist.com
 www.kf.spacexbigevent.com
+www.khs.generationgranny.com
 www.kid2019.thepomaholic.com
 www.kinectaverification.servebbs.org
 www.king-tiger.rich-script.com
@@ -25213,6 +25324,7 @@ www.latestcelebarticles.com
 www.latestinbollywood.com
 www.laurentomasella.com
 www.lavadew.com
+www.lawingov.com
 www.lawyeraspect.com
 www.lawyersclubindia.com
 www.lcathe.jodymaroni.com
@@ -25223,6 +25335,7 @@ www.limanbet.girbahise.com
 www.linkiest.com
 www.littlethings.com
 www.live.cedarnews.net
+www.livextop.com
 www.living-with-emr.emfrequency.com
 www.login.firesidegrillandbar.com
 www.logistics.joom.com
@@ -25238,6 +25351,7 @@ www.ma-protection-ca-conseil.servebbs.org
 www.magento.spacexbigevent.com
 www.magento.svhome.store
 www.mail.diaart.org
+www.mail.generationgranny.com
 www.mail.mail.gdvplanet.com
 www.mail.mail.prospectheightsyoga.com
 www.mail.thewashingtondigest.com
@@ -25293,7 +25407,9 @@ www.modelpeeps.com
 www.modernsurvival.org
 www.money-machine.rich-script.com
 www.moneyandmarkets.com
+www.monumentvalley3.org
 www.moveitworks.store
+www.musicglobal.buzz
 www.mycampusgist.com
 www.myhappyandhealthyliving.com
 www.myle.servebbs.org
@@ -25322,6 +25438,8 @@ www.news.italy24news.com
 www.news247wp.com
 www.newsanchor360.com
 www.newscr.bio
+www.newsexaminer.net
+www.newsngay.com
 www.newssplash.com.ng
 www.newsymonkey.com
 www.nice.drinkfood.info
@@ -25536,6 +25654,7 @@ www.spacexbigevent.com
 www.spacito.drinkfood.info
 www.spakler-world.rich-script.com
 www.sparlke.rich-script.com
+www.sportdot.com.ng
 www.staff.diaart.org
 www.staffmedia.diaart.org
 www.stage.healy.shop
@@ -25557,6 +25676,7 @@ www.store.pchelpsoft.com
 www.store.spacexbigevent.com
 www.store.svhome.store
 www.summary0919.3ds.servebbs.org
+www.supa9.com.pollywebart.com
 www.superduperior.com
 www.supertotobet.girbahise.com
 www.supplementreviews.thedailyreviewer.com
@@ -25619,6 +25739,7 @@ www.toolingideas.com
 www.top100catsites.com
 www.topcryptoreview.blogspot.com
 www.topnews123.com
+www.torontotoday.net
 www.traveling.drinkfood.info
 www.trbet.girbahise.com
 www.trendsnewsline.com
@@ -25647,6 +25768,7 @@ www.ultiorg.remodelormove.com
 www.umatechnology.org
 www.undergroundship.boonovel.com
 www.unidentifiedphenomena.com
+www.unitedmediapublishing.com
 www.unitedvoice.com
 www.updates.healy.shop
 www.upgradedreviews.com
@@ -25685,6 +25807,7 @@ www.viral.drinkfood.info
 www.viralworldss.online
 www.virgilhanson689viral.blogspot.com
 www.vps.thepomaholic.com
+www.vtechinsider.com
 www.wallail.servebbs.org
 www.waverider.emfrequency.com
 www.waveriderhk.emfrequency.com
@@ -25693,6 +25816,7 @@ www.waveriderjp.emfrequency.com
 www.waveridernetcn.emfrequency.com
 www.waveriderworld.emfrequency.com
 www.wealthyspy.com
+www.weatherchannelpioneers.com
 www.webchronicle.com
 www.webdisk.topnews123.com
 www.webmail.ipsnews.net
@@ -25726,6 +25850,7 @@ www.xyz.ng
 www.yeezy.com
 www.ygg5.globatds.com
 www.yoob.firesidegrillandbar.com
+www.yournewswire.com
 www.yovi.firesidegrillandbar.com
 www.ytech.news
 www.zenherald.com
@@ -26235,6 +26360,7 @@ your-mom-games.ue9mom.servebbs.org
 yourcasagoods.firesidegrillandbar.com
 yourfashionistastore.firesidegrillandbar.com
 yourfavoritechoco.jodymaroni.com
+yournewswire.com
 youssefa.jodymaroni.com
 yovai.jodymaroni.com
 yovi.firesidegrillandbar.com
