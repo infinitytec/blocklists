@@ -283,6 +283,9 @@ blockonomi.com##.cf.the-post-foot > center
 www.bobvila.com##.advertise
 www.bobvila.com##.bv-unit-mobile-content
 
+! bovnews.com
+www.bovnews.com###bovne-916072013
+
 ! bloomberg.com
 www.bloomberg.com##.ad
 www.bloomberg.com##.mobile__4d78a978.broker-box-article__995c1333
@@ -510,6 +513,15 @@ www.ctinsider.com##.ad-module--ad--3s4Nc
 
 ! ctvnews.ca
 calgary.ctvnews.ca##.c-advert-disabled.c-advert-rail__sticky-advert.c-advert--sectionPage.sraAdvert.c-advert--sra.c-advert > .c-advert__label-active.c-advert__label
+
+! cureus.com
+www.cureus.com###banner-ad-1
+www.cureus.com###banner-ad-1 > .page-banner-ad.cureus-ad-wrapper > .banner.cureus-ad
+www.cureus.com###banner-ad-2
+www.cureus.com###banner-ad-2 > .page-banner-ad.cureus-ad-wrapper > .banner.cureus-ad
+www.cureus.com##.banner.cureus-ad
+www.cureus.com##.cureus-ad-wrapper
+www.cureus.com##.page-banner-ad
 
 ! cyberciti.biz
 www.cyberciti.biz###blocker7a1003a
@@ -1084,6 +1096,9 @@ www.instructables.com###gpt-step1-m
 ! ipwithease.com
 ipwithease.com##.ipwit-adlabel
 
+! imageonline.co
+joingif.imageonline.co##.col-md-12 > p
+
 ! jalopnik.com
 jalopnik.com##div.movable-ad
 
@@ -1093,14 +1108,14 @@ www.jetphotos.com###showphotos_ad-0
 ! jezebel.com
 jezebel.com##.js_movable_ad_slot
 
-! imageonline.co
-joingif.imageonline.co##.col-md-12 > p
-
 ! journaldemocrat.com
 journaldemocrat.com##.ad-container
 
 ! jsfiddle.net
 jsfiddle.net###keep-us-running
+
+! julieroys.com
+julieroys.com###julie-1299891007
 
 ! kake.com
 www.kake.com###WNAd101
@@ -1115,6 +1130,7 @@ www.kake.com##.iframely-responsive
 kamilslab.com###text-9
 
 ! kansas.com
+@@||cds.connatix.com/p/*/cSyncRemoteEntry.js$script,domain=www.kansas.com
 www-1.kansas.com###cnx-adUnit-overlay
 www-1.kansas.com###hpphmf_bet_jgsbnf_\/7675\/XDI\.wfoeps-bqpnbzb_lbotbt\/Ofxt\/Obujpobm\/HpwuQpmjujdt_2__dpoubjofs__
 www-1.kansas.com###hpphmf_bet_jgsbnf_\/7675\/XDI\.wfoeps-bqpnbzb_lbotbt\/Ofxt\/Obujpobm\/HpwuQpmjujdt_7
@@ -1143,10 +1159,11 @@ www-1.kansas.com##.px-0
 www-1.kansas.com##.weathermedia
 www-1.kansas.com##.zone-el
 www.kansas.com###main-content > section:nth-child(7) > div:nth-child(1) > div:nth-child(2)
+www.kansas.com###minibox_popup
+www.kansas.com###ymovrly
 www.kansas.com##.zone-el
 www.kansas.com##div.rail:nth-child(1)
 ||www-1.kansas.com/?load=aHR0cHM6Ly90cGMuZ29vZ2xlc3luZGljYXRpb24uY29tL3NhZmVmcmFtZS8xLTAtMzYvaHRtbC9jb250YWluZXIuaHRtbA&doc=1$subdocument
-@@||cds.connatix.com/p/*/cSyncRemoteEntry.js$script,domain=www.kansas.com
 
 ! katu.com
 katu.com###js-Sponsored-Container
@@ -1349,6 +1366,9 @@ www.minitool.com##.black-friday-bottom-banner
 www.minitool.com##.bottom-banner-wrapper.full-width
 www.minitool.com##.promotions-banner-wrap
 
+! mlive.com
+www.mlive.com##.DCDOr
+
 ! monoprice.com
 www.monoprice.com##.ad-container > .global-adsense
 www.monoprice.com##.global-adsense
@@ -1356,6 +1376,11 @@ www.monoprice.com##.prod-fold.global-adsense
 
 ! morgantechspace.com
 morgantechspace.com###ai_widget-7
+
+! movieinsider.com
+www.movieinsider.com##.ad-middle
+www.movieinsider.com##.aligncenter.ad-middle
+www.movieinsider.com##.sidebar-ad300
 
 ! msednpointmgt.com
 msendpointmgr.com##.gridlove-sidebar
@@ -2209,6 +2234,13 @@ www.tutorialspoint.com##.top-ad-heading
 www.ubackup.com##.ub.en.am-promotion-entry
 www.ubackup.com##[href^="/landing/resume-work-sale.html"]
 
+! united.com
+www.united.com##[class*="gam-leaderboard"]:not([id])
+www.united.com##[class*="gamAdsGroup"][class*="margin-top"][class*="padding-bottom"]
+www.united.com##[class*="leaderboardAdContainer"]
+www.united.com##[class*="sponsoredAdContainer"]
+www.united.com##[id^="flyGam-placement-"]
+
 ! unsplash.com
 unsplash.com##._2WvKc._1D4JX
 unsplash.com##._30ce3.WcYKB._2obdA
@@ -2454,12 +2486,18 @@ www.wthr.com###taboola-mobile-below-article-0
 www.wthr.com##.ad
 ||www.wthr.com/assets/shared-images/backgrounds/diag-5x5-blue-2x.png$image
 
+! xiaomitoday.it
+en.xiaomitoday.it###xiaom-7115679
+en.xiaomitoday.it##.gmp
+||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
+
 ! yahoo.com
 news.yahoo.com###sda-LREC3-iframe
 news.yahoo.com##.Bxsh\(\$boxPencilAdCardShadow\).Bdrs\(2px\).Bgc\(white\).Ovx\(h\).W\(100\%\).D\(f\)
 news.yahoo.com##.sticky-active.sticky-sda
 www.yahoo.com###adsStream
 www.yahoo.com###sdaAdvText-INARTICLE
+www.yahoo.com##div.md\:block.pb-5.hidden.mb-4 > .uppercase.text-xs.text-center.py-2
 
 ! yelp.com
 m.yelp.com###BottomAdStandard
@@ -2544,5 +2582,4 @@ yourbusiness.azcentral.com##.partner-placement
 ||view.vzaar.com/4640298/player$subdocument
 ||www.isomedia.com/banner/3-Play-1.gif$image
 ||www.minitool.com/promotions/images/2020-black-friday/black-friday-bottom-banner.png$image
-||www.xiaomitoday.com/wp-content/uploads/2017/08/back-to-school-sale*.jpg$image
 
