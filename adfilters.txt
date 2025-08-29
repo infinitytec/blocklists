@@ -67,6 +67,10 @@ addisfortune.news##body > .container > .row
 ||addisfortune.news/adf*$image
 ||addisfortune.news/adfimages/web_ad_united_insurance.png$image
 
+! adn.com
+www.adn.com##.adn-right-rail__main-interior-item.c-stack > .single-chain-desktop.adn-single-chain > .adn-single-chain__children
+www.adn.com##.adn-right-rail__main-right-rail.c-stack > .single-chain-desktop.adn-single-chain > .adn-single-chain__children
+
 ! aecmag.com
 aecmag.com###custom_html-2 > .custom-html-widget.textwidget
 aecmag.com###custom_html-4 > .custom-html-widget.textwidget > div
@@ -121,6 +125,7 @@ alternativeto.net##.glx29q590xm
 alternativeto.net##.h1qgynxg3w5d
 alternativeto.net##.ii3i3xan159
 alternativeto.net##.jsgzsinwbazm
+alternativeto.net##.min-w-ad-300
 alternativeto.net##li.in-list
 
 ! amazon.com
@@ -138,6 +143,7 @@ www.ancient-origins.net##.content_add_block
 
 ! androidauthority.com
 www.androidauthority.com##.ad-banner
+www.androidauthority.com##.e_Si
 
 ! androidpolice.com
 www.androidpolice.com###google_ads_iframe_\/39363775\/AP_injected1_300x250_mobile_1
@@ -397,6 +403,9 @@ www.citefast.com###banner2content
 www.citefast.com###myleftad
 ||www.citefast.com/images/grammarcheck.png$image
 
+! citydirectory.us
+www.citydirectory.us##[href^="https://www.vitalchek.com/Campaign/"]
+
 ! clark.com
 clark.com##.code-block-17.code-block > .in-content-ad-container > .in-content-ad
 clark.com##.full-ad
@@ -450,6 +459,9 @@ www.cnx-software.com##.garduin
 www.cnx-software.com##.gborted-4.gborted
 www.cnx-software.com##.gxmas
 www.cnx-software.com##.gxmas-5.gxmas
+
+! coincodex.com
+coincodex.com###scroller > div > [href="https://bcall-main.vstwerxerbc.top/i-5otd1gtg-n/"]
 
 ! coinfomania.com
 coinfomania.com##.thecontent > p:nth-of-type(2)
@@ -1326,6 +1338,10 @@ www.marthastewart.com##.recipe-main-ad.full-width.recipe-ad-wrapper
 ! mashable.com
 mashable.com##.inline-video-seealso
 
+! www.mashed.com
+www.mashed.com##.before-ad
+www.mashed.com##.columns-holder > .before-ad
+
 ! md5hashing.net
 md5hashing.net###decode > .no-margin.table > tbody > tr > .no-padding > .row.alert-promo.alert
 md5hashing.net###encode > .no-margin.table > tbody > tr > .no-padding > .row.alert-promo.alert
@@ -1373,6 +1389,9 @@ www.mlive.com##.DCDOr
 www.monoprice.com##.ad-container > .global-adsense
 www.monoprice.com##.global-adsense
 www.monoprice.com##.prod-fold.global-adsense
+
+! mossandfrog.com
+mossandfrog.com##.wpa
 
 ! morgantechspace.com
 morgantechspace.com###ai_widget-7
@@ -2082,6 +2101,10 @@ www.thekansan.com##.ad-container
 ! thekitchn.com
 www.thekitchn.com##.PostBundle__above
 www.thekitchn.com##.ggnoads
+
+! thenationaldesk.com
+thenationaldesk.com##.index-module_adWrapper__bMim
+thenationaldesk.com##.index-module_bannerAdWrapper__ZkeB
 
 ! theonion.com
 ogn.theonion.com##div.liWXlp.bxm4mm-4.movable-ad.ad-mobile-dynamic.js_ad-dynamic.js_ad-mobile-dynamic:nth-of-type(3)

@@ -470,6 +470,7 @@
 9w1cj5rv9-vn-b.byte.tiktokcdn.com
 9w1cj6r-administrator.byte.tiktokcdn.com
 _amazonses.musical.ly
+_amazonses.tiktok.com
 _dmarc.bytedance.com
 _dmarc.tiktok.com
 _netblocks.m.bytedance.com
@@ -776,6 +777,7 @@ ah.com-ns.byte.tiktokcdn.com
 aharvey18.ci.byte.tiktokcdn.com
 ai-closet.com.hw.tlivecdn.com
 ai-closet.com.tlivecdn.com
+ai-design.byted.org
 ai-hl.bytedance.com
 ai-lab-challenge.bytedance.com
 ai-lf.bytedance.com
@@ -2141,6 +2143,7 @@ artifact-auth-lf.bytedance.com
 artifact-auth-lq.bytedance.com
 artifact-auth.bytedance.com
 artifact-hl.bytedance.com
+artifact-internal-byteplus.byted.org
 artifact-internal.byted.org
 artifact-lf.bytedance.com
 artifact-lq.bytedance.com
@@ -2151,6 +2154,7 @@ arts.gts.byteoversea.com
 aruba-lq.bytedance.com
 aruba.bytedance.com
 arvor10.ci.byte.tiktokcdn.com
+arwall.byted.org
 arxiu.backend.byte.tiktokcdn.com
 arxiu.ci.byte.tiktokcdn.com
 aryzap.com.tlivecdn.com
@@ -2162,6 +2166,8 @@ asaph.ci.byte.tiktokcdn.com
 asdfasdf.ci.byte.tiktokcdn.com
 aser.byte.3w1cj5r.byte.tiktokcdn.com
 asgntv.xyz.tlivecdn.com
+asia-southeastbd-fn-bdsgdt.byted.org
+asia-southeastbd-fn.byted.org
 asparagus.byte.tiktokcdn.com
 aspire.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 aspyformacion.qa1.byte.9w1cj5r.byte.tiktokcdn.com
@@ -2208,6 +2214,8 @@ aurora-vaccine-lq.bytedance.com
 aurora-vaccine.bytedance.com
 auroracode.bytedance.com
 aurus.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
+australia-southeast-fn-syd1a.byted.org
+australia-southeast-fn.byted.org
 auth-sandbox.tiktokshop.com
 authenticationlk.byte.tiktokcdn.com
 authorization3b6-tos-maliva19-upv1.byte.tiktokcdn.com
@@ -2216,6 +2224,7 @@ authservice.bytedance.com
 authzd-nginx-vpc1d1.orthrus-tx.tiktokd.org
 autodiscover.ad.bytedance.com
 autodiscover.capcut.com
+autodiscover.en-capcut.com
 autodiscover.jy.bytedance.com
 autodiscover.mail.tiktok.com
 autodiscover.muscdn.com
@@ -2928,6 +2937,7 @@ byteoversea.net
 bytepack.bytedance.com
 bytepay-boe.byted.org
 byteplus-storage-gateway-boei18n.bytedance.com
+bytepluscloudidentity.byted.org
 byterangers-hl.bytedance.com
 byterangers-lf.bytedance.com
 byterangers.bytedance.com
@@ -3045,6 +3055,8 @@ cani.bytedance.com
 canvas.xacademy.cc.all.tlivecdn.com
 canvas.xacademy.cc.tlivecdn.com
 capcut.com
+capcut.jp
+capcutaffiliateprogram.pxf.io
 capdagde.backend.byte.tiktokcdn.com
 capitaland.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 captain.dev.qa1.byte.9w1cj5r.byte.tiktokcdn.com
@@ -3387,8 +3399,11 @@ cms.bytedance.com
 cms.gts.byteoversea.com
 cms.musical.ly
 cms9w1cj5r.byte.tiktokcdn.com
+cn-beijing.byted.org
+cn-east-fn-jj.byted.org
 cn-fe-sg.l.byteoversea.net
 cn-fe-va-bdva.l.byteoversea.net
+cn-guilin-boe.byted.org
 cn-moat.bytedance.com
 cn-northwest-1.es.backend.byte.tiktokcdn.com
 cn.gts.byteoversea.com
@@ -3413,6 +3428,7 @@ code-signing-service.byted.org
 code.byted.org
 codebase.tiktokd.org
 codeblue.byte.tiktokcdn.com
+codedancer.byted.org
 codeon.bytedance.com
 codoni1.3w1cj5r.byte.tiktokcdn.com
 cognition-hl.bytedance.com
@@ -3552,6 +3568,7 @@ cp31-jhb.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 cpanel.capcut.com
 cpanel.claim.byte.tiktokcdn.com
 cpanel.claim.com-ns.byte.tiktokcdn.com
+cpanel.en-capcut.com
 cpanel.food.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 cpanel.journal.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 cpanel.pm.backend.byte.tiktokcdn.com
@@ -3561,6 +3578,7 @@ cpanel.secure.3w1cj5r.byte.tiktokcdn.com
 cpanel.tiktok.net
 cpcalendars.capcut.com
 cpcalendars.diamondgratis.qa1.byte.9w1cj5r.byte.tiktokcdn.com
+cpcalendars.en-capcut.com
 cpcalendars.help.3w1cj5r.byte.tiktokcdn.com
 cpcalendars.hr.byte.3w1cj5r.byte.tiktokcdn.com
 cpcalendars.img.miniiktokcdn.comns1.byte.tiktokcdn.com
@@ -3571,6 +3589,7 @@ cpcontacts.blog.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 cpcontacts.capcut.com
 cpcontacts.clients.backend.byte.tiktokcdn.com
 cpcontacts.ead.ci.byte.tiktokcdn.com
+cpcontacts.en-capcut.com
 cpcontacts.tiktok.net
 cphn054.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 cpm-supplier-hl.bytedance.com
@@ -4130,6 +4149,7 @@ douyinliving.tlivecdn.com
 douyinvideo.net
 down.muscdn.com
 download-avatar.bytedance.com
+download.capcut.jp
 downloads.test13.nursing-hideip.comm.2ohh-bkingcfo.emea.test.mspcovdsl.1.backup1-api-partner.0-chd.bytedance.com
 dp.bytedance.com
 dpanel.backend.byte.tiktokcdn.com
@@ -4320,6 +4340,7 @@ eaf.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 eagleye.snssdk.com
 eagleye.snssdk.com.w.kunluncan.com
 eaprivalova.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
+eaqc.bytedance.com
 earlylearningideas.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 earthquake-lab.bytedance.com
 easentry-hl.bytedance.com
@@ -4330,6 +4351,7 @@ eb18.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 ebcast16-core-c-alisg.tiktokv.com
 ebn.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 ebt.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
+ec.bytedance.com
 ec.snssdk.com
 ecbabdeeeab.temp.p23.tc.cdntip.com
 ecdsa.byte.3w1cj5r.byte.tiktokcdn.com
@@ -4504,6 +4526,7 @@ ember-ap-kibana-hl.byteoversea.net
 emea.gts.byteoversea.com
 emi05.backend.byte.tiktokcdn.com
 emotions.byte.3w1cj5r.byte.tiktokcdn.com
+en-capcut.com
 en43.cn.all.tlivecdn.com
 en43.cn.tlivecdn.com
 encinitas.byte.3w1cj5r.byte.tiktokcdn.com
@@ -4604,6 +4627,10 @@ eula.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 euref.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 eureka.012gh.developer-sg.tiktok.com
 eurekaanalytics-attribution.012gh.developer-sg.tiktok.com
+europe-central-fn-fr1a.byted.org
+europe-central-fn.byted.org
+europe-westbd-fn-bddedt.byted.org
+europe-westbd-fn.byted.org
 europewest.3b6-tos-maliva19-upv1.byte.tiktokcdn.com
 ev-hl.bytedance.com
 ev-lf.bytedance.com
@@ -4615,6 +4642,7 @@ event-track-lf.bytedance.com
 event-track-lq.bytedance.com
 event-track.bytedance.com
 event.bytedance.com
+events.bytedance.com
 evercloud.capcut.com
 evocdn.byte.3w1cj5r.byte.tiktokcdn.com
 ewr.g.byteoversea.net
@@ -4731,6 +4759,8 @@ fcdn-boe-staging-push.byted.org
 fcdn-boe-test-pull.byted.org
 fcdn-boe-testing-pull.byted.org
 fcdn-boe-testing-push.byted.org
+fcdn-boei18n-v2-pull.byted.org
+fcdn-boei18n-v2-push.byted.org
 fcdn-edge-mtls.tiktokcdn-us.com
 fcdn.bytedance.com
 fcdn.eu.tiktokcdn.com
@@ -5320,6 +5350,7 @@ gms-ns.byteoversea.com
 gmsg-api.bytedance.com
 gmw.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 gncib.qa1.byte.9w1cj5r.byte.tiktokcdn.com
+go.capcut.com
 gocafe-openapi-hl.bytedance.com
 gocafe-openapi-lf.bytedance.com
 gocafe-openapi-lq.bytedance.com
@@ -5387,6 +5418,7 @@ gpm.bytedance.com
 gpm.byteoversea.net
 gpx.miniiktokcdn.comns1.byte.tiktokcdn.com
 grafana-boe.byted.org
+grafana-looki-us.capcut.com
 grafana.byted.org
 grafana.intra.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 grand-rapids.com-ns.byte.tiktokcdn.com
@@ -5679,6 +5711,7 @@ host3.ci.byte.tiktokcdn.com
 hosted.gts.byteoversea.com
 hosting.gts.byteoversea.com
 hostkard2015.backend.byte.tiktokcdn.com
+hostmaster.capcut.com
 hostmaster.tiktokglobalshop.com
 hostmaster.tiktokglobalshopv.com
 hostmaster.tiktokshop.com
@@ -6172,6 +6205,7 @@ ims-pre.bytedance.com
 ims.bytedance.com
 in-business-sso.tiktok.com
 in-newsroom.tiktok.com
+in.capcut.jp
 in.gts.byteoversea.com
 in.miniiktokcdn.comns1.byte.tiktokcdn.com
 in.tiktok.com
@@ -6521,6 +6555,7 @@ job.toutiao.com
 jobs-lf.bytedance.com
 jobs-lq.bytedance.com
 jobs.bytedance.com
+johhnyo.musica.ly
 join-grup-bokep.ci.byte.tiktokcdn.com
 join-lernwelt-neo.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 jordan.musica.ly
@@ -6783,6 +6818,7 @@ klikk.byte.3w1cj5r.byte.tiktokcdn.com
 klimat.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 km.byteoversea.net
 km2.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
+kmfa.tiktokd.org
 kmproknowledge-sso.bytedance.com
 kmproknowledge.bytedance.com
 knhs.byte.3w1cj5r.byte.tiktokcdn.com
@@ -7435,6 +7471,7 @@ live-backstage.tiktok.com.ttdns2.com
 live-backstage.tiktokw.us
 live-lq.bytedance.com
 live-play-tencent-01.cztf.xyz.tlivecdn.com
+live-streaming.bytedance.com
 live.byte.3w1cj5r.byte.tiktokcdn.com
 live.bytedance.com
 live.bytedanceapi.com
@@ -7571,6 +7608,7 @@ locker-admin.bytedance.com
 loehr.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 log-16.toutiao50.com
 log-boot.tiktokv.com
+log-boot.tiktokv.com.boe-gateway.byted.org
 log-c.snssdk.com
 log-c.snssdk.com.w.kunluncan.com
 log-cold.snssdk.com
@@ -8025,6 +8063,7 @@ mail.bytedance.com
 mail.capcut.com
 mail.dpmptsp.backend.byte.tiktokcdn.com
 mail.ecommerce.miniiktokcdn.comns1.byte.tiktokcdn.com
+mail.en-capcut.com
 mail.facebook.ci.byte.tiktokcdn.com
 mail.food.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 mail.gts.byteoversea.com
@@ -8129,6 +8168,7 @@ mcbride-family.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.c
 mccs.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 mcgrath.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 mcma.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
+mcp.byted.org
 mcp.bytedance.com
 mcs-i18n.tiktok.com
 mcs-ie.tiktokw.eu
@@ -8248,6 +8288,7 @@ metabolism.3w1cj5r.byte.tiktokcdn.com
 metabolism.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 meteor.tiktok.com
 metrics-cn.byted.org
+metrics-mya.byted.org
 metrics-producer-proxy-hl.bytedance.com
 metrics-producer-proxy-lf.bytedance.com
 metrics-producer-proxy-sg.bytedance.com
@@ -8791,6 +8832,7 @@ mubu-console-va-public.bytedance.com
 mue.toutiao.com
 mue.toutiao.com.w.cdngslb.com
 multan.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
+multi-cloud-i18n.byted.org
 multi-cloud.byted.org
 multi-os-engine.ci.byte.tiktokcdn.com
 multikredyt.backend.byte.tiktokcdn.com
@@ -8869,6 +8911,8 @@ mx3.tiktok.com
 mxp1a.g.byteoversea.net
 my-basil.byted.org
 my-bedok.byted.org
+my-compliance-fn-my4a.byted.org
+my-compliance-fn.byted.org
 my.gts.byteoversea.com
 my.tiktok.com
 myaccounts.miniiktokcdn.comns1.byte.tiktokcdn.com
@@ -9362,6 +9406,7 @@ oms.bytedance.com
 onboard-lq.bytedance.com
 onboard.bytedance.com
 onclickmega.backend.byte.tiktokcdn.com
+oneagent-seceng.tiktokd.org
 onecard-hl.bytedance.com
 onecard-lf.bytedance.com
 onecard-lq.bytedance.com
@@ -9429,6 +9474,8 @@ open16-va.tiktokv.com
 open16-va.tiktokv.com.edgekey.net
 openapi-ru.tiktokv.com
 openapi-union.bytedance.com
+openapi.metrics-sg.byted.org
+openapi.metrics-us.byted.org
 opencascade.ci.byte.tiktokcdn.com
 openday-2018-lq.bytedance.com
 openday-2018.bytedance.com
@@ -9661,6 +9708,7 @@ p0-auroramall-private.bytedance.com
 p0-ea-mobilemonitoring-private.bytedance.com
 p0-mms-private.bytedance.com
 p0-notify-private-useast2a.tiktok.com
+p0-onestep-private.stepbystep-admin.bytedance.com
 p0-pu-private-useast8.tiktok.com
 p0-selfserve-private-sg.tiktok.com
 p0-tcs-private-useast2a.ibyteimg.com
@@ -9771,6 +9819,7 @@ p16-capcut-a-sign-va.ibyteimg.com
 p16-capcut-b-sign-sg.ibyteimg.com
 p16-capcut-b-sign-useast2a.ibyteimg.com
 p16-capcut-b-sign-va.ibyteimg.com
+p16-capcut-cms-sg.ibyteimg.com
 p16-capcut-sg.ibyteimg.com
 p16-capcut-sign-sg.ibyteimg.com
 p16-capcut-sign-useast2a.ibyteimg.com
@@ -9910,6 +9959,7 @@ p16-security-sg.ibyteimg.com
 p16-security-sg.ibyteimg.com.edgesuite.net
 p16-security-va.ibyteimg.com
 p16-security-va.ibyteimg.com.edgesuite.net
+p16-seeyou-sg.ibyteimg.com
 p16-sg-default.akamaized.net
 p16-sg-default.edgesuite.net
 p16-sg-uslr1-record.backend.byte.tiktokcdn.com
@@ -10461,6 +10511,7 @@ pa-lf.bytedance.com
 pa-lq.bytedance.com
 pa.byte.3w1cj5r.byte.tiktokcdn.com
 pa.bytedance.com
+paas-gw-volc.byted.org
 pacific-hl.bytedance.com
 pacific-lf.bytedance.com
 pacific-lq.bytedance.com
@@ -10643,6 +10694,7 @@ pinche.bytedance.com
 pindeploymentimage.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 pingkang.club.tlivecdn.com
 pipixia.bytedance.com
+pippit.capcut.com
 pitaya-boot.tiktokv.com
 pitaya-hl.bytedance.com
 pitaya-i18n.tiktokv.com
@@ -10823,6 +10875,7 @@ press-dyn-ali-e.snssdk.com
 press-dyn-ali.snssdk.com
 prevac.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 previdencia.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
+preview.feishuapp.byted.org
 preview.gts.byteoversea.com
 prh.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 prime.administrator.byte.tiktokcdn.com
@@ -11079,6 +11132,7 @@ pull-cmaf-f5.tiktokcdn.com.c.worldfcdn.com
 pull-cmaf-f58-sg01.tiktokcdn.com
 pull-cmaf-f58-tt03.fcdn.eu.tiktokcdn.com
 pull-cmaf-f77-gcp01.tiktokcdn.com
+pull-cmaf-f77-sg01.tiktokcdn-us.com
 pull-cmaf-f77-sg01.tiktokcdn.com
 pull-cmaf-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
 pull-cmaf-f77-tt01.tiktokcdn-us.com
@@ -11089,7 +11143,11 @@ pull-cmaf-f77-tt02.tiktokcdn.com
 pull-cmaf-f77-tt03-tt01.tiktokcdn-us.com
 pull-cmaf-f77-tt03-tt02.tiktokcdn-us.com
 pull-cmaf-f77-tt03.fcdn.eu.tiktokcdn.com
+pull-cmaf-f77-tt03.tiktokcdn-us.com
 pull-cmaf-f77-tt03.tiktokcdn.com
+pull-cmaf-f77-tt04.tiktokcdn-us.com
+pull-cmaf-f77-tt04.tiktokcdn.com
+pull-cmaf-f77-va01.tiktokcdn-us.com
 pull-cmaf-f77-va01.tiktokcdn.com
 pull-cmaf-f77-va01.tiktokcdn.com.localdomain
 pull-cmaf-l10-gcp01.tiktokcdn.com
@@ -11344,6 +11402,7 @@ pull-flv-f77-tt03.tiktokcdn-us.com
 pull-flv-f77-tt03.tiktokcdn.com
 pull-flv-f77-tt04.tiktokcdn-eu.com
 pull-flv-f77-tt04.tiktokcdn-us.com
+pull-flv-f77-tt04.tiktokcdn.com
 pull-flv-f77-va01-tt02.tiktokcdn-us.com
 pull-flv-f77-va01.fcdn.eu.tiktokcdn.com
 pull-flv-f77-va01.tiktokcdn-eu.com
@@ -11449,6 +11508,8 @@ pull-flv-l77-tt01.tiktokcdn.com
 pull-flv-l77-tt02.eu.tiktokcdn.com
 pull-flv-l77-tt02.tiktokcdn-us.com
 pull-flv-l77-tt02.tiktokcdn.com
+pull-flv-l77-tt04.tiktokcdn-us.com
+pull-flv-l77-tt04.tiktokcdn.com
 pull-flv-l77-va01.eu.tiktokcdn.com
 pull-flv-l77-va01.tiktokcdn-us.com
 pull-flv-l77-va01.tiktokcdn.com
@@ -12245,6 +12306,10 @@ reward.bytedance.com
 rfp.ci.byte.tiktokcdn.com
 rfq.com-ns.byte.tiktokcdn.com
 rfsa66-gdm.ci.byte.tiktokcdn.com
+rh2-proxy-hl.byted.org
+rh2-proxy-lf.byted.org
+rh2-proxy-lq.byted.org
+rh2-proxy.byted.org
 rhema.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 rhino.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 rht.ci.byte.tiktokcdn.com
@@ -12834,6 +12899,7 @@ sca.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 scale.com-ns.byte.tiktokcdn.com
 scalpel.bytedance.com
 scc.bytedance.com
+sce-apt.tiktokd.org
 scep.114598837484599.ci.byte.tiktokcdn.com
 scep.246656704291632.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 scep.246656712423344.byte.3w1cj5r.byte.tiktokcdn.com
@@ -12843,10 +12909,14 @@ scep.247165646543531.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 scep.57548246404306.byte.tiktokcdn.com
 scf.bytedance.com
 schaumburg.backend.byte.tiktokcdn.com
+scholarship.bytedance.com
 school-pre-fclassroom-boe.bytedance.com
 school-pre-fclassroom-cof.bytedance.com
 school-pre-fclassroom.bytedance.com
 science.gts.byteoversea.com
+scm-hl.byted.org
+scm-lf.byted.org
+scm-lq.byted.org
 scm-us.tiktok.com
 scm.byted.org
 scm.bytedance.com
@@ -12960,6 +13030,7 @@ secure.corp.byte.9w1cj5r.byte.tiktokcdn.com
 secure.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 secure.gts.byteoversea.com
 secure.securityexhibitions.com-ns.byte.tiktokcdn.com
+secureshare.bytedance.com
 security-api.snssdk.com
 security-hl.bytedance.com
 security-hl.snssdk.com
@@ -12992,6 +13063,7 @@ securityvolc-hl.bytedance.com
 securityvolc-lf.bytedance.com
 securityvolc-lq.bytedance.com
 securityvolc.bytedance.com
+seed.bytedance.com
 seif.backend.byte.tiktokcdn.com
 seinansei.ci.byte.tiktokcdn.com
 seinansei.com-ns.byte.tiktokcdn.com
@@ -13250,6 +13322,7 @@ sf16-ttcdn-tos.ipstatp.com
 sf16-ttcdn-tos.ipstatp.com.edgesuite.net
 sf16-ttcdn-tos.pstatp.com
 sf16-ttcdn-tos.pstatp.com.edgesuite.net
+sf16-ugcdn-sg.ibytedtos.com
 sf16-unpkg-va.ibytedtos.com
 sf16-va-uslr1-record.backend.byte.tiktokcdn.com
 sf16-va.tiktokcdn-in.com
@@ -13289,6 +13362,7 @@ sf19-sign.tiktokcdn-us.com
 sf19-tcc-tos-sg.byteoversea.com
 sf19-tcc-tos-va.byteoversea.com
 sf19-tkenjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
+sf19-ugcdn-sg.ibytedtos.com
 sf19-va.tiktokcdn.com
 sf19-webcast-useast2a.muscdn.com
 sf19-webcast.hypstarcdn.com
@@ -13405,6 +13479,7 @@ sg-admin.bytedance.com
 sg-business-sso.tiktok.com
 sg-effect.byteoversea.com
 sg-feedback.bytedance.com
+sg-fn-my3.byted.org
 sg-link.byteoversea.com
 sg-standup-bot.bytedance.com
 sg.byteoversea.com
@@ -13412,6 +13487,7 @@ sg.g.byteoversea.net
 sg.gts.byteoversea.com
 sg.isnssdk.com
 sg.tiktok.com
+sg.tiktokcdn.com
 sg1.byteoversea.net
 sg159-sin1-api.l.byteoversea.net
 sg159-sin1-v1.l.byteoversea.net
@@ -13537,6 +13613,8 @@ skillsconnect.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 sklepmichalek1.backend.byte.tiktokcdn.com
 skymagic.bytedance.com
 skynet.bytedance.com
+slam-us-test.byted.org
+slam-us.byted.org
 slardar-bd.larksuite.com.ttdns2.com
 slb-lb.bytedns.net
 slb-normal-api-1.b.bytedns.net
@@ -13804,6 +13882,7 @@ stop.digital.blackface.on.tiktok.in
 stop.making.tiktok.in
 storagegw-isolate-boe-byteplus.byted.org
 storagegw-isolate-boe.byted.org
+storagegw-isolate-stable-byteplus.byted.org
 store-lb-normal-lb-other-lb-hl.cbadataapistaging6.wire.community4arab.tasks-major.autodiscover.bytedns.net
 store.eas.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 store.imap4.backend.byte.tiktokcdn.com
@@ -14161,6 +14240,7 @@ test.androidcamp.bytedance.com
 test.asia.3w1cj5r.byte.tiktokcdn.com
 test.bpm.bytedance.com
 test.byted.org
+test.bytedance.com
 test.gts.byteoversea.com
 test.it.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 test.mailx.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
@@ -14364,6 +14444,7 @@ tlive.fkw03.com.tlivecdn.com
 tlivecdn.com
 tls.tlb.byted.org
 tls.tlb.tiktokd.org
+tlsmix-cn-boe.byted.org
 tm-kul1-v1.l.byteoversea.net
 tm3.bytecdn.cn
 tma.snssdk.com
@@ -14910,6 +14991,7 @@ tos-boei18n-va.byted.org
 tos-boei18n.byted.org
 tos-cdn77-tcs-a.tiktokcdn-us.com
 tos-cm-hl.snssdk.com
+tos-cn-east.byted.org
 tos-cn-hbzg.byted.org
 tos-cn-hj.byted.org
 tos-cn-north-boe.byted.org
@@ -14955,6 +15037,7 @@ tos-hl-x.snssdk.com
 tos-hl-x.snssdk.com.w.kunluncan.com
 tos-i18n.byted.org
 tos-iquic-gcpid.tiktokcdn.com
+tos-jpsaas.byted.org
 tos-lf-x.snssdk.com
 tos-lf-x.snssdk.com.w.kunluncan.com
 tos-maas.byted.org
@@ -14986,6 +15069,8 @@ tos-maliva21-up.tiktokv.com
 tos-my16-up.byteoversea.com
 tos-my16-up.gts.byteoversea.com
 tos-my16-up.tiktokcdn.com
+tos-my4a.byted.org
+tos-myabc.byted.org
 tos-mycis.byted.org
 tos-nc2-slb1.bytecdn.cn
 tos-nc2-slb1.bytedance.com
@@ -15014,13 +15099,22 @@ tos-quic-ociams1b.tiktokcdn.com
 tos-quic-ocilhr1b.tiktokcdn.com
 tos-quic-sg.tiktokcdn.com
 tos-quic-yyz1a.tiktokcdn.com
+tos-s3-cn-east.byted.org
 tos-s3-cn-north.byted.org
+tos-s3-cn-staging.byted.org
+tos-s3-maliva.byted.org
+tos-s3-row.byted.org
+tos-s3-sg.byted.org
 tos-s3-tx.tiktokd.org
 tos-s3-va.byted.org
 tos-sg.byted.org
+tos-sgcommon.byted.org
+tos-sglark.byted.org
 tos-slb1.byteoversea.net
+tos-sss.byted.org
 tos-tcp-sg.tiktokcdn.com
 tos-us.byted.org
+tos-useast11a.byted.org
 tos-useast2a.byteoversea.net
 tos-useast2a.muscdn.com
 tos-useast2a.tiktokcdn.com
@@ -15034,6 +15128,7 @@ tos-useast2a19-up.tiktokcdn.com
 tos-useast2a21-up.byteoversea.net
 tos-useast2a21-up.muscdn.com
 tos-useast2a21-up.tiktokcdn.com
+tos-usee.byted.org
 tos-ussw1a.byted.org
 tos-usttp.tiktokd.org
 tos-uw.byted.org
@@ -15317,6 +15412,7 @@ un-org-pl.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 unatoto.byte.3w1cj5r.byte.tiktokcdn.com
 unauthorized.snssdk.com
 unavailable.tiktokv.com
+unduh.capcut.jp
 unicom-rz.cdn-video-origin-new-lf.bytedns.net
 unicom-zjk.cdn-video-origin-new-hl.bytedns.net
 unicom.aweme-lb-lq-hl.l.bytedns.net
@@ -15397,9 +15493,14 @@ url7709.account.tiktok.com
 url890.webform.tiktok.com
 url8933.bytedance.com
 url9655.business-support.tiktok.com
+us-east-fn-useast1b.byted.org
+us-east-fn.byted.org
+us-eastbd-fn-useast14a.byted.org
+us-eastbd-fn.byted.org
 us-update-mongoose.bytedance.com
 us.backend.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 us.bytedance.map.fastly.net
+us.capcut.com
 us.gts.byteoversea.com
 us.gts.ttoverseaus.net
 us.h1.bytedance.map.fastly.net
@@ -16646,6 +16747,7 @@ visualizer.bytedance.com
 vixlive.com.tlivecdn.com
 vixlive.tlivecdn.com
 vk.tiktok.com
+vke-johortobiaas.byted.org
 vlab-us.byteoversea.net
 vldl9.mesh.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 vm-useast2a.tiktok.com
@@ -16711,6 +16813,7 @@ vod.snssdk.com
 vod.us-east-1.bytedanceapi.com
 vodhikaku.backend.byte.tiktokcdn.com
 vodori.qa1.byte.9w1cj5r.byte.tiktokcdn.com
+voe.bytedance.com
 voffline-audit.byted.org
 voffline.byted.org
 voffline.pstatp.com
@@ -17215,6 +17318,7 @@ webdisk.archive.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
 webdisk.capcut.com
 webdisk.club.ci.byte.tiktokcdn.com
 webdisk.dev4.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
+webdisk.en-capcut.com
 webdisk.hrm.backend.byte.tiktokcdn.com
 webdisk.hub.miniiktokcdn.comns1.byte.tiktokcdn.com
 webdisk.it.miniiktokcdn.comns1.byte.tiktokcdn.com
@@ -17238,6 +17342,7 @@ webmail.2.backend.byte.tiktokcdn.com
 webmail.capcut.com
 webmail.cms.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 webmail.demo.3w1cj5r.byte.tiktokcdn.com
+webmail.en-capcut.com
 webmail.food.backend.byte.tiktokcdn.com
 webmail.git.3w1cj5r.byte.tiktokcdn.com
 webmail.m2.byte.private.byte.tiktokcdn.com-admin.byte.ci.byte.tiktokcdn.com
@@ -17491,6 +17596,7 @@ www.bytewlb.akadns.net
 www.cafe.com-ns.byte.tiktokcdn.com
 www.canberra.byte.3w1cj5r.byte.tiktokcdn.com
 www.capcut.com
+www.capcut.jp
 www.carte.qa1.byte.9w1cj5r.byte.tiktokcdn.com
 www.ceilingdrywall.byte.ais2os-maliva19-upv1.byte.tiktokcdn.com
 www.ceyee.com.tlivecdn.com
@@ -17542,6 +17648,7 @@ www.elektro.backend.byte.tiktokcdn.com
 www.elijah.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 www.emis.dev2.byte.ident.byte.enjoymall4-tiktokcdn.com-ns.byte.tiktokcdn.com
 www.empty.byte.3w1cj5r.byte.tiktokcdn.com
+www.en-capcut.com
 www.ers.miniiktokcdn.comns1.byte.tiktokcdn.com
 www.ese.miniiktokcdn.comns1.byte.tiktokcdn.com
 www.estimates.3w1cj5r.byte.tiktokcdn.com
@@ -18051,6 +18158,7 @@ xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
 xmal-all-normaliec2-edge-lb3.cbadataapistaging6.wire.community4arab.tasks-major.autodiscover.bytedns.net
+xpert.bytedance.com
 xqba.bytedance.com
 xqcss.top.all.tlivecdn.com
 xqcss.top.tlivecdn.com
