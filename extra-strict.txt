@@ -1,0 +1,7 @@
+# Additional ad and tracking domains for extra strict blocking with a higher likelihood of breaking things. Intended to be used in addition to other lists or incorporated into larger lists.
+# List maintained by infinitytec.
+# Released under the MIT license.
+# False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+# URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/extra-strict.txt
+
+firebaseremoteconfig.googleapis.com
