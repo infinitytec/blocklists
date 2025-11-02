@@ -1,4 +1,5 @@
 # This is a list of clickbait sites, such as those celebrity "info" or "death" sites and sites that spam fake article to appear like a real news or information site. Also includes sites that seem to publish stuff just for clicks and sites running fake AI articles. Some items on here may be subjective.
+# To block more clickbaity sites use my AI Slop blocklist: https://raw.githubusercontent.com/infinitytec/blocklists/ai-slop.txt
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/clickbait.txt
@@ -4546,6 +4547,7 @@ caleb-howard.littlethings.com
 caleb.firesidegrillandbar.com
 caleb.littlethings.com
 caleg.jodymaroni.com
+calendar-canada.ca
 calendar-of-may-1928.ig8may.servebbs.org
 caleta-64-apartments.greaterantilleshotels.com
 caleton-club-villas.greaterantilleshotels.com
@@ -6119,6 +6121,7 @@ cpanel.bestmobile24.com
 cpanel.bg-secure-awsa09889.servebbs.org
 cpanel.boonovel.com
 cpanel.c60evo.com
+cpanel.calendar-canada.ca
 cpanel.carnivoreaurelius.com
 cpanel.celeberinfo.com
 cpanel.celebsuburb.com
@@ -6304,6 +6307,7 @@ cpcalendars.bestmobile24.com
 cpcalendars.bg-secure-awsa09889.servebbs.org
 cpcalendars.boonovel.com
 cpcalendars.c60evo.com
+cpcalendars.calendar-canada.ca
 cpcalendars.celeberinfo.com
 cpcalendars.celebsuburb.com
 cpcalendars.citizenns-banks-recovery.servebbs.org
@@ -6459,6 +6463,7 @@ cpcontacts.bestmobile24.com
 cpcontacts.bg-secure-awsa09889.servebbs.org
 cpcontacts.boonovel.com
 cpcontacts.c60evo.com
+cpcontacts.calendar-canada.ca
 cpcontacts.celeberinfo.com
 cpcontacts.celebsuburb.com
 cpcontacts.citizenns-banks-recovery.servebbs.org
@@ -15111,6 +15116,7 @@ mail.boletindeanimales.znicely.com
 mail.boonovel.com
 mail.brainworldmagazine.com
 mail.c60evo.com
+mail.calendar-canada.ca
 mail.carnivoreaurelius.com
 mail.cedarnews.net
 mail.celeberinfo.com
@@ -25269,6 +25275,7 @@ webdisk.bestmobile24.com
 webdisk.bg-secure-awsa09889.servebbs.org
 webdisk.boonovel.com
 webdisk.c60evo.com
+webdisk.calendar-canada.ca
 webdisk.carnivoreaurelius.com
 webdisk.celeberinfo.com
 webdisk.celebsuburb.com
@@ -25457,6 +25464,7 @@ webmail.bestmobile24.com
 webmail.bg-secure-awsa09889.servebbs.org
 webmail.boonovel.com
 webmail.c60evo.com
+webmail.calendar-canada.ca
 webmail.carnivoreaurelius.com
 webmail.celeberinfo.com
 webmail.celebsuburb.com
@@ -26354,6 +26362,7 @@ www.buzzreport247.com
 www.c60evo.com
 www.cafex.biz
 www.calaynews.com
+www.calendar-canada.ca
 www.californiaexaminer.net
 www.call.naturalendocrinesolutions.com
 www.camper.littlethings.com
