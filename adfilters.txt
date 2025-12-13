@@ -550,6 +550,7 @@ www.dailyfx.com##.dfx-ad
 
 ! dailywire.com
 www.dailywire.com###csci-da522ee51914-5fb1eb20-d24e0c7d-03a07fc3-59126ea72df55f4b
+www.dailywire.com###homepage-article-ad-top-ad
 www.dailywire.com##.csci-breakout
 www.dailywire.com##.css-xcwzjc
 www.dailywire.com##.e1iy79x60.css-mdwnd2
@@ -565,6 +566,7 @@ www.dailywire.com##.enc9ux60.css-swsruc.fitvids.load-external-scripts.fbia-body.
 www.dailywire.com##.enc9ux60.css-swsruc.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(2)
 www.dailywire.com##.enc9ux60.css-swsruc.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(3)
 www.dailywire.com##.enc9ux60.css-swsruc.fitvids.load-external-scripts.fbia-body.post-body > div:nth-of-type(4)
+www.dailywire.com##.homepage-articles-ad-header
 www.dailywire.com##.text-ad
 www.dailywire.com##.text-ads
 www.dailywire.com##.textAd
@@ -2101,6 +2103,9 @@ www.thekansan.com##.ad-container
 ! thekitchn.com
 www.thekitchn.com##.PostBundle__above
 www.thekitchn.com##.ggnoads
+
+! thenational.scot
+www.thenational.scot##.block-bottom-margin.mar-leaderboard--top
 
 ! thenationaldesk.com
 thenationaldesk.com##.index-module_adWrapper__bMim
