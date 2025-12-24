@@ -5,6 +5,8 @@
 # Sources: me, Lead Stories
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/ai-slop.txt
 
+||airpurifierfaqs.com^
+||airpurifiersadvisor.com^
 ||ancienthistoryguide.com^
 ||appliancechat.com^
 ||appliancemastery.com^
@@ -35,6 +37,8 @@
 ||historytools.org^
 ||homegambit.com^
 ||homegeargeek.com^
+||homescale.net^
+||house-air-filters.com^
 ||janeovenrecipes.com^
 ||kapnosdc.com^
 ||kitchenpearls.com^
@@ -54,6 +58,8 @@
 ||otoarizasi.com^
 ||plumbingcircle.com^
 ||prixdesmenus.com^
+||pureairadviser.com^
+||qualityhomeaircare.com^
 ||sbxl.com^
 ||servicecenterusa.com^
 ||sixstoreys.com^
@@ -76,6 +82,7 @@
 ||theresasreviews.com^
 ||thetechylife.com^
 ||tinygrab.com^
+||tipsforrecycling.com^
 ||topnewsource.com^
 ||topukplumbers.com^
 ||vendingproservice.com^
