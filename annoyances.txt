@@ -185,6 +185,9 @@ decider.com##.nyp-sitewide-notice
 ! devilslakejournal.com
 devilslakejournal.com###dialog-message
 
+! dmv.org
+www.dmv.org###exitContainer
+
 ! experts-exchange.com
 www.experts-exchange.com##.exitOverlay.featherlight
 

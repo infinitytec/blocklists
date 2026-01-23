@@ -635,6 +635,8 @@ local.dmv.org##.dfp
 local.dmv.org##.zdzoneBottom
 local.dmv.org##.zdzoneLeftRail
 local.dmv.org##.zdzoneTop
+www.dmv.org###content2 .dfp_fillrules.dfp
+www.dmv.org###mid-adv-785
 
 ! domainincite.com
 domainincite.com##[href="http://101domain.com/"]
@@ -700,6 +702,9 @@ www.eevblog.com###text-49
 www.eevblog.com###text-51
 www.eevblog.com###text-57
 
+! factually.co
+factually.co##.w-full.border-gray-200
+
 ! failory.com
 www.failory.com##.homepage-ad-link-block-copy
 www.failory.com##.in-content-ad-link-block
@@ -726,6 +731,10 @@ fileproinfo.com##.overlay
 
 ! filmdaily.co
 filmdaily.co##div.fd-article-top-banner
+
+! flightradar24.com
+www.flightradar24.com##.\34 mx0ro8jnrco
+www.flightradar24.com##.hwucp4fmbzey
 
 ! forbes.com
 www.forbes.com###article-0-ad-0
@@ -1343,6 +1352,10 @@ mashable.com##.inline-video-seealso
 ! www.mashed.com
 www.mashed.com##.before-ad
 www.mashed.com##.columns-holder > .before-ad
+
+! mayoclinic.org
+www.mayoclinic.org###gpt-ad-mayoclinic
+www.mayoclinic.org###gpt-ad-mayoclinic\.org-top
 
 ! md5hashing.net
 md5hashing.net###decode > .no-margin.table > tbody > tr > .no-padding > .row.alert-promo.alert
