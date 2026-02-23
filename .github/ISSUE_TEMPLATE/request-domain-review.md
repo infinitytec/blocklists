@@ -16,7 +16,9 @@ List any and all lists the domain appears in.
 
 
 **Are you the owner of this domain?**
-[] Check this box to confirm you own the domain
+- [ ]  Check this box to confirm you own the domain
+
+
 
 (I may need to perform additional verification.)
 
