@@ -66,7 +66,8 @@ So a bunch of clickbait sites now are just sites filled with AI-generated garbag
 
 Completely block TikTok. Based on multiple other blocklists with the same goal, but with many more added hosts.
 
-[Hosts file format](https://raw.githubusercontent.com/infinitytec/blocklists/master/tiktok.txt)
+[Pi-hole compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/tiktok.txt)
+[(Deprecated) Hosts file format](https://github.com/infinitytec/blocklists/raw/master/tiktok-hosts-deprecated.txt)
 
 ## Reddit
 

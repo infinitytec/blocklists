@@ -11355,6 +11355,8 @@ admin-interface-stage01.stage.hasoffers.com
 admin-interface-stage02.stage.hasoffers.com
 admin-interface-stage03.stage.hasoffers.com
 admin-interface-stage04.stage.hasoffers.com
+admin-rightsman-dev.adsharetoolbox.com
+admin-rightsman.adsharetoolbox.com
 admin.adbutler.com
 admin.addspro.hasoffers.com
 admin.adnxs.com
@@ -11752,7 +11754,13 @@ adsflymedia.hasoffers.com
 adsgenius.hasoffers.com
 adsglobal.hasoffers.com
 adsgoal.hasoffers.com
+adsha.re
+adshare.co
+adshare.io
 adshare.toutiao.com
+adshare.tv
+adshareglobal.com
+adsharetoolbox.com
 adsher.hasoffers.com
 adsimilis.hasoffers.com
 adsinc.hasoffers.com
@@ -14430,6 +14438,8 @@ ao301.isrefer.com
 ao325.isrefer.com
 ao3mf.r.bh.d.sendibt3.com
 aoa.hasoffers.com
+aoc.adshare.tv
+aoc.adsharetoolbox.com
 aoconnerjr.clickfunnels.com
 aodayster.clickfunnels.com
 aoevening.clickfunnels.com
@@ -14522,6 +14532,7 @@ api-waf.outbrain.com
 api.ab.tune.com
 api.adbutler.com
 api.adnxs.com
+api.adshare.io
 api.adthrive.com
 api.ams.conduit.com
 api.anstrex.com
@@ -18828,6 +18839,7 @@ bmf-uk.dmanalytics2.com
 bmfc-beyondmeasurefc.clickfunnels.com
 bmfitbodybootcamp.clickfunnels.com
 bmg.hasoffers.com
+bmg.hawk.adsharetoolbox.com
 bmginc.hasoffers.com
 bmgmedia.hasoffers.com
 bmi.hasoffers.com
@@ -23259,6 +23271,7 @@ cloudadvisoryio.clickfunnels.com
 cloudbasedcampaigns.hasoffers.com
 cloudberries.clickfunnels.com
 cloudclicks.clickfunnels.com
+cloudcontrol.adsharetoolbox.com
 clouddesigns.clickfunnels.com
 cloudepa.clickfunnels.com
 cloudflare-resolve-to.hasoffers.com
@@ -23689,6 +23702,7 @@ coinmarketcal.orders.adbutler.com
 coinmaster.clickfunnels.com
 coinmunity.clickfunnels.com
 coinnectar.clickfunnels.com
+coins.adsharetoolbox.com
 coinsquare.hasoffers.com
 coisto.clickfunnels.com
 cojasocial.clickfunnels.com
@@ -25458,6 +25472,7 @@ cuba.hasoffers.com
 cubavanacafe.clickfunnels.com
 cube.clickfunnels.com
 cube.hasoffers.com
+cube.hawk.adsharetoolbox.com
 cubegroup.hasoffers.com
 cubimo.clickfunnels.com
 cubusion.hasoffers.com
@@ -25738,6 +25753,7 @@ d-cook.clickfunnels.com
 d-e.clickfunnels.com
 d-gold.clickfunnels.com
 d.6eco2.r.ag.d.sendibm3.com
+d.adshare.io
 d.hasoffers.com
 d.i38.clickfunnels.com
 d.i38.hasoffers.com
@@ -27381,6 +27397,7 @@ demisha.clickfunnels.com
 demishajohnson23.clickfunnels.com
 demo-exclusiveaccess.performcb.com
 demo-react.performcb.com
+demo-shop.adsharetoolbox.com
 demo.adbutler.com
 demo.adnxs.com
 demo.api.hasoffers.com
@@ -30107,6 +30124,7 @@ dx695.isrefer.com
 dxatrk.hasoffers.com
 dxayalah.clickfunnels.com
 dxsnipe39.clickfunnels.com
+dy.adshareglobal.com
 dy.hasoffers.com
 dy146.isrefer.com
 dy239.isrefer.com
@@ -30576,6 +30594,8 @@ echelon.hasoffers.com
 echidna.hasoffers.com
 echo.hasoffers.com
 echo.outbrain.com
+echo1.adsharetoolbox.com
+echo2.adsharetoolbox.com
 echoingwalls.clickfunnels.com
 echonetwork.hasoffers.com
 echorealestateadvisors.clickfunnels.com
@@ -38012,6 +38032,7 @@ haven.hasoffers.com
 havenspire.clickfunnels.com
 havlar.clickfunnels.com
 havoc.hasoffers.com
+hawk.adsharetoolbox.com
 hawk.hasoffers.com
 hawker.hasoffers.com
 hawkeyetraders.isrefer.com
@@ -38502,6 +38523,7 @@ hlgsolutions.hasoffers.com
 hlrdap.hasoffers.com
 hls.clickfunnels.com
 hls.hasoffers.com
+hm.adshare.io
 hm.hasoffers.com
 hm103.isrefer.com
 hm156.isrefer.com
@@ -41904,6 +41926,7 @@ jvimobile.clickfunnels.com
 jvjams.ositracker.com
 jvology.clickfunnels.com
 jvprny.dmanalytics2.com
+jvr.hawk.adsharetoolbox.com
 jvsaul.clickfunnels.com
 jw.hasoffers.com
 jw122.hasoffers.com
@@ -44107,6 +44130,7 @@ llstrangelove.clickfunnels.com
 lltech.hasoffers.com
 lluniversity.clickfunnels.com
 lm.hasoffers.com
+lm.hawk.adsharetoolbox.com
 lm1.hasoffers.com
 lm115.isrefer.com
 lm142.isrefer.com
@@ -44165,6 +44189,7 @@ lockoutservices.hasoffers.com
 loco.hasoffers.com
 loehr.clickfunnels.com
 loeieo.hasoffers.com
+loen.hawk.adsharetoolbox.com
 lof.clickfunnels.com
 log-ird.outbrain.com
 log.clickfunnels.com
@@ -48458,6 +48483,7 @@ netstarmedia.hasoffers.com
 netstorage.clickfunnels.com
 netstorage.hasoffers.com
 netsys.hasoffers.com
+nettwerk.hawk.adsharetoolbox.com
 network.api.hasoffers.com
 network.clickbooth.com
 network.hasoffers.com
@@ -51858,6 +51884,7 @@ pocketmobile.hasoffers.com
 pocketoutdoormedia-d.openx.net
 pocketsmedia.hasoffers.com
 pockmedia.hasoffers.com
+poczta.adshare.io
 poczta.clickfunnels.com
 poczta.hasoffers.com
 pod.hasoffers.com
@@ -53232,6 +53259,7 @@ r-sec.casalemedia.com
 r-ssl.casalemedia.com
 r-vitali.clickfunnels.com
 r.4u8ae.img.bh.d.sendibt3.com
+r.adsha.re
 r.ag.d.6eco2.r.ag.d.sendibm3.com
 r.ag.d.sendibm3.com
 r.bh.d.sendibt3.com
@@ -54336,6 +54364,8 @@ rightcoast.ositracker.com
 righteousgrunt.clickfunnels.com
 rightkey.clickfunnels.com
 rightonmediagroup.hasoffers.com
+rightsmanagement-dev.adsharetoolbox.com
+rightsmanagement.adsharetoolbox.com
 rihale.clickfunnels.com
 rikac1880.clickfunnels.com
 riker.hasoffers.com
@@ -59686,6 +59716,7 @@ teambuildfit.clickfunnels.com
 teamc14a81.clickfunnels.com
 teamcmp.hasoffers.com
 teamcurediabetes.clickfunnels.com
+teamear.hawk.adsharetoolbox.com
 teamespacioalaia.clickfunnels.com
 teamexodus.ositracker.com
 teamfa5791.clickfunnels.com
@@ -61258,6 +61289,8 @@ tmgdigital.hasoffers.com
 tmghee.clickfunnels.com
 tmgi.hasoffers.com
 tmhbusinesscoaching.clickfunnels.com
+tmi-pub.hawk.adsharetoolbox.com
+tmi.hawk.adsharetoolbox.com
 tmm.hasoffers.com
 tmn-d.openx.net
 tmn.hasoffers.com
@@ -61581,6 +61614,7 @@ traceyscott444.hasoffers.com
 traceywalker.clickfunnels.com
 traci-warren.clickfunnels.com
 tracidmitchell.clickfunnels.com
+track.adshare.tv
 track.adthrive.com
 track.aoligei.uk.com
 track.clickbooth.com
@@ -69791,6 +69825,7 @@ wifiextenderhelp.com
 wii.hasoffers.com
 wikedfiremedia.hasoffers.com
 wiki.adnxs.com
+wiki.adshare.tv
 wiki.clickbooth.com
 wiki.cn.mob.conduit.com
 wiki.conduit.com
@@ -70587,6 +70622,12 @@ www.adsdk.microsoft.com
 www.adserver.euroweeklynews.com
 www.adserver.hasoffers.com
 www.adserver.herbalcollective.news
+www.adsha.re
+www.adshare.co
+www.adshare.io
+www.adshare.tv
+www.adshareglobal.com
+www.adsharetoolbox.com
 www.adsimilis.hasoffers.com
 www.adsparrow.hasoffers.com
 www.adspro.hasoffers.com
@@ -72939,6 +72980,7 @@ yf132.isrefer.com
 yf154.isrefer.com
 yf195.isrefer.com
 yf371.isrefer.com
+yg.hawk.adsharetoolbox.com
 yg102.isrefer.com
 yh.hasoffers.com
 yh148.isrefer.com
