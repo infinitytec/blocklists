@@ -2,12 +2,13 @@
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # DISCLAIMER: This list is provided as-is and is not guaranteed to be free of errors.
-# Sources: me, Lead Stories
+# Sources: me, Lead Stories, @juliencdt on Twitter
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/ai-slop.txt
 
 ||1stelectricians.co.uk^
 ||aevon.blog^
 ||ahopaugusta.com^
+||ainvest.com^
 ||airpurifierfaqs.com^
 ||airpurifiersadvisor.com^
 ||alvyno.biz^
@@ -28,6 +29,7 @@
 ||carxplorer.com^
 ||celebrity24h.com^
 ||chefsresource.com^
+||cinemaequip.com^
 ||clubofsocial.com^
 ||cnsunrisepaper.com^
 ||comparemaiac.com^
@@ -37,6 +39,7 @@
 ||cyalcohol.com^
 ||daily24.blog^
 ||daily24.world^
+||decortweaks.com^
 ||decorwithstyle.com^
 ||delifo.net^
 ||desaiglue.com^
@@ -58,6 +61,7 @@
 ||feji.io^
 ||fixanswer.com^
 ||foodblogalliance.com^
+||france-jeunes.net^
 ||geeky-gadgets.com^
 ||goswitchgear.com^
 ||greentechsolution.net^
@@ -70,6 +74,7 @@
 ||homegambit.com^
 ||homegeargeek.com^
 ||homescale.net^
+||hometheateracademy.com^
 ||house-air-filters.com^
 ||houseandhomeonline.com^
 ||ifeg.info^
@@ -79,6 +84,7 @@
 ||kapnosdc.com^
 ||kitchenpearls.com^
 ||leafblowerla.com^
+||learncalifornia.org^
 ||linkxtop.com^
 ||livinator.com^
 ||lowfodmapeating.com^
@@ -94,6 +100,7 @@
 ||mixedkreations.com^
 ||monyxa.info^
 ||mundobytes.com^
+||musicalhow.com^
 ||musicglobal.buzz^
 ||mygrinderguide.com^
 ||mystylegrid.com^
@@ -111,6 +118,7 @@
 ||polixa.info^
 ||prixdesmenus.com^
 ||productiveclue.com^
+||proveitsupplements.com^
 ||proxio.live^
 ||pureairadviser.com^
 ||qualityhomeaircare.com^
@@ -118,6 +126,7 @@
 ||sagedatum.com^
 ||sbxl.com^
 ||servicecenterusa.com^
+||shiningscience.com^
 ||sixstoreys.com^
 ||size-charts.com^
 ||skyaro.blog^
@@ -132,6 +141,7 @@
 ||storeins.com^
 ||summerstirs.com^
 ||superhomepursuits.com^
+||surveillceguides.com^
 ||tablestl.com^
 ||taigame.me^
 ||talixo.live^
@@ -139,6 +149,7 @@
 ||theaterdiy.com^
 ||thebatterytips.com^
 ||thecurrentnewsroom.com^
+||thedriveradviser.com^
 ||thehomeimproving.com^
 ||thehomeinspectors.com^
 ||thehomereviews.com^
@@ -157,8 +168,10 @@
 ||travelpander.com^
 ||triforce247.com^
 ||uschecknews24h.com^
+||vacationhomeautomation.com^
 ||valexo.live^
 ||vendingproservice.com^
+||verdanttraveler.com^
 ||vibetunes.org^
 ||viewfindernews.com^
 ||vitalzen.biz^
