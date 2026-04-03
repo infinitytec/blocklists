@@ -2,10 +2,11 @@
 # Made by infinitytec and released under the MIT license.
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # DISCLAIMER: This list is provided as-is and is not guaranteed to be free of errors.
-# Sources: me, Lead Stories, @juliencdt on Twitter
+# Sources include: me, Lead Stories, @juliencdt on Twitter, William Shatner (yes, that one)
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/ai-slop.txt
 
 ||1stelectricians.co.uk^
+||adamscraftycreations.com^
 ||aevon.blog^
 ||ahopaugusta.com^
 ||ainvest.com^
@@ -34,6 +35,7 @@
 ||cnsunrisepaper.com^
 ||comparemaiac.com^
 ||countrymusicnews.info^
+||craftreviews.org^
 ||craigieburnfencing.com.au^
 ||crynta.live^
 ||cyalcohol.com^
@@ -70,6 +72,7 @@
 ||happyclippings.com^
 ||healthysquire.com^
 ||historytools.org^
+||hollywoodbuzzdaily.space^
 ||homealliance.com^
 ||homegambit.com^
 ||homegeargeek.com^
@@ -112,6 +115,7 @@
 ||oldieslegacy.net^
 ||ornyxa.biz^
 ||otoarizasi.com^
+||paintloving.com^
 ||petscare.com^
 ||phoenixphaseconverters.com^
 ||plumbingcircle.com^
@@ -127,6 +131,7 @@
 ||sbxl.com^
 ||servicecenterusa.com^
 ||shiningscience.com^
+||shunpoly.com^
 ||sixstoreys.com^
 ||size-charts.com^
 ||skyaro.blog^
