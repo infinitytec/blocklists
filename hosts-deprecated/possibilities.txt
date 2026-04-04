@@ -1,0 +1,25 @@
+# Possible ad or tracking domains. Not intended for use, but testing is much appreciated.
+
+# NOTE: THIS LIST IS DEPRECATED. Do not expect further updates. This list is provided as-is.
+
+# List maintained by infinitytec.
+# Released under the MIT license.
+# False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+
+0.0.0.0 comm-hgame.lilithgame.com
+0.0.0.0 config2.mparticle.com
+0.0.0.0 gate.hockeyapp.net
+0.0.0.0 hulu.hb.omtrdc.net
+0.0.0.0 log.client.akadns.net
+0.0.0.0 manifest.hulustream.com
+0.0.0.0 we.runitbro.com
+0.0.0.0 acs.aliexpress.ru
+
+#possible scam sites
+
+0.0.0.0 gearbest.com
+0.0.0.0 www.gearbest.com
+0.0.0.0 signup.digicover.net
+0.0.0.0 digicover.net
+0.0.0.0 www.digicover.net
+0.0.0.0 www2.digicover.net

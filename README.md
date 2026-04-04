@@ -42,19 +42,19 @@ Blocks sites such as antivax sites and misleading medical information and "snake
 For best performance, use with the MLM blocklist below, which has a lot of essential oil brands and other pseudoscientific brands that just take up a lot of space.
 Note that I am not a doctor; consult a medical professional for any medical advice. I also may have a few general conspiracy theory sites in there as well.
 
-[Hosts file format](https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt)
+[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt)
 
 ## Multi-Level Marketing (MLM)
 
 This is in many ways a companion list to the Medical Pseudoscience list. Blocks MLM groups.
 
-[Hosts file format](https://github.com/infinitytec/blocklists/raw/master/mlm.txt)
+[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/mlm.txt)
 
 ## Clickbait
 
 Some sites only exist to spam content using clickbait. This helps reduce them.
 
-[Hosts file format](https://github.com/infinitytec/blocklists/raw/master/clickbait.txt)
+[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/clickbait.txt)
 
 ## AI Slop
 
@@ -67,19 +67,12 @@ So a bunch of clickbait sites now are just sites filled with AI-generated garbag
 Completely block TikTok. Based on multiple other blocklists with the same goal, but with many more added hosts.
 
 [Pi-hole compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/tiktok.txt)
-[(Deprecated) Hosts file format](https://github.com/infinitytec/blocklists/raw/master/tiktok-hosts-deprecated.txt)
 
 ## Reddit
 
 Completely block Reddit. Uses wildcards.
 
 [Pi-hole compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/reddit.txt)
-
-## Possibilities
-
-Domains that may be problematic. If anyone knows anything about these, please let me know. I do not recommend using this on a daily basis, as they may just break things. Not really updated anymore.
-
-[Hosts file format](https://github.com/infinitytec/blocklists/raw/master/possibilities.txt)
 
 # What's blocked in these lists?
 

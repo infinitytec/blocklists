@@ -4,4 +4,4 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/extra-strict.txt
 
-firebaseremoteconfig.googleapis.com
+||firebaseremoteconfig.googleapis.com^
