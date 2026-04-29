@@ -22,6 +22,7 @@
 # False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
 # URL: https://github.com/infinitytec/blocklists/raw/master/tiktok.txt
 
+||ads.tiktok.com.edgekey.net^
 ||bytecdn.cn^
 ||byted.org^
 ||bytedance.com^
@@ -75,6 +76,7 @@
 ||tiktokv.us^
 ||tiktokw.us^
 ||tlivecdn.com^
+||toutiao.com^
 ||ttapis.com^
 ||ttdns1.com^
 ||ttdns2.com^

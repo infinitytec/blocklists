@@ -33,6 +33,8 @@
 ||ads.organicfacts.net^
 ||ads.rumble.com^
 ||ads.shockya.com^
+||ads.tiktok.com.edgekey.net^
+||ads.tiktok.com^
 ||ads2.afa.net^
 ||adsafelink.com^
 ||adscheaper.com^
@@ -110,7 +112,6 @@
 ||clickstream.grubhub.com^
 ||clk70.com^
 ||clkgo.net^
-||com.edgekey.net^
 ||conduit-services.com^
 ||conduit.com^
 ||conspyre.tv^

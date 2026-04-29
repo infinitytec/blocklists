@@ -480,14 +480,12 @@
 ||alovea.com^
 ||alphaandomegacloud.wordpress.com^
 ||alphalikesgold.com^
-||alphalikesgold.com^
 ||alphamaleplus.us^
 ||alphanews.org^
 ||alphanewsmn.com^
 ||alphaomegalabs.com^
 ||alphaoneprotocol.com^
 ||alphaspincecenter.com^
-||alphawarrior.tv^
 ||alphawarrior.tv^
 ||alpine-psych.com^
 ||alpinechiropractic.substack.com^
@@ -860,6 +858,7 @@
 ||applicantpro.com^
 ||aprildanann.com^
 ||aprilnovoa.substack.com^
+||apwk.org^
 ||aquaberkeyfilters.ca^
 ||aqualityservice.ca^
 ||aqualiv.com^
@@ -6090,7 +6089,6 @@
 ||healthysquire.com^
 ||healthysuccessworks.com^
 ||healthythinking.substack.com^
-||healthythinking.substack.com^
 ||healthytobe.com^
 ||healthytraditions.com^
 ||healthytruth.com^
@@ -6602,7 +6600,6 @@
 ||ilanp.org^
 ||illinoisvaccineawareness.org^
 ||illumdig.substack.com^
-||illumdig.substack.com^
 ||illusionconsensus.com^
 ||ilovemycountry.substack.com^
 ||ilovemyfreedom.com^
@@ -6673,7 +6670,6 @@
 ||infinitoaldoluiz.blogspot.com^
 ||infinitykitchen.samcart.com^
 ||inflammationmastery.com^
-||inflammationmastery.substack.com^
 ||inflammationmastery.substack.com^
 ||influencewatch.org^
 ||influenza.news^
@@ -7633,6 +7629,7 @@
 ||leeduigon.com^
 ||leefang.com^
 ||leefyorganics.com^
+||leegop.org^
 ||leelaq.com^
 ||leemuller.substack.com^
 ||leftcult.com^
@@ -8004,6 +8001,7 @@
 ||luigiwarren.substack.com^
 ||luis46pr.wordpress.com^
 ||luisanodari.substack.com^
+||luizmd.com^
 ||lukeburgis.com^
 ||lukecatherall.com^
 ||lukehunterart.com^
@@ -8029,6 +8027,7 @@
 ||luther4texas.com^
 ||luvbynature.com^
 ||luxveritatis.substack.com^
+||luzid.me^
 ||lwtinternational.com^
 ||lydexar.com^
 ||lydialeitermann.substack.com^
@@ -9604,6 +9603,7 @@
 ||okaythenews.substack.com^
 ||okaythennews.substack.com^
 ||okeefemediagroup.com^
+||okgop.com^
 ||okhpr.com^
 ||okisuke.substack.com^
 ||okvac.ca^
@@ -13213,7 +13213,6 @@
 ||toxicologysupport.com^
 ||toxicteeth.org^
 ||toxinclear.com^
-||toxinfreeusa.org^
 ||toxinfreeusa.org^
 ||toxins.news^
 ||toyourhealthandwellness.com^
