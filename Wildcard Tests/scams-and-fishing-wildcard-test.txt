@@ -1,5 +1,27 @@
-# EARLY build of Scams and Phishing Wildcards.
-# Very likely to break stuff.
+# EARLY build of Scams and Phishing Wildcards. Very likely to break stuff.
+# Scams, phishing, and malware sites. Bad places. Also people who want your clicks for nefarious purposes. Intended to be used in addition to other lists or incorporated into larger lists.
+# List maintained by infinitytec.
+# Released under the MIT license.
+# False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+# URL: https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt
+# Some additional sources:
+#   Jim Browning (https://www.youtube.com/c/JimBrowning/featured)
+#   Lead Stories
+#   https://github.com/Snota418/Youtube-spam-host-list
+#   Computer Clan (https://www.youtube.com/@ComputerClan)
+#   Ars Technica
+#   Fox News
+#   Malwarebytes
+#   cybernews.com
+#   Troy Hunt (troyhunt.com)
+#   Atomic Shrimp on YouTube
+#   Scott Manley
+#   Smarter Every Day
+#   VX-Underground
+#   Julmik647
+#   Rapid7
+#   Scammer Payback
+#   Twitter users: @HackingLZ, @br4dm4l0n3y, @AJamesMcCarthy, @BitcoinPhishing, @P_Kallioniemi, @femmebot2000
 
 ||000webhostapp.com^
 ||00r.online^
@@ -4786,6 +4808,7 @@
 ||xyveno.com^
 ||y29v.com^
 ||y333reviews.com^
+||y52e.site^
 ||yagetok.com^
 ||ycdtesn.com^
 ||yeahomie.net^

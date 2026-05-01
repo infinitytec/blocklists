@@ -1,5 +1,9 @@
-# EARLY build of Ads and Trackers Wildcards.
-# Very likely to break stuff.
+# EARLY build of Ads and Trackers Wildcards. Very likely to break stuff.
+# Ad and tracking domains. Intended to be used in addition to other lists or incorporated into larger lists.
+# List maintained by infinitytec.
+# Released under the MIT license.
+# False positives? List issues? Domain submissions? Questions, comments, or suggestions? Please see https://github.com/infinitytec/blocklists/
+# URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 
 ||1redirb.com^
 ||1simpletrk.com^
