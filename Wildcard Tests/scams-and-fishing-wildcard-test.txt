@@ -21,7 +21,7 @@
 #   Julmik647
 #   Rapid7
 #   Scammer Payback
-#   Twitter users: @HackingLZ, @br4dm4l0n3y, @AJamesMcCarthy, @BitcoinPhishing, @P_Kallioniemi, @femmebot2000
+#   Twitter users: @HackingLZ, @br4dm4l0n3y, @AJamesMcCarthy, @BitcoinPhishing, @P_Kallioniemi, @femmebot2000, @TheIntelFrog
 
 ||000webhostapp.com^
 ||00r.online^
@@ -1024,6 +1024,7 @@
 ||claimbymusk.com^
 ||claimhaul.com^
 ||claiming-sky.xyz^
+||claimmysocial.com^
 ||claimpengu.com^
 ||claims-pengu.app^
 ||claims-pufferfi.com^
@@ -1908,7 +1909,10 @@
 ||getmoviez.xyz^
 ||getmybestbody.com^
 ||getmysocial.click^
+||getmysocial.co^
 ||getmysocial.com^
+||getmysocial.ink^
+||getmysocial.net^
 ||getmysociale.com^
 ||getoffersale.com^
 ||getpuravive.com^
@@ -3249,6 +3253,7 @@
 ||pot.recipes^
 ||power-bend.com^
 ||powerefficiency.com^
+||powerfenix.com^
 ||powerfxstore.com^
 ||powerionics.com^
 ||powerleveloffer.com^
