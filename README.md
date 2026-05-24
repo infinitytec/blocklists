@@ -1,12 +1,11 @@
 # infinitytec's blocklists
 
-Note: please check out [Issue #13](https://github.com/infinitytec/blocklists/issues/13) to give feedback on wildcards.
 
 ## Ads and trackers
 
 Ads and tracking hosts I have seen around the Internet. Some are rare. Some are popular.
 
-[Hosts file format](https://github.com/infinitytec/blocklists/raw/master/ads-and-trackers.txt)
+[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/ads-and-trackers.txt)
 
 ## Scams and phishing
 
@@ -14,7 +13,7 @@ Because they don't deserve your traffic. Blocked include financial schemes, imit
 
 This blocklist receives frequent updates.
 
-[Hosts file format](https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt)
+[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt)
 
 ## Bad TLDs
 
