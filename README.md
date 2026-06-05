@@ -1,11 +1,12 @@
 # infinitytec's blocklists
 
 
+
 ## Ads and trackers
 
 Ads and tracking hosts I have seen around the Internet. Some are rare. Some are popular.
 
-[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/ads-and-trackers.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://github.com/infinitytec/blocklists/raw/master/ads-and-trackers.txt)
 
 ## Scams and phishing
 
@@ -13,13 +14,13 @@ Because they don't deserve your traffic. Blocked include financial schemes, imit
 
 This blocklist receives frequent updates.
 
-[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://github.com/infinitytec/blocklists/raw/master/scams-and-phishing.txt)
 
 ## Bad TLDs
 
 Deceptive TLDs (such as .zip) are now being sold, and it has been demonstrated that bad actors could use these TLDs to make deceptive URLs. The best solution is just to flat out block these domains.
 
-[Pi-hole compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/bad-tlds.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/bad-tlds.txt)
 
 ## Adfilters
 
@@ -27,13 +28,13 @@ Adfilters in the format used by uBlock Origin and Adblock Plus. Has a lot of mob
 
 Also receives frequent updates.
 
-[Static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt)
+[uBlock Origin compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt)
 
 ## Annoyances
 
 Just some things (like cookie banners) I find annoying.
 
-[Static filters](https://github.com/infinitytec/blocklists/raw/master/annoyances.txt)
+[uBlock Origin compatible static filters](https://github.com/infinitytec/blocklists/raw/master/annoyances.txt)
 
 ## Medical Pseudoscience
 
@@ -41,37 +42,43 @@ Blocks sites such as antivax sites and misleading medical information and "snake
 For best performance, use with the MLM blocklist below, which has a lot of essential oil brands and other pseudoscientific brands that just take up a lot of space.
 Note that I am not a doctor; consult a medical professional for any medical advice. I also may have a few general conspiracy theory sites in there as well.
 
-[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt)
 
 ## Multi-Level Marketing (MLM)
 
 This is in many ways a companion list to the Medical Pseudoscience list. Blocks MLM groups.
 
-[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/mlm.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://github.com/infinitytec/blocklists/raw/master/mlm.txt)
 
 ## Clickbait
 
 Some sites only exist to spam content using clickbait. This helps reduce them.
 
-[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/clickbait.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://github.com/infinitytec/blocklists/raw/master/clickbait.txt)
 
 ## AI Slop
 
-So a bunch of clickbait sites now are just sites filled with AI-generated garbage. This list targets those. Many are fake "how-to" or tip sites that publish hundreds of articles on nothing. Uses wildcards.
+A bunch of clickbait sites now are just sites filled with AI-generated garbage. This list targets those. Many are fake "how-to" or tip sites that publish hundreds of articles on nothing. Uses wildcards.
 
-[Pi-hole compatible static filters](https://github.com/infinitytec/blocklists/raw/master/ai-slop.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://github.com/infinitytec/blocklists/raw/master/ai-slop.txt)
+
+## Prediction Markets
+
+&#x20;Prediction markets are gambling sites where people place bets on future outcomes. As a result, some of these sites publish the results as "news" to gain traffic. Additionally, concerning patterns have emerged that suggest insider trading, interference, and other signs of corruption may be perpetuated on these markets for profit reasons. Use this list to help reduce exposure to such sites.
+
+[Pi-hole and uBlock Origin compatible static filters](https://github.com/infinitytec/blocklists/raw/master/prediction-markets.txt)
 
 ## TikTok
 
 Completely block TikTok. Based on multiple other blocklists with the same goal, but with many more added hosts.
 
-[Pi-hole compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/tiktok.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/tiktok.txt)
 
 ## Reddit
 
 Completely block Reddit. Uses wildcards.
 
-[Pi-hole compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/reddit.txt)
+[Pi-hole and uBlock Origin compatible static filters](https://raw.githubusercontent.com/infinitytec/blocklists/master/reddit.txt)
 
 # What's blocked in these lists?
 

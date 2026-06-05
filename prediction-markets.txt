@@ -1,0 +1,57 @@
+# List to block Polymarket, Kalshi, and other prediction market domains.
+# Prediction markets are gambling sites where people place bets on future outcomes. As a result, some of these sites publish the results as "news" to gain traffic. Additionally, concerning patterns have emerged that suggest insider trading, interference, and other signs of corruption may be perpetuated on these markets for profit reasons. Use this list to help reduce exposure to such sites.
+
+# What this list does:
+	# Blocks domains owned and operated by prediction market sites.
+	# Blocks domains directly promoting use of these blocked sites (such as prediction market-specific blogs).
+	# Blocks domains for media outlets, blogs, etc. owned by prediction markets.
+
+# What this list does not do:
+	# Block domains partnered with prediction markets (news sites, blog platforms, etc.).
+	# Block all domains that talk about prediction markets.
+	# Block all gambling.
+	# Block cryptocurrency domains, unless exclusively related to prediction markets.
+
+#Sources:
+	# https://github.com/splerv/polymarket-mirrors-2025
+# URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/prediction-markets.txt
+
+||bullrift.com^
+||domeapi.io^
+||draftkings.com^
+||facts.trade^
+||factsbase.xyz^
+||fastsai.org^
+||kalshi.co^
+||kalshi.com^
+||manifold.markets^
+||newswireus.com^
+||og.com^
+||pariflow.com^
+||pm-access.ru^
+||pmkt.io^
+||pmktsafe.ru^
+||poly-russia.com^
+||poly.market^
+||polyalt.link^
+||polyboost.net^
+||polyfactual.com^
+||polymarket-data.com^
+||polymarket.app^
+||polymarket.com^
+||polymarket.us^
+||polymarket.xyz^
+||polymarketanalytics.com^
+||polymarketblog.com^
+||polymarketexchange.com^
+||polymarketproxy.com^
+||polymarketru.net^
+||polymarkets.com.co^
+||polymarkets.io^
+||polymarkett.to^
+||predictit.org^
+||railbirdexchange.com^
+||share.xyz^
+||startpolymarket.com^
+||tradepolymarket.com^
+||uhn.plus^
