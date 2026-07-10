@@ -7,6 +7,7 @@
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
 
 ||091101.ru^
+||1000tinytraumas.substack.com^
 ||1000widows.org^
 ||100millionmoms.ca^
 ||100percentbest.com^
@@ -606,7 +607,9 @@
 ||americanhealthcoalition.bitrix24.site^
 ||americanherbalistsguild.com^
 ||americanlandrescuefund.com^
+||americanliberty.info^
 ||americanlibertyawards.com^
+||americanlibertycaucus.substack.com^
 ||americanmadeaction.org^
 ||americanmadefoundation.org^
 ||americanmediaperiscope.com^
@@ -729,6 +732,7 @@
 ||ancient5.com^
 ||ancientherbswisdom.com^
 ||ancientlifeoil.com^
+||ancientnutritionpractitioner.com^
 ||andbreathe.org^
 ||andelum.news^
 ||andersonchiroonline.blogspot.com^
@@ -995,6 +999,7 @@
 ||atembewusstsein.ch^
 ||atempraxis-ganser.ch^
 ||atemweite.de^
+||athousandtinytraumas.substack.com^
 ||atimetostand.substack.com^
 ||atlantabusinessjournal.com^
 ||atlanticuniv.edu^
@@ -1722,6 +1727,7 @@
 ||braindamaged.news^
 ||braindoc29.substack.com^
 ||brainenergy.com^
+||brainmark.ai^
 ||brainmd.com^
 ||brainnutrients.news^
 ||brainscience.co.za^
@@ -2058,6 +2064,7 @@
 ||canadamarches.ca^
 ||canadapoli.com^
 ||canadareport.co^
+||canadarisingcanadian2025backlash.substack.com^
 ||canadarisingup.ca^
 ||canadaundivided.com^
 ||canadianadvocacycentre.blogspot.com^
@@ -2275,6 +2282,7 @@
 ||centeredtrading.gumroad.com^
 ||centerforadvancedmed.com^
 ||centerforaninformedamerica.com^
+||centerforhealthylivingtc.com^
 ||centerforholisticmedicine.com^
 ||centerforhomeopathy.com^
 ||centerforibh.com^
@@ -2310,6 +2318,7 @@
 ||challengelifebetter.com^
 ||chamberlainchiropractic.com^
 ||chambersofhealing.com^
+||championmindsetevents.com^
 ||changelingdreamtime.substack.com^
 ||changera4.blogspot.com^
 ||changingtimes.substack.com^
@@ -2479,6 +2488,7 @@
 ||christinagerrard.substack.com^
 ||christine257.substack.com^
 ||christineanderson.eu^
+||christinedolan.com^
 ||christinekent.substack.com^
 ||christinemasseyfois.substack.com^
 ||christinprophecy.org^
@@ -3118,6 +3128,7 @@
 ||cvqs.org^
 ||cwchiro.substack.com^
 ||cwclabs.com^
+||cwestonclark.substack.com^
 ||cwspangle.substack.com^
 ||cy4sys.co.uk^
 ||cyber-torture.com^
@@ -4516,6 +4527,7 @@
 ||enna.substack.com^
 ||enrichedparenting.org^
 ||enrichlife.co^
+||enrichyourfood.com^
 ||enslaved.news^
 ||entdoctor.com.tw^
 ||enteringwedgemedia.com^
@@ -6596,6 +6608,7 @@
 ||iamamalaysian.com^
 ||iambrookjackson.com^
 ||iamcallingyounow.blogspot.com^
+||iamchampionmindset.com^
 ||iamdeewallace.com^
 ||iamexempt.ca^
 ||iamherbalifenutrition.com^
@@ -6688,6 +6701,7 @@
 ||imahealth.org^
 ||imahealth.substack.com^
 ||imarockford.com^
+||imcc.us^
 ||imedianetwork.org^
 ||imeof.org^
 ||imere.org^
@@ -7157,6 +7171,7 @@
 ||jillianmichaels.com^
 ||jillswingsoflight.com^
 ||jimbakkershow.com^
+||jimbreuer.com^
 ||jimdosite.com^
 ||jimhaslam.substack.com^
 ||jimhumble.biz^
@@ -7346,6 +7361,7 @@
 ||justiceforevee.org^
 ||justiceforjabbed.com^
 ||justicefortrista.com^
+||justicemoms.substack.com^
 ||justiceorelse.com^
 ||justicereport.news^
 ||justicetruthnews.com^
@@ -7604,6 +7620,7 @@
 ||kwikermedical.com^
 ||kylebjonesdc.substack.com^
 ||kyleseraphinshow.com^
+||kyliejanekremer.substack.com^
 ||kyrorich.substack.com^
 ||kytruthsummit.com^
 ||l-nutra.com^
@@ -7861,6 +7878,7 @@
 ||lifeshaping.me^
 ||lifesitenews.com^
 ||lifesourcevitamins.com^
+||lifespan-edge.com^
 ||lifespirit.org^
 ||lifespringchiropractic.substack.com^
 ||lifestreammed.com^
@@ -8178,6 +8196,7 @@
 ||magicdetox.com^
 ||magicdichol.com^
 ||magicfeatherinc.com^
+||magicfeathers.org^
 ||magnesiumbreakthrough.com^
 ||magnetjewelrystore.com^
 ||magnetproductsreview.com^
@@ -8270,6 +8289,7 @@
 ||margaretannaalice.substack.com^
 ||margrettachase.substack.com^
 ||margueriterothe.substack.com^
+||mari170279.substack.com^
 ||mariagutschi.substack.com^
 ||mariahfaithcontinelli.substack.com^
 ||mariakloser.com^
@@ -8595,6 +8615,7 @@
 ||michaeljlindell.com^
 ||michaeljournal.org^
 ||michaeljsullivan511.substack.com^
+||michaelmaas.info^
 ||michaelpsenger.com^
 ||michaelpsenger.substack.com^
 ||michaelrectenwald.com^
@@ -8850,6 +8871,7 @@
 ||morroccomethod.com^
 ||morrowreport.com^
 ||mortality.watch^
+||mosaicdx.com^
 ||mosaichomeopathy.substack.com^
 ||mosequipment.com^
 ||mossreports.com^
@@ -8972,6 +8994,7 @@
 ||mykidsmychoice.com^
 ||mylelab.com^
 ||mymedicalfreedom.org^
+||mymedlab.com^
 ||mymerrymessylife.com^
 ||mymoodmilk.com^
 ||mymysticmama.com^
@@ -9431,6 +9454,7 @@
 ||nicolesirotek.com^
 ||nieuwewereldorde.wordpress.com^
 ||nihgate.com^
+||nihgate.com^
 ||niim.com.au^
 ||nikken.com^
 ||nikkifornh.com^
@@ -9723,6 +9747,7 @@
 ||okgop.com^
 ||okhpr.com^
 ||okisuke.substack.com^
+||okpatriot10.substack.com^
 ||okvac.ca^
 ||oldcountrywellness.com^
 ||oldrow.net^
@@ -10136,6 +10161,7 @@
 ||pdmangan1on1.com^
 ||pdmj.org^
 ||peacecompassionunderstanding.wordpress.com^
+||peacefulhealing.substack.com^
 ||peacelibertyprosperity.substack.com^
 ||peacellc.org^
 ||peacepads.org^
@@ -10234,6 +10260,7 @@
 ||petworld-online.com^
 ||pfizerkills.org^
 ||pflegmed.com^
+||pgtzsche1.substack.com^
 ||phantombullet.net^
 ||phantomtrifive.com^
 ||pharmaca.com^
@@ -10784,6 +10811,7 @@
 ||raouloppenheim.substack.com^
 ||raphaelmedicine.com^
 ||rapidreliefsolutions.com^
+||rapidresponserecipes.substack.com^
 ||rapingontario.com^
 ||raptureintheairnow.com^
 ||raptureready.com^
@@ -10838,6 +10866,7 @@
 ||realalexclark.com^
 ||realalexjones.com^
 ||realamericasvoice.substack.com^
+||realchoice.blogspot.com^
 ||realchrissky.com^
 ||realcitizenreports.com^
 ||realclearjournals.org^
@@ -10994,6 +11023,7 @@
 ||remedymatch.com^
 ||rememberlovehealing.com^
 ||remigrationnow.co.uk^
+||remigrationtoday.com^
 ||remnant-tv.com^
 ||remnanthealthcare.org^
 ||remnantmd.com^
@@ -11345,6 +11375,7 @@
 ||saarah.substack.com^
 ||saatallergy.com^
 ||saatallergytreatment.com^
+||sabinehazanmd.com^
 ||sabrinalabow.substack.com^
 ||sachastone.com^
 ||sacramentonaturaldentistry.com^
@@ -12378,6 +12409,7 @@
 ||takecontrol.substack.com^
 ||takeittomarket.substack.com^
 ||takimag.com^
+||talesfromthebedside.substack.com^
 ||talesfromtheloublog.wordpress.com^
 ||talkigy.com^
 ||talkingaboutthescience.com^
@@ -12541,6 +12573,7 @@
 ||the17news.com^
 ||the2020panel.com^
 ||the307.substack.com^
+||the515.substack.com^
 ||the5gsummit.com^
 ||the9steps.com^
 ||thea2show.com^
@@ -12773,6 +12806,7 @@
 ||thegarrisoncenter.org^
 ||thegarynullshow.podbean.com^
 ||thegatewaypundit.com^
+||thegavelproject.com^
 ||thegenesiscenter.com^
 ||thegeofight.com^
 ||thegesaraclub.com^
@@ -12954,6 +12988,7 @@
 ||thenhcaa.com^
 ||thenhf.com^
 ||thenoakesfoundation.org^
+||thenurseentrepreneur.substack.com^
 ||thenutritionalhealingcenter.com^
 ||thenutritionrevolution.store^
 ||thenutritionwatchdog.com^
@@ -13355,6 +13390,7 @@
 ||toolsforhealing.com^
 ||toothhealth.substack.com^
 ||top-meds.org^
+||topdoctormagazine.com^
 ||topinfoguide.com^
 ||topprepperwebsites.com^
 ||topricin.com^
@@ -13520,6 +13556,7 @@
 ||trulyheal.com^
 ||trump.news^
 ||trump.vote^
+||trumpmarch.com^
 ||trumpnews.live^
 ||trumpq.uk^
 ||trunews.com^
@@ -13935,6 +13972,7 @@
 ||valleymobilemedical.com^
 ||valourlegalactioncentre.org^
 ||valuetainment.com^
+||vamfa.org^
 ||vanadismedia.com^
 ||vancouvertimes.org^
 ||vandersteelhealth.com^
@@ -14392,6 +14430,7 @@
 ||whatfinger.com^
 ||whatis5g.info^
 ||whatisawoman.com^
+||whatisc60.org^
 ||whatislyme.com^
 ||whatisreallygoingon.substack.com^
 ||whatreallyhappened.com^
@@ -14579,6 +14618,7 @@
 ||worldfreedomalliance.org^
 ||worldfreedomalliance.us7.list-manage.com^
 ||worldglobetrotters.com^
+||worldgovernment.info^
 ||worldhealth.net^
 ||worldivermectinday.org^
 ||worldmdsforthetruth.com^
