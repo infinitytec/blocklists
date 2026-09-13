@@ -22,6 +22,7 @@
 ||ads-serve.brave.com^
 ||ads-service.tiktok.com^
 ||ads-sg.tiktok.com^
+||ads-twitter.com^
 ||ads-va.tiktok.com^
 ||ads.abovetopsecret.com^
 ||ads.afa.net^
@@ -162,9 +163,11 @@
 ||galerieweishaupt.de^
 ||gamesdienst.de^
 ||garminupdatenow.online^
+||gdrytrk.com^
 ||getclicky.com^
 ||getyoutothenext.com^
 ||gimbal.com^
+||gndrydm.com^
 ||goldbek-apotheke.de^
 ||goodvideocard.com^
 ||googleads.g.doubleclick.net^
@@ -308,6 +311,7 @@
 ||usawildseafood.com^
 ||validatingnow.com^
 ||vcdc.com^
+||vidalytics.com^
 ||vpn-today.info^
 ||vungle.com^
 ||warriorplus.com^
