@@ -15,6 +15,7 @@
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/prediction-markets.txt
 
 ||bullrift.com^
+||coinbase.com^
 ||domeapi.io^
 ||draftkings.com^
 ||easybet.net^
