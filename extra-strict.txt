@@ -5,3 +5,4 @@
 # URL: https://raw.githubusercontent.com/infinitytec/blocklists/master/extra-strict.txt
 
 ||firebaseremoteconfig.googleapis.com^
+||sendibt3.com^
